@@ -1,0 +1,1 @@
+{"ticker": "BYDDY", "company": "BYD CO LTD-UNSPONSORED ADR", "weight_sum": 1.07, "etfs": ["ARKQ"], "is_private": false, "query": "($BYDDY OR \"Byd Co Ltd-unsponsored Adr\") -is:retweet min_faves:10 since:2026-04-28 until:2026-04-29", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}

@@ -1,0 +1,1 @@
+{"ticker": "WGS", "company": "GENEDX HOLDINGS CORP", "weight_sum": 3.01, "etfs": ["ARKG", "ARKK"], "is_private": false, "query": "($WGS OR \"Genedx\") -is:retweet min_faves:10 since:2026-04-28 until:2026-04-29", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}
