@@ -1,1 +1,1 @@
-{"ticker": "INMD", "company": "INMODE LTD", "weight_sum": 1.63, "etfs": ["IZRL"], "is_private": false, "query": "($INMD OR \"Inmode\") -is:retweet min_faves:10 since:2026-04-29 until:2026-05-01", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}
+{"ticker": "INMD", "company": "INMODE LTD", "weight_sum": 1.59, "etfs": ["IZRL"], "is_private": false, "query": "($INMD OR \"Inmode\") -is:retweet min_faves:10 since:2026-04-29 until:2026-05-01", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}

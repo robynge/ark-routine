@@ -1,1 +1,1 @@
-{"ticker": "SSYS", "company": "STRATASYS LTD", "weight_sum": 5.41, "etfs": ["PRNT", "IZRL"], "is_private": false, "query": "($SSYS OR \"Stratasys\") -is:retweet min_faves:10 since:2026-04-29 until:2026-05-01", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}
+{"ticker": "SSYS", "company": "STRATASYS LTD", "weight_sum": 5.359999999999999, "etfs": ["IZRL", "PRNT"], "is_private": false, "query": "($SSYS OR \"Stratasys\") -is:retweet min_faves:10 since:2026-04-29 until:2026-05-01", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}

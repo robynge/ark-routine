@@ -1,1 +1,1 @@
-{"ticker": "BNTX", "company": "BIONTECH SE-ADR", "weight_sum": 1.06, "etfs": ["ARKG"], "is_private": false, "query": "($BNTX OR \"Biontech Se-adr\") -is:retweet min_faves:10 since:2026-04-29 until:2026-05-01", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}
+{"ticker": "BNTX", "company": "BIONTECH SE-ADR", "weight_sum": 1.1, "etfs": ["ARKG"], "is_private": false, "query": "($BNTX OR \"Biontech Se-adr\") -is:retweet min_faves:10 since:2026-04-29 until:2026-05-01", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}

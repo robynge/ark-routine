@@ -1,1 +1,1 @@
-{"ticker": "CERS", "company": "CERUS CORP", "weight_sum": 1.49, "etfs": ["ARKK", "ARKG"], "is_private": false, "query": "($CERS OR \"Cerus\") -is:retweet min_faves:10 since:2026-04-29 until:2026-05-01", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}
+{"ticker": "CERS", "company": "CERUS CORP", "weight_sum": 1.51, "etfs": ["ARKK", "ARKG"], "is_private": false, "query": "($CERS OR \"Cerus\") -is:retweet min_faves:10 since:2026-04-29 until:2026-05-01", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}

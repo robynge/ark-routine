@@ -1,1 +1,1 @@
-{"ticker": "RSKD", "company": "RISKIFIED LTD-A", "weight_sum": 1.63, "etfs": ["IZRL"], "is_private": false, "query": "($RSKD OR \"Riskified\") -is:retweet min_faves:10 since:2026-04-29 until:2026-05-01", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}
+{"ticker": "RSKD", "company": "RISKIFIED LTD-A", "weight_sum": 1.61, "etfs": ["IZRL"], "is_private": false, "query": "($RSKD OR \"Riskified\") -is:retweet min_faves:10 since:2026-04-29 until:2026-05-01", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}

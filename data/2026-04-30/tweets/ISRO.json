@@ -1,1 +1,1 @@
-{"ticker": "ISRO", "company": "ISROTEL LTD", "weight_sum": 1.68, "etfs": ["IZRL"], "is_private": false, "query": "($ISRO OR \"Isrotel\") -is:retweet min_faves:10 since:2026-04-29 until:2026-05-01", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}
+{"ticker": "ISRO", "company": "ISROTEL LTD", "weight_sum": 1.66, "etfs": ["IZRL"], "is_private": false, "query": "($ISRO OR \"Isrotel\") -is:retweet min_faves:10 since:2026-04-29 until:2026-05-01", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}

@@ -1,1 +1,1 @@
-{"ticker": "TLSY", "company": "TELSYS LTD", "weight_sum": 1.93, "etfs": ["IZRL"], "is_private": false, "query": "($TLSY OR \"Telsys\") -is:retweet min_faves:10 since:2026-04-29 until:2026-05-01", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}
+{"ticker": "TLSY", "company": "TELSYS LTD", "weight_sum": 1.96, "etfs": ["IZRL"], "is_private": false, "query": "($TLSY OR \"Telsys\") -is:retweet min_faves:10 since:2026-04-29 until:2026-05-01", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}
