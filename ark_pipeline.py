@@ -268,10 +268,13 @@ def cmd_fetch(target_date):
     if not TWITTERAPI_KEY:
         sys.exit("TWITTERAPI_IO_KEY env var missing")
     target = date.fromisoformat(target_date)
+    # Fetch covers BOTH yesterday and today (NY-time). Twitter dates are UTC and
+    # `until:` is exclusive, so since=target-1 / until=target+1 spans roughly
+    # ~48h: yesterday's full trading day + today up to the moment of fetch.
     since = (target - timedelta(days=1)).isoformat()
-    until = target_date
+    until = (target + timedelta(days=1)).isoformat()
 
-    print(f"[ark] target={target_date} since={since} until={until}")
+    print(f"[ark] target={target_date} since={since} until={until} (~48h window)")
     rows = fetch_holdings(target_date)
     uniq = unique_companies(rows)
     uniq.sort(key=lambda r: -r["weight_sum"])
