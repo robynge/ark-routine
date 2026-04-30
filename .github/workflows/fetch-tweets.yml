@@ -1,0 +1,49 @@
+name: Fetch Tweets
+on:
+  schedule:
+    - cron: '45 14 * * *'   # 14:45 UTC = 10:45 AM ET (15 min after CSV refresh)
+  workflow_dispatch: {}
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions: { contents: write }
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Run fetch
+        env:
+          TWITTERAPI_IO_KEY: ${{ secrets.TWITTERAPI_IO_KEY }}
+          ARK_OUT_ROOT: ${{ github.workspace }}/.workdir
+        run: |
+          set -e
+          DATE=$(TZ=America/New_York date +%Y-%m-%d)
+          mkdir -p "$ARK_OUT_ROOT/$DATE/csvs"
+          # CSVs already in repo via refresh-csvs workflow; copy to workdir
+          cp data/LATEST/*.csv "$ARK_OUT_ROOT/$DATE/csvs/"
+          ls "$ARK_OUT_ROOT/$DATE/csvs/" | wc -l
+          echo "Starting fetch (3-5 min, ~275 tickers)..."
+          python3 ark_pipeline.py fetch "$DATE"
+          echo "--- fetch done ---"
+          # Move tweet JSONs into data/<DATE>/tweets/
+          mkdir -p "data/$DATE/tweets"
+          mv "$ARK_OUT_ROOT/$DATE"/*.json "data/$DATE/tweets/"
+          ls "data/$DATE/tweets/" | wc -l
+          # Update LATEST symlink (so it points to today's date dir which now has both csvs/ and tweets/)
+          rm -f data/LATEST
+          ln -s "$DATE" data/LATEST
+
+      - name: Commit
+        run: |
+          git config user.email "ark-bot@github.com"
+          git config user.name "ARK Fetch Bot"
+          git add data/
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Refresh tweets $(TZ=America/New_York date +%Y-%m-%d)"
+          git push

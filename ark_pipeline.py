@@ -9,8 +9,8 @@ from pathlib import Path
 
 import requests
 
-OUT_ROOT = Path("/tmp/ark_run")
-TWITTERAPI_KEY = "new1_be2be03eb43c4dfda2d02ac3bd1bfd2d"
+OUT_ROOT = Path(os.environ.get("ARK_OUT_ROOT", "/tmp/ark_run"))
+TWITTERAPI_KEY = os.environ.get("TWITTERAPI_IO_KEY", "")
 BASE_URL = "https://api.twitterapi.io"
 
 # CSVs are pre-downloaded by the agent (via Google-Drive MCP) into
