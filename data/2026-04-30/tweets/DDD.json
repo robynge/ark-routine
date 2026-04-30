@@ -1,0 +1,1 @@
+{"ticker": "DDD", "company": "3D SYSTEMS CORP", "weight_sum": 3.89, "etfs": ["PRNT"], "is_private": false, "query": "($DDD OR \"3d Systems\") -is:retweet min_faves:10 since:2026-04-29 until:2026-05-01", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}

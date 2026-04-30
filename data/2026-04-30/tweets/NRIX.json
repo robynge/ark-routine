@@ -1,0 +1,1 @@
+{"ticker": "NRIX", "company": "NURIX THERAPEUTICS INC", "weight_sum": 2.41, "etfs": ["ARKG"], "is_private": false, "query": "($NRIX OR \"Nurix Therapeutics\") -is:retweet min_faves:10 since:2026-04-29 until:2026-05-01", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}

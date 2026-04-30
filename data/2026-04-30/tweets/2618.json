@@ -1,0 +1,1 @@
+{"ticker": "2618", "company": "JD LOGISTICS INC", "weight_sum": 0.92, "etfs": ["ARKX"], "is_private": false, "query": "\"Jd Logistics\" -is:retweet min_faves:10 since:2026-04-29 until:2026-05-01", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}

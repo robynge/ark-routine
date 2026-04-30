@@ -1,0 +1,1 @@
+{"ticker": "RADIANT_INDUSTRIES_INC", "company": "Radiant Industries, Inc", "weight_sum": 8.07, "etfs": ["ARKVX", "ARKUX", "ARKSX"], "is_private": true, "query": "\"Radiant Industries\" -is:retweet min_faves:10 since:2026-04-29 until:2026-05-01", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}

@@ -1,0 +1,1 @@
+{"ticker": "PRLB", "company": "PROTO LABS INC", "weight_sum": 3.86, "etfs": ["PRNT"], "is_private": false, "query": "($PRLB OR \"Proto Labs\") -is:retweet min_faves:10 since:2026-04-29 until:2026-05-01", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}
