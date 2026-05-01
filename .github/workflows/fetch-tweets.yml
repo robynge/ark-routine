@@ -1,8 +1,16 @@
 name: Fetch Tweets
 on:
   schedule:
-    - cron: '45 14 * * *'   # 14:45 UTC = 10:45 AM ET (15 min after CSV refresh)
+    # Every 2 hours on the hour, UTC. Each run pulls the last 2h of tweets and
+    # merges (dedup by tweet id) into today's per-ticker JSONs, so today's
+    # data accumulates the full day across runs.
+    - cron: '0 */2 * * *'
   workflow_dispatch: {}
+
+# Avoid overlapping runs if a slow fetch is still going when the next cron fires.
+concurrency:
+  group: fetch-tweets
+  cancel-in-progress: false
 
 jobs:
   fetch:
@@ -20,22 +28,24 @@ jobs:
       - name: Run fetch
         env:
           TWITTERAPI_IO_KEY: ${{ secrets.TWITTERAPI_IO_KEY }}
-          ARK_OUT_ROOT: ${{ github.workspace }}/.workdir
+          # Write directly into the repo's data/ tree so cmd_fetch can read prior
+          # batches in data/<DATE>/tweets/<TICKER>.json and merge in place.
+          ARK_OUT_ROOT: ${{ github.workspace }}/data
         run: |
           set -e
           DATE=$(TZ=America/New_York date +%Y-%m-%d)
+          # Make sure CSVs are present at the expected place. fetch_holdings()
+          # reads data/LATEST/*.csv via the ARK_OUT_ROOT/<DATE>/csvs/ convention.
           mkdir -p "$ARK_OUT_ROOT/$DATE/csvs"
-          # CSVs already in repo via refresh-csvs workflow; copy to workdir
-          cp data/LATEST/*.csv "$ARK_OUT_ROOT/$DATE/csvs/"
-          ls "$ARK_OUT_ROOT/$DATE/csvs/" | wc -l
-          echo "Starting fetch (3-5 min, ~275 tickers)..."
+          if compgen -G "data/LATEST/*.csv" > /dev/null; then
+            cp -u data/LATEST/*.csv "$ARK_OUT_ROOT/$DATE/csvs/"
+          fi
+          ls "$ARK_OUT_ROOT/$DATE/csvs/" 2>/dev/null | wc -l
+          echo "Starting fetch (rolling 2h window, ~275 tickers)..."
           python3 ark_pipeline.py fetch "$DATE"
           echo "--- fetch done ---"
-          # Move tweet JSONs into data/<DATE>/tweets/
-          mkdir -p "data/$DATE/tweets"
-          mv "$ARK_OUT_ROOT/$DATE"/*.json "data/$DATE/tweets/"
           ls "data/$DATE/tweets/" | wc -l
-          # Update LATEST symlink (so it points to today's date dir which now has both csvs/ and tweets/)
+          # Update LATEST symlink to today's dir (has both csvs/ and tweets/).
           rm -f data/LATEST
           ln -s "$DATE" data/LATEST
 
@@ -45,5 +55,8 @@ jobs:
           git config user.name "ARK Fetch Bot"
           git add data/
           git diff --cached --quiet && echo "No changes" && exit 0
-          git commit -m "Refresh tweets $(TZ=America/New_York date +%Y-%m-%d)"
+          git commit -m "Tweets refresh $(TZ=America/New_York date +'%Y-%m-%d %H:%M') ET (rolling 2h)"
+          # Pull-rebase guards against a concurrent commit landing on main between
+          # our checkout and push (rare with concurrency=fetch-tweets but cheap).
+          git pull --rebase origin main || true
           git push

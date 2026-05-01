@@ -186,7 +186,13 @@ def cashtag_ticker(t):
     if "_" in t or not t.isalpha(): return None
     return t
 
-def build_query(ticker, company, is_private=False, since=None, until=None, min_faves=10):
+def build_query(ticker, company, is_private=False, since=None, until=None,
+                since_time=None, until_time=None, min_faves=10):
+    """Build a Twitter advanced-search query string.
+
+    Time filters: prefer `since_time` / `until_time` (Unix epoch seconds) for
+    sub-day windows; fall back to `since` / `until` (YYYY-MM-DD) for daily runs.
+    """
     cleaned = clean_company_name(company)
     ambig = bool(cleaned) and cleaned.lower() in COMMON_WORD_NAMES
     keyword = None
@@ -204,8 +210,14 @@ def build_query(ticker, company, is_private=False, since=None, until=None, min_f
     if not sub: return None
     base = sub[0] if len(sub)==1 else f"({' OR '.join(sub)})"
     parts = [base, "-is:retweet", f"min_faves:{min_faves}"]
-    if since: parts.append(f"since:{since}")
-    if until: parts.append(f"until:{until}")
+    if since_time is not None:
+        parts.append(f"since_time:{int(since_time)}")
+    elif since:
+        parts.append(f"since:{since}")
+    if until_time is not None:
+        parts.append(f"until_time:{int(until_time)}")
+    elif until:
+        parts.append(f"until:{until}")
     return " ".join(parts)
 
 def advanced_search(query, query_type="Top", cursor="", retries=4):
@@ -262,42 +274,58 @@ def is_spam(tweet):
     if fol2 > 0 and flw/fol2 > 10: return True, f"follow_ratio={flw}/{fol2}"
     return False, ""
 
-def cmd_fetch(target_date):
-    out_dir = OUT_ROOT / target_date
+def cmd_fetch(target_date, window_hours=2):
+    """Fetch tweets in a rolling [now - window_hours, now] window and merge into
+    today's per-ticker JSONs. Designed to run every `window_hours` hours so
+    today's file accumulates the full day as runs progress (dedup by tweet id).
+    """
+    # Per-ticker JSONs live under <ARK_OUT_ROOT>/<DATE>/tweets/<TICKER>.json.
+    out_dir = OUT_ROOT / target_date / "tweets"
     out_dir.mkdir(parents=True, exist_ok=True)
     if not TWITTERAPI_KEY:
         sys.exit("TWITTERAPI_IO_KEY env var missing")
-    target = date.fromisoformat(target_date)
-    # Fetch covers BOTH yesterday and today (NY-time). Twitter dates are UTC and
-    # `until:` is exclusive, so since=target-1 / until=target+1 spans roughly
-    # ~48h: yesterday's full trading day + today up to the moment of fetch.
-    since = (target - timedelta(days=1)).isoformat()
-    until = (target + timedelta(days=1)).isoformat()
 
-    print(f"[ark] target={target_date} since={since} until={until} (~48h window)")
+    now = datetime.now(timezone.utc)
+    until_time = int(now.timestamp())
+    since_time = int((now - timedelta(hours=window_hours)).timestamp())
+
+    print(f"[ark] target={target_date} window={window_hours}h "
+          f"since_time={since_time} until_time={until_time} "
+          f"({(now - timedelta(hours=window_hours)).isoformat()} → {now.isoformat()})")
     rows = fetch_holdings(target_date)
     uniq = unique_companies(rows)
     uniq.sort(key=lambda r: -r["weight_sum"])
     print(f"[ark] {len(uniq)} unique companies")
 
-    counts = {"done":0,"skip":0,"err":0,"kept":0,"drop":0}
+    counts = {"done":0,"merged":0,"err":0,"kept":0,"drop":0,"new_kept":0,"new_drop":0}
     lock = threading.Lock()
 
     def proc(row):
         ticker = row["ticker"]
         safe = ticker.replace("/","_").replace("\\","_")
         out = out_dir / f"{safe}.json"
+
+        # Read prior batches from today (if any) so we can dedup + merge.
+        existing = None
+        existing_ids = set()
         if out.exists():
-            with lock: counts["skip"] += 1
-            return
+            try:
+                existing = json.loads(out.read_text())
+                existing_ids = {str(t.get("id")) for t in existing.get("kept", []) if t.get("id")}
+                existing_ids |= {str(d.get("tweet",{}).get("id")) for d in existing.get("dropped", []) if d.get("tweet",{}).get("id")}
+            except Exception:
+                existing = None
+                existing_ids = set()
+
         q = build_query(ticker, row["company"], is_private=row["is_private"],
-                        since=since, until=until)
+                        since_time=since_time, until_time=until_time)
         if q is None:
-            stub = {"ticker":ticker,"company":row["company"],"weight_sum":row["weight_sum"],
-                    "etfs":row["etfs"],"is_private":row["is_private"],"query":None,
-                    "skipped_reason":"unsearchable","n_fetched":0,"n_kept":0,"n_dropped":0,
-                    "kept":[],"dropped":[]}
-            out.write_text(json.dumps(stub, default=str))
+            if existing is None:
+                stub = {"ticker":ticker,"company":row["company"],"weight_sum":row["weight_sum"],
+                        "etfs":row["etfs"],"is_private":row["is_private"],"query":None,
+                        "skipped_reason":"unsearchable","n_fetched":0,"n_kept":0,"n_dropped":0,
+                        "kept":[],"dropped":[]}
+                out.write_text(json.dumps(stub, default=str))
             with lock: counts["done"] += 1
             return
         try:
@@ -306,21 +334,37 @@ def cmd_fetch(target_date):
             with lock: counts["err"] += 1
             print(f"[err] {ticker}: {str(e)[:80]}")
             return
-        tweets.sort(key=lambda t: -(t.get("likeCount") or 0))
-        kept, dropped = [], []
-        for t in tweets:
+        # Drop tweets we've already saved earlier today.
+        new_tweets = [t for t in tweets if str(t.get("id")) not in existing_ids]
+        new_tweets.sort(key=lambda t: -(t.get("likeCount") or 0))
+        new_kept, new_dropped = [], []
+        for t in new_tweets:
             sp, why = is_spam(t)
-            if sp: dropped.append({"reason":why,"tweet":t})
-            else: kept.append(t)
+            if sp: new_dropped.append({"reason":why,"tweet":t})
+            else: new_kept.append(t)
+
+        if existing:
+            kept = existing.get("kept", []) + new_kept
+            dropped = existing.get("dropped", []) + new_dropped
+            n_fetched_total = (existing.get("n_fetched", 0) or 0) + len(tweets)
+        else:
+            kept, dropped = new_kept, new_dropped
+            n_fetched_total = len(tweets)
+
         rec = {"ticker":ticker,"company":row["company"],"weight_sum":row["weight_sum"],
                "etfs":row["etfs"],"is_private":row["is_private"],"query":q,
-               "n_fetched":len(tweets),"n_kept":len(kept),"n_dropped":len(dropped),
-               "kept":kept,"dropped":dropped}
+               "n_fetched":n_fetched_total,"n_kept":len(kept),"n_dropped":len(dropped),
+               "kept":kept,"dropped":dropped,
+               "last_window":{"since_time":since_time,"until_time":until_time,
+                              "n_new_kept":len(new_kept),"n_new_dropped":len(new_dropped)}}
         out.write_text(json.dumps(rec, default=str))
         with lock:
             counts["done"] += 1
+            if existing: counts["merged"] += 1
             counts["kept"] += len(kept)
             counts["drop"] += len(dropped)
+            counts["new_kept"] += len(new_kept)
+            counts["new_drop"] += len(new_dropped)
 
     t0 = time.time()
     with ThreadPoolExecutor(max_workers=5) as ex:
@@ -328,7 +372,9 @@ def cmd_fetch(target_date):
         for i, _ in enumerate(as_completed(futs), 1):
             if i % 10 == 0 or i == len(uniq):
                 el = time.time() - t0
-                print(f"[{i}/{len(uniq)}] kept={counts['kept']} drop={counts['drop']} {el:.0f}s", flush=True)
+                print(f"[{i}/{len(uniq)}] new_kept={counts['new_kept']} "
+                      f"new_drop={counts['new_drop']} merged={counts['merged']} {el:.0f}s",
+                      flush=True)
 
     files = [p for p in out_dir.glob("*.json") if p.name != "_summary.json" and p.name != "digest.json"]
     silent = sum(1 for p in files if json.loads(p.read_text()).get("n_kept",0) == 0)
@@ -336,7 +382,9 @@ def cmd_fetch(target_date):
     summary = {"date":target_date,"total_holdings":len(uniq),
                "total_tweets_kept":counts["kept"],"total_tweets_dropped":counts["drop"],
                "silent_holdings":silent,"saturated_holdings":saturated,
-               "errors":counts["err"]}
+               "errors":counts["err"],
+               "last_window":{"since_time":since_time,"until_time":until_time,"hours":window_hours,
+                              "new_kept":counts["new_kept"],"new_dropped":counts["new_drop"]}}
     (out_dir / "_summary.json").write_text(json.dumps(summary, indent=2))
     print(f"[ark] DONE {json.dumps(summary)}")
 
