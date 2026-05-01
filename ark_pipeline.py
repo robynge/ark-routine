@@ -529,6 +529,9 @@ def cmd_render(target_date):
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "fetch"
     td = sys.argv[2] if len(sys.argv) > 2 else date.today().isoformat()
-    if cmd == "fetch": cmd_fetch(td)
+    if cmd == "fetch":
+        # Optional 3rd arg: window in hours (default 2). Useful for backfills.
+        wh = float(sys.argv[3]) if len(sys.argv) > 3 else 2
+        cmd_fetch(td, window_hours=wh)
     elif cmd == "render": cmd_render(td)
     else: sys.exit(f"unknown command: {cmd}")
