@@ -370,8 +370,8 @@ html, body { font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:9
 .ticker-block-header { display:flex;align-items:baseline;gap:6pt;padding:2pt 0 3pt;margin-bottom:3pt;border-bottom:0.4pt solid #0a2540;}
 .ticker-block-id { font-size:10pt;font-weight:700;color:#0a2540;letter-spacing:0.04em;}
 .ticker-block-name { font-size:8.5pt;color:#374151;flex:1;}
-.ticker-block-chips { font-size:7pt;color:#6b7280;}
-.ticker-block-chips .hc { display:inline-block;padding:0.5pt 4pt;margin-left:2pt;background:#eef2f6;color:#0a2540;border-radius:2pt;font-weight:500;}
+.ticker-block-chips { font-size:7pt;color:#6b7280;white-space:nowrap;flex-shrink:0;}
+.ticker-block-chips .hc { display:inline-block;padding:0.5pt 4pt;margin-left:2pt;background:#eef2f6;color:#0a2540;border-radius:2pt;font-weight:500;white-space:nowrap;}
 .bullets { list-style:none;padding-left:0;margin:1pt 0 0;font-size:8.5pt;line-height:1.38;}
 .bullets > li { position:relative;padding-left:11pt;margin:1.2pt 0;color:#111;page-break-inside:avoid;}
 .bullets > li:before { content:"";position:absolute;left:2pt;top:0.55em;width:5pt;height:0.65pt;background:#0a2540;}
