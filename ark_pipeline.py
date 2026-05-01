@@ -287,11 +287,43 @@ def cmd_fetch(target_date, window_hours=2):
 
     now = datetime.now(timezone.utc)
     until_time = int(now.timestamp())
-    since_time = int((now - timedelta(hours=window_hours)).timestamp())
+    nominal_since = int((now - timedelta(hours=window_hours)).timestamp())
 
-    print(f"[ark] target={target_date} window={window_hours}h "
+    # Gap-protection: if the previous fetch's until_time is OLDER than
+    # nominal_since (because GitHub Actions delayed/skipped a scheduled run),
+    # extend `since` backwards to the previous until_time minus a 5-min safety
+    # overlap. This guarantees no tweets fall into a gap between consecutive
+    # fetches, no matter how late the runner is.
+    prev_until = None
+    # Look in today's _summary.json first, then yesterday's (to handle
+    # the first run of a new UTC day).
+    candidate_summaries = [
+        OUT_ROOT / target_date / "tweets" / "_summary.json",
+        OUT_ROOT / (date.fromisoformat(target_date) - timedelta(days=1)).isoformat()
+                 / "tweets" / "_summary.json",
+    ]
+    for s_path in candidate_summaries:
+        if s_path.exists():
+            try:
+                s = json.loads(s_path.read_text())
+                lw = s.get("last_window") or {}
+                if lw.get("until_time"):
+                    prev_until = int(lw["until_time"])
+                    break
+            except Exception:
+                pass
+    if prev_until is not None and prev_until < nominal_since:
+        since_time = prev_until - 300  # 5-min overlap for safety
+        print(f"[ark] gap detected: prev fetch ended {nominal_since - prev_until}s "
+              f"before nominal window — extending since backwards")
+    else:
+        since_time = nominal_since
+
+    actual_hours = (until_time - since_time) / 3600
+    print(f"[ark] target={target_date} nominal_window={window_hours}h "
+          f"actual_window={actual_hours:.2f}h "
           f"since_time={since_time} until_time={until_time} "
-          f"({(now - timedelta(hours=window_hours)).isoformat()} → {now.isoformat()})")
+          f"({datetime.fromtimestamp(since_time, timezone.utc).isoformat()} → {now.isoformat()})")
     rows = fetch_holdings(target_date)
     uniq = unique_companies(rows)
     uniq.sort(key=lambda r: -r["weight_sum"])
