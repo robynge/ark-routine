@@ -342,12 +342,12 @@ def cmd_fetch(target_date):
 
 CSS = r"""
 @page { size: Letter; margin: 0.55in 0.6in 0.7in 0.6in;
-  @bottom-left { content:"ARK INVEST — DAILY BRIEFING"; font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:7.5pt;letter-spacing:0.12em;color:#888;}
-  @bottom-center { content:"__DATE__"; font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:7.5pt;letter-spacing:0.12em;color:#888;}
-  @bottom-right { content: counter(page) " / " counter(pages); font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:7.5pt;letter-spacing:0.12em;color:#888;}
+  @bottom-left { content:"ARK INVEST — DAILY BRIEFING"; font-family:Helvetica,"Helvetica Neue",Arial,sans-serif;font-size:7.5pt;letter-spacing:0.12em;color:#888;}
+  @bottom-center { content:"__DATE__"; font-family:Helvetica,"Helvetica Neue",Arial,sans-serif;font-size:7.5pt;letter-spacing:0.12em;color:#888;}
+  @bottom-right { content: counter(page) " / " counter(pages); font-family:Helvetica,"Helvetica Neue",Arial,sans-serif;font-size:7.5pt;letter-spacing:0.12em;color:#888;}
 }
 * { box-sizing: border-box; }
-html, body { font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:9.5pt;line-height:1.42;color:#111;margin:0;padding:0;}
+html, body { font-family:Helvetica,"Helvetica Neue",Arial,sans-serif;font-size:9.5pt;line-height:1.42;color:#111;margin:0;padding:0;}
 .masthead { display:flex;justify-content:space-between;align-items:flex-end;padding-bottom:10pt;margin-bottom:6pt;border-bottom:2.2pt solid #0a2540;page-break-after:avoid;}
 .mast-eyebrow { font-size:7.8pt;letter-spacing:0.22em;color:#6b7280;font-weight:500;margin-bottom:4pt;text-transform:uppercase;}
 .mast-title { font-size:34pt;font-weight:700;letter-spacing:-0.025em;color:#0a2540;margin:0;line-height:0.95;}
