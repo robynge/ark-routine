@@ -1,0 +1,66 @@
+name: Fetch Earnings
+on:
+  schedule:
+    # 11:00 UTC = 7 AM EDT (6 AM EST acceptable drift)
+    # 23:00 UTC = 7 PM EDT (6 PM EST acceptable drift)
+    - cron: '0 11 * * *'
+    - cron: '0 23 * * *'
+  workflow_dispatch: {}
+
+# Two crons + a long fetch could overlap; serialize.
+concurrency:
+  group: fetch-earnings
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions: { contents: write }
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+
+      - name: Install WeasyPrint system deps
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq \
+            libpango-1.0-0 libpangoft2-1.0-0 libharfbuzz0b libffi-dev \
+            fonts-dejavu-core
+
+      - name: Install Python deps
+        run: pip install --quiet earningscall weasyprint
+
+      - name: Clone earnings scripts (renderer + fetcher + holdings parser)
+        run: |
+          rm -rf .ear
+          git clone --depth=1 -q https://github.com/robynge/ark-earnings-routine.git .ear
+          ls .ear/scripts/
+
+      - name: Verify ARK CSVs are present
+        run: |
+          ls data/LATEST/*.csv | wc -l
+          # If no CSVs, the holdings refresh job hasn't run yet; bail out cleanly.
+          if [ -z "$(ls data/LATEST/*.csv 2>/dev/null)" ]; then
+            echo "::warning::No ARK CSVs at data/LATEST/. Skipping earnings fetch."
+            exit 0
+          fi
+
+      - name: Fetch + render today + yesterday (ET)
+        env:
+          EARNINGSCALL_API_KEY: ${{ secrets.EARNINGSCALL_API_KEY }}
+          REPO_ROOT: ${{ github.workspace }}
+          SCRIPTS_REPO_DIR: ${{ github.workspace }}/.ear
+        run: python3 scripts/run_earnings.py
+
+      - name: Commit
+        run: |
+          git config user.email "ark-bot@github.com"
+          git config user.name "ARK Earnings Bot"
+          git add earnings/
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "Earnings refresh $(TZ=America/New_York date +'%Y-%m-%d %H:%M') ET"
+          # Pre-push rebase in case another bot pushed during this run.
+          git pull --rebase origin main || true
+          git push
