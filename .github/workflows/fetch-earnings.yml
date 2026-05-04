@@ -40,10 +40,10 @@ jobs:
 
       - name: Verify ARK CSVs are present
         run: |
-          ls data/LATEST/*.csv | wc -l
-          # If no CSVs, the holdings refresh job hasn't run yet; bail out cleanly.
-          if [ -z "$(ls data/LATEST/*.csv 2>/dev/null)" ]; then
-            echo "::warning::No ARK CSVs at data/LATEST/. Skipping earnings fetch."
+          # CSVs live at data/holdings/LATEST/*.csv (refresh-csvs.yml symlinks LATEST → today's date dir).
+          ls data/holdings/LATEST/*.csv 2>/dev/null | wc -l
+          if [ -z "$(ls data/holdings/LATEST/*.csv 2>/dev/null)" ]; then
+            echo "::warning::No ARK CSVs at data/holdings/LATEST/. Skipping earnings fetch."
             exit 0
           fi
 

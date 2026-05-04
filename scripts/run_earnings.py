@@ -161,25 +161,21 @@ def main() -> None:
         sys.exit(f"renderer scripts missing under {SCRIPTS_REPO}/scripts/. "
                  f"Set SCRIPTS_REPO_DIR to a clone of robynge/ark-earnings-routine.")
 
-    # Universe: prefer prebuilt JSON if present; else derive from local CSVs.
-    uni_json = ROOT / "data" / "LATEST" / "universe.json"
-    if uni_json.exists():
-        universe = json.loads(uni_json.read_text())
-    else:
-        # Build universe.json on the fly from data/LATEST/*.csv using the
-        # parser shipped alongside the renderer scripts.
-        parser = SCRIPTS_REPO / "scripts" / "parse_holdings.py"
-        if not parser.exists():
-            sys.exit("no universe.json and no parse_holdings.py available")
-        csvs = sorted((ROOT / "data" / "LATEST").glob("*.csv"))
-        if not csvs:
-            sys.exit(f"no CSVs found at {ROOT}/data/LATEST/*.csv")
-        r = subprocess.run(["python3", str(parser), *[str(p) for p in csvs]],
-                           capture_output=True, text=True)
-        if r.returncode != 0:
-            sys.exit(f"parse_holdings failed: {r.stderr}")
-        universe = json.loads(r.stdout)
-        print(f"built universe in-memory from {len(csvs)} CSVs: {len(universe)} tickers")
+    # Universe is derived in-memory from data/holdings/LATEST/*.csv (the
+    # symlink maintained by ark-routine's refresh-csvs.yml workflow).
+    parser = SCRIPTS_REPO / "scripts" / "parse_holdings.py"
+    if not parser.exists():
+        sys.exit(f"parse_holdings.py missing under {SCRIPTS_REPO}/scripts/")
+    csv_dir = ROOT / "data" / "holdings" / "LATEST"
+    csvs = sorted(csv_dir.glob("*.csv"))
+    if not csvs:
+        sys.exit(f"no CSVs found at {csv_dir}/*.csv (refresh-csvs.yml may not have run yet)")
+    r = subprocess.run(["python3", str(parser), *[str(p) for p in csvs]],
+                       capture_output=True, text=True)
+    if r.returncode != 0:
+        sys.exit(f"parse_holdings failed: {r.stderr}")
+    universe = json.loads(r.stdout)
+    print(f"built universe from {len(csvs)} CSVs at {csv_dir}: {len(universe)} tickers")
 
     if args.dates:
         targets = [date.fromisoformat(d) for d in args.dates]
