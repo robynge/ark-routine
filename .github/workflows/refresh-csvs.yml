@@ -15,7 +15,7 @@ jobs:
         run: |
           set -e
           DATE=$(TZ=America/New_York date +%Y-%m-%d)
-          OUT="data/$DATE"
+          OUT="data/holdings/$DATE"
           mkdir -p "$OUT"
           BASE="https://assets.ark-funds.com/fund-documents/funds-etf-csv"
           declare -A URLS=(
@@ -43,9 +43,9 @@ jobs:
       - name: Update LATEST symlink
         run: |
           DATE=$(TZ=America/New_York date +%Y-%m-%d)
-          rm -f data/LATEST
-          ln -s "$DATE" data/LATEST
-          ls -la data/
+          rm -f data/holdings/LATEST
+          (cd data/holdings && ln -s "$DATE" LATEST)
+          ls -la data/holdings/
 
       - name: Commit if changed
         run: |
