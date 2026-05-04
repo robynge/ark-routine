@@ -1,10 +1,12 @@
 name: Fetch Earnings
 on:
   schedule:
-    # 11:00 UTC = 7 AM EDT (6 AM EST acceptable drift)
-    # 23:00 UTC = 7 PM EDT (6 PM EST acceptable drift)
-    - cron: '0 11 * * *'
-    - cron: '0 23 * * *'
+    # Every 2 hours, anchored so 5 PM ET (EDT) lands on the schedule.
+    # 21:00 UTC = 5 PM EDT (4 PM EST in winter).
+    # Odd UTC hours: 01, 03, 05, 07, 09, 11, 13, 15, 17, 19, 21, 23.
+    # In EDT this hits: 9 PM, 11 PM, 1 AM, 3 AM, 5 AM, 7 AM, 9 AM, 11 AM,
+    #                   1 PM, 3 PM, 5 PM, 7 PM ET — covers full earnings day.
+    - cron: '0 1-23/2 * * *'
   workflow_dispatch: {}
 
 # Two crons + a long fetch could overlap; serialize.
