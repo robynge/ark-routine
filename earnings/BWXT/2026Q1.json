@@ -1,0 +1,467 @@
+{
+  "event": {
+    "ticker": "BWXT",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk12": {
+      "name": "Operator",
+      "title": "Conference Operator"
+    },
+    "spk08": {
+      "name": "Chase Jacobson",
+      "title": "Vice President of Investor Relations"
+    },
+    "spk16": {
+      "name": "Rex Cheveden",
+      "title": "President and Chief Executive Officer"
+    },
+    "spk09": {
+      "name": "Mike Fitzgerald",
+      "title": "Senior Vice President and Chief Financial Officer"
+    },
+    "spk07": {
+      "name": "Matt Akers",
+      "title": "Analyst, BNP Paribas"
+    },
+    "spk05": {
+      "name": "Jeffrey Campbell",
+      "title": "Analyst, Seaport Research Partners"
+    },
+    "spk02": {
+      "name": "Bob Labick",
+      "title": "Analyst, CGS Securities"
+    },
+    "spk01": {
+      "name": "Pete Skibitsky",
+      "title": "Analyst, Olympic Global"
+    },
+    "spk13": {
+      "name": "Mark Bianchi",
+      "title": "Analyst, D.A. Davidson & Co."
+    },
+    "spk11": {
+      "name": "Jeff Grampy",
+      "title": "Analyst, Northland Capital Markets"
+    },
+    "spk00": {
+      "name": "Josh Korn",
+      "title": "Analyst, Wells Fargo (for David Strauss)"
+    },
+    "spk03": {
+      "name": "Scott",
+      "title": "Analyst, Deutsche Bank"
+    },
+    "spk04": {
+      "name": "Peter Arman",
+      "title": "Analyst, Bayer"
+    },
+    "spk06": {
+      "name": "Ron Epstein",
+      "title": "Analyst, Bank of America"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk12",
+      "text": "Ladies and gentlemen, welcome to BWX Technologies' first quarter 2026 earnings conference call. At this time, all participants are in listen-only mode. Following the company's prepared remarks, we will conduct a question and answer session, and instructions will be given at that time. I would now like to turn the call over to our host, Chase Jacobson, BWXT's Vice President of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Thank you. Good evening and welcome to today's call. Joining me are Rex Cheveden, President and CEO, and Mike Fitzgerald, Senior Vice President and CFO. On today's call, we will reference the first quarter 2026 earnings presentation that is available on the investor section of the BWXP website. We will also discuss certain matters that constitute forward-looking statements. These statements involve risks and uncertainties, including those described in the safe harbor provision founded the investor materials in the company's SEC filings. We will frequently discuss non-GAAP financial measures, which are reconciled to GAAP measures, in the appendix of the earnings presentation that can be found on the investor section of the BWXP website. I would now like to turn the call over to Rex."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thank you, Chase, and good evening to all of you. We had a great start to 2026 with very strong first quarter results. Revenue grew 26%. 11% of which was organic. Adjusted EBITDA grew 14%, and earnings per share grew 22%, all ahead of expectations. Outperformance in the quarter was driven by improved throughput, favorable pacing of work, and exceptional operational execution across our business lines. We ended the quarter with a backlog of $8.7 billion, up 77% year-over-year and 19% sequentially. supported by robust bookings in government and consistent backlog in commercial, providing clear visibility to future growth. Demand for commercial nuclear power components and services continues to accelerate across the U.S., Canada, and Europe. As projects launch, we believe that localized manufacturing capacity will increasingly differentiate BWXT, making the establishment of U.S. commercial manufacturing footprint to complement our Canadian operations a strategic priority. To that end, in April, we announced the acquisition of Precision Components Group, PCG, a US-based manufacturer of complex heat transfer components for the US naval and commercial nuclear markets. With two facilities and more than 400 highly skilled employees, PCG represents our first step toward building domestic US commercial nuclear manufacturing capacity. While most of PCG's current revenue and backlog is related to naval programs, Its facilities have immediately available capacity that we intend to utilize for the commercial market with products such as reactor internals, pressurizers, heat exchangers, and reactor head assemblies. Beyond the PCG acquisition, we intend to expand our U.S. commercial manufacturing footprint, likely with a greenfield plant at our Mount Vernon, Indiana site on the Ohio River. This facility will be capable of producing larger heavy nuclear equipment, including steam generators, and reactor pressure vessels. Ultimately, our goal is to build scalable U.S. commercial nuclear manufacturing operations that can serve U.S. and global SMR and large reactor projects. By adding domestic capacity, we are positioning BWXT to meet rising commercial demand while creating meaningful synergies with our existing U.S. operations. Beyond commercial power, we are making disciplined growth investments across the portfolio. supporting existing businesses, adding new technologies and capabilities, and pursuing opportunities in advanced nuclear and other national security applications. Turning to segment results and market outlook. Government operations revenue was up 4% and adjusted EBITDA was up 1% and a quarter, slightly ahead of our expectations. We had strong bookings, including $1.4 billion from the second portion of the pricing agreement, for naval reactors awarded last year and long-lead material procurement contracts for out-year production. This led to segment backlog of nearly $7 billion, up 25% sequentially and 93% year-over-year. In naval propulsion, we are driving operational efficiencies in our plants, which contributed to our good margin performance in the quarter. We anticipate continued revenue growth with a steady pace of Virginia-class production growth in the Columbia class, and early work on the next board class ship set. The President's FY27 budget request supports these programs and shipbuilding generally, further reinforcing our confidence in longer-term growth rates and special materials. Our legacy programs delivered solid results, and our defense fuels enrichment and HPDU programs are progressing in line with early program schedules. Specific to defense fuels enrichment, we completed construction of the centrifuge manufacturing development facility earlier in the year and have begun prototyping the first units. In April, we engaged with the NRC regarding our plans to build an HEU enrichment facility in Irwin, Tennessee. This engagement is an important milestone as it creates alignment with regulators in the NRC approval process. For our new large HPDU contract, we are organizing the supply chain and preparing for construction of the new facility in Jonesboro, Tennessee. That program will ramp through 2026 and continue over the next several years before transitioning to commissioning and production. The growth potential in special materials is exciting, and we continue to pursue new scopes with existing customers and evaluate entry points to new markets. Technical services has delivered strong equity income growth over the past few years with multiple strategic wins. We are pursuing new opportunities in the DOE market and in other new markets with the next wave of contract awards expected over the next 12 to 18 months. Moving to microreactors and advanced nuclear fuels, the market is evolving rapidly in land-based defense, commercial, and space markets. We continue to see strong demand across the board, including for TRISO fuel for demonstration reactors and future commercial projects with multiple reactor developers. Of note, Kairos, with whom we have a collaboration agreement on TRISO, recently began construction of its ERMIS II reactor for Google in Oak Ridge, Tennessee. Finally, we are continuing our close engagement with the Army on the JANIS program. Turning now to commercial operations, results in the quarter were well ahead of our expectations. Organic revenue grew 39% and total revenue rose 121% with robust double-digit growth in commercial nuclear and medical and contribution from Connetrix. While the outperformance was partially due to timing of outage work and progress on large component manufacturing, we also improved operational performance with accelerated throughput and reduced lead times. Following an 85% increase in backlog in 2025, backlog was flat sequentially in the first quarter, but still up 33% year over year, supporting our expectation for low-teens organic growth and commercial power this year. The outlook for new-build nuclear projects remains very positive. Notably, the U.S. and Japan announced plans to invest up to $40 billion to build up to 3 gigawatts of GE Hitachi SMRs in the southeastern United States. Our role as the reactor vessel supplier on the first GE Hitachi BWRX 300 SMR in Canada puts us in a good competitive position for these future projects. Given BWXT's industrial scale and engineering and design capabilities, customers are increasingly coming to BWXT to supply critical nuclear components for their current and future SMR and large-scale nuclear projects which should lead to further backlog growth over the next 12 months. Connetrix continues to exceed the acquisition business case, having delivered another very strong quarter. A key highlight in the quarter was Connetrix being selected as the design and fabrication partner for a UK tritium loop facility, which will be the world's largest and most advanced tritium fuel cycle facility. This presents an entry point for engineering services and specialty equipment manufacturing and the exciting nuclear fusion market. With that, I will now turn the call over to Mike."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thanks, Rex, and good evening, everyone. I'll begin with total company financial highlights on slide four of the earnings presentation. First quarter revenue was $860 million, up 26% year-over-year, with 11% organic growth. Strong performance in commercial operations was complemented by steady growth in government operations. Adjusted EBITDA was $148 million, up 14% year-over-year, driven by robust growth in commercial operations and modestly higher government operations, partially offset by higher corporate expense relative to an unusually low level in last year's first quarter. Adjusted earnings per share were $1.12, up 22%, reflecting strong operating performance and approximately 8 cents of higher non-operating contributions. Our adjusted effective tax rate for the quarter was 15.8%, benefiting from timing of stock compensation. Our updated full-year tax rate guidance of less than 21.5% is modestly higher than last year's rate, reflecting strong growth in international earnings, mainly from Canada. First quarter free cash flow was $50 million, a strong result for what is typically our seasonally weakest quarter, reflecting solid earnings and effective working capital management. Capital expenditures in the quarter were $43 million. We continue to expect our full-year capital expenditures to be around 6% of sales. However, it is possible that CapEx may exceed that level in future periods as we advance targeted growth investments, including expansion of U.S. commercial nuclear manufacturing capacity and advanced nuclear and fuel capabilities, given the significant business we expect to capture. We are carefully balancing these strategic investments with our financial return metrics as we evaluate the numerous growth initiatives across the business. Moving to the segment results on slide six. In government operations, first quarter revenue was up 4%, with growth in special materials and naval propulsion offsetting lower microreactor volumes. Adjusted EBITDA in the segment was $118 million, up 1%, resulting in adjusted EBITDA margin of 20.4%, as better revenue, solid operating performance, and timing of technical services income benefited margin. Given first quarter performance, we now expect government operations margins to exceed 19% for the year. Turning to commercial operations, revenue was up a robust 121%. including 39% organic growth, reflecting increases in both commercial power and medical and contribution from Kinetrix. Growth exceeded expectations due to increased throughput on large commercial nuclear component projects, mainly associated with the Pickering Life Extension and better-than-expected performance from Kinetrix. Adjusted EBITDA in the segment was $36 million, up 162% from last year, Adjusted EBITDA margin in the quarter was 12.9%, with higher sales and strong execution offsetting the impact of growth investments as we continue to scale the business. Turning to our 2026 guidance on slides 7 and 8 of the earnings presentation, which I will note does not include contribution from the recently announced PCG acquisition. We expect revenue of at least $3.75 billion, of high teens compared to 2025. In government operations, we expect low teens growth, with over half coming from the defense fuels and HPDU contracts. In commercial operations, we increased our revenue growth expectation to approximately 30%, driven by low teens growth in commercial power, high teens medical growth, and a full year of contribution from Conetrix, which, as mentioned, has outperformed our expectations to date. For adjusted EBITDA, we are increasing the guidance range by $5 million on each end, resulting in revised adjusted EBITDA guidance of $650 million to $665 million. Regarding the cadence of operating earnings, we continue to expect our full-year results will be slightly more back-half weighted than usual, with about 55% of full-year EBITDA anticipated in the second half, and we expect second-quarter EBITDA to be roughly in line with to slightly below first quarter levels. These assumptions lead to non-GAAP earnings per share guidance of $4.60 to $4.75, with the increase driven by higher operating earnings. We expect free cash flow of $315 million to $330 million, inclusive of mid- to high-teens operating cash flow growth, supporting continued reinvestment and long-term shareholder value creation. Regarding the recently announced acquisition of PCG, the business generated approximately $125 million of revenue with low double-digit EBITDA margins in 2025, and we anticipate mid-single digits revenue growth in 2026. The acquisition, which will be included in our commercial operations segment, is expected to close in the second half of the year. As such, our annual financial guidance does not include contributions from PCG at this time. Overall, we're off to a strong start in 2026. Our robust backlog provides us great visibility for the remainder of the year, allowing us to focus on margin expansion, cash generation, and capturing new high-value contracts across the defense and commercial nuclear markets. With that, I will turn it back to Rex for closing remarks."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thank you, Mike. It is an exciting time at BWXT. We are delivering on our commitment to customers and shareholders and driving value through process optimization, technology adoption, and discipline growth investments. Our 2026 guidance supports meeting or exceeding the medium-term financial targets we introduced at our Investor Day in February 2024. We look forward to providing an update at our next Investor Day this fall. As I wrote in a recent Washington Times op-ed, BWXT is not betting on a horse. We are betting on the race. We participate across the nuclear value chain in defense and commercial markets, and as a merchant supplier and a technology provider, enabling us to win across a broad range of competitive outcomes. We have record backlog, unprecedented demand, and the financial strength to continue investing for growth. We intend to build on our market-leading position in nuclear solutions for defense and commercial nuclear markets, thereby driving long-term shareholder value And with that, we look forward to your questions."
+    },
+    {
+      "speaker": "spk12",
+      "text": "We will now begin the question and answer session. Please limit yourself to one question and one follow-up. If you would like to ask a question, please press star 1 to raise your hand. To withdraw your question, press star 1 again. We ask that you pick up your handset when asking questions to allow for optimum sound quality. If you are muted locally, please remember to unmute your device. Please stand by while we compile the Q&A roster. Our first question comes from Matt Akers from BNP Paribas. Please go ahead."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Hey, good afternoon, guys. Thanks for the question. I may have missed this, but did you say how much you're planning to pay for PCG? And then I guess another question on the sort of footprint question. build that? Because you mentioned this is sort of the first step toward building out the footprint. And sort of how should we think about what's left? Is it more kind of capacity driven? Is it technology? Is it headcount? And just kind of how to think about that."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Yeah, thanks, Matt."
+    },
+    {
+      "speaker": "spk09",
+      "text": "So from a purchase price standpoint, we didn't put it in the public release, but it was roughly around $200 million. So in line with the multiple that we've seen in some of our more recent acquisitions. And so you know, ultimately, depending on the timeline, you know, we'll see when that, we'll close that this year, but we'll fully expect that to move along, you know, pretty rapidly. I would say, you know, when you look at this from a kind of first step, there's a couple different ways to think about this. One, we like the capabilities. We like the workforce. We certainly need the square footage from a capacity standpoint. However, this is going to be primarily focused on manufacturing of certain aspects. It's not going to be able to handle some of the large, heavy, you know, very large-scale components that we need to manufacture. So, you know, we're looking at kind of a, you know, multiple approach step, which we announced in our last earnings call, the potential for a new facility maybe adjacent to our Mount Vernon location, which could handle some of the heavier, large components. And so,"
+    },
+    {
+      "speaker": "spk10",
+      "text": "we're looking at this both from a, you know, capacity and workforce standpoint."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Great. Thanks."
+    },
+    {
+      "speaker": "spk07",
+      "text": "I was wondering if you could touch a little bit on kind of the space end market and the opportunities that you're seeing there with how you just added Dan to the board recently, remember from Maxar, but I was just curious what you kind of think of as kind of the opportunities coming up in the pipeline there."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yeah, so I kind of – this is Rex. I kind of divided it into two areas. There is the civil space opportunities, and NASA seems interested in really two things, nuclear electric propulsion, and then also fission surface power for a lunar base. And then there's a long-term commitment to nuclear thermal propulsion, according to the NASA administrator, Jared Eisenman. And so we have opportunities to play in all of that. certainly on the fuel side, on delivering a reactor for any of that. So it's an interesting opportunity. It's an interesting market for us. It's kind of a one-off market in the sense that you do one of those systems typically. I think probably the more fertile ground for us is national security space. I believe we'll see more applications for power and propulsion there, and we're locked in on that opportunity."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Our next question comes from Jeffrey Campbell from Seaport Research Partner. Please go ahead."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Congratulations on this strong quarter, and thanks for taking my questions. My first one is, would your new commercial facility, the one that you have not yet reached FID, would it have any limitations regarding components that it could build for customers such as, again, Hitachi, Westinghouse, or Rolls-Royce?"
+    },
+    {
+      "speaker": "spk10",
+      "text": "No limitations at all."
+    },
+    {
+      "speaker": "spk09",
+      "text": "I mean, I think, you know, when we look at our demand signals, you know, we're certainly seeing, you know, some capacity constraints even in our Cambridge facility as we look out multiple years. The other thing that I think we're finding is that being kind of localized in the U.S. creates a competitive advantage, and we're excited to add some of those capabilities to make sure that we have a U.S. presence. And we think that that's a differentiator when we look at it from a market standpoint. So, you know, ultimately the idea is to set up, you know, potentially centers of excellence where you would have, you know, certain facilities that are focused on, you know, things like reactor internals and tanks and pressurizers, and you would have other facilities that would be focused on kind of the large, you know, steam generators, reactor pressure vessels, those types of things. And so, you know, we would think of it there, but we would ultimately make that across, you know, multiple customers and multiple platforms."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Okay, great. I appreciate that, Tyler. My other question is, you've made the case for PCG's acquisition for the budding U.S. commercial activity. I just wondered if the acquisition has any positive effects for your naval business as well."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Yeah, I think it could, Jeff. It's a nice business in the sense that it has"
+    },
+    {
+      "speaker": "spk16",
+      "text": "an existential qualified nuclear workforce. It has plenty of capacity, as we alluded to in the script, and we'll make immediate use of that capacity. But I think the more important thing is nuclear manufacturing credentials are rare and hard to get. So you have to go through certifications to get things like NSTAMs and NPT stamps and USTAMs. These are ASME-certified factories that also have nuclear quality systems. That's hard to get, and it's an immediate capability for us, and so certainly beneficial to our Navy customer, which has been using that capability for a long time. But more importantly, I think, is the commercial case, because as we expand into the U.S., we need that kind of manufacturing capacity and capability, and we'll get going with it right away."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Our next question comes from Bob Labick with CGS Securities."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Please go ahead."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thanks. Congratulations on the results and the exciting outlook as well. I just wanted to expand on the questions on kind of U.S. capacity build-out. Have you decided yet or do you know how much capacity do you want to add? And could you give us a sense of the capital needed for a U.S. greenfield and how long that might take to build out?"
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yeah, Bob, you know, we're going, we're presently going through a 60,000 square foot capacity expansion at our Cambridge plant. And the capacity we're looking for in Mount Vernon would be 50, 60% more than that. Let's rough it out at 100,000 square feet. And then to outfit that factory. So now the expansion that we're doing in Cambridge is brownfield. This would be quasi-greenfield. and so it'll be more expensive than our Cambridge build-out. But the reason we're attracted to the Mount Vernon side is because we've got rail spur there, we've got crane capacity, 1,000-meter-ton crane capacity, radiography facilities. So there's some natural cost energies that would go with our Navy business that's there, not to mention a workforce that's nuclear-qualified in a plant next door. So that's kind of the thesis behind it. In terms of budget, it would be, you know, think of it as kind of twice what we're doing at Cambridge in rough terms."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Okay, great. And then there's obviously so much demand out there and it just seems to keep growing and growing. Is there any thought about, I guess, exploring customer funding for commercial capacity growth or how do you de-risk, you know, building out an incremental capacity on the commercial side versus on the government side?"
+    },
+    {
+      "speaker": "spk14",
+      "text": "Yeah, I'd say we have got the balance sheet to do what we need to do in terms of capacity. Great."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Our next question comes from Pete Skibitsky from Olympic Global. Pete, go ahead."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Hey, good evening, guys. Hey, guys, you talked, I think, in both segments about improved throughput. I was wondering if you could put some color to that, if there's certain initiatives you have in place to help with throughput or if it's just net hiring or something."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yeah. Yes, Steve, we do have formal initiatives in-house called Driving Performance Excellence is what we call it, DPX. That's sort of our name for operational excellence. And we've had that kind of process going on in the plants for a long time. We've now extended it across the entire enterprise. So we're using it for things like supply chain and human capital and other areas. But yeah, we do have some dedicated throughput projects, including, for example, the PickRig steam generators, TheraSphere. We had an important throughput project in our Lynchburg plant last year having to do with an area that we call higher tier. So, yes, we're highly focused on that because of this basic fact. We need more capacity than we have, and we can get capacity in one of two ways. We can get capacity from increasing our throughput, which is the cheapest and best way to do it, or we can get it by adding square feet, doing acquisitions, or doing brownfield and greenfield plants. We're doing all the above because we need so much capacity, but that's how we're thinking about it, and that's the reason we're focused on throughput."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Okay. Okay, great. And last one for me. I guess Air Force, DIU had this recent ANPI awards, you know, Radian, Westinghouse, and Antares. Just was wondering, you know, were you guys disappointed you didn't get an award here? Are there going to be further ANPI opportunities, or is the focus really more so on Janus and on your banner reactor? Just wonder if you could kind of, because these initiatives seem to have some, you know, relationship to each other. So just wonder if you could kind of sort it out for us."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yeah, sure, Pete. So no disappointment because we didn't pursue those opportunities. Those were more about some smaller scale reactors with lower power output. And none of those reactors is transportable like our paleo reactors. So we have our transportable paleo reactor that fits certain use cases, and it's very interesting, but not for those particular opportunities. And then we have a commercial derivative of paleo, you might say, that's called Banner, which is a 20 megawatt electrical output a much larger micro-reactor than you see out there in most cases, and that one fits a completely different use case. So those competitions weren't really for us. We are focused on payload follow-on work. We're focused on Janus, and we see plenty of opportunities for micro-reactors and for micro-reactor fuel, for triso fuel."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Our next question comes from Mark Bianchi from DD Cowen."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Please go ahead."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Hi, thank you. Maybe, Rex, following up to the last point there on Triso, there's been some more focus on that now with some other companies that are involved in manufacturing coming public. Can you talk a bit about your... your process there and how you think your competitive positioning would stack up over time? I know currently you're doing it, so that's a good sign, but maybe just as you think about the next few years and stamping out your competitive position."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yeah, I'll try to put some color on that one. Yeah, we are the only producer of triso at any scale at this point. We're producing hundreds of kilograms a year. We made all the fuel for our Pele reactor We're making fuel for Antares and some other plants we haven't disclosed yet. So we're in the commercial business on Triso. I would say that that is sort of the limit of our capacity now, a few hundred kilograms a year. So there's only so much you can do with that. In order to scale that, we are considering brownfield and greenfield opportunities. And we've talked publicly about doing something on a larger scale in Wyoming. And that's what the market needs. We need a very large scale plant so that we can drive down the cost on Triso to help make these reactors commercially viable. I will just maybe add to that point that I think, you know, I think this is a really interesting place to be in the market. To be on the cool side of micro-reactors and small-module reactors is a pretty nice place to be. I said it in the script, but, you know, we're betting on the race, not on the horse. And that posture enables us to win in a variety of competitive outcomes. And for TRISO, we're positioned exactly where we want to be. which is we produce it for our own purposes, but we also produce it for the market, and we intend to do that in the future."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Okay. Thanks for that. And then the other one I had was just on the Japan announcement, the $40 billion for GE Hitachi. When would it be realistic for awards to be made to the market for that equipment, like just I know you still need to win it, but just in terms of thinking of a timeline for when that could potentially be added to backlog."
+    },
+    {
+      "speaker": "spk16",
+      "text": "You know, I think it's, I mean, I think of this one and the AP-1000 one as fairly near term as far as nuclear projects go. I'm in touch with, you know, the top leadership of GE, and we're in touch with the top leadership of Westinghouse. And these deals are being negotiated, you know, with urgency is the way I would put it with the Department of Commerce. And so, you know, I think, you know, I said it on a prior call, it wouldn't surprise me if we started to receive orders this year related to those large, to those sort of bulk reactor buys."
+    },
+    {
+      "speaker": "spk14",
+      "text": "But, you know, there's a lot of things that need, a lot of hurdles that need to be cleared between now and then. Our next question comes from Jeff Grampy."
+    },
+    {
+      "speaker": "spk12",
+      "text": "from Northland Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Good evening, guys. Rex, it seems like conviction in proceeding with the commercial expansion at Mount Vernon. I'm curious how long might something like that take to get operational from when you ultimately decide to move forward there, and how important do you guys sense is having something like that operational to winning U.S.-based business? Thanks."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yeah, you said a couple of key things there, Jeff. So on the timeline, that's something that will take us two or three years to complete, and that should be in the right timeframe for being able to take some of these large orders and get going. But you made a key point there on the end, which is around how important it is to have U.S. industrial capacity. I do believe that localization and supply chain is kind of going to be the way it is in nuclear. It's certainly a strong emphasis in Canada where we play strongly We have local capabilities in there. I think you'll see the same thing play out in Europe. I think they're going to favor local supply because of the economic development impacts. And so I do believe that localization in the U.S. will matter, and I think it will particularly matter on some of these government projects like the 10 AP-1000s and up to 10 X-300s. And that's one of the reasons we're doing it. We don't have orders yet, obviously, but we're trying to skate to where we think the puck is going because these are such long cycle projects, and you have to have the capacity, the existential capacity when the order comes. So that's how we're thinking. We're very bullish on it. And by the way, I don't think in the long run about 10 reactors or four reactors at Darlington. If you think about what the global industrial base did, nuclear industrial base did in the 70s, 80s, and 90s, it built 600 large reactors. And I think if we're going to decarbonize the grid to meet the energy needs of AI, meet the energy needs of electrification. We're talking about hundreds and hundreds of reactors globally, large reactors. Translate that into thousands if it's small amounts of reactors. And so that's the kind of opportunity set we think about. And so we're very bullish on that outcome. And we're building capacity in advance of the orders."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Super helpful details. I appreciate that. Our follow-up is on the enrichment side. Can you just give us maybe a high-level flavor for kind of the I guess, general timing or progression points on the centrifuge manufacturing facility, NRC licensing, engagement, things like that. Just anything we should kind of keep our eyes peeled for to gauge kind of moving that project forward."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yeah, I think what we've said publicly that that will progress over the next few years. We've obviously completed our centrifuge manufacturing development facility in Oak Ridge, Tennessee. We are, you know, outfitting it and working on prototypes right now. That'll progress over the... The technology transfer from Oak Ridge National Laboratory to BWXT occurs over the next few years. The licensing for the ATU part of it should progress normally over the next few years. I think the more interesting part of it is when we get into centrifuge production, which we need to do for the high enriched uranium cascade. And I think in the long term, what will be interesting for us is how do you fill the gap for low enriched uranium and high assay low enriched uranium? That gap is is very evident and fundamentally very interesting from a business development perspective."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Our next question comes from David Strauss with Wells Fargo."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Please go ahead."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Hi, good afternoon. This is Josh Korn on for David. I wanted to ask about medical. I think you had said, you know, strong double-digit growth in the quarter. I just wanted to ask about, you know, any specific products or markets to call out, kind of the outlook there, and then any update on the Tech 99."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thanks. Yeah, we didn't give much detail on the script on medical, but that's still a good news story for us. We've got good growth all across the board. And, you know, following three years of 20% compounded growth, we're forecasting high teens growth this year. And we see strength in strontium. We see it in germanium. We see it in therosphere. Actinium-225 is growing at an outsized pace, but that's off a pretty small revenue base. And we're ramping up production of stable isotopes with ytterbium-176. That production is going quite well. And we've got some new therapeutic products in the pipeline, like Lead 212 and other products that are interesting. Tech 99 is progressing. There's fundamentally no different news on that. We mentioned on the last call that we're evaluating some approaches to the market based on the particularities of our product. And we don't have anything in the 2026 forecast for tech, but we're continuing to push that toward the finish line."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Okay, thanks. And then I wanted to ask on defense, you had been a recipient on the SHIELD contract for Golden Dome. So with all of that money in the 27 budget, kind of what, you know, if you could provide any color on what, you know, what your work may involve and then kind of what the addressable market is for you. Thanks."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yeah, we were a Golden Dome contract awardee. That's not uncommon. They certainly awarded to several hundred companies, as I recall it. Ours was for some broad infrastructure scope, which I think is pretty interesting for us because of the nuclear capabilities that we have. So to the extent that Golden Dome would need microreactors to drive missile defense sites or radars or whatever it is, distributed power, even up to small modular reactors, we could play there as a fuel supplier. I think there's a lot there for us potentially in the future, but it's pretty undefined at this point for us. But we've sort of got a license to go hunting, and we'll turn it into something."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Our next question comes from Scott from Deutsche Bank."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Please go ahead."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Hi, good evening. Rex, I think Connectrix brought with it some revenue connected to the broader power and grid infrastructure space, including in areas like high voltage testing and cable commissioning. Would you be able to give us a sense as to how big of a business that is for them and what the growth outlook is there?"
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yeah, David, it's about 10% of the total Connectrix business right now and growing faster than a lot of the parts of that portfolio are. That's a very interesting business, super high voltage capability, testing components for the grid for component suppliers to the grid, kind of an underwriter's laboratory type of thing. But I think the real green shoots of growth are around cable testing for wind power in Europe. We have some portable test sets, and we've invested in some more portable test sets And we've got a nice share of that market, and it's growing smartly. So pretty interesting business, obviously exposing us to a different market than we had before, and we like where that's going."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Do they have any direct exposure to the data center build-out, given these high-voltage data centers that are now coming up?"
+    },
+    {
+      "speaker": "spk14",
+      "text": "Yeah, I don't know the details on that. I suspect that we do."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Okay. Yeah. And then Mike, when you talk about CapEx potentially exceeding 6% of sales in the future, is there a maximum threshold you could share with us as to what that excess might be? Like would it still be less than 8% of sales or could it exceed that as well?"
+    },
+    {
+      "speaker": "spk09",
+      "text": "No, I think that's about right. I mean, we feel pretty comfortable with the 6% for what we're seeing for 2026. The comment is really just if we make the decision to have a greenfield facility for another kind of large-scale manufacturing component facility in the U.S., we may exceed that 6%, but I would see it somewhere around the 7%-ish range. What we don't want to do is go back to closer to the kind of 9%, 10% that we saw, you know, over the last decade when we were going on a large kind of CapEx spend. So we're going to keep it pretty reasonable, but I could just see it going up in the maybe 7% range."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Our next question comes from Jed Dorsheimer with William Blair."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Please go ahead."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thanks. Good job pronouncing that name. So Rex, I guess if I read between the lines here, you know, it sounds like, you know, Mount Vernon's a bit more of a signal on, I mean, I know the administration's meeting with supply chain companies, including yourself. You know, and it sounds like you're a bit more balanced, not that you were ever imbalanced, but, you know, a bit more balanced in terms of AP1000 versus SMR. So I guess my question is, you know, how are you thinking about the, you know, the ENC part of the equation where, you know, you build out the or spend the CapEx to build out the capacity And in terms of the labor to get these things stood up, which I know Scott over at GE has talked about, you know, one of his concerns. So broad question, how are you thinking about, you know, this whole supply chain and kind of the pieces of the puzzle? And am I thinking about this correctly in terms of the, you know, the body language on the, you know, around Mount Vernon and AP1000? Thanks."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yeah, so if you're talking, Jed, broadly about delivery risk for nuclear projects, I do think that is an existential and important risk, and I think it's probably the biggest risk in the market is to be able to deliver those projects. We've got some poor examples of project delivery, Vogel and others. That said, the counterpoint to that is the refurbishment projects in Canada are both at the Bruce side and at the Darlington side, so far have delivered ahead of schedule and under budget. So there are some, you know, there's some examples we can point to where the industry stood up and delivered the project according to the plan. And I'm hoping that the industry can get to that point. If you're talking about, you know, the sort of the construction delivery risk of a project like Mount Vernon, we've demonstrated the ability we can do that. We are doing very well with our Cambridge project that will come in Under budget, it'll come in on time. We delivered the centrifuge manufacturing development facility, which, by the way, a hell of an impressive facility from the first shovel in the ground until the completion of it, and that was in seven months. And so I think, you know, we've really got sort of a high skill set for being able to deliver projects that are internal to the need of BWXT. Now, that's apart from, you know, the complexity of a nuclear power plant, but we can build our facility's you know, with a good risk posture."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, that's fair. My question was for the former, not the latter, in terms of, you know, more industry, not worried about you standing up Mount Vernon and getting that on time. And so I guess just to, you know, the broader, you know, so far we've seen the LPO, we've seen the administration kind of through EOs, What would you think would help solve, you know, the, you know, one of the key components in terms of, you know, it sounds like you're going to get, you know, the supply chains getting stood up. Is it just the sequencing, or do you see something else in terms of how the government could step in to try and assuage risk here?"
+    },
+    {
+      "speaker": "spk16",
+      "text": "You're talking, again, you're talking about delivery risk for the balance of plant and the nuclear island jet."
+    },
+    {
+      "speaker": "spk07",
+      "text": "So the other questions specific to BWX have already been asked, so I'm just curious, using my second, just to think from a more macro broader perspective, given that you are in late stage discussions with, you know, or I'm assuming that, so."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yeah, so maybe I'll break it in two pieces. I think supply chain risk is manageable. I think we're demonstrating PWXT is a company that we can deliver the components on the schedules that our customers need, reactor pressure vessels, steam generators, whatever it is. We're organizing around that, and I think the industry can stand up and do that. And, of course, I'll remind you that we've delivered 420 roughly small modular reactors to the nuclear navy, so we know how that's done. I do think, I agree with you, that the bigger risk is on the engineering procurement and construction side, and that's a problem that, you know, the beckons and the floors of the world are going to have to solve. They're just going to have to do it, and I think it's going to require the injection of higher levels of talent. Maybe AI can help on the planning side of it, maybe even on robotic construction in the long run, but it's something the industry has to address. It's not a thing I don't think BWXT can address, but I do recognize it as a gating item for the success of the nuclear resurgence."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Our next question comes from Peter Arman with Bayer."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Please go ahead."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Yeah, thanks. Good afternoon, Rex, Mike, Chase. Nice results. Hey, Rex, could you give us maybe the latest update or your thoughts on kind of overall schedules? I know OPG just recently had an update on Darlington at the end of March, and there was also an update regarding, you know, the foundation or the basement module getting installed. So, How does that line up with your, you know, first reactor press and valve delivery schedule and everything tracking according to plan there? Thanks."
+    },
+    {
+      "speaker": "spk16",
+      "text": "You're talking, Peter, about the small module reactor at Darlington?"
+    },
+    {
+      "speaker": "spk04",
+      "text": "Correct. Correct, Rex."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yeah, I don't have detailed insight to how that project delivery is going, but I hear that it's reasonably on track. And I have the expectation that the follow-on units will – orders for those will be coming relatively shortly."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Okay. And just as a reminder, when the delivery is for your first pressure valve there?"
+    },
+    {
+      "speaker": "spk14",
+      "text": "Let's see. Next year, as I recall it. Yeah. I think it's next year."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Okay. And then just, Rex, at a high level, you know, kind of Department of War and Department of Energy budgets out in detail – Anything that stood out to you, whether it's on microreactors or enrichment or anything to call out that you're encouraged by? Thanks."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yeah, I'm encouraged by all of it, Peter. Good support for Pele, good support for defense fuels. You know, there's some long-lead procurement in there for a couple of extra Columbia-class submarines. So I think we're starting to hear, you know, about adding Columbia units to the submarine force. And I think that's pretty encouraging. So when you add AUKUS and additional Columbias, I think our naval nuclear propulsion program looks more robust and more interesting than it did even a couple of years ago."
+    },
+    {
+      "speaker": "spk14",
+      "text": "So yeah, I'm very excited about what I'm seeing. Our next question comes from Ron Epstein with Bank of America."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Please go ahead."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Hey, guys. How are you? Yeah, maybe a couple times. Have you seen any changes on the front with doing work for the Koreans on some sort of Korean nuclear submarine?"
+    },
+    {
+      "speaker": "spk14",
+      "text": "No, we haven't seen anything on that one, no. You're talking about submarines?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah. Right, at some point in the book, there was some talk about the Koreans doing something nuclear, my guess would be that you guys would help them. Maybe not. I don't know."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yeah, again, yes. Certainly there's a discussion between the White House and the Koreans about having nuclear-powered submarines. The Korean ambitions are real. I think they will have nuclear-powered submarines. There's, let me call it, sovereign intent there. I think the question is where do they source their fuel? I think that probably comes from the U.S., and if it does, I think maybe there's something interesting there for us, but super early days, and we'll have to get that demand signal from our customer at Naval Reactors should that ever come. So, yeah, I like the possibility of that, but I would say it's very immature at this point."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Gotcha, gotcha. And then on the M&A front, it seems like you guys still have a and dry powder. Is there any areas that you're particularly interested in today, or would you give us a sense of what you might be thinking about?"
+    },
+    {
+      "speaker": "spk16",
+      "text": "I'm sorry, Ron, the audio was a little weak. What was the front end of the question?"
+    },
+    {
+      "speaker": "spk09",
+      "text": "M&A."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Oh, M&A."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Yeah, M&A."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yeah, lots in the pipeline there. Mike, you want to take that one?"
+    },
+    {
+      "speaker": "spk09",
+      "text": "Yeah, I mean, so, Ron, we... We started the year off, you know, really focused on the expansion of capacity, and that continues to be a priority. But we also are looking at a number of other adjacent opportunities, really, to expand our capabilities. I think, you know, when we look at this, we want to focus on driving, you know, opportunities set within the full lifecycle of nuclear and how we support, you know, our customers from end to end. Anything that would continue to enhance our capabilities there, we're very interested in."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Our next question comes from Andre Madrid with BTIG. Please go ahead."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, Rex, Mike, Chase, thanks for taking my question. Thanks, Andre. I wanted to refocus on PCG for a second. I know initially it seems like the customer set is mainly government Navy focused, but the capacity is highly fungible. Can you provide some context as to how quickly you can pivot that mix to more commercial and maybe what the margin or utilization uplift could look like as a result?"
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yeah, Andre, I'll start with that. Maybe Michael will add to it. First off, it's about 70-30 maybe in commercial nuclear at this point. And scattered across two sites, York, Pennsylvania, and Florence, New Jersey. Both of them are good sites. There's a lot of manufacturing capacity. And we mentioned in the script that there are 400 employees there. There's more capacity. There's plenty of available capacity. So one of the things that we can do right away is we can move some work that we've been outsourcing from our commercial business right into those plants. And in so doing, we can capture the profits that are otherwise going to the supply chain. And so that's an immediate opportunity for us. And let me also say, we're absolutely going to satisfy the needs of our existing customers with the Navy and other government customers. We're under contract to deliver. We will absolutely deliver, no question about that. But over the course of time, we'll probably change the complexion of the portfolio in that business more toward commercial because that's where we need the capacity. Mike, do you have something?"
+    },
+    {
+      "speaker": "spk09",
+      "text": "Yeah, Andrew, just the way I would think about it, we have roughly, we believe, about 50% capacity that can be utilized. Now, the reality is it's going to take some time to ramp up and hire the workforce. You've got 400 people. You know, let's assume that we can hire a few folks per week. I mean, it's still going to take a few years to get to kind of a full ramp. So I think there's some, as Rex mentioned, there's some immediate, you know, opportunities for us to move some things in-house. And I think that'll be accretive from a margin standpoint. But, you know, when we looked at the business case, we looked at kind of a longer ramp and just making sure that that still, you know, made sense financially. And it certainly did. I think on the margin side, you know, we disclosed it's low double-digit EBITDA margins today. We certainly think as we have opportunities to increase that, you know, slightly as we increase scale and we focus on kind of insourcing certain aspects of, you know, from a supply chain perspective where we can capture that margin as well."
+    },
+    {
+      "speaker": "spk10",
+      "text": "So there's certain opportunity to expand over time."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Got it."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Got it. That's, uh, that's really helpful. Um, I think you also mentioned August. It's been a while since we've heard, you know, a more fleshed out update there. Um, any color you can provide us the conversations that you're maybe having and how you're gearing up to support the effort. I know you kind of have a lot of shots on goal there."
+    },
+    {
+      "speaker": "spk09",
+      "text": "I don't think there's anything, you know, really new to, to disclose. I would say we continue to, Our build from an infrastructure standpoint to support the Promenakis, we've seen good funding support for that, and so we continue those capacity build-outs, and we're anxious for future awards. But a lot of good support for it. It's continuing, but I don't think anything else to really disclose at this point."
+    },
+    {
+      "speaker": "spk14",
+      "text": "There are no further questions at this time."
+    },
+    {
+      "speaker": "spk12",
+      "text": "I will now turn the call back over to Chase Jacobson for closing remarks."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, thank you, and thank you, everyone, for joining us today. We look forward to speaking with many of you and seeing you at upcoming investor events. We'll be on the road and at a few conferences over the next month or so. If you have any questions, feel free to reach out at investors at bwxt.com."
+    },
+    {
+      "speaker": "spk12",
+      "text": "This concludes today's call. Thank you for attending. You may now disconnect."
+    }
+  ]
+}
