@@ -1,7 +1,7 @@
 {
   "date": "2026-05-04",
-  "generated_at": "2026-05-05T07:15:07Z",
-  "n_calls": 4,
+  "generated_at": "2026-05-05T10:44:52Z",
+  "n_calls": 5,
   "calls": [
     {
       "ticker": "TWST",
@@ -51,6 +51,20 @@
         "ARKK": "0.99%",
         "ARKQ": "1.79%",
         "ARKX": "1.65%"
+      }
+    },
+    {
+      "ticker": "PLTR",
+      "company": "Palantir Technologies Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-04T17:00:00-04:00",
+      "ark_funds": {
+        "ARKF": "4.53%",
+        "ARKK": "3.20%",
+        "ARKQ": "3.95%",
+        "ARKW": "2.86%",
+        "ARKX": "4.34%"
       }
     }
   ]
