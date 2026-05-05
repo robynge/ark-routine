@@ -1,6 +1,6 @@
 {
   "date": "2026-05-04",
-  "generated_at": "2026-05-05T04:15:45Z",
+  "generated_at": "2026-05-05T07:15:07Z",
   "n_calls": 4,
   "calls": [
     {
@@ -18,6 +18,16 @@
       }
     },
     {
+      "ticker": "PINS",
+      "company": "Pinterest, Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-04T16:30:00-04:00",
+      "ark_funds": {
+        "ARKF": "2.06%"
+      }
+    },
+    {
       "ticker": "WGS",
       "company": "GeneDx Holdings Corp.",
       "year": 2026,
@@ -29,16 +39,6 @@
         "ARKSX": "0.49%",
         "ARKUX": "0.49%",
         "ARKVX": "0.49%"
-      }
-    },
-    {
-      "ticker": "PINS",
-      "company": "Pinterest, Inc.",
-      "year": 2026,
-      "quarter": 1,
-      "conference_date": "2026-05-04T16:30:00-04:00",
-      "ark_funds": {
-        "ARKF": "2.06%"
       }
     },
     {
