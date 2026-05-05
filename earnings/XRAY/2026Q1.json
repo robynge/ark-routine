@@ -1,0 +1,411 @@
+{
+  "event": {
+    "ticker": "XRAY",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk05": {
+      "name": "Conference Operator",
+      "title": "Operator"
+    },
+    "spk02": {
+      "name": "Wade Moody",
+      "title": "Investor Relations Host"
+    },
+    "spk06": {
+      "name": "Dan Scavilla",
+      "title": "President and Chief Executive Officer"
+    },
+    "spk03": {
+      "name": "Mike Pomeroy",
+      "title": "Interim Chief Financial Officer"
+    },
+    "spk13": {
+      "name": "Conference Operator",
+      "title": "Operator"
+    },
+    "spk08": {
+      "name": "Alan Lutz",
+      "title": "Analyst, Bank of America"
+    },
+    "spk09": {
+      "name": "Michael Sarcone",
+      "title": "Analyst, Jefferies"
+    },
+    "spk18": {
+      "name": "John Block",
+      "title": "Analyst"
+    },
+    "spk11": {
+      "name": "Jeff Johnson",
+      "title": "Analyst, RW Barrett"
+    },
+    "spk17": {
+      "name": "Joe Donegan",
+      "title": "Analyst, PSC"
+    },
+    "spk00": {
+      "name": "Elizabeth Anderson",
+      "title": "Analyst, Evercore ISI"
+    },
+    "spk01": {
+      "name": "Michael Cherney",
+      "title": "Analyst, Lear Inc. Partners"
+    },
+    "spk12": {
+      "name": "Lily Lazada",
+      "title": "Analyst, JP Morgan"
+    },
+    "spk15": {
+      "name": "Stephen Valliquette",
+      "title": "Analyst, Mizuho Securities"
+    },
+    "spk10": {
+      "name": "Erin Wright",
+      "title": "Analyst, Morgan Stanley"
+    },
+    "spk07": {
+      "name": "Daniel Grossleit",
+      "title": "Analyst, Citi"
+    },
+    "spk16": {
+      "name": "Brandon Vasquez",
+      "title": "Analyst, William Blair"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk05",
+      "text": "and thank you for standing by. Welcome to the Q1 2026 Bent Supply Sirona Earnings Conference Call. At this time, all participants are in a listen-only mode. After the speaker's presentation, there will be a question and answer session. To ask a question during the session, you will need to press star 1-1 on your telephone. You will then hear an automated message advising your hand is raised. To withdraw your question, please press star 1-1 again. Please be advised that today's conference is being recorded. I would now like to hand the conference over to your first speaker today, Wade Moody. Please go ahead."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you, Operator, and good afternoon, everyone. Welcome to the Dentsply Sirona first quarter 2026 earnings call. Joining me for today's call are Dan Scavilla, President and Chief Executive Officer, and Mike Pomeroy, Interim Chief Financial Officer. I'd like to remind you that an earnings press release and slide presentation related to the call are available on the investor section of our website at www.dentsplysirona.com. Before we begin, please take a moment to read the forward-looking statements in our earnings press release. During today's call, we may make certain forward-looking statements that reflect our current views about future performance and financial results. We base these statements and certain assumptions and expectations on future events that are subject to risks and uncertainties. Our most recently filed Form 10-K and any updated information in subsequent Form 10-Q or other SEC filings list some of the most important risk factors that could cause actual results to differ from our predictions. On today's call, our remarks will be based on non-GAAP financial results. We believe that non-GAAP financial measures offer investors valuable additional insights into our business's financial performance, enable the comparison of financial results between periods where certain items may vary independently of business performance, and enhance transparency regarding key metrics utilized by management in operating our business. Please refer to our press release for the reconciliation between GAAP and non-GAAP results. Comparisons provided are to the prior year quarter unless otherwise noted. A webcast replay of today's call will be available on the Investors section of the company's website following the call. And with that, I will now turn the call over to Dan."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thanks, Wade, and good afternoon, everyone. Q1 marked the start of executing the Densply Serona Return to Growth Action Plan. Our results reflect a business-in transition and do not yet capture the actions underway intended to drive sustained profitable growth. We are strengthening execution, investing in key growth areas, and positioning the company for improved long-term performance. From my perspective, we are where we expect it to be at this early stage. We are executing the plan as intended and remain focused on improving speed and accountability. As I said last quarter, we're going deeper, moving faster, and being bolder to improve our business while placing the customer at the center of all we do. That mindset is taking hold across the organization. While near-term performance is still being affected by external pressures and the timing of our investments, the underlying market remains stable. We're monitoring geopolitical and macro factors closely while making strong progress on the areas within our control. Regardless of market conditions, we will remain focused on executing our plan and improving our performance over time. We're engaging with our customers more, accelerating innovation, and optimizing our cost structure. These actions are already gaining momentum and are expected to contribute more meaningfully as the year progresses. During the quarter, we advanced our commercial restructuring in the U.S., a clinical education in Salesforce training and continue to drive innovation across the portfolio while implementing a restructuring to redirect funds to fuel commercial and innovation growth. We're also seeing early encouraging traction with our distribution partners and I'll share more detail on that shortly. We remain confident in our strategy and are maintaining our full year 2026 outlook. On today's call, Mike will review our first quarter 26 financial performance and key drivers"
+    },
+    {
+      "speaker": "spk03",
+      "text": "will then provide an update on our strategic progress including the actions we are taking to support the five pillars of our return to growth action plan with that i'll turn the call over to mike thanks a lot dan and good afternoon and thank you all for joining us as dan noted first quarter results are in line with what we anticipated at this stage as we execute on our plan to continuously lean down our opex structure and drive sustained profitable growth before we begin We announced today a change to external reporting for our regions from U.S., Europe, and rest of the world to Americas, EMEA, and APEC. This update creates a more efficient reporting structure and better reflects how we manage and evaluate the business internally. The results being reported today reflect this change. A recast of prior comparative regional information has been provided along with today's press release. Let's move to Q1 results on slide four. Our first quarter revenue was $880 million, representing an as reported sales increase of 0.1% over the prior quarter. On a constant currency basis, sales declined 6.7% based in part from the impact from BITE and a strong Q1 2025 treatment center sales not repeated in 2026. Adjusting for these one-time headwinds, Q1 2026 sales on a constant currency basis were down 4.5%. On a constant currency basis, sales highlighted in the quarter included double-digit growth for EDS and APAC, favorable SureSmile performance in EMEA, and growth in WellSpect Healthcare. These improvements were offset by declines in EDS outside of APAC, CTS, and OIS. Adjusted EBITDA margins declined 430 basis points, resulting from a 560 basis points decline in gross profit, driven by lower volumes, sales mix, and tariff impacts. While OPEX experienced a headwind on an as-reported basis, from a constant currency perspective, OPEX was down $20 million, reflecting benefits from our return-to-growth OPEX restructuring and overall cost control management. In line with that, we communicated in our last earnings call, we increased our spend in R&D year over year as we support the return to growth action plan and invest in bringing innovation to market. Adjusted EPS in the quarter was 27 cents. In the first quarter, operating cash flow was $40 million compared to $7 million in the prior year quarter. The year over year increase is primarily attributable to improvements in working capital with lower accounts receivable. This is an early sign of progress as we focus on improving working capital over the balance of the year. We finished the quarter with cash and cash equivalents of $190 million. Our Q1 net debt to EBITDA ratio was 3.3 times. During the quarter, we retired $79 million of debt. We continue to prioritize debt reduction over time and remain committed to maintaining investment grade credit metrics. Let's now turn to the first quarter segment performance on slide five. Starting with CTS segment, constant currency sales declined 2.9%. We saw a high single digit decline in ENI as declines in imaging equipment and treatment centers were driven by a tougher comp versus the prior year order. When adjusting out of the one time institutional installation, CTS was flat in constant currency. Our global CAD-CAM business was flat year over year, with growth in APAC offset by a decline in EMEA, which was driven by softness in the Middle East and Central Europe, partially offset by double-digit growth in the UK, Spain, Turkey, and Denmark. We saw increased demand for mills in the U.S., along with bright spots in APAC. Overall, U.S. distributor levels for CAD-CAM and imaging products remain below historical averages. a trend we expect to continue. Turning to EDS, which includes endo, resto, and preventative products, sales on constant currency basis declined 7.2%, driven by lower volumes in Americas and EMEA, partially offset by growth across all three product categories in APAC. Moving to OIS, sales in constant currency declined 13.5%, When adjusting for year-over-year impact for BITE, OIS declined 7.6%. IPS declined high single digits in the quarter, driven by lower impact volume across all three regions. SureSmile, our clear aligner offering, declined low single digits in the quarter, with a high single-digit decline in the U.S., partially offset by 11% growth in EMEA. Wrapping up with the well-spent healthcare, Constant currency sales increased 3.4%, led by 4% growth in EMEA and the continued strength of new product sales and execution of the business. Now let's move to slide six to discuss our outlook for 2026. As Dan shared earlier, we are maintaining our 2026 outlook for net sales of $3.5 billion to $3.6 billion and an adjusted EPS in the range of $1.40 to $1.50. With the uncertainty and fluidity of the current macro and geopolitical environment, we are applying a thoughtful, risk-aware approach to our guidance while remaining focused on executing initiatives to drive sustainable growth. With that, I will turn the call back to Dan."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thanks, Mike. As I mentioned in my opening comments, our focus remains on disciplined execution, and we're making progress against our plan. The management team and board are closely aligned. Priorities are clear and the organization is engaged and motivated. I also want to recognize the strength of our leadership team, particularly our U.S. commercial leaders. Several competitive hires joined recently who bring deep dental experience and are already making meaningful impact. While it's still early, what we're seeing gives me continued confidence that we're on the right path. My leadership team and I have been spending more time in the field and at local customer events, gaining valuable firsthand perspectives. Customers are noticing a shift in how we show up. Most importantly, we're consistently putting the customer at the center of our decisions and actions with a clear focus on improving both the experience and outcome for the dental practitioners we serve. We are in the early stages of expanding our clinical education and Salesforce training programs with increasing structure and scalability. Early feedback is encouraging, and the teams are responding well to greater clarity, investments in their development, and increased accountability. This work is strengthening our foundation as we prepare for more consistent execution in the second half of the year. At the same time, we're strengthening our processes to ensure solutions are grounded in real-world customer needs. As part of this effort, we're establishing a CEO advisory board comprised of dentists to provide direct and ongoing customer insights. Returning the U.S. to growth remains our top priority. The actions we are taking to strengthen talent, execution, expand distribution, and improve customer engagement are beginning to show early traction. At the same time, we're reinforcing the key drivers of our long-term growth. A central priority is sharpening our focus on the implant business. While recent performance in this segment has been challenging, we continue to benefit from strong underlying assets and a deep heritage in this space. To build on this foundation, We initiated a disciplined set of actions to improve performance and position in the business for sustainable growth. I'll provide more detailed updates in future earnings calls. Innovation also remains central, supported by increased R&D investment with a clear focus on our highest value opportunities. Let me share a few of our recent launches as seen on slide seven in the earnings presentation. We just announced the launch of Smart View Detect, the first FDA cleared and CE marked IA-enabled diagnostic aid that automatically identifies potential inflammation at the root tip in 3D scans. Integrated into DS Core platform, the solution works with both new and existing systems, enabling seamless adoption. In clinical evaluation, Smart View detect increased detection sensitivity by approximately 46% relative to unaided review, helping reduce the risk of overlooked findings while improving workflow efficiency. This innovation not only enhances diagnostic confidence, but also supports clearer patient communication, reinforcing our commitment to advancing connected, high-quality dental care. In endodontics, we introduced the Reciproc Minima file system and the XSmartGo cordless endomotor, both designed to simplify workflows and improve efficiency. Reciproc Minima enables treatment of narrow and complex canals with a one-file approach, while XSmartGo enhances mobility and performance through cordless operation and integrated intelligence. Together, these solutions reflect our focus on practical evidence-based innovation. In imaging, we announced FDA clearance of our dental-dedicated MRI, representing an important step forward in expanding our capabilities in soft tissue diagnostics. The system has been validated in a clinical setting and is expected to support broader collaboration with leading academic and research institutions, consistent with our strategy to build clinical evidence and drive adoption. It also complements our existing imaging portfolio. Beyond dental, WellSPEC continues to show solid momentum. Adoption of surety for females is expanding, supported by ease of use, discretion, patient comfort, and with encouraging feedback from both patients and clinicians. Building on this, The recent launch of the mail version extends the portfolio to a broader patient population. Finally, we're making progress in expanding and strengthening our U.S. distribution network. As announced yesterday, we signed an expanded agreement with Atlanta Dental Supply, adding our connected technology solutions portfolio effective August 1st. This marks our fourth new distributor agreement this year and enhances our regional coverage, improving access and service levels in an important market. The other distribution agreements announced in the first quarter are beginning to build traction and expand our commercial reach. Early traction includes Benco installing its first CERAC system under the new agreement, an important milestone achieved ahead of schedule. To lead Dentsply Serana into its next phase, we're strengthening our foundation with better tools, more integrated systems, and increased automation. This builds on the strength of our existing teams while enhancing capabilities and transformation operations and financial performance. Our transformation office continues to drive execution of the return to growth action plan with a focus on embedding lean operating principles, simplifying processes, and improving how work gets done across the organization through the customer's lens. In parallel, we're advancing our enterprise AI strategy to drive efficiency and support innovation across both commercial and operational areas. In Q1, we began deploying AI-enabled tools and select workflows to improve productivity with broader rollout plan throughout the year. Within finance, we're strengthening capabilities while maintaining continuity as we actively progress on our search for a permanent CFO. Mike continues to be a strong partner in his interim role, ensuring stability and focus on execution. We're simplifying and optimizing the operating model to improve efficiency and scalability. The restructuring program remains on track to deliver approximately $120 million in annual savings, with benefits building through 2026 and becoming more meaningful in the second half of the year. Key actions include cost optimization, organizational simplification, and supply chain efficiencies, along with reducing complexity across legal entities and IT systems. Through these actions and by driving lean principles further into the organization, we will improve our speed, competitiveness, and the customer experience. Early proof points are visible, including a reduction of approximately $20 million in operating expenses during the first quarter. These savings are being reinvested into growth areas such as R&D, clinical education, and commercial capabilities, while we continue to manage external headwinds. A disciplined approach to capital allocation and balance sheet management remains a priority. During the quarter, we reduced debt by approximately $80 million, reflecting our commitment to deleveraging. Capital allocation priorities remain focused on debt reduction and share repurchases, supported by improving working capital and free cash flow. With the dividend eliminated during the first quarter, we have increased flexibility in how we deploy capital, and as performance improves, we expect to be in a position to evaluate the timing of share repurchases later this year. In closing, progress is encouraging, execution is improving, cost discipline is in place, and we're building the capabilities needed to drive sustainable growth. Early proof points are emerging across the business. Visibility should continue to improve as the year progresses, particularly in the second half. We remain confident in the strategy and focused on delivering long-term value for the shareholders. I believe the potential for dense buy serona has never been greater, and we have at our fingertips everything we need to achieve this. Thank you. Now let's turn to Q&A."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thank you. At this time, we will conduct the question and answer session. As a reminder, to ask a question, you will need to press star 11 on your telephone and wait for your name to be announced. To withdraw your question, please press star 11 again. Please stand by while we compile the Q&A roster. We kindly ask that all attendees limit their questions to one primary question and one follow-up question."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Our first question comes from the line of Alan Lutz of Bank of America."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Please go ahead."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Good afternoon, and thanks for taking the questions, and thanks for all the details, Dan. On the return to growth action plan, there's a lot of good steps there. You talked about new distribution relationships and expanding ones you've already had, investing in clinical education, and then new product investments. So there's a lot of things on the plate. How do you think about the timing of these benefits? I think at the top of the call, you alluded to maybe some benefits happening toward the second half of the year. But as we think about all those things that you're spending time on or that you've done so far, Is this something where we should start to expect more material benefits in the back half of this year, or is this effectively more of a two- or three-year roadmap? We'd love if you could just give us a sense of how you're thinking strategically about the timing of some of these investments you're making in that return to growth plan. Thanks."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thanks, Alan. I appreciate the question, and I think you kind of answered it right. So when we first rolled out the return to growth plan, we called it a 24-month plan, recognizing that you can't move Fast enough, but at the same time, can't change this in the speed that all of us would wish. So really Q1 was really the beginning of this, where we established the 26 plan, built the teams, did all the reorganization. And this was really us out of the gate in the first quarter. What we're talking about in particular is as we begin some of the restructuring that's occurring in first, second quarter, you'll see some of those cost benefits come through more in the fourth quarter than you would in the first half of the year. But, you know, as you look at the commercial cadence and what we plan to drive, again, I would think we should begin to see some things in the fourth quarter. But I really do believe that more of the improvements will be seen as we get into 27 and certainly into 28."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Appreciate all the color there. And then we'd love to hear an update on some of your early conversations with DSOs. Where within your portfolio is the most interest and how can X-Ray best help DSOs? Thanks."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, again, great question. And there's a lot of great activity that is currently occurring with DSOs. It's something we had begun into the last quarter of last year with this. And, you know, again, if you look at who we are and what we offer, you have this incredible strength of a broad portfolio, whether you want to actually build out new dental suites and we can actually provide all of that activity there, or you want to get into longer plans for consumables and pull-throughs, again, we can do that as well. So we're really talking with several concurrently, and we're looking to have a more active plan, again, more towards the second half this year and into next year. But I think the strength is in the broad offering we can give them as a one-stop shop and therefore bring all of the leverage bundling together for the best impact for them and ease of them with us."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Great. Thanks, Dan."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Thank you. Our next question comes from the line of John Block. That's people."
+    },
+    {
+      "speaker": "spk18",
+      "text": "And maybe just, you know, the first one, I'd say the trends with the consumer are certainly of concern with the geopolitical backdrop. And you guys are so global in nature that I figured I'd take the opportunity, you know, when you look across your book of business, anything to call out between Americas and EMEA and APAC, when we think about March or April trends, whether that be weakening or maybe even something to call out in terms of more resilience than maybe you expected considering what's going on in the world?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, well, again, great question, John, and there's certainly a lot of moving parts herein. You know, we did not really call out Middle East. We'll keep our eyes on that. It is a small or lower single-digit impact for us right now, and so I think we'll keep focused with that. The continued struggle in Central Europe with Russia, It certainly has its weights, something that we've built into our forecast. So, you know, as of now, we stay with what we've planned in our initial business plan. And should we see some of these risks changing or shifting, you know, we'll take more action after we get through the second quarter."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Okay, fair enough. And maybe just the second question and maybe, you know, one and a half questions here. Can you talk to us on where you are with the drop ship model with the distributors? You know, you've talked to more distributors coming on board, but What more needs to be done there? Maybe if you want to talk to the receptivity. I mean, I think for them, it's not tying up their cash. And if you feel like it is giving you a greater voice with the distributors. And then admittedly, like a completely unrelated question would just be the cadence throughout the year. How do we think about the exit EBITDA margin, which might, you know, in 4Q, which might help us bridge from 1Q to 4Q? Thanks, guys."
+    },
+    {
+      "speaker": "spk06",
+      "text": "No problem. So I'll put a couple of things out there. So the transition into the new capital model really applies to some of the existing dealers, not necessarily new ones. Now, we'll provide this for everybody, but when we talk about the inventory build or the change in inventory that you were referring to, that's a little more of a Patterson and Shine than all of the new players who would start at zero anyway. The first quarter did not include any of that burn through of the inventory. We expect to see that from Q2 through Q4 with those type items. It is well received. It's built into all of our agreements. It's honestly not a negotiating point with us because the benefits are for both sides and pretty easily accepted that way. I'll refrain right now from either Mike or I giving you what we think Q4 guidance is. It's not something we do. We want to get a couple quarters under our belt with all of the moving parts we have. And they really help you determine what's the best way to set up your 27 model."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Fair enough. Thank you. Thank you. One moment for our next question. Our next question comes from the line of Jeff Johnson with RW Barrett."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Please go ahead."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Yeah, thank you. Good evening, guys. So Dan, I wanted to start, you know, the WellSpec business I thought showed through very consistently and nicely this quarter. OIS and CTS, we know there's a lot of moving parts there. On the EDS side, I think that was probably the biggest surprise to me from a segment performance, just the down seven, the comp got a little bit tougher, but the switch from plus two to minus seven this quarter, I might have my numbers plus four to minus seven this quarter. What was that 11-point shift? The markets seem like they've held in fairly consistently. What was the underlying driver of that fall-off? Thanks."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, what I would tell you right now is I agree with you. We looked at a little bit of softness in the fourth quarter. We saw that carry into the first quarter. I do trace that down to specific markets. I won't call them out right now. And while we believe some of it is de-stocking of dealers, especially those that may have gone into a little more PE-based thing, we're actually working through the program for a better understanding of where that is. So right now, it really looks like there was a bigger shift in Europe than we would have anticipated. U.S. is kind of in line where we thought. And even within Europe, there's probably about five different markets that we're taking a look at in a certain area to understand what's being driven there for a better thing. But our current estimates and our current assumptions are there is some continued de-stocking that we felt fourth quarter, think we're in the first quarter. Again, as you notice, we haven't called off of our number. We think that this is a timing issue as we stand today. But we'll look to see how we can prove that true."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Yeah, understood. And then maybe as my follow-up question, just, you know, you mentioned again tonight, you know, returning that U.S. to growth by maybe later this year. Europe's actually a bigger segment for you guys geographically. Maybe the consumable thing, the EDS thing you were just referencing there, drove that European number down to down 5.6% this quarter. But as you focus on the U.S., I would assume you also plan or hope or are working towards getting that European number down. more consistently to growth as well. I think historically it has been. Maybe it's just this quarter, but I don't see the restatements on the new segments yet on your website. So just help me understand kind of how you're thinking about Europe over the next few quarters and eventually getting that return to growth as well. Thanks."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, no, it's no problem. And you kind of answered it with your question, right? Of course, we want Europe to get back into growth. It's a foundation. The U.S. stays on track. We're happy with that. Again, this European one is really two factors. You talked about EDS, which I'd agree with. Keep in mind, too, that the treatment centers were fairly large last year as well. And so as Mike calls this out, you want to make sure we understand, you know, that's an academic type thing where they come in blips, not really something you can easily forecast and see. So I want to make sure we don't overstate the change because of that one-time headwind that we're looking at therein. But, of course, a strong Europe and Asia PAC are needed as well as a continued growth in the Americas. And we're focusing on it. I think the real message is not just detracting us or taking us off task by any stretch. And the vast majority of what we're doing to return U.S. to growth is applicable throughout the world."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Fair enough. Thank you."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Thank you. One moment for our next question."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Our next question comes from the line of Michael Sarcone of Jefferies. Please go ahead."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Good afternoon and thanks for taking the question. I just wanted to start on gross margin. You talked about 550 basis points of contraction. Maybe you can just give us a little more color on what's driving those and the move in 1Q and then how we should think about the cadence of gross margin through the year."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yeah, a big piece of the headwind in gross margin is tariffs. When you're looking year on year, tariffs didn't exist to the extent they do now. So that's a pretty big piece. We talked about EDS, Dan just did. EDS is our most profitable segment. So we're experiencing negative mix as far as that goes. And then we also have, you know, there was a volume absorption situation In Q4 of 2025, which comes off the balance sheet, it's inventoryable, therefore capitalized. And that was a negative hit as well. I mean, as far as going forward, you know, everybody knows what's happening with tariffs. We'll start seeing the adjustments from the SCOTUS decision and then down to the Trump 10% in Q2. So that piece is going to look a lot better. Dan talked about what we're working on as far as Europe, you know, getting the stocking behind us, which we believe it is. And the third piece is, you know, tariffs down the road, that there's another piece there. But just pure apples to apples, I would think we should be gaining 300 basis points at a minimum back in the Q2, Q3 time frame."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Okay, that's helpful. And I know the question just about macro and geopolitics was asked from a consumer demand standpoint. But could you talk about, you know, what you're seeing in terms of input costs as it relates to higher oil prices and freight prices?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, and you're kind of breaking up there. So I think I'm going to answer it. I think you're asking if we're seeing some headwinds with freight, oil, some of those natural things that are occurring because of that. Yes. And the answer is yes, we are. And we'll continue to monitor that and understand if it's something we can offset, absorb, change, or have to adjust. But again, I want more than one quarter under the belt before we make that decision."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Okay, thank you. Thank you. One moment for our next question. Our next question comes from the line of Jason Bednar from PSC."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Please go ahead."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Hey, guys. This is Joe Donegan for Jason. Thanks for taking the questions. Starting on consumables more broadly, we're seeing a continued mix shift toward private label. And I guess strategically, curious how you're thinking about navigating this shift. And as you read that the private label trend still is runway or is it starting to plateau in the current environment at all?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, I think it's a fair question. And private label is something that has been around and will continue to be around. It's something that we'll obviously look at and where it makes sense to compete against. We do have several programs in development to actually make this a meaningful and worthwhile approach. With customers, I'm not going to lay those out just yet because it's for competitive reasons. I want to get them launched before we actually discuss them out there. But then to your point, something that has our attention certainly and the need for us to penetrate the market with more creative ways to get our products into the hands of the dentist."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Thanks, Ed. And then one more just to push a little bit more on kind of pricing with input costs here. Do you feel you have incremental ability to pass through price to offset these pressures? And I guess just like what's your appetite here throughout the year and what might be included in the guide for pricing versus how much more you could possibly take?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, it's a fair question. We had initially last year taken some minor pricing on more of the capital than anything like that. Our intent is not to change that right now. And I don't see anywhere where we would benefit from price increases of any significance. So I think right now it's really about us staying focused on return to growth and actually executing in a way that is beneficial to the customer back to our growth. I don't think there's a price play of any significance"
+    },
+    {
+      "speaker": "spk13",
+      "text": "that would really get us where we need to get to. Thanks. I appreciate it. Thank you. One moment for our next question. Our next question comes from the line of Elizabeth Anderson with Evercore ISI."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Please go ahead."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Hi, guys. Good afternoon. Thanks so much for the question. Given sort of the R&D spending in the quarter and your focus on new products at some recent dental shows, can you talk about the new product contribution in the quarter and sort of how you're seeing that progress over the course of the rest of the year and maybe into 2027? Thank you very much."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, thanks, Liz. Now, we don't actually disclose that level of detail. We do monitor it, and it's something that we have our eye on. And to be honest with you, what I'll hint to you is, While we do have the metrics, I need to see them improve for our investment in RMD, and I think there's an execution plan that should allow us to do that. But it's not something I would put out publicly of what the contributions are for this year and next."
+    },
+    {
+      "speaker": "spk00",
+      "text": "But would you agree that it's sort of a ramping contribution as we go across the year into next year? We should think of that really starting to step up, maybe like 27, 28 kind of time frame."
+    },
+    {
+      "speaker": "spk13",
+      "text": "I would agree with that. Thank you. One moment for our next question."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Our next question comes from the line of Michael Cherney with Lear Inc. Partners. Please go ahead."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Afternoon. Thanks for taking the questions. I know we've touched on a lot of the different segments. I just want to dive in, I guess, a bit on implants. As you think about the next couple of years of go-to-market, where do you think you are in your combination of product reboot, sales reboot, and how to factor that into that component contributing to the return to growth opportunity?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, it's a fantastic question. I would tell you that, you know, while we talk about geographically focusing on the U.S. as a return to health as a priority, which it is, you know, therein is a couple of priorities of which implants is one of the top ones. And again, I've commissioned a team of dental professionals KOLs to work with us and get the voice of customer. I'm really working on several different approaches here with the team to come back with a little bit more holistic programs. I want to get them formed and launched before I speak about them, but I would just tell you that implants is an area of our focus. We are not happy with our performance to date. We recognize we have some of the best offerings in the market, and we simply need to execute in a better way and utilize those assets in a stronger way."
+    },
+    {
+      "speaker": "spk01",
+      "text": "And just one quick additional question relative to your comments on the call about the buyback. As you think about the evaluation to the end of the year, I guess, what are the moving pieces that are going to impact your decision on a go-no-go valuation?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, not many, to be honest with you. You know, I think there's an opportunity here by removing the dividend and redeploying it out. We had had some near-term debt that was coming due. It made sense to retire. I just wanted to put the funds there first because it will help us deleverage, especially when EBITDA gets stronger. And it just didn't make sense to carry them forward. So that was really the thing. I think in the second half of the year, looking at the option to remove stock, and to be honest with you, at this price, I'm anxious to do it because I think it's going to be a great one to remove. And so, you know, all I'm saying is I'm going to get the debt in line first. I want to preserve our credit ratings the way they are. And then I want to move into removing these shares in a way that makes sense, not only in the second half of the year, but ongoing thereafter."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Thank you. One moment for our next question. Our next question comes from the line of Lily Lazada at JP Morgan."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Please go ahead."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Hi, great. Thanks so much for taking the question. Maybe I'll just start with guidance. You beat by quite a bit on the top line on a reported basis, but reiterated the guide. I appreciate it's still early, but what's the thinking behind that? You know, why not flow through the beat? And are there any offsetting dynamics to Q through 4Q that we should be keeping in mind?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, Lily, it's a great question. And just to be honest with you, It's my style that I'm just bringing into Dents by Serona. I did the same thing back in Globus. I'm not going to make a call after one quarter. I'd like to see at least two before we do. So regardless of it, I wouldn't have brought it up or down. It's not a concern. It's just more of a style what I do. I'd rather be appropriately conservative than anything else right now. That's all it reflects."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Got it. Makes sense. And then I was hoping you could dig into CTS a little bit more. That came in Nicely higher than what we were thinking. So can you talk a bit more about what drove that strength and just generally what you're seeing in terms of appetite for capital in this environment? Thanks so much."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, no, you're welcome. Listen, right now there's a lot of moving parts therein. I would tell you that having expanded the dealers and actually working on programs with them, we called out through Mike's script, we're seeing some strength in the U.S., Again, one quarter doesn't make a trend, and so we just acknowledge that it's there. We'll continue to execute, and, you know, after a couple of quarters, we can see how that's raising up. But the CTS strength, I would attribute more to activity occurring in the U.S."
+    },
+    {
+      "speaker": "spk13",
+      "text": "through our partners. Got it. Thank you. Thank you. One moment for our next question. Our next question comes from the line of Kevin Caliendo at UBS."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Please go ahead."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thanks for taking my question. Dan, I appreciate the lift that you have here operationally and all the things that you've initiated internally. And when you think about the growth initiatives, I'm just wondering, in your mind, what segments or what geographies do you think catch up or get to be growing faster than market? What products do you think you can get to quickest? Just trying to gauge where your sort of head is around the expectations around what the growth can actually look like. Can Dentsply again grow faster than the market, grow in line in the market, you know, in implants or something to that effect. And I'm just trying to gauge where you think you can be And sort of when in certain product lines, like what are you most excited about or where do you think you can return to this sort of market growth or presumably better than market growth? And what's fastest?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah. And again, I'll refrain from giving segment by segment growth expectations, something we have and working on. And, you know, there will be an investor day somewhere probably coming up towards the end of this year, beginning of next. And we'll do that along with the strap plan. I believe that this organization with the right structure and the right focus can grow at or above market over time. And, you know, we need to work our way through that in 26 and into 27. But that is certainly the target. And you say, well, how and where? Well, you begin with the U.S. has to return because that's just its size. Within that, through the actions we've already taken with dealers, it's got to be about the right placement of capital in order to have those activities. As we spoke about with other folks, it has to be, in my mind, implant-focused, endo-focused, or EDS-focused, excuse me. And at the same time, with our enhanced R&D, we need to make a better or a deeper penetration into the ortho market. So all of those are in play. I want to get them functioning first before I come out and commit anything in particular. But I would say among those or combined with those, we should be at or above market as we get into a healthy cadence."
+    },
+    {
+      "speaker": "spk04",
+      "text": "And just a quick follow-up to all that. You're talking about capital deployment. You're talking about share buybacks. Presumably, with everything that's going on here, there isn't likely a focus on M&A. But if there was, right, and you look at the product portfolios that you have, either in well-spec or in dental, is there an area that you think that, hey, a tuck-in M&A acquisition or even something more material might you know, enhance the product portfolio, be more synergistic or needed?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "I do. I don't think there's anything needed. Let me start there. And I am looking at M&A because even if we decide not to do it over the next few quarters, we are going to go back to that. And so staying current is a plan that we have in place already. We've actually established an independent board with WellSpects, and I will announce that out as we get the finalization of these people. And it is going to be a focus on hypergrowth within WellSpec so that we drive way above market and penetrate deeper. Should we find adjacencies therein that are bolt-on or can be fast in closing out the gap? That would be one area of interest to me, so in the non-dental area. We have several conversations currently with longer-term potential within dental, but I actually want to refrain from talking about them specifically right now. What I'm obviously looking for is an accelerated way to differentiate ourselves in certain areas. Some of it would be CTS, you know, just for the fact of helping penetration. But as far as products themselves, meaning implantables or those things, there really isn't anything we're chasing down at this time or have interest in. Appreciate the candor."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Thanks so much. Thank you. One moment for our next question."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Our next question comes from the line of Stephen Valliquette at Mizuho Securities. Please go ahead."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Great. Thanks. Good afternoon. So, yeah, I guess for us, we heard just one of the global dental distributors today talk about some lower industry pricing trends on scanners or other digital equipment, primarily from newer market entrants in 1Q. So I'm just curious if you can discuss kind of what you're seeing on the competitive landscape front. and IOS and what this might mean for PrimeScan or maybe some of your other offerings."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, well, I think your data is correct. I think there are new entrants at low cost. I think there's different plans to address that. What we have to look at is our current model versus what could be market appropriate in this changing dynamic. And that's where our size and the breadth of portfolio come into play. And so we're doing a few things, right? One of them is obviously looking to become more competitive in that area. And with that is probably going to be from more structured programs that we do that, you know, not only have a scanner, but the pull-through effect of it. Some things that some of the lower costs won't be able to compete with without bundling up. And so we're going to use our portfolio in a bundle strategy that will allow us to actually accelerate some of the penetration we're seeing as a way to be more market appropriate today."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Okay, thanks. Thank you. One moment for our next question. Our next question comes from the line of Erin Wright at Morgan Stanley."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Please go ahead."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Great, thanks. So you highlighted in the deck, as well as your prepared remarks, a lot on innovation in terms of specific products and areas of focus. I get it, you're not going to give us an innovation contribution yet, but what could really move the needle? Would you call out a couple of those that would be significant that we should pay attention to going forward from an innovation perspective? Thanks."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, thanks. Obviously, speaking only of the ones that we discussed on the call versus what has been approved yet or what we haven't launched. You know, I actually like the AI detection as a way to further enhance the DS core offering to our current and even future customers. That one is one that excites me. Listen, I've been a fan of WellSpec, and I see the potential of this business. And so, the surety is a launch into an entirely new area for them and into new geographic markets. So, both of those are things that are exciting for me. I think the MRI is a much longer and a little more clinical long-term play. I don't see that as a large revenue generator over time, but rather something that will lead out to future products or future approaches that I think can be very interesting. And, you know, listen, I think the reciproc minima using one file is a great approach that can actually not only reduce costs to our users and speed up time, but have what appears to be great outcomes for the patients. And so, you know, truth is, I like them all. I think they all have potential to move us forward."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Okay, great. And I don't want to belabor the macro topic and fuel costs and input costs, but I just wanted to clarify, you did say you're seeing an impact now. Can you quantify that at all? Like, is it material right now? And just remind us, so you don't have anything embedded in your guidance right now as it relates to that, or you just think you can mitigate it, or what is, you know, why not make any changes on that front just to be conservative on that front now? Thanks."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, look, I'll make it really simple. We're obviously not going to disclose very specifics here that we don't do. And what I'm creating as freedom to move here is if we see escalation or unforeseen things that are not there today, obviously we would have to react and share with you adjustments, whether we can absorb them or not. And that's really all that statement is. There's nothing that has occurred today that is material. Otherwise, we would have disclosed it. But again, we don't know in this changing world what tomorrow is. So I'm simply reserving the right to say should that change, we will probably need to come back and update your assumptions."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Thank you. One moment for our next question. Our next question comes from the line of Daniel Grossleit at Citi. Please go ahead."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Hi, guys. Thanks for taking the question. I want to go back to implant volumes. You mentioned that across all regions, implant volumes were a little bit lower than expected. I'm curious if you can bifurcate between premium and value demand, realizing that the significant majority of your portfolio is premium, and if there's any significant differentiation you're seeing by region. And you alluded to this in your prepared remarks but was hoping you could provide a little bit more detail on the strategy to stem some of that lower demand and timing of those benefits. Thanks."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, so a couple things. We are down with both value and premium for the core. You know, I would tell you when I look at what we call value, which is MIS in particular, it is simply underutilized. And so, you know, back to your point, what I would do to stem that is actually position that differently as a brand that can really drive something that I feel has been not fully implemented by the company. That's something that we're working on currently. I think Astra is still one of the best products out there. And so the clinical education, the rep education are all parts of that that I mentioned last quarter to go at that and drive those things in particular. Um, I feel implants is more of an execution than a lacking product or being other products over-competing us. So I think we've got the right portfolio. I think we have to improve the education to do the right execution. And while we will have certainly market-appropriate or competitive programs forming in the second quarter, I'm going to refrain from those now until we get them implemented."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Okay, great. Thank you. And, um, the follow up you last quarter, you got it to a $30 million headwind in the first half of this year, uh, due to the, uh, inventory sell through underneath the new drop ship model. How much of that was realized this quarter? Um, and, uh, I don't know if you can quantify on a, on a basis point, uh, uh, basis, uh, how it impacted gross margins."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yeah, none of it was realized this quarter. It still is in our line of sight to happen with the previous guidance we gave, but it's going to be more of a late Q2 and then second half where we'll see that impact."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Got it. Thank you. Thank you. One moment for our next question. Our next question comes from the line of Brandon Vasquez at William Blair."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Please go ahead."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Oh, great. Thanks for the question. Dan, maybe I can ask a little bit of the portfolio question, but the opposite side. As you're in the seat another quarter here, as you're looking at the portfolio, is there anything you think that maybe Dentsply isn't the right home for? Anything you think on the rationalization side that might help improve the P&L to some degree?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, great question, Brandon. My answer is no, not yet. I really want to see how the market responds to our return to growth plan. I want to take a look at these from a different light. I don't like the position we're currently in right now, and so I want to stabilize it, get them growing. And I think at that point, we say what makes sense or not. One of the things we did announce, I believe, last quarter was the creation of the Growth and Value Committee. And, you know, with that, I have the board working with me to not only look at potential M&A, but also does it make sense for something to be, you know, set up as a divestiture plan? My ask of them and right now of everybody is I still want to get through the execution phase of this before we take an evaluation of where that makes sense. Not afraid to do it, just don't really have the right facts or positioning to do that in what I think is the best interest of all of us."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Okay. Makes sense. And as a follow-up, you know, within CTS and EDS, APAC was actually, if I recall correctly, highlighted as an area of strength. While there's some other pockets of weakness, I was curious if you could just spend a minute on APAC, why things are doing relatively well there for this portfolio compared to the other reasons. Thanks."
+    },
+    {
+      "speaker": "spk06",
+      "text": "I appreciate that as well. You know, really what I put it out to is simply the leadership and structure that are out in EMEA are strong and, you know, really have some of the greatest people in there. They are well-educated. They actually spend well on clinical education. So everything I'm saying I'm bringing into the U.S., I don't want to say exists fully in the MEA, but was started out in the MEA, and I think that's one of the drivers that's going on that way. You know, with AsiaPAC as well, we're looking at doing a similar thing. I know I don't want to speak a lot about them, and that's more of a long-term investment growth. But I think that, you know, again, I'd point out the MEA strength really based on the execution of a team with a good plan and one that we can learn from and spread throughout the world."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Thank you. This concludes the question and answer session."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thank you for your participation in today's conference. This does conclude the program. You may now disconnect."
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "event": {
+    "ticker": "SDGR",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk03": {
+      "name": "Rob",
+      "title": "Operator"
+    },
+    "spk01": {
+      "name": "Jaron Madden",
+      "title": "Chief Corporate Affairs Officer and Head of Investor Relations"
+    },
+    "spk07": {
+      "name": "Rami Fareed",
+      "title": "Chief Executive Officer"
+    },
+    "spk04": {
+      "name": "Richie Jane",
+      "title": "Chief Financial Officer"
+    },
+    "spk00": {
+      "name": "Karen Akinsanya",
+      "title": "President, Head of Therapeutics R&D and Chief Strategy Officer, Partnerships"
+    },
+    "spk08": {
+      "name": "Steve",
+      "title": "Analyst (KeyBank Capital Markets, on behalf of Scott Schoenhaus)"
+    },
+    "spk06": {
+      "name": "Pat Lorton",
+      "title": "Chief Technology and Chief Operating Officer"
+    },
+    "spk10": {
+      "name": "Manny Ferruhar",
+      "title": "Analyst (Learing Partners)"
+    },
+    "spk02": {
+      "name": "Michael Yee",
+      "title": "Analyst (UBS Securities)"
+    },
+    "spk05": {
+      "name": "Brendan Smith",
+      "title": "Analyst (TD Cowan)"
+    },
+    "spk09": {
+      "name": "Michael Riskin",
+      "title": "Analyst (Bank of America)"
+    },
+    "spk12": {
+      "name": "Connor",
+      "title": "Analyst (BMO Capital Markets, on behalf of Evan Seegerman)"
+    },
+    "spk11": {
+      "name": "Matt Hewitt",
+      "title": "Analyst (Craig-Hallam)"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk03",
+      "text": "Thank you for standing by. Welcome to Schrodinger's conference call to review first quarter 2026 financial results. My name is Rob and I'll be your operator for today's call. All lines have been placed on mute to prevent any background noise. After the speaker's remarks, there will be a question and answer session. If you would like to ask a question during this time, simply press star, then the number one on your telephone keypad. Please be advised that this call is being recorded at the company's request. Now, I would like to introduce your host for today's conference, Ms. Jaron Madden, Chief Corporate Affairs Officer and Head of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thank you and good afternoon, everyone. Welcome to today's call during which we will provide an update on the company and review our first quarter 2026 financial results. Earlier today, we issued a press release summarizing these results and progress across the company, which is available on our website at schrodinger.com. During today's call, management will make statements that are forward-looking and made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, including without limitation, Statements related to our outlook for the full year 2026, our plans to accelerate the growth of our software business and advance our therapeutics portfolio, the clinical potential and properties of our and our collaborators' compounds, use of our cash resources, as well as our future expenses. These forward-looking statements reflect our current views about our plans, intentions, expectations, strategies, and prospects. which are based on the information currently available to us and on assumptions we have made. Actual results may differ materially due to a number of important factors, including the considerations described in the risk factor section and elsewhere in the filings we make with the SEC, including our Form 10-Q for the quarter ended March 31, 2026. These forward-looking statements represent our views only as of today, and we caution you that, except as required by law, we may not update them in the future, whether as a result of new information, future events, or otherwise. Also included in today's call are certain non-GAAP financial measures. These non-GAAP financial measures are not prepared in accordance with generally accepted accounting principles and should be considered only in addition to and not a substitute for or superior to GAAP measures. Please refer to the tables at the end of our press release. which is available on our website for reconciliations of these non-GAAP measures to the most directly comparable GAAP measures. This afternoon, Rami Fareed, our CEO, will review our recent progress. Then Richie Jane, Chief Financial Officer, will discuss our financial results in 2026 guidance. Karen Akinsanya, President, Head of Therapeutics R&D and Chief Strategy Officer, Partnerships, will review our therapeutics portfolio. Pat Lorton, our Chief Technology and Chief Operating Officer, will join us for the Q&A. With that, I will turn the call over to Rami."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thanks, Jaron, and thank you everyone for joining us today. We are off to a strong start this year, delivering $28.4 million in ACV, a 12% increase compared to Q1 last year. Our growth was broad-based, reflecting usage scale-ups, new customers, and growth from new products. Drug discovery revenue of $23 million was also a significant contributor in the quarter. Lilly's announced $2.3 billion acquisition of Ajax Therapeutics, a company we co-founded and in which we have an approximately 6% equity stake, is the latest example of a multi-billion dollar deal for a Schrodinger co-developed molecule and speaks to the power of our platform. We are pleased with our momentum transitioning customers to hosted licensing. We are seeing positive conversion dynamics upon contract renewals and with new products that are hosted. In limited cases, we are also seeing the early conversion of multi-year on-premise deals to hosted ahead of the scheduled renewal date. We are encouraged by the improving biopharmaceutical funding environment. While macroeconomic uncertainty remains, it is clear to us that there is a growing recognition of the critical importance of our computational platform as R&D organizations embrace the predict-first computational paradigm that offers a demonstrated path toward improving probability of success and reducing the time and cost of molecular discovery. We remain poised to benefit from the evolving regulatory environment with our predictive toxicology initiative set to address a key element of the FDA's focus on reducing animal testing and broadening the use of computational methods. Our market-leading position is built on the inherent accuracy and scalability of our physics-based approach and is further reinforced by our unmatched track record. While standard AI models are limited by the scarcity of training data, our platform generates the ground truth simulations, accuracy and scale required for AI to precisely navigate the vastness of chemical space. By combining the accuracy of physics with the speed and scalability of AI, we are able to evaluate key properties of billions, even approaching trillions, of molecules with a level of accuracy impossible to achieve through models trained solely on experimental data. This capability enables our customers to integrate computation more deeply into their workflows, driving the consistent demand that underpins our long-term growth trajectory. We are committed to technology leadership and evolving our platform to meet customer needs. We are very excited about the upcoming release this summer of an early access version of Bunsen, our new agentic AI co-scientist. Designed to autonomously execute complex molecular discovery workflows, Bunsen enhances productivity and accelerates the design, predict, make, test, analyze cycle that drives modern molecular discovery. Our material science and therapeutics teams have been successfully using Bunsen internally, and we are excited to offer this capability to our customers. Our throughput-based licensing model is well positioned to capture the value of this expanding utilization. The repeated success of our co-invented molecules and the continued progress of our therapeutics portfolio place us at the forefront of a digital transformation, moving material science and life science industries toward a more efficient, predict-first, computationally-driven model of discovery. We continue to deliver the technology that transforms the way molecules are discovered, and we look forward to updating you on our progress throughout the year. I'll now turn the call over to Richie."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thank you, Rami, and good afternoon. ACV in the first quarter was $28.4 million, which represents 12% growth compared to $25.4 million in Q1 2025. On a trailing four-quarter basis, ACV reached $201 million. As a reminder, we believe ACV provides important visibility into the performance of our business during a period where we expect recognized revenue to be highly variable due to the accelerated transition to hosted. ACV growth was primarily driven by our top 20 pharma customers, these customers broaden their platform access onboard new products and integrate our platform more deeply into their r d organizations starting this quarter we are breaking out contribution revenue as a separate line item to provide better visibility into our software and drug discovery performance to facilitate year-over-year comparisons we have reclassified our historical results to reflect this change as contribution was previously included in software and drug discovery revenue Total revenue for the first quarter of 2026 was 58.6 million. Software revenue was 35.6 million, of which hosted revenue contributed 12.1 million, or 34% of the software total, compared to 24% in the first quarter of 2025. On a trailing four-quarter basis, hosted revenue increased to 27% of the software total. As we've discussed the year over year software revenue comparison reflects our planned accelerated transition to hosted licenses for which revenue is recognized readably over the life of the contract, rather than upfront. While this dynamic creates a near term headwind on recognized revenue over the long term, it will better align revenue with operational growth. resulting in a more predictable financial profile. Software gross margin was 69% for the quarter compared to 80% in Q1 2025, reflecting our planned accelerated transition to hosted software licensing. Contribution revenue was 0.1 million for the period compared to 4.3 million in Q1 2025. The decline is driven by completion of the initial funding by the Gates Foundation in support of our predictive toxicology initiative. Direct discovery revenue was $22.9 million compared to $10.2 million in the same period last year. The increase is due to the accelerated recognition of deferred revenue associated with the continued progress of the company's collaboration portfolio and the discontinuation of one collaboration program. Total operating expenses for Q1 were $78 million, a decrease of 4% compared to $82 million in Q1 2025. This reflects the impact of our efficiency measures and disciplined expense management across R&D and G&A while we continue to invest in sales and marketing to drive long-term growth. Total other expenses were $11 million, primarily due to changes in fair value of equity investments and interest income expense. Net loss for the quarter and for the first quarter of 2025 was 60 million. We ended the quarter with a strong balance sheet of 406 million in cash and marketable securities. We anticipate receiving our portion of the upfront cash payment from the Ajax Lilly transaction when the deal closes. The fully diluted share count was 74 million. Today, we are maintaining our full year 2026 guidance. For the full year, we continue to expect ACV to be in the range of $218 to $228 million, representing 10% to 15% growth. We anticipate drug discovery revenue between $55 and $65 million for the year. As a reminder, drug discovery revenue has quarterly variability due to the collaboration and milestone-driven nature of the business. Our operating expenses are expected to be less than 2025 as we maintain overall expense discipline and make select investments in sales and marketing to support growth and the release of new products. We anticipate our clinical activities will be largely complete by the end of 2026 and to incur approximately 10 to 15 million of R&D for full year 2026 as we wind down these activities and seek partners for mid and late stage clinical development. Our 19 to 23 million guidance range for Q2 2026 ACV excludes contribution ACV, compared to $23.3 million from Q2 2025 that included $5 million of contribution ACV. Now I would like to hand the call over to Karen."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thank you, Richie. Our therapeutics business continues to create significant value, most recently highlighted by Lilly's planned acquisition of Ajax Therapeutics for $2.3 billion. By combining Ajax's deep expertise in blood cancer and JAK family structural biology with our industry-leading track record in computational drug design, we discovered AJ1-11095, a first-in-class type 2 JAK inhibitor, which is the primary driver of the announced deal. Over a 10-year span, Schrodinger has co-founded multiple companies, including Ajax. There have been seven major transactions and liquidity events related to molecules we co-discovered across our biotech collaboration portfolio, including Lilly's acquisitions of Morphic, Petra, and Ajax, the sale of Nimbus' ACC and TIK2 inhibitors, and the successful IPOs of Relay and Structure. The success of these companies and multi-billion dollar exits establishes unquestionable validation of the impact of computational physics-based design and our biotech and pharma collaboration business model. The emerging results from our maturing therapeutics portfolio span internal discovery programs licensed to pharma through to co-invented molecules with late-stage clinical readouts, like Tocada's Zasacitinib, which completed Phase III trials earlier this year. To date, our equity and business development activities have resulted in close to $700 million of cash, as well as potential future preclinical, clinical, and commercial milestones of up to $5 billion and royalties on 15 programs. Our wholly owned programs also represent future value capture opportunities. As Rami mentioned, the therapeutics team has integrated our new agentic solution, Bunsen, across the combined portfolio. Bunsen's ability to execute our powerful predictive models and orchestrate multi-step, multi-skilled drug discovery workflows enables us to accelerate the design, predict, make, test, analyze cycle. This is an exciting development that we expect to have a major impact on the productivity of our team and teams across Biopharma once they get access. Turning to our wholly owned portfolio, in April, we presented initial clinical data for SGR3515, our WE1-MIT1 inhibitor, at the AACR annual meeting. As a reminder, this is an ongoing Phase 1 dose escalation study with primary objectives of safety, tolerability, and pharmacokinetics. The data presented demonstrate that SGR3515 was generally well tolerated on an intermittent dosing schedule of 3 days on and 11 days off. Importantly, the initial clinical biomarker data validated our hypothesis that dual inhibition can overcome compensatory resistance mechanisms. We observed encouraging early anti-tumor activity with a 65% disease control rate among evaluable patients treated at doses of 100 mg or higher. We also remain encouraged by the progress of SGR-1505, our Malt-1 inhibitor. We continue to see a 100% response rate and durable responses in patients with Waldenstrom's macroglobulinemia, where the drug has both FDA fast-track and orphan drug designations. As we complete these Phase I studies, we are actively exploring partnership opportunities to continue the mid- and late-stage development of SGR 1505 and 3515. Our track record of generating differentiated discovery stage breakthroughs, clinic-ready molecules, and valuable data packages is well established. We believe our drug discovery expertise coupled with the use of our computational platform at scale will enable us to continue unlocking high-potential target product profiles and drive the next wave of successful collaborations and transactions. I'll now turn the call back to Rami."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thank you, Karen. As you have heard, we are off to a strong start in 2026. I want to thank our employees for their hard work and commitment to our mission. We are pleased with the momentum across the company and look forward to updating you on our progress throughout the year. At this time, we are happy to take your questions."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you. We will now begin the question and answer session. If you would like to ask a question, please press star 1 in your telephone keypad to raise your hand and join the queue. If you would like to withdraw your question, simply press star one again. Your first question comes from the line of Scott Schoenhaus from KeyBank Capital Markets. Your line is open."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Hey guys, this is Steve on for Scott. Could you talk more about how agentic AI is driving our utilization of high compute calculations and how this is impacting your business? What's the upside potential as adoption of it increases? And then how would this show up in your customer contracts? Thanks."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Absolutely. I assume you're referring to the announcement we just made about the release this summer of Bunsen, an agentic AI system for automating complex workflows. We've already been using Bunsen internally for a number of months. The impact that it's had already on productivity of both our expert modelers and computational chemists, as well as non-experts, has been extraordinary. We're very excited about it. What it's doing is eliminating sort of barriers to large-scale deployment of the technology. And it's very much, as we describe it, a co-scientist, a companion that improves efficiency and productivity, again, both for experts and non-experts. And our collaborators who we're working with are already recognizing the impact, this improved efficiency and our ability to actually use the technology on a larger scale and in a more effective way. again as we said we'll be releasing it this summer already feedback that we've been getting as we start to talk about the imminent release of Bunsen has been very very positive I think there's a lot of excitement about the potential the last thing I'll say And we've talked about this actually in the last earnings call, and we mentioned it again today, that our throughput-based licensing, that is not seat-based licensing, but throughput-based licensing, Of course, benefits from solutions like this, where a GenTech AI has the potential to increase the demand for the technology and the need for customers to license that technology on a larger scale. Pat, is there anything you wanted to add? Did I cover it?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "I think you pretty much covered it. I think the one thing I would add is that we are seeing customers using more general, generic agentic AI, and they are already having access to higher throughput of our technology using other LLM providers. That said, the reason we've built Bunsen is because our tools are such an expert tool that we feel that the LLM has to be trained specifically to how to use our tools to optimize it and to run in the most efficient way. And we think the solution we're putting together will be best for that."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Great. Just one follow-up. You mentioned you're working with Anthropic last quarter. Just any update on that partnership or collaboration, however you want to refer to it? Sure."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Pat, you want to give an update? Sure. Yeah. We regularly work with and talk with Anthropic as we're building out Bunsen. It is one of the top LLM providers. We are not tied to a single LLM. We are open to using whatever our customers prefer or whatever we think would be working best. We're building an agentic layer on top of LLMs, but Anthropic is obviously a fantastic provider in the space and we're We've learned a lot from them. We're really excited to continue to work with them."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Okay, great. Thank you. Thank you."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Our next question comes from a line of Manny Ferruhar from Learing Partners. Your line is open."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Hey, guys. A quick question. When you think about the percentage of customers or percentage of contract value that are previously on-prem and that are renewing in one queue, recognizing that we're off and we're a cycle for many. Can you give us a sense of what percentage we're able to convert over to hosted? Just so you can give us a little bit of real-time quantitative feedback on how that transition is going. Yeah, Richie?"
+    },
+    {
+      "speaker": "spk04",
+      "text": "Yep, I'll cover that. Thanks, Manny, for the question. For the quarter, we were pleased with the progress for the revenue. Hosted revenue was 34% of the software revenue in the quarter and 27% on a trailing four quarter basis that compares to 23% just a quarter ago. So we're pleased with the early progress. Anecdotally, we're aiming to transition from on-prem to hosted upon the contract date. So that's what we achieved in the quarter, as well as all new customers, we're deploying them hosted in the first instance. So overall, we're pleased with the first quarter and still have our same expectations for the year and the three-year outlook, getting to 75% by the three-year period."
+    },
+    {
+      "speaker": "spk07",
+      "text": "I think it's also worth mentioning that in a few cases, which I think is quite encouraging, is that we were able to transition some customers to host it before their renewal dates. Rich, is that worth?"
+    },
+    {
+      "speaker": "spk04",
+      "text": "Yeah. While the primary emphasis has been on transitioning at renewal, in a few instances for larger multiple-year contracts that were on-premise, we were able to work with those customers and transition over to hosted well in advance of the renewal date. So that you'll start the modest impact of that in Q1, but you'll start to see more impact in that in Q2 onwards."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Great. And a quick follow up. We're seeing substantial pickup in M&A activity in private biotech markets, edX being one example. How much velocity would you have to see in that space to start tinkering with how you think about guidance for drug discovery revenue, given the broad portfolio of co-founded, partnered, et cetera, companies and your equity exposure there?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, I mean, first of all, we can certainly, and Karen, I'll hand it over to you to answer, but let me just say on the software side, we're also quite encouraged. We definitely, things look a lot better this year or this quarter, I should say, so far this year compared to last year where we saw lots of biotech companies, of course, shutting down or very significantly reducing their discovery budgets. We're not seeing that. We're even seeing pick up in new customers. So that's very encouraging. And that sort of dynamic that is the premise of your question is certainly impacting, we think, the software business. As far as the drug discovery business, Karen, I think you have some thoughts about that."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Yeah, sure. Happy to share. So as you know, we have always had a lot of interest in partnerships, both obviously with the companies we've co-founded. You mentioned Ajax and prior companies we've co-founded. But I will say that your comment about the private market and companies who are still in stealth even, as well as public companies, still reaching out very actively to Schrodinger with respect to collaboration on programs that are in their pipelines, but also on new programs. And so we remain very enthusiastic about the potential for New collaborations, obviously, we're not guiding to any specific BD event, but the momentum and the interactions remain very robust, both with biotech and with pharma."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thanks, that's helpful."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Your next question comes from a line of Brendan Smith from TD Cowan. Your line is open."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Great, thanks for taking the questions, guys. Congrats on all the progress here. Actually, I want to first quickly ask about the Predictive Talks launch, if you can maybe just give us a sense of, if not relative, revenue breakdown between a legacy business and Predictive Talks, at least maybe how new customer ads there are tracking. And then just quickly, I guess on the upcoming months and launch, how should we really think about this go-to-market strategy for the agent? I know you gave us some good color earlier, I guess. Is this just something that you expect to kind of roll out as an add in with existing customers? Is there kind of a whole separate base you could potentially reach with this? I guess just any kind of go to market strategy there stuff would be super helpful."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yep. Yep. Yep. We can cover both of those. Thanks for the questions. With regard to predictive talks. Feedback continues to be really very, very positive for the results of evaluations now that are being kicked off. It's very clear that there is significant interest in the technology, but also that prospective testing of it in our customers' hands is validating the kind of results that we were seeing when we were developing the technology and using it also prospectively internally. So that's really quite gratifying to see. So that continues to go well. With regard to Bunsen and the go-to-market strategy and you asked about the base, that's a really good question. because, and I sort of alluded to this in talking about it earlier, certainly this, in some sense, democratizes access to very sophisticated technology. And you can appreciate what kind of impact that can have on the business. So when this kind of technology becomes And, you know, previous to systems like this may just have been inaccessible and, you know, take years of training. You know, you need an advanced degree. You're not sure or you're using the technology and not using it quite right and not getting very good results. That's not a good thing for anybody, for a customer or for us. So this obviously very directly addresses that. This is very similar to image processing. That used to be a thing that was not available to very many people, only people who were expert users at Photoshop. Right. And, you know, to remove red eye, remove somebody who is in the background of your vacation photo was was really difficult. Now you just circle the area and say, remove the background and it's done. It's the same basic idea. And now all of a sudden, very sophisticated image processing or image manipulation is is available to to the masses everywhere. we expect the same sort of thing, well, not masses, but you understand, to non-experts in research. Pat, anything to add to that?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "No, I think that sums it up great. And the other thing I would just highlight on top of adding additional customers is one thing that is really limiting. I think we've discussed in the past that the amount of computational chemists we have per project at Schrodinger is a lot higher than the industry average. That's part of the reason behind our very high success rate. One thing that's very limiting in our customers is they simply don't have enough people who can run this to get it done, even if they have experts who are good enough. So simply getting this in the hands of those experts and allowing them to get a multiple of their work done, similar to how the agentic coding tools have allowed developers to work much, much faster. We think even those experts being able to run much, much faster, they will be able to consume a lot more of our throughput-based licensing before we even have it broadened to a broader user base. Got it."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Sounds good. Thank you, guys."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Your next question comes from a line of Michael Riskin from Bank of America. Your line is open."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Hey. Hey. Thanks for taking the question, guys. First, I want to dig into sort of the new way you're guiding ACV. I want to talk about the contribution ACV. So you called out, you know, for the second quarter, your guide is 19 to 23, and that's excluding any contributions. So is that just, is that your way of saying we, you know, we don't know what the contribution ACV will be, or are you actually expecting it to be, you know, zero because it was, you know, relatively modest in the first quarter? And sort of the same question for the full year. Anything you could tell us in terms of how much of the full year ACV is made up of that or how much there was in all of the 2025s?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, Richie."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Yep. So the guidance for the Q2 is 19 to 23 million, as you noted. The reason we explicitly called out the comparison to last year, Q2 of 2025 was 23.3 million, of which 5 million was contribution ACB related to our grant with the Gates Foundation. So we just wanted to call out when you're looking quarter to that on a commercial business or excluding contribution, we're still projecting growth for this quarter. For the full year range, 218 to 228 of ACV, we do expect potentially some contribution ACV in there. That's a component of it in the full year."
+    },
+    {
+      "speaker": "spk09",
+      "text": "But you don't want to break that out or quantify that? Correct. Okay. Okay. All right. Fair enough. And then in terms of Ajax, just how should we think about that flowing through? How should we think about that flowing through the P&L in terms of use of proceeds and things like that? Is that in your guide for the year? I don't believe it is. Just timing and pacing of that."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, you should answer that. But let me just say, just to remind that our equity stake is around 6%. Just wanted to throw that in there. But Richie, please go ahead and answer that."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Yeah, the AJF sale was not contemplated in our guidance framework. Obviously, it's a private company sale that we couldn't have included. But its impact for our financials will mostly be to cash. Our cash position at the end of the quarter was $406 million. As Rami just noted, we own about a 6% equity stake in AJAX. And so when the upfront portion is received by AJAX, we will receive our 6% of that approximately. So the impact to us will be cash. The upfront amount was not disclosed in the AJAX delivery announcement, but as we receive the cash, we'll be able to reflect it into the balance sheet. And then on the upfront, there's also milestones, you know, kind of near-term and downstream milestone opportunities in which we would continue to have that 6% participation."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Okay. But I guess my question is, does that change in terms of how you think about investment priorities in the second half or just, you know, the fact that balance sheet is going to be a little bit stronger? Yeah. Any early thoughts on that or just going to wait and see for now?"
+    },
+    {
+      "speaker": "spk04",
+      "text": "I would say more the latter. I think our path to profitability between growth in software and drug discovery as well as expense management over the three-year window, that was all based on our cash position at the time. This is just upside to that. And we will, once we receive the cash, kind of revisit if anything changes. But I would expect our three-year outlook at the time to be unchanged."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Okay, all right, thank you. Thanks."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Your next question comes from a line of Michael Yee from UBS Securities. Your line is open."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Great, thanks. We had two questions. First, maybe for Rami, just thinking about your overall P&L, you've got some very attractive 70% gross margins, but overall as an entity, your EBITDA negative and running operating losses, given the general shift to reduce focus on moving things to later preclinical or clinical and looking to partner things, how would we expect the overall operating expense structure to potentially change? In other words, what percent of your R&D do you estimate is going towards those types of programs? And if I back that out, could think about a more appropriate run rate of where you think your R&D could. That's question number one. Appreciate it. I think you have guided this sort of being EBITDA profitable in 28. So that's helpful. Wanted to know what percent of R&D is related to drugs. And the second question relates as a follow-up. I estimate, even when I cover Lilly, that Ajax could be like a billion dollar up front. So is the 6% I think you said it's not in your current cash guidance, so we should take 6% of whatever estimate is an applied that's upside to the cash. And is that booked in the income statement and flows through the income statement? Thank you."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Absolutely. Do you want to cover the second?"
+    },
+    {
+      "speaker": "spk04",
+      "text": "Yeah, and then I'll... Exactly. So we can't comment on the size of the upfront, but the 6% equity state we have is not in our cash guidance. I would expect it to run through our P&L as a non-operating gain. Yeah, as a non-operating gain."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Okay. With regard to... the question about R&D and drug discovery. So I think we've been very clear about this, that the drug discovery part of our business, which has been in existence for a long time, since even a little bit before, but around the founding of Nimbus over 15 years ago, has been an incredibly important part of our business and is highly synergistic with our software business. We've shown, I think, very clearly that the success, the extraordinary success of these drug discovery partnerships, Nimbus, Morphic, Relay, Structure, Ajax, have had such a huge impact on validating our platform. And they've also had a huge impact on helping us understand what it is that we should be working on, how we should be advancing the platform to have sort of the maximum impact on projects. So that will continue to the extent that there is still a huge amount of work to be done in advancing the field. We're obviously incredibly excited about the accomplishments that we've made, and it's really been transformative. We've transformed the way molecules are discovered. That was our mission. I think we've been accomplishing that. But you can see through this initiative like the Predictive Talks Initiative and many other initiatives like that, there's more work to be done and we can continue to improve the way molecules are discovered, both in material science and life science. So again, that's a long way of saying that these businesses are highly synergistic and it will continue to be an incredibly important part of our overall business model. Karen, I don't know if you want to add anything to that."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Yeah, I mean, I think, as we shared in the past, the vast majority of our portfolio, the combined portfolio of collaborations with our co-founded companies, with biotechs and with large pharma, are an important part of the business, as Rami just described, both from a scientific point of view, but also, as you saw this quarter, generating revenue. And I would say that the vast majority of our activities actually in the R&D space are actually those collaborations. It's a small portion of the overall effort that is allocated to wholly owned research projects And as you heard previously on prior calls, we will not be taking programs into the clinic. But we are also obviously partnering programs early, as you saw with the Novartis deal, partnering a program that hadn't even reached lead up yet. You know, our investment in R&D is partly obviously on the science side, as I'll say again, but it's also to create value. As you heard, we have 15 programs now with royalties on sales and revenue coming from these programs. As you heard across the whole portfolio, close to $700 million generated from collaborative activities and the R&D drug discovery efforts."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thanks, Karen."
+    },
+    {
+      "speaker": "spk02",
+      "text": "We have guidance for 2028. That's helpful on positive. Thank you."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yep. Thanks. Again, if you'd like to ask a question, press star, then the number one on your telephone keypad. Your next question comes from a line of Evan Seegerman from BMO Capital Markets. Your line is open."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Hi there. This is Connor on for Evan. Thanks for taking our question. We just have a follow-up on how we should think about the rollout of Bunsen and maybe kind of the phasing over the next couple of years. Of course, you have the upcoming early access launch this summer. We're just, you know, trying to think about maybe which types of accounts you'll be sharing access with in kind of the early summer launch. And then maybe as we think longer term, thinking about kind of, you know, understanding the throughput-based licensing approach."
+    },
+    {
+      "speaker": "spk07",
+      "text": "uh we're wondering kind of the functional rollout of bunsen uh will this be kind of a premium add-on or come included as a part of your standard software offering thank you yeah we're still working out all of the details of that um as we typically do with our early access versions of our technology we work with our close partners uh and we will do that the same thing here where we can work together to work out the sort of mechanics of integrating it into their workflows, but also checking on the science. Everybody listening to this call and all of us have had experiences that are mixed with LLMs. Sometimes they're extraordinary, and sometimes they do some pretty crazy things. So there's a lot of work that has to be done to make sure that we – optimize and maximize the former and minimize the latter. And that requires working with close partners, of which, again, we have a large number. As far as the future, Our expectation, of course, is that this will be ubiquitous and this technology will be available to all of our customers. Exactly how we price it is still to be worked out. That has a lot to do with this feedback that we get as we roll out this early access version. So, yep, I think that's as much as we can say, unless Pat has anything more to add."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Nope, that covered it perfectly. Yeah, yeah, great."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thank you. Thank you."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Your next question comes from a line of Matt Hewitt from Craig Hallam. Your line is open."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Good afternoon. Thanks for taking the questions. Maybe first up, given that Q4 is such a big renewal period for you, and you spoke to it earlier that you're starting to see some of those earlier conversions, is it your hope and intention that you can get through some of that or maybe half of that before you get to Q4 just to kind of ease the burden or the rush that you would see at year end? Or how should we be thinking about maybe the conversion over the course of the next couple of quarters before you get to Q4?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "Richie, do you want to try for... Let me start."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Hey, Matt, thanks for the question. So I think the... Examples that we gave were more anecdotal and not the base case, but they were large contracts and they. We had a dedicated effort, I think, to try to convert those in advance. More broadly, though, the more natural time for us to address the transition is on the contract renewal date. So I still would expect Q4 to be our largest quarter of the year for ACV. Having said that, I think you'll see, you know, where there's opportunities and we will pull them forward ahead of the renewal date. Sometimes that relates to a new product. Sometimes that relates to a new offering. So I think on the margin, you may see we'll do what we can to kind of pull forward and drive ahead of Q4, but I'd still expect Q4 to be our largest quarter of the year."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Yeah. Got it. And then maybe separately, with the strategic shift where you're not going to be taking internally discovered molecules into the clinic, besides the ones that you've already got there, will you provide an update on how that is progressing. I mean, will you give us a, Hey, we've discovered, or we've got 17 molecules that are, that we're working on right now. And maybe three quarters later, now we're up to 20. Like how will we monitor, how will we know the progress that you're having on that internal molecule discovery side? Thanks. Yep. Karen."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Yeah, I mean, I think we have in the past kept our pre-LO pipeline relatively quiet for a number of reasons. Obviously, you want to be progressing the program before you start announcing the identity of the program or the progress. What we have been announcing, obviously, is the deals that we've been doing. And so I will say we don't plan to kind of expand and expand and expand the size of this portfolio without actually transacting some of these programs as they move through the discovery space. Again, as you saw us do with Novartis, we felt that those programs were well positioned to partner with that particular company because of their expertise and the synergy with those programs. And so you'll see us do more of that. I don't think you should be expecting an ever-growing early stage portfolio, but updates as we identify partners for them."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Understood. Thank you."
+    },
+    {
+      "speaker": "spk03",
+      "text": "I am showing no further questions at this time. That concludes today's call. You may now disconnect."
+    }
+  ]
+}

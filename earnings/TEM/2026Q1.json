@@ -1,0 +1,223 @@
+{
+  "event": {
+    "ticker": "TEM",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk03": {
+      "name": "Operator",
+      "title": "Conference Operator"
+    },
+    "spk13": {
+      "name": "Liz Crutoholo",
+      "title": "Head of Investor Relations"
+    },
+    "spk11": {
+      "name": "Eric Likovsky",
+      "title": "Founder and CEO"
+    },
+    "spk08": {
+      "name": "Jim Rogers",
+      "title": "Chief Financial Officer"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk03",
+      "text": "Ladies and gentlemen, thank you for standing by at this time. I would like to welcome everyone to the Tempus AI first quarter 2026 financial results conference call. All lines have been placed on mute to prevent any background noise. After the speaker's remarks, there will be a question and answer session. If you would like to ask a question during this time, simply press star followed by the number one on your telephone keypad. I will now turn the conference over to Liz Crutoholo. You may begin."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Thank you. Good afternoon and welcome to Tempest's first quarter 2026 conference call. This afternoon, Tempest released results for the quarter and March 31st, 2026. The press release and overview of the quarter and our latest presentation are available on our IR website. Joining me today from Tempest are Eric Likovsky, founder and CEO of Tempest, and Jim Rogers, CFO. Before we begin, I would like to remind you that during this call, management may make forward-looking statements that are subject to risks and uncertainties that could cause actual results to differ materially. For a discussion of these risks, please refer to our 10-K and other subsequent filings with the SEC. During the call, we will discuss non-GAAP financial measures which are not prepared in accordance with generally accepted accounting principles. Definitions of these non-GAAP financial measures, along with reconciliations to the most directly comparable GAAP financial measures, are included in our earnings release, which is available on our IR page. I would now like to turn the call over to Eric."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Thank you. Welcome, everybody. We had a great quarter. Revenue was $348.1 million, up a little over 36% year over year. Our diagnostic revenue was $261.1 million, representing almost 35% growth, driven by particular strength in our oncology business, which had unit growth of about 28%. It was strong across the board with our solid tumor and liquid biopsies performing well and our MRD volume performing even better. Hereditary slowed down a bit, which was to be expected given that we're lapping some extreme growth rates from a year ago. We expect that business to return to mid-teens in the second half of the year. Our data business, data applications business did extraordinarily well, 87 million of revenue representing 40.5% year-over-year growth with particular strength in our data licensing and modeling business insights, which grew over 44%. We had three, this is our third straight quarter of bookings north of $100 million with TCV rising and visibility in the best place it's been for our data and apps business in quite some time. So all in, the business is doing extremely well. Our main businesses are performing at or above plan. We're on track for a great year, and as a result, increased our guidance to now a range of $1.59 to $1.6 billion for the year, with adjusted EBITDA of about $65 million."
+    },
+    {
+      "speaker": "spk14",
+      "text": "With that, happy to take questions."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk03",
+      "text": "As a reminder, to ask a question, you will need to press star, then the number one on your telephone keypad. And if you would like to withdraw your question, press star one again. We do request for today's session that you please limit to one question only. Your first question comes from the line of Caleb Dishmarsh with Morgan Stanley. Your line is open."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Great. Thanks for the question, guys. Eric, I wanted to start with insights, just given some of the recent updates. Can you maybe just talk about how discussions with large pharma customers have been trending so far this year, particularly as interest in AI appears to be evolving? And I'm curious where de-identified data is sitting in their hierarchy of needs. And investors are obviously cognizant of contract closing and renewal dates for your larger agreements. So really looking for your latest thoughts on longevity and extension potential here. Thank you."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Yeah, I mean, so I would say that all of our core customers Big data relationships are very strong. We have a long history of renewing these agreements at or above where they historically stood. We feel great about that trend continuing. And I think equally important, if not more important, is that we've now, we're adding just some really big new names to that prestigious group. This quarter alone, we added Merck, who signed a very large strategic collaboration with us. We expanded our relationship with Gilead. We're in late stages on others. So we just have a really strong and robust pipeline. And as I called out in the letter, First of all, I don't think anyone thought our data business and modeling business would get to this scale, would be growing this quickly at this scale, or would be this durable. But to me, one of the most amazing parts about it is to get to these very large levels where people are signing $100 million plus agreements with you to license your de-identified data over multiple years. It would be, I think, pretty impressive to do that with one Pharma, even more impressive with two. But we now have almost half a dozen folks at that level where people are signing these very large strategic agreements with more coming. And I would suspect over time that becomes the vast majority of all big biotech and big pharma. And we're seeing this migration where people aren't just licensing our data. More and more, they're actually building models with us, whether those are foundation models, as is the case with AstraZeneca, Or they're building smaller models, leveraging our data. But we have a very large database now in excess of 500 petabytes of data. It's all connected to this analytics and model building platform. That's now connected to not just CPUs, but GPUs. And people are increasingly building proprietary models to get smarter about their own internal R&D programs."
+    },
+    {
+      "speaker": "spk14",
+      "text": "And that trend seems to be up and to the right."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Your next question comes from the line of Ryan MacDonald with Needham. Your line is open."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Hey, thanks for taking the question. This is Matt Shea on for Ryan. Eric, maybe just jumping off on that last question, is there anything in terms of either the recent Gilead or Merck deal that you would call out in terms of size or scope that's maybe different from some of your other strategic collaborations or just anything notable to call out with those two wins in particular. And then Jim, as we layer the Merck and Gilead wins on top of the 350 million of TCV that was already earmarked for revenue in 2026, how much visibility and confidence do you have in hitting the implied 410 million of data revenue guidance? And what are the potential levers for upside there?"
+    },
+    {
+      "speaker": "spk11",
+      "text": "Yeah, I can start. So Merck was a very large strategic data and modeling collaboration. We have very large collaborations with people like AstraZeneca and GSK and DMS. And that's another very large collaboration. collaboration of that magnitude. So it's unique in that there's only so many of these that we have, but it's, as I mentioned a minute ago, you know, far more than others. And so it's nice to see people getting to that size and scale where they're really leaning in a strategic level with dedicated teams and lots of data and broad access and, you know, AI model building and all the great stuff that you want to see for a long-term sticky relationship. Gilead is a bit, you know, it's a bit different. It's quite large, smaller than Merck, but quite large. But what's cool about it is it represents a very significant step up from their historic levels. And so we're monitoring here two things, right? We want to obviously I get to a point where we've got, you know, 100 plus million dollar agreements with as many big pharma as we can, big biotech, but we also want to see the growth of these accounts because we don't, typically don't get to that strategic level up front. It takes us time. We have to, as we've talked about historically, we tend to start with one project, maybe in one subtype, and then we're doing a few subtypes and a few different projects. And eventually people realize they can use our data to be far more intelligent in terms of which compounds they actually want to interrogate, how they design phase one and phase two trials for the greatest likelihood of success, how they ultimately enroll patients and make sure their product is fit for commercial viability. So they're using our data across that entire spectrum to And it takes time to get people comfortable, and so it's nice to see someone like Gilead stepping up in such a big way from their historic levels."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, and then in terms of the visibility, obviously, we mentioned on the year-end call that, you know, we had about $350 million of TCV that was related to 2026. So that gave us a tremendous amount of visibility into kind of the guide process. And then on top of that, we had visibility into a very strong pipeline. And so Merck and Gilead are obviously part of that pipeline that closed in the first quarter. That increases the level of visibility. And the pipeline remains strong as well as Eric noted. So, you know, the Insight business is really performing incredibly well at this stage. We've never been at this point in the year with this level of visibility before. into kind of the overall number. And it's exciting for 2026, but also for 2027 and beyond. As Eric noted, our TCV actually increased in the first quarter, which is incredibly impressive considering, you know, you're delivering 80 plus million dollars of revenue that you're still growing kind of that backlog that will contribute to revenue for the balance of the year and over the next several years to come."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Your next question comes from the line of Subbu Nambi with Guggenheim. Your line is open."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Hey, guys. Thank you for taking my question. One for Jim. Are there any updates on your SF FDA submission? I know it was reiterated that it was submitted, but any realistic timeline for an ADLD pricing update on this test? And then second, could you break down for us what percentage of your data licensing comes primarily from oncology and what has come from other areas like rare disease, cardiovascular? Longer term, where do you see that mix shaking out?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, thanks, Subbu. And I'll start with the FDA submissions and then Eric can take the question on kind of the data breakdown. So kind of, I'd say no update on the XF submission that was made earlier this year. And so we're awaiting feedback there. As we previously noted, we don't expect that to have any impact on pricing or ASPs in 2026. The other thing that we called out in our letter relates to an amendment that we're making to our XT FDA-approved assay or the submissions. We submitted an amendment there that will cover tumor-only, so cases where we no longer get or we don't get a normal sample. that will allow us to kind of accelerate the migration over to the ADLT version of the assay. We're expecting a decision there kind of imminently. And so those are the two big updates or one big update from an FDA standpoint."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Eric? Yeah, in addition to driving ASP higher on the diagnostic side, on the data side, the vast majority of our data licensing today is oncology and almost entirely, if not entirely, comes from our therapy selection business. We basically built a de-identified data business off of the combination of matched clinical molecular data, predominantly from therapy selections or liquid biopsy tests or solid tumor profiling tests. And that database, which sits at over 500 petabytes, drives the vast majority of our data business. It has been nice to watch some recent wins in neurology, and in particular, we were just engaged to begin building a multimodal model on Alzheimer's disease. That was a multimillion-dollar project that we're in the middle of right now that we'll finish up the middle of this year. So we do have people that are starting to tap the database now. in other areas. But I think for us, that represents really significant long-term growth drivers. We can see the data business, especially the data and modeling business in the U.S., getting to, you know, multi-billion dollars. And then I would suspect as we get into other disease areas, there's, you know, all kinds of opportunity there, just in the U.S. alone, let alone international. So lots of leg room."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Thank you, guys. Next question comes from the line of Don Brennan with TD Cohen."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Your line is open."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Great, thank you. Thanks for the questions. Maybe just one on cash flow in the quarter. How do we think about cash flow from operations was down about $70 million plus or minus. I think you guys said free cash would kind of approximate EBITDA, which was I think a $3 million loss. How do we think about the progression of kind of free cash as we go through the year? And then maybe just one related question. or actually unrelated, I apologize, but you've got XT FDA approved, you're going to seek to get XR FDA approved. Does that change at all the ability to bill both of those separately to your local MAC? If for whatever reason, jurisdiction changes and you have both of those FDA approved, how do we think about the durability of that going forward? Thank you."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, I'll take the first one and then Eric can take the second one. So in terms of free cash flow, it was a little bit elevated in Q1, which is pretty typical for us over the last couple of years. A few things kind of going on. One is just timing of payables plus kind of bonuses get played out in Q1. As we know in the letter, we would anticipate kind of a significant improvement in Q2, driven by one, normalization of those payables, but then two, a number of our large insights contracts that kind of had prepayments or deferred revenue that were burning down kind of flip over to quarterly payments. And so, again, we would anticipate significant improvement in the second quarter. And then from there, just continued improvement as adjusted to improve. So with that, I'll turn it over to Eric for the second quarter."
+    },
+    {
+      "speaker": "spk11",
+      "text": "And we're in a good spot in that, given that we're expecting to generate about $65 million of positive EBITDA, with every quarter significantly improving performance. And we now have, I don't even know, five, six, seven, eight quarters in a row of every quarter improving EBITDA pretty dramatically on a year-over-year basis. We feel great about our cash position. We don't need more cash. We don't need to do anything. So for us at this point, the quarterly fluctuations of cash flow aren't that critical. We're going to generate cash. We're going to be EBITDA positive. We don't need alternative financings in terms of like funding the business. So at this point, we're in a pretty good spot. As it relates to XT, XR, and XF, I would suspect that over time, all of our main assays are FDA approved. We have one approved today, which we're expanding, as Jim mentioned, in solid tumor profiling. We have another that's in front of the FDA now in liquid biopsy. We'll take RNA to them as well. I don't think these things will impact how the tests are ultimately ordered or billed. They're ordered and billed on an individual basis and based on medical necessity. And when they're ordered and billed, they get paid for how they get paid for. We do believe that ASPs are likely to rise years by virtue of the fact that our current ASP sits at around 1740 or something like that, somewhere in that range, 1720. And we would suspect there's about $500 worth of incremental ASP lift over the next year or two as we get all these things FDA approved. So from everything we can see,"
+    },
+    {
+      "speaker": "spk14",
+      "text": "Nothing about the current trend is anything but significantly positive."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Next question comes from the line of Brad Bowers with Mizuho. Your line is open."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Great. Thanks for the question. Just maybe wanted to get to oncology genomics trends. I feel like we see, you know, maybe some more news headlines from competitors just on companion diagnostic status wins. I just wanted to think about the impact of Tempest kind of as therapy selection gets more widely formally included into labels as, you know, companions to pharmaceuticals. So maybe just an update on, you know, what ending of adoption we're in on therapy selection and, you know, is there still rising tides for, you know, all companies or do you, you know, maybe need some more formal partnerships to keep driving that 20% volume growth on that business? Appreciate it."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Yeah, I mean, we have seen no, I mean, CDXs have been part of therapy selection for years. There are many of them. They've had no impact on physician ordering in the U.S., at least, by virtue of both how drugs are paid for in the U.S. and how diagnostic tests are ordered. In other markets where you can't get the drug without that particular companion being ordered, it may have an impact. But in the U.S., we don't have a system that is set up that way. And in fact, the migration has been the other way, where people have been kind of looking to move away from companions as a precursor to ordering. So I would suspect that whether we win more CDXs or not, regardless of who wins CDXs, it won't have any impact on the amalgamation of companies that represent the vast majority of external sequencing. I would suspect that we'll all be just fine. The differential in growth rates, the fact that we're growing faster than others or than most others in therapy selection, is predominantly related to the technology platform we built, which is, you know, comprehensive and allows physicians to kind of do their job well. And we see no sign of that slowing down. And I think CDXs won't have an impact on it. And in terms of where we are, you know, it still feels to us like we're – I don't know, maybe early to the middle of the game in terms of therapy selection. There's still a significant, there's been some papers published recently that there's a significant volume of physicians that still aren't ordering a comprehensive genomic profiling when they're treating cancer patients. There's lots of patients historically that haven't been profiled. So I would suspect there's pretty decent unit volume growth for the industry over the next, let's say, three to five years. I think we'll grow faster because of all the advantages we've built into our platform. But it does feel like it's a healthy space in terms of solid tumor profiling, liquid biopsy, and then even healthier on the MRD side, given that it's still fairly new."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Next question comes from the line of Kyle Mixon with Canacore Genuity. Your line is open."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Hey, guys, thanks for the questions. Can you talk about how important RARE is going to be to the hereditary testing business kind of remaining or getting back to the mid-teens? And then on that note, can you just elaborate on the growth profile of XG that grew 50% year-over-year in Q1, I think? Thanks."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Yeah. I mean, XG, the germline assay for us, the percentages are meaningful, right, but it's small. I mean, our MRD assay grew 500%, but it was only 6,500 tests. So it's awesome, but the percentages can be a bit misleading. The vast, vast majority of our HCT volume is obviously on the Ambry side, given the amount of volume they do in hereditary. We suspect, and because the units are so high, really nothing rare can do can move the unit volume metric, right? It moves the revenue metric because you get reimbursed significantly more per test, but it's hard to move the units. So the fact that we expect to get back to mid-teens is a function of the fact that the we long called out or at least have called out for some time that we expected that business to kind of be a mid-teens grower. It's lapping periods of much higher growth last year when that assay was growing at like 40%. So it's a bit lumpy. Their growth has been lumpy. And so when you're lapping periods of lumpy growth, it's still lumpy. But I suspect as we get into the back half of the year, the growth rates will return to kind of mid-teens. I think rare will also do well. We had a slower start to the first half of this year. I think as GeneDx called out, they've migrated a bunch of volume to whole genome, which has some ASP impact for them. We were a bit later to actually get that product in market. And so for us, it's been more of a volume issue. We haven't been selling a bunch of tests. As our product enters market, We expect to have some of the volumes pick up. And obviously, even at $3,000 or whatever it is ASP, it's still going to be ASP accretive to us. So I would say the back half of the year looks much better for our hereditary business as we are lapping slower periods of growth last year, as rare starts to really take hold."
+    },
+    {
+      "speaker": "spk14",
+      "text": "And so I would bet that by the end of the year, that business is feeling pretty good."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Next question comes from the line of Mark Schapel with Loop Capital Markets. Your line is open."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Hi, thank you for taking my question. Eric, it was highlighted in the prepared remarks that roughly you have a 40% attach rate for your algos. I think it was on your solid tumor assays in oncology. I was wondering if you could just break down a little bit further which products are driving the higher attach rates there and Maybe what gives you confidence of even expanding that within the next 12 months or so?"
+    },
+    {
+      "speaker": "spk11",
+      "text": "Yeah, we have a variety of algorithms that we've built over the years. Some of them, for example, are homologous recombination deficiency algorithm, Our tumor origin algorithm where, you know, in about 5% of cancer patients, we don't know the site of primary diagnosis. We, off of our transcriptomic assay or RNA assay, we can actually predict that with super high fidelity. We have an immune profile score that basically, typically you'd have a litmus test like tumor mutational burden. And if you were TMB high, you'd get a checkpoint inhibitor. If you weren't, you wouldn't. That test is not perfect. And so our immune profile score actually refines that test. It turns out that there's a significant population of people that would actually do well on an immunotherapy that don't get it. And likewise, a population that looks like they're going to do, they would respond to immunotherapy that doesn't. So we can predict that. And as these algorithms basically get more and more pervasively ordered, they're just another tool in this overall bag of, you know, kind of technology-enabled assets that our physicians increasingly rely on. They can just do all kinds of things that they can't do with others. And so when you look at, we called this out years ago, we said to people like, we will experience significant growth rates over time. And I think a couple of years ago that people were like, I don't see it. But now it's like years in the rear view mirror. And as much as we called out years ago, technology was going to drive a bunch of ordering behavior. I think we've just demonstrated that. Physicians are overworked. They're seeing a ton of patients. They don't have time in the day to do their job. And those companies that can help them make decisions, analyze real-time data, get to the right answer, so on and so forth, they're just going to flock to that platform, no different than you and I flock to Amazon. If it's convenient and easy and I get everything I need, that's going to drive my behavior. And so we don't see that trend slowing down. In fact, one of the reasons that we entered the MRD space and one of the reasons we entered the hereditary space is we actually believe that that will hold true across all major assays in oncology, from is my patient at risk to how should they treat them when they get disease, how do I monitor them post-treatment. And so we want to be comprehensive, we want to be embedded within the workflow, and we want to help physicians make real-time data-driven decisions, all of which is driving our growth."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Next question comes from the line of Casey Woodring with JP Morgan."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Your line is open."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Great. Thank you for taking my questions. Maybe a related one to Dan's earlier question, but you're guiding to adjusted EBITDA to hit $65 million this year. This quarter it was negative $3 million. Maybe just walk us through how you see EBITDA progressing over the course of the year and the cadence of gross margins and operating expenses. And then secondly, on MRD, just I would be curious to hear your latest thoughts on when you really expect that to start ramping up in terms of volumes. Thank you."
+    },
+    {
+      "speaker": "spk08",
+      "text": "I'll start on the adjusted EBITDA and then Eric can take the MRD question. So, you know, similar to last year, the phasing will be kind of growing throughout the year. So we had about, you know, 13 plus million dollars of improvement year over year in Q1. And we would expect similar trends in Q2. And then obviously the back half of the year is a bigger period for data, which leads to kind of expanded margins and more that drops down to the bottom line. So as we kind of highlighted at the beginning of the year, we are fortunate that we're generating a lot of gross profit dollars that allow us to make many of the investments that will allow us to generate long-term growth. But we want to continue to show improvement in operating leverage, and we feel like we're set up to do so."
+    },
+    {
+      "speaker": "spk11",
+      "text": "In terms of MRD, you know, the growth is really, really robust, right? I mean, as we called out, I think, last quarter, we're generating these kind of results with a very small Salesforce dedicated to MRD. We have not unleashed this to our entire sales machine, which is hundreds of people. And in part, it's because the unit economics until... reimbursement is better. And roughly 97% of our tests are tumor-informed. So Personalis is really carrying the burden of that reimbursement. They have a few indications approved, but they're in the midst of getting many, many more. And as they get a more rounded reimbursement package that looks and smells and feels a bit closer to Vinotera, it's very hard to unshackle all that volume because we would just be generating massive loss for them. If we dialed it up 10x, their cash burn would go up a lot. So we have to meter it, which we're doing which we're doing in close coordination with them. And as reimbursement improves over time, you'll see us continue to roll that out more aggressively. And I would suspect that you can just, you know, you can kind of do the math, right? I mean, if we really put a bunch of wood behind this, we would be a very, very formidable MRD player in the United States."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Next question comes from the line of Dan Arias with Stifel."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Your line is open."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Hi, guys. Thanks for the questions. Eric or Jim, I'm just looking at your slide deck here, and you have one in there that has a slide that talks about expecting 25% top-line growth over the next three years. You also have a slide in there, though, that talks about ASPs potentially being 30% higher. So, you know, I know it's illustrative, and I think the point is really to emphasize the EBITDA trend But what is either an underlying volume trend or just a revenue trend that kind of takes into account some of these ASP items that we should think about? Is that 25% that you're talking about inclusive of some ASP increase?"
+    },
+    {
+      "speaker": "spk11",
+      "text": "Yeah, I mean, we always have puts and takes. And one of the things that I think is great about our business is, and if you look at, for those that have been tracking us, now for three or four years. I know, you know, it's like whatever, now we're going to do, you know, I think our guidance is around a billion six, but like, you know, it's hard to, it shouldn't be lost on people that three or four years ago, we were doing three or 400 million. We were quite small. So we've had significant growth that we've been able to manage. And for a long time, we've called out our guidance. Now we have a small range, historically, just a number. And the reason that we can be, I think, relatively precise in this is we have a highly durable business with lots of levers that we can control. Some go our way. Some don't go our way. You know, Jim and I have never, we've been at this for a long time. We've never had a quarter where everything goes our way. Something always doesn't go our way. But the good news is in the aggregate, more things are up and to the right than aren't. And that's the that's the benefit of having a diversified business where you've got lots of different growth engines and growth levers. And so I think for us, we felt comfortable enough to say to the world, we expect 25 percent growth, not just in one year, but over three years. And at our scale, that's not a small number. I haven't done the math, but a billion six goes to like two billion and two and a half or three and becomes a pretty big number. Now, there will be ASP Lyft. There will be unit and volume lift. Some things will go our way. Some things won't. There will be trends. There will be weather. There will be this. There will be that. But in the aggregate, we built a business that's durable enough across a comprehensive portfolio in diagnostics that touches lots of different areas from hereditary to therapy selection to MRD to other disease areas like rare and so on and so forth to a very robust data and applications business. And so we're just fortunate that regardless of what happens, we feel pretty good that we can sustain good growth."
+    },
+    {
+      "speaker": "spk08",
+      "text": "And then the only thing I would add, Dan, is there's nothing implied by, given the upside that we do have in reimbursement, there's no implication on a volume perspective. Obviously, the increases in reimbursement are difficult to pinpoint exactly when they'll occur. And, you know, our volume trends continue to be very strong. So there's nothing implied by those two statements in the deck."
+    },
+    {
+      "speaker": "spk02",
+      "text": "There are no further questions at this time."
+    },
+    {
+      "speaker": "spk03",
+      "text": "I will now turn the call back over to Liz Grittoholo for closing remarks. Thank you all for joining us today."
+    },
+    {
+      "speaker": "spk13",
+      "text": "We look forward to speaking with you again in a few weeks at our investor day. Have a great day."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Ladies and gentlemen, that concludes today's call. Thank you all for joining and you may now disconnect."
+    }
+  ]
+}
