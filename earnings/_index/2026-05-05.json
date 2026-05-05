@@ -1,7 +1,7 @@
 {
   "date": "2026-05-05",
-  "generated_at": "2026-05-05T22:00:34Z",
-  "n_calls": 8,
+  "generated_at": "2026-05-05T23:45:25Z",
+  "n_calls": 9,
   "calls": [
     {
       "ticker": "BNTX",
@@ -34,17 +34,13 @@
       }
     },
     {
-      "ticker": "TEM",
-      "company": "Tempus AI, Inc.",
+      "ticker": "XRAY",
+      "company": "DENTSPLY SIRONA Inc.",
       "year": 2026,
       "quarter": 1,
       "conference_date": "2026-05-05T16:30:00-04:00",
       "ark_funds": {
-        "ARKG": "9.22%",
-        "ARKK": "5.23%",
-        "ARKSX": "1.71%",
-        "ARKUX": "1.71%",
-        "ARKVX": "1.71%"
+        "PRNT": "4.62%"
       }
     },
     {
@@ -59,6 +55,20 @@
       }
     },
     {
+      "ticker": "TEM",
+      "company": "Tempus AI, Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-05T16:30:00-04:00",
+      "ark_funds": {
+        "ARKG": "9.22%",
+        "ARKK": "5.23%",
+        "ARKSX": "1.71%",
+        "ARKUX": "1.71%",
+        "ARKVX": "1.71%"
+      }
+    },
+    {
       "ticker": "ADPT",
       "company": "Adaptive Biotechnologies Corporation",
       "year": 2026,
@@ -69,16 +79,6 @@
       }
     },
     {
-      "ticker": "XRAY",
-      "company": "DENTSPLY SIRONA Inc.",
-      "year": 2026,
-      "quarter": 1,
-      "conference_date": "2026-05-05T16:30:00-04:00",
-      "ark_funds": {
-        "PRNT": "4.62%"
-      }
-    },
-    {
       "ticker": "SDGR",
       "company": "Schrodinger, Inc.",
       "year": 2026,
@@ -86,6 +86,20 @@
       "conference_date": "2026-05-05T16:30:00-04:00",
       "ark_funds": {
         "ARKG": "2.07%"
+      }
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices, Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-05T17:00:00-04:00",
+      "ark_funds": {
+        "ARKF": "2.36%",
+        "ARKK": "5.06%",
+        "ARKQ": "6.44%",
+        "ARKW": "8.62%",
+        "ARKX": "4.16%"
       }
     }
   ]
