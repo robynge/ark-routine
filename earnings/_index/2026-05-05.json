@@ -1,6 +1,37 @@
 {
   "date": "2026-05-05",
-  "generated_at": "2026-05-05T11:59:51Z",
-  "n_calls": 0,
-  "calls": []
+  "generated_at": "2026-05-05T18:09:24Z",
+  "n_calls": 3,
+  "calls": [
+    {
+      "ticker": "PYPL",
+      "company": "PayPal Holdings, Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-05T08:00:00-04:00",
+      "ark_funds": {
+        "ARKF": "0.80%"
+      }
+    },
+    {
+      "ticker": "BNTX",
+      "company": "BioNTech SE",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-05T08:00:00-04:00",
+      "ark_funds": {
+        "ARKG": "0.99%"
+      }
+    },
+    {
+      "ticker": "AUDC",
+      "company": "AudioCodes Ltd.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-05T08:30:00-04:00",
+      "ark_funds": {
+        "IZRL": "1.79%"
+      }
+    }
+  ]
 }

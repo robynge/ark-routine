@@ -1,0 +1,467 @@
+{
+  "event": {
+    "ticker": "BNTX",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk18": {
+      "name": "Operator",
+      "title": "Conference Operator"
+    },
+    "spk03": {
+      "name": "Conference Moderator",
+      "title": "Moderator"
+    },
+    "spk10": {
+      "name": "Doug Maffay",
+      "title": "Vice President, Strategy and Investor Relations"
+    },
+    "spk06": {
+      "name": "Uğur Şahin",
+      "title": "Chief Executive Officer and Co-Founder"
+    },
+    "spk02": {
+      "name": "Özlem Türeci",
+      "title": "Chief Medical Officer and Co-Founder"
+    },
+    "spk01": {
+      "name": "Ramon Zapata",
+      "title": "Chief Financial Officer"
+    },
+    "spk17": {
+      "name": "Dana Graybosh",
+      "title": "Analyst, Learing Partners"
+    },
+    "spk16": {
+      "name": "Jessica Five",
+      "title": "Analyst, JPMorgan"
+    },
+    "spk21": {
+      "name": "Anne-Marie Hannekamp",
+      "title": "Chief Commercial Officer"
+    },
+    "spk20": {
+      "name": "Tazin Ahmad",
+      "title": "Analyst, Bank of America"
+    },
+    "spk12": {
+      "name": "Akash Tiwari",
+      "title": "Analyst, Jefferies"
+    },
+    "spk14": {
+      "name": "David Day",
+      "title": "Analyst, UBS"
+    },
+    "spk11": {
+      "name": "Asad Haider",
+      "title": "Analyst, Goldman Sachs"
+    },
+    "spk00": {
+      "name": "Terence Flynn",
+      "title": "Analyst, Morgan Stanley"
+    },
+    "spk15": {
+      "name": "Evan Seigerman",
+      "title": "Analyst, BMO Capital Markets"
+    },
+    "spk07": {
+      "name": "Corey Casimov",
+      "title": "Analyst, Evercore"
+    },
+    "spk04": {
+      "name": "Conference Moderator",
+      "title": "Moderator"
+    },
+    "spk13": {
+      "name": "Mohit Bansal",
+      "title": "Analyst, Wells Fargo"
+    },
+    "spk19": {
+      "name": "Yaron Werber",
+      "title": "Analyst, TD Securities"
+    },
+    "spk09": {
+      "name": "Jeff Meacham",
+      "title": "Analyst, Citigroup"
+    },
+    "spk08": {
+      "name": "Harry Gillis",
+      "title": "Analyst, Berenberg"
+    },
+    "spk05": {
+      "name": "Uğur Şahin",
+      "title": "Chief Executive Officer and Co-Founder"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk18",
+      "text": "Welcome to BioNTech's first quarter 2026 earnings call. I will now hand the call over to Doug Maffay, Vice President, Strategy and Investor Relations."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Please go ahead. Thank you, Operator. Good morning and good afternoon."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Thank you for joining BioNTech's first quarter 2026 earnings call. As a reminder, the slides we will use during this call and the corresponding press release can be found in the investor section of our website. On the next slide, you will see our forward-looking statements disclaimer. Additional information about these statements and other risks are described in our filings with the U.S. Securities and Exchange Commission, or SEC. Forward-looking statements on this call are subject to significant risks and uncertainties and speak only as of the date of this conference call. We undertake no obligation to update or revise any of these statements. On slide three, you can find the agenda for today's call. I'm joined by the following members of BioNTech's management team. Ugo Shaheen, Chief Executive Officer and Co-Founder, Oslem Tureci, Chief Medical Officer and Co-Founder, and Ramon Zapata, Chief Financial Officer. Also available for the Q&A portion of today's call is Anne-Marie Hannekamp, our Chief Commercial Officer. With this, I'll hand the call over to Ugar."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thank you, Doug, and a warm welcome to everyone joining us today. As BioNTech has grown, our vision has remained constant, translating science into survival, Cancer is a complex systems disease with heterogeneity across patients and variability within individual tumors. The future of cancer treatment will therefore center around rationally designed therapeutic combinations, pairing potent and precise mechanisms of action that create biological synergies. To address this, BioNTech has built a diversified toolkit of modalities comprising immunomodulators, ADCs, and mRNA cancer immunotherapies. We believe that combination approaches will be key to elevate patient outcomes meaningfully across solid tumors. To execute against that vision in 2026, we have three priorities. First, accelerate the late-stage development of our oncology assets Key late-stage data readouts are anticipated from our first wave of oncology programs this year. Second, build momentum in combination therapy. In 2026, we are expanding our novel novel combination strategy centered around Pumitamic as potential next-generation IO backbone. This includes the first expected readouts of combination trials with our ADCs as well as with other next-generation targeted therapies. including the recently announced partnership with Böhringer Ingelheim to combine Prometamic with Opric Stomic. Third, shift from a platform-centric to a tumor-centric clinical development approach around high incidence cancers, such as lung cancer, breast cancer, and other tumor types. The foundation of this matrix approach is our combination strategy, which allows us to address several lines of treatment with different acid combinations. In March, we announced plans to pursue next-generation mRNA innovations in a new independent company founded and led by Ersdam and I. With BioNTech and our new company focusing on their respective strategic priorities, we aim to maximize value for patients and shareholders. Planning at arm's length is ongoing and we expect to share details of an agreement later this year. BioNTech is well positioned for this next phase. With a growing late-stage pipeline, strong partnerships, and financial strength, we are on track to become a diversified, multi-product oncology company by 2030. We are targeting more than 17 late-stage and pivotal trial readouts to 2030, spanning multiple tumor types and different lines of treatment. We enter the remainder of this year with momentum, solid execution, and a rich set of catalyst opportunities ahead. With this, I will hand over to Özlem for an update on our oncology execution."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you, Ugo. I'm glad to be speaking with everyone today. BioNTech's clinical development strategy seeks to address the full continuum of cancer, from resected high-risk tumors in the early setting to advanced and metastatic disease, as well as treatment-resistant and refractory cancers. We have defined a set of key tumor focus areas with high incidence and high unmet need, including lung cancer, breast cancer, and others. Across these tumor focus areas, our goal is to leverage novel combinations to maximize the potential of our pipeline and to elevate solid tumor treatment outcomes. As such, we are advancing multiple assets from our multimodal oncology pipeline into late-stage development. During the first quarter of 2026, we continued to make progress here, and I look forward to speaking to some of these updates today. I'll begin with lung cancer, which is our most advanced example of our disease area-focused approach. Our lung cancer strategy is built as a matrix across, firstly, disease stages and settings, from resectable tumors to unresectable stage 3 disease through metastatic first line and later lines of therapy. Second, clinical and molecular subgroups, including patients with and without actionable alterations and with different PD-L1 expression levels. And third, treatment backbones and combinations with pomatermic at the core. This quarter, we continue to add to the body of evidence for our lung cancer approach, including the presentation of new data at the European Lung Cancer Congress. starting with Pumitamic, our PD-L1V-GFA bispecific antibody, and the IO backbone of our combination-based development strategy. In March, we presented phase 1 B2A data at the ELCC. This trial evaluated Pumitamic as a monotherapy in patients with previously untreated advanced non-small cell lung cancer enrolling both squamous and non-squamous histologies. The results are encouraging. In an overall patient population with PD-L1 expression of at least 1%, we observed a confirmed objective response rate of 46%, a median progression-free survival of 13.6 months, and a median overall survival of 27 months. The disease control rate was 96%. Two features of these data deserve particular emphasis. First, the activity observed across PD-L1 subgroups is noteworthy. And second, the particularly strong response rate of 71% in PD-L1-high squamous disease. The tolerability profile was manageable, with a low rate of treatment discontinuation. These data support the ongoing global phase III program for pulmetamic in lung cancer. The Rosetta Lung O2 trial is currently recruiting in its phase 3 portion, comparing Pumitamic plus chemotherapy to Pembrolizumab plus chemotherapy in first-line non-small cell lung cancer. Phase 2 data from this trial are expected to be presented at ESCO 2026. As Ugo mentioned in his opening remarks, another component of our lung strategy is our recently announced collaboration with Boehringer Ingelheim. The study combines DLL-free targeting T-cell engager, or BRICS-TAMIC, with PUMI-TAMIC. The clinical trial aims to develop a novel treatment regimen that delivers more sustained tumor control in extensive-stage small cell lung cancer, one of the most aggressive and underserved forms of cancer. Small cell lung cancer progresses rapidly, metastasizes early, and almost always recurs within a year after initial treatment. While the addition of immune checkpoint inhibitors to chemotherapy has led to improved survival outcomes for patients with extensive stage disease, most patients progress within months after treatment, and the prognosis remains poor. The collaboration combines two complementary immunotherapeutic mechanisms to explore a potential new path to enhance and sustain anti-tumor immunity. Obrextamic redirects T cells to kill DLL3-expressing tumor cells, while Pumitamic aims to restore T cells' ability to recognize and destroy tumor cells while cutting off the blood and oxygen supply that feeds the tumor with the intention of preventing it from growing and proliferating. As you can see on our lung cancer slide, we are deploying multiple modalities, next-generation immune modulators, ADCs, and mRNA immunotherapy. Gotistobat is a critical component of that picture. Gotistobat is our selective TREC modulator targeting CTLA-4, developed in collaboration with our partner Oncocifor, and it is designed to precisely address the patient population that sits beyond Pumitamic's current focus, namely patients with metastatic squamous non-small cell lung cancer whose disease has progressed following platinum-based chemotherapy and PD-1, PD-L1 inhibitor treatment. This is a setting with very few effective options and poor prognosis. Gotistobard's differentiated mechanism, selective regulatory T-cell depletion in the tumor microenvironment, is designed to re-engage the immune system even after prior checkpoint inhibitor exposure. In January, corticobar received often drug designation from the FDA for squamous non-small cell lung cancer, building on its existing fast track designation. In March, at the ELCC, we presented updated data from the non-pivotal dose confirmation stage of PRESERVE-003, our global phase 3 trial. The data are very encouraging. The 12-month PFS rate of 25% for gotistobar versus zero for docetaxel is a signal of durable disease control. Gotistobar reduced the risk of death in this IO pretreated patient population by 54% compared to docetaxel with a hazard ratio of 0.46. The median OS in the gotistobar arm has not yet been reached compared to approximately 10 months with docetaxel. At 12 months, 63% of patients treated with cotistobar were alive, whereas 30% in the docetaxel arm. The safety profile was consistent with the previously established profile for cotistobar, with no new signals of concern. These encouraging data are derived from a small patient population and require further validation. Based on current event accrual projections, we expect interim data from the pivotal stage of Preserve003 later this year. This program reinforces the breadth and depth of what we are building in lung cancer. I'll now turn to gynecologic cancers, another of our tumor focus areas, and one where we have a late-stage asset, Trastuzumab-Pamirtican or T-PAM, Our HER2-targeted ADC developed in collaboration with our partner, Duality Bio. Updated TPAM data were presented at the Society of Gynecological Oncology annual meeting in April in patients with HER2 expressing previously treated advanced or metastatic endometrial cancer. Including patients who had received prior immunotherapy, TPAM demonstrated a confirmed objective response rate of 49% with a median duration of response of 9.9 months and a disease control rate of 79%. Responses were observed across all HER2 expression levels, IHC1+, 2+, and also 3+. The safety profile was manageable and consistent with what has been previously reported for ADCs and HER2-targeted agents in this setting. the confirmatory FIRN EC01 phase III trial continues to enroll. In addition to our studies of T-PAM in endometrial cancer, the ADC is also being evaluated in a phase III clinical trial in HR-positive her to low metastatic breast cancer, the DYNASTY breast O2 trial. A phase III interim analysis for this trial is expected later this year based on current event-cruel projections. Moving now to our portfolio of innovative mRNA cancer immunotherapies, which aim to activate and educate the immune system with precision. Our personalized approach includes autogen Sevoumeran, which is partnered with Roche Genentech. In 2025 and early this year, we published data from multiple trials that support our focus on the adjuvant setting where tumor burden and heterogeneity is lowest. The biology and our clinical experience point to greatest relevance in earlier disease settings where lower tumor burden allows the immune system to consolidate control. Updated long-term follow-up data from the PDAC Phase I trial were presented at the AACR annual meeting this year. Among the eight patients who mounted an immune response to the immunotherapy, seven remained alive for up to six years after surgery and demonstrated persistent cytotoxic cancer-killing lymphocytes. In contrast of the eight patients who did not exhibit an immune response, only two were still alive with a median overall survival of 3.4 years. In adjuvant CT DNA positive, stage 2 high-risk or stage 3 colorectal cancer we have a phase two trial evaluating autogen-savumaran monotherapy against watchful waiting. The final analysis with disease-free survival as primary endpoint is event-driven and according to projections to be expected in 2027. For FIGSVAC in first line HPV 16 positive PD-L1 high HNSCC, we have a phase two free trial in combination with pembrolizumab. Recruitment is ongoing, and the Phase III interim analysis is expected in 2026. In Q1, we generated additional data and evidence to support lung and gynecological cancer, two of our tumor disease focus areas in particular. Looking ahead, the catalyst calendar for the remainder of the year remains rich. In our late-stage programs, we anticipate five more readouts. In parallel, early data from our Prometamic plus ADC combination trials will begin to inform the design of our first pivotal combination trials, a milestone that marks the next chapter of our novel novel strategy. We are in the midst of a sustained evidence-led data generation phase. Each readout is designed to advance our pipeline de-risk our programs and bring us closer to our goal of delivering meaningful new treatment options for patients with cancer. With that, I will now turn the presentation over to our CFO, Amon Sabata, for the financial update."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thank you, Oslem, and a warm welcome to everyone joining us. Today, I will cover three topics. To begin, our first quarter 2026 financial results. Second, our reaffirmed full year 2026 financial guidance. And third, an update on our capital allocation strategy, where I will speak to our plan share buyback program and our manufacturing footprint consolidation initiative. Note that all figures will be in euros unless otherwise stated. Our first quarter performance is in line with our expectations. and reflects the seasonal demand pattern we expect across quarters for COVID-19 vaccines. Revenues for the first quarter of 2026 were $118 million. This compares to $183 million in the same period last year. The decrease was primarily driven by lower demand from our COVID-19 vaccines as expected. R&D expenses. were 557 million compared to 526 million in the prior year period. The increase was driven by higher spending on our immuno-oncology and ADC programs, in particular, Pumitamib and Gotistobarb, as well as R&D costs from BioNTech China, previously named Bioceus, and CureVac, which were acquired in 2025. These increases were partly offset by lower expenses from our COVID-19 vaccine collaboration with Pfizer. On an adjusted basis, R&D expenses were $527 million, excluding an impairment charge for an intangible asset. SD&A expenses were $151 million, compared to $121 million in the prior year period. The increase was mainly driven by our ongoing commercial buildup and the post-acquisition inclusion of operations from BioNTech China and CureVac. Adjusted SG&A expenses were identical to the results under IFRS accounting standards. We ended the first quarter with $16.8 billion in cash, cash equivalents, and security investments. Our strong financial position continues to support sustained investment across our pipeline, late-stage oncology programs, and our preparations for commercialization. Turning to the next slide, we are reaffirming our previously disclosed four-year 2026 financial guidance. All guidance is provided on an adjusted non-IFRS basis. We expect total revenues for 2026 in the range of $2 to $2.3 billion. As stated at the beginning of the year, we anticipate lower COVID-19 vaccine revenues compared to 2025, driven by declines in both the United States and European markets. The US market continues to be competitive and dynamic. In Europe, we expect lower revenues as we defend our market share and begin managing the transition away from multi-year contracts. In Germany, specifically, we recognize direct sales of our COVID-19 vaccines as revenue. Hence, the anticipated declines in our sales of COVID-19 vaccines in the country will have a direct impact to our top line, whereas revenues outside of Germany only affect our top line as part of the 50% gross profit split with our partner Pfizer. Revenues from our collaboration with VMS, from the pandemic preparedness contract with the German government, and from our services businesses are expected to remain stable. On revenue cadence, we anticipate COVID-19 vaccine revenue facing to be similar to last year, with the last four months of the year driving the majority of the full year revenue figure. The VMS collaboration payment of $613 million is expected to be recognized in the third quarter of 2026. We expect adjusted R&D expenses in the range of $2.2 to $2.5 billion. Investment will be concentrated on our priority late-stage programs. We will continue applying disciplined portfolio prioritization across all development stages. We expect adjusted SD&A expenses in the range of $700 to $800 million, reflecting our continued commercial build-out in oncology. Turning to capital allocation, let me highlight three key components of our approach to create long-term shareholder value. The first component is focused around the investments to maximize the potential of our pipeline. We actively manage our portfolio, focusing our resources on programs that have the greatest potential to elevate patient outcomes. This means increasing investment into our late-stage priority programs, namely Pumitamix, our ADC assets, mRNA immunotherapies, and the respective combinations, while reducing spend outside of those areas. The second component see us mobilizing our strong balance sheet as a statement of confidence in the business. We plan to initiate a share repurchase program of American depository shares of up to $1 billion over the coming 12 months. Let me walk you through some principles that guided this decision. One is opportunistic flexibility. This program gives us the ability to deploy capital during times when our share price may be disconnected from intrinsic company value. Another principle is that our pipeline remains the primary driver of value. The buyback is supportive of the share price, but it is not determinative. The real value creation story at BioNTech remains the clinical execution of our oncology pipeline. Also, disciplined capital management. This program complements our R&D investment. We retain full optionality to advance our pipeline, execute partnerships, and corporate development opportunities. Our balance sheet with $16.8 billion in cash, cash equivalents, and security investments gives us the capacity to do all of this simultaneously. In short, the share repurchase program reflects confidence in our science, capital management discipline, and a commitment to delivering long-term value for our shareholders. The third key component of our capital allocation strategy relates to the optimization of operational efficiency and commitment to sustainable value creation. To this end, we plan to continue aligning and consolidating our manufacturing network. focusing on sites where capacities will become underutilized or idle in the next 24 months. Excess capacity can be driven by evolving supply needs, mergers and acquisitions, BioNTech's partners' manufacturing capacities, and completion of contracts. Specifically, we plan to exit operations at our manufacturing sites in either Oberstein, Marburg, and Singapore, as well as Curvax sites. This will affect just over 1,800 positions. For each of these manufacturing sites, we are exploring divestment options through the end of Q3 2026. This includes a partial or total sale. We expect cost savings to ramp up over time. Once the measures are fully implemented, we expect approximately $500 million in recurring annual savings. In alignment with our capital allocation approach, These savings are intended to further support the advancement of our oncology pipeline towards commercialization. This is a decision we have taken after careful assessment. Our commercial and R&D drug supply will be covered by our broader manufacturing network. Supply of our COVID-19 vaccine will be fully handled by our partner Pfizer via their established manufacturing capacities beginning at the end of 2026. These plans underline our commitment to continuously steer our capacities in support of our strategy to become a multi-product company by 2030. As we look across these three horizons on the slide, we are energized by the progress we have made to date and the path ahead. We are making progress towards our strategy. We are progressing key programs into pivotal stage, leveraging our partnership with VMS, and our 45 balance sheets to fund our pipeline. From 2026 through 2029, we will drive execution at scale and speed, advancing combination therapy studies, accelerating pivotal trial execution, building tumor indication specific portfolios, and executing our first oncology launches. By 2030, our goal is to be a diversified, multi-product global biopharmaceutical company. addressing the high unmet medical needs of cancer patients worldwide. BioNTech's robust financial position empowers us to pursue that goal. We remain fully committed to translating our science into survival for patients. With that, I will hand back to the operator to open the call for questions. Thank you."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Thank you. To ask a question, you will need to press star 1 and 1 on your telephone and wait for your name to be announced. To withdraw your question, please press star one and one again. For the benefit of all participants on today's call, you are kindly asked to limit yourself to one question, asking it clearly. Our first question comes from the line of Dana Graybosh from Learing Partners. Please go ahead, your line is open."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Hi, thanks for the question. We're excited to see the initial data from Rosetta Long 02 at ASCO. And I wonder, although I have a question more about the statistical design of that study. We've all noticed, and I think you shared in the last earnings call, that you changed the primary endpoint from a dual PFS OS to a single PFS primary. And I wonder if you could talk more about why you made that change, including any conversations you've had with BMS and with FDA."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Okay, great. Thanks. So, first question from Dana about Rosetta-Lung 02, which is coming at ASCO, and a question about the rationale behind the endpoint change, which we announced, I believe, about two months ago."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yes, I can take that, Doug. Hi, Dana. Thank you for the question. We have made this change because PFS is a well-accepted endpoint in non-small cell lung cancer, and we expect the largest and earliest benefit signal in this endpoint and wanted to make sure that we allocate the full alpha on this endpoint and have a statistically robust readout. This does not mean that we neglect overall survival. Overall survival is, in fact, a key secondary endpoint and will also be assessed. And as you know, this is a well-trodden regulatory path, in particular for non-small cell lung cancer, which has also been extensively used by Kate Ruder."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you. We'll now move on to our next question."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Our next question comes from the line of Jessica Five from JPMorgan. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Great. Good morning. Thanks for taking my question. Thinking ahead to Dynasty Breast O2, the HR-positive HER2 load trial for TPM, On what metric or endpoint do you expect the data to best underscore differentiation from in HER2?"
+    },
+    {
+      "speaker": "spk10",
+      "text": "Okay. Question from Jess at JPM on essentially how we see differentiation of TPAM versus in HER2."
+    },
+    {
+      "speaker": "spk02",
+      "text": "So, you asked for the endpoint metrics. The primary endpoint is objective response rate in connection with duration of response. And we have provided the data from the largest recurrent endometrial cancer population at SGO, which you might have seen where we demonstrate the objective response rate and duration of response together with a manageable safety profile. The differentiation is that we have now a data set which shows that our ADC has also clinically meaningful benefit in the lower HER2 population, in the 1 plus and 2 plus population, which is a differentiator."
+    },
+    {
+      "speaker": "spk16",
+      "text": "I was asking for Dynasty Breast O2, the HER2 low trial, where we have benchmark data from in HER2."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yes."
+    },
+    {
+      "speaker": "spk06",
+      "text": "So this is a trial of T-PALM with chemotherapy. There's not a direct comparison of this with NHERA2. Of course, there are data where you can benchmark the results of this trial with NHERA2. We have to see the result. and ensure, ensure, ensure, first of all, that there's a positive study, and then whether we can make a cost comparison to other trials."
+    },
+    {
+      "speaker": "spk21",
+      "text": "And I'll add, hello, this is Anne-Marie, Chief Commercial Officer for BioNTech. We've always signaled that TPEN is an important asset for BioNTech, also predominantly as a strategic asset, not just for building out our commercial engine, which will be the first time for BioNTech in the oncology space, but also as a combination partner. So to this point, we will wait for the data readout. The physicians we spoke to always signal that they like to have more than one option. So we do see a meaningful place for TPAM in the breast cancer space as well."
+    },
+    {
+      "speaker": "spk03",
+      "text": "But again, a strategic asset that we predominantly also focus on in combination therapy. Thank you. Thank you."
+    },
+    {
+      "speaker": "spk18",
+      "text": "We'll now move on to our next question. And our next question comes from the line of Tazin Ahmad from Bank of America. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk20",
+      "text": "Hi, guys. Thanks for taking my question. For the upcoming data that you're expecting to show at ASCO for PUMI plus chemo in the frontline non-small cell setting, how can we best frame expectations? What would be good data therefore?"
+    },
+    {
+      "speaker": "spk10",
+      "text": "Okay, thank you. So, that question was on our upcoming data that we're presenting at ASCO PUMI frontline non-small cell lung cancer. What are our expectations in terms of that data set? Ursula, would you like to take that one?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yes, I can take that. So, this, the data was presented at ASCO is from the phase two part of this trial. And what we will show is the efficacy profile and the safety profile of two different doses of Pumita in the combination with chemo in this patient population. And that data might help to inform about what to expect then from the ongoing pivotal phase three part of the trial."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you. We'll now move on to our next question."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Our next question comes from the line of Akash Tiwari from Jefferies. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Hey, this is Manoj on for Agha. Just one from my end. Given the recent disclosures around the PFO syndrome from the Harmony 3 global trial, Do you think any changes in effect size assumptions or design changes needed to be considered for the Rosetat lung trials? And also, the optiotrope lung for trial showed interim overall survival hazard ratio around 0.6. So, do you still think the chemo combos are the optimal approach, market entry approach in the setting?"
+    },
+    {
+      "speaker": "spk10",
+      "text": "Okay. Thank you, Manoj. So, I caught that. First question is on Harmony 03, if that changes our perspective on the space. And second question, it was a little tricky to hear the audio. Was it about best option for chemo combinations?"
+    },
+    {
+      "speaker": "spk12",
+      "text": "Could you just clarify the question? Yes. So Merck's OptiTrop Lung 04 from the SAC TMD showed like hazard ratio of 0.6. overall hazard ratio of 0.6. So just wondering, like, whether chemo combos are still the option or, like, going for the ADC combos will be the most optimal option to enter the marker first."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Okay, great. Thank you for clarifying. So, Aslam, should we pass over to you for the Harmony O3 data? And then, Ugar, if you could offer some context on the second question, please."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yeah, sure. So the recent disclosure of Harmony-free data is about interim analysis of PFS, which was a late-edit early look into PFS. We don't know much about the metrics behind that, so we cannot comment extensively. However, Summit management has signaled that, quote-unquote, they have deliberately used a minimal alpha to set the bar high, which is a very valid approach at that. In this case, however, it also means that statistically, this interim analysis is uninformative on the hazard ratio. So, we have to wait for the next analysis, which will be later this year."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "spk06",
+      "text": "And so, in short, no, we are This does not change anything for our overall strategy. We would like to remind everyone that our overall strategy has several days of development. The first day of development is Prometamic Sashimo. But we have already started more than a year ago with this first combination, ABC combination. And at the moment, we have more than 10 clinical tests ongoing to assess the combination of Prometamic with our ADCs 3 to 4, 3 to 3, 3 to 4, 3 to 5, 3 to 6. And we will report on the studies end of the second half of 2026. And these studies, of course, provide our differentiation strategy, what comes next as a second phase. which will be a combination of chromatomics with selected ADCs in different type of indications. Thank you so much."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Thank you. We'll now move on to our next question. Our next question comes from the line of David Day from UBS. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Great. Thanks for taking my questions. I just wanted to come back to where you changed the endpoint from dual PFS OS to PFS as a primary endpoint. How do you think this will help with regulatory pathway? Does that mean that you're able to actually get approved just on PFS with accelerated approval and then full approval on the OS? Just help us think a little bit around how should we think about a regular path using PFS as a primary endpoint?"
+    },
+    {
+      "speaker": "spk10",
+      "text": "Okay, great. Thank you, David. Also, maybe if I pass to you, so it was a question, a follow-on question on Reset Salon 02 on the endpoint changing from dual to primary on the rationale for that and specifically what it helps us to do with the development."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yes. So, first of all, this decision was discussed with our partner BMS and also with regulators. is in fact that PFS is the earliest potential readout. We know that the type of next-gen IOs, that PFS is the earliest and also the largest, largest endpoint to cover the mechanism of action of this next-gen IOs. And with having PFS as only primary endpoint, we can put the entire alpha on this PFS and ensure that it has the highest readout power. So this is the rationale behind that. Again, still overall survival is a key secondary endpoint, and having it as a secondary endpoint allows us to get a clean path to approval with even a delayed or soft OS."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you. We'll now move on to our next question."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Our next question comes from the line of Asad Haider from Goldman Sachs. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Great. Thanks for taking the question, and thanks for all the updates on the trial progress. Maybe just shifting gears quickly for Ramon on capital allocation, just given the substantial cash balance, would it be helpful to hear your updated thoughts on deployment and what the considerations that went into the $1 billion share program, repurchase program you announced this morning. And then just on the revenue guidance reaffirmation, despite the seasonally low of COVID in 1Q that you're calling out, just talk us through how you're thinking about the revenue progression through the rest of the year. Thank you."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Okay, great. Thank you, Asad. So, Ramon. Thank you."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thank you, Asad. I appreciate the questions. So, first, talking about our capital allocation, I think our capital allocation strategy remains the same. We acknowledge that we are in an investment phase as we are building BioNTech into a commercial stage multiprotocol oncology company by 2030. And the good thing is that the strength of our balance sheet allows us to invest in the pipeline, continue to build our commercial capabilities, and preserve flexibility for targeted opportunities in the M&A or the BD space. And additionally, now it also allows us to return capital to shareholders. So the report chasing program is not at the expense of our innovation efforts or pipeline, but it's more to be seen as an element of our overall capital allocation strategy. And then if I move to the revenue guidance and the dynamics of the COVID vaccines revenues, So I would say that our current guidance already assumes lower COVID-19 vaccine revenues versus last year. And as you rightly point out, so the regulatory and the recommendation landscape remains dynamic. And as you can expect, we are monitoring these developments very closely. Now, based on the information available today and including the expected seasonal profile of combinator revenues, we are reaffirming our 2026 revenue guidance."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you. We'll now move on to our next question."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Our next question comes from the line of Terence Flynn from Morgan Stanley. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Great. Thanks so much. Just two for me. I was wondering if there's any update on the CEO search and if you can provide a timeline for when that might be finalized. And then also with respect to your TPAM FDA discussions, A similar type question, just any update there and expected timeline for visibility. Thank you."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Hi, Terrence. Thank you for the question."
+    },
+    {
+      "speaker": "spk01",
+      "text": "On the succession process, so this is being led by the supervisory board, so I cannot comment on specific timing or process details. What I can tell you is that both UGUR and OSLIM Together with the full management board and the overall organization, we remain committed to delivering our 2026 priorities. Our operating focus and strategy has not changed. And we will update the market as appropriate, but we have more information on that."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Okay, great. Thank you, Ramon. So now on TPAM, maybe if we pass to Oslin first of all, and then Anne-Marie, you could add some color if possible."
+    },
+    {
+      "speaker": "spk02",
+      "text": "And this time it's about endometrial cancer study, right? Sorry for missing that for the other question. So, this cancer phase two cohort is fully enrolled, and we have presented the data. The confirmatory phase three trial, the Fern EC1, continues to enroll, and we are in discussion with the FDA. We haven't changed our plans to submit."
+    },
+    {
+      "speaker": "spk21",
+      "text": "Yeah, and I would add to that what I stated before. TPAM continues to be an important asset for us to lay your groundwork for commercial stage biopharmacal company. And we continue to see the startup launch as a very strategic opportunity to build our commercial infrastructure and prepare for potential future launches where, as you know, especially in the United States, time to peak for oncology assets go around timelines of potentially nine months. So we don't have time to learn on the fly, sort of saying, especially if we look at the potential for Pomidamic, where we also partner with Bristol-Myers Squibb on the commercialization. This together would set us up nicely for success, even though currently we're not experienced in oncology launches as of yet."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you. We'll now move on to our next question."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Our next question comes from the line of Evan Seigerman from BMO Capital Markets. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Kyle, thank you so much for taking my question. We're looking forward to the data at ASCO. I want to follow up on Terrence's question. As you think about the management change, can you talk to the profile of a new executive team that you might want to bring in Is it still R&D focused, or are we going to shift more towards commercial as you transform the company? Thank you very much."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thank you. Thank you, Evan. Again, sorry if I am not going to be able to give too many specifics and details because the management board is not running this process. It's our supervisory board. Now, having said that, our chairman, Helmut Jekyll has shared some characteristics last quarter when we disclosed the change in the management board. And I think it's, so what we are looking is for skills and capabilities in late stage development, as well as, you know, commercialization, production and commercialization of scale of pharmaceutical products. So I think I would be close to whatever would be commenting on that."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you. We'll now move on to our next question."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Our next question comes from the line of Corey Casimov from Evercore. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Hey, it's Charlie Austin Corey. Thanks for taking the question."
+    },
+    {
+      "speaker": "spk07",
+      "text": "I do have one question. I was going to ask you if, like, competitor data shows, like, an OS benefit, how does that change the bar for, instead of 1.0.2, like, with a strong, like, PFS and just OS trend here, be enough, or does that kind of just the entire class needs, like, a clear OS benefit?"
+    },
+    {
+      "speaker": "spk10",
+      "text": "I'm sorry. The audio was not so clear on that. Would you mind clarifying, were you talking about Pfizer's data or a different data set?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "No, no, I was just saying, I asked if it was a competitor of bi-specific data, the PD-1, the JET space here, and that does show like a clear OS benefit. How does that change or raise the bar for your studies?"
+    },
+    {
+      "speaker": "spk10",
+      "text": "Oh, okay. Yeah, understood. We get that now. So I'll pass over to... Can you read it?"
+    },
+    {
+      "speaker": "spk18",
+      "text": "It's about how many sticks did I get that one?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "If how many sticks is positive? Yeah. Yeah, there's all S. Okay. How... this would change our view."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Okay, so we are also excited to see the data at ESCO, because it could be further validation of the class as such, and the data we have seen earlier from Harmony6 with a very good PFS was already validation. However, I would like to remind you that this is a China study, which means that the comparator is TISLA plus chemo, not PEMBO plus chemo. So it would not have a direct read-through for our Rosetta-Lang O2 study."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk18",
+      "text": "We'll now move on to our next question. Our next question comes from the line of Mohit Bansal from Wells Fargo. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Great. Thank you very much for taking my question. So given the Harmony 3 versus Harmony 6, and we don't know the data in alpha spend on Harmony 3, but there has been some, there are some questions around the translatability of China data to the global data. So I'm not asking you to comment on Harmony 3, but would love to understand when you are seeing your own China data versus global data, What gives you confidence that you would be able to replicate what you saw in China into a global trial? Thank you."
+    },
+    {
+      "speaker": "spk02",
+      "text": "So generally speaking, there are data sets. For example, Pumita, small cell lung cancer, Pumita, TMBC data, Ivo, second-line EGFR-mutated non-small cell lung cancer data, which are reproductions of previous China data on a global level. So we continue to be very positive about the regional reproducibility of this data. Having said that, with regard to the molecules, to this molecule class there seems to be reproducibility of data. However, there could be still a setting specific friction on data reproducibility in populations or indications in which there are major differences between global and regional populations. For example, small cell lung cancer or non-small cell lung cancer In China, the smoking rates, smokers' rates are different to global. And that means we have to continue to monitor and follow the data, and we'll see from the data which comes out whether such setting-specific frictions on reproducibility will show up."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Thank you. We'll now move on to our next question. Our next question comes from the line of Yaron Werber from TD Securities. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk19",
+      "text": "Hi, this is Jaina. I'm for your own. Thanks for taking our question. So to make sure we want to be pretty catalyst rich here with five more lead stage pipeline data readouts across GODI, TPAM, BNT-103, et cetera, besides the upcoming PUMI data set at ASCO, how should we think about the order and the timing for the rest of these QA stage readouts? And then secondly, on PUMI Beyond your three lead indications, obviously a bunch of other phase three trials starting this year, how are you and Bristol evaluating where Primitivimax has the most potential? Thanks so much."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Okay, thank you for that."
+    },
+    {
+      "speaker": "spk10",
+      "text": "So I caught that that is essentially around timing and cadence of our late-stage data readouts. I would imagine that in the coming year, because that's what we've disclosed. And then also how discussions are going with EMS in terms of which indications to prioritize. So, Roslyn, shall I pass over to you for these?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yes, I can. Yes, I can start with the second one from a scientific and clinical and medical point of view. I can say that BMS and we are very aligned in the understanding of the potential of Pumica and that it is a very broad opportunity. and we are deciding on the sequence and on the specific indications together based on data and all the other dimensions which are relevant for making strategic decisions for a Pantuma portfolio. With regard to data readouts, we will have A couple of data readouts on Pumita over the next 12 to 18 months. One of these readouts is, for example, at ESCO, the Rosetta-Lang O2 trial. Later this year, multiple readouts from Phase I-II studies. of combinations with our ADCs with Pumita, and additional readouts will follow in the next year."
+    },
+    {
+      "speaker": "spk21",
+      "text": "Yeah, and I would just add on the BMS and Pumita Mix strategy is that we have a very deep and strong governance ongoing with BMS at different levels. So from a scientific, from a clinical perspective, and also we're looking, of course, at where can we address unmet medical needs the most? And as you know, the oncology space is in constant evolution, providing more options for patients and making sure that by the time our designs or trials read out, we're still relevant in what the current standard of practice, clinical practice is. And that is something where we can leverage both BMSs and BioNTech's capabilities as we're coming together to make those decisions. And sometimes that also includes changing some of our initial thinking"
+    },
+    {
+      "speaker": "spk03",
+      "text": "to maximize the opportunity for PrometaMix for both biotech . Thank you so much. Thank you."
+    },
+    {
+      "speaker": "spk18",
+      "text": "We'll now move on to our next question. Our next question comes from the line of Jeff Meacham from Citigroup. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Hey, good morning, guys. Thanks for the question. This is Jarway on for Jeff. Maybe just following up on earlier questions on TPAM, Are there any outstanding data maturation requirements for TPAN that could push a timeline beyond the current 2026 submission? And then earlier on the comments on TPAN having efficacy in low HER2 as well, is the strategy to pursue a broad pan HER2 label? Thanks so much."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Okay, great. Thanks."
+    },
+    {
+      "speaker": "spk10",
+      "text": "So we caught. whether TPAM has any outstanding data requests that could impact a regulatory pathway, and then clarification on HER2 loan and what our approach might be there. So, Osun, would you like to take the data question?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yes, I can take both, and thereafter we can also get some commercial input here. So, no, we don't have outstanding data questions around TPAM. What we are currently monitoring is the enrollment of the confirmatory trial to ensure a harmonized timing of DLA submission and the timelines for data to come out of this confirmatory trial. With regard to the populations, interested in a broad label. That's our goal, given that we have a large data set for all HER2 IHC levels, including the low expression ones."
+    },
+    {
+      "speaker": "spk21",
+      "text": "And I would add from a commercialization perspective that I mentioned this before in talking to our customers or treating physicians that A secondary option is always welcome. I think TPAM, apart from our commercialization strategic launch and making sure that physicians start to get familiar with TPAM itself as we're also moving forward with combination strategy, it's going to be important for us to understand where we can leverage the strategic launch for TPAM specifically and then move through in commercialization."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you. We'll move on to our next question."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Our next question comes from the line of Harry Gillis from Berenberg. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Thank you very much for taking the questions. I have a follow-up on catalyst timings. I was wondering, based on the latest event accrual projections you have, can you be any more specific on the timing of the stage 2 portion of the Gotti-Stobart reading, and then also on the FIXVAC head and neck trial when we might expect those within 2026. And following on from that, for each of these, if they were to be positive, should we just expect a press release at the time, you know, stating that, or would we expect any specific data? And then given Gottesdobart's interim, and I believe the FIXVAC is as well, if these were to pass the interim readout, would we just hear nothing? and then maybe get an update at the next quarterly results. So just exactly when we might expect those and how we should expect an update."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you. Okay. Thank you, Harry, for those questions."
+    },
+    {
+      "speaker": "spk10",
+      "text": "So first question on stage two goatee data and then fix back head and neck and whether each would be likely to have interim data readouts or not. So Uga, I'll pass over to you for this one."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Yes, yes. I think from the timing, nothing changed. We had guided to the second half of 2026 for both studies."
+    },
+    {
+      "speaker": "spk06",
+      "text": "We are on track with regard to the enrollment in the study, and we are also on track with regard to the event count in the study. This will be interim readouts in both studies. with challenging hazard ratios. So it's a first interim readout. If the interim readout is positive, of course, we will document that. If the study continues to go, we will also inform the market that the interim readout was performed and the study will continue to go on."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Very clear. Thank you very much."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Thank you. This concludes today's conference call. Thank you for participating. You may now disconnect. Speakers please stand by."
+    }
+  ]
+}
