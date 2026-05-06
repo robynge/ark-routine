@@ -4,7 +4,10 @@ import csv, io, json, os, re, sys, threading, time
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date, datetime, timezone, timedelta
-from html import escape as _esc
+from html import escape as _html_escape
+
+def _esc(value):
+    return _html_escape(str(value)) if value is not None else ""
 from pathlib import Path
 
 import requests
