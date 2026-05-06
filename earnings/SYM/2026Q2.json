@@ -1,0 +1,451 @@
+{
+  "event": {
+    "ticker": "SYM",
+    "year": 2026,
+    "quarter": 2
+  },
+  "speaker_name_map_v2": {
+    "spk17": {
+      "name": "Operator",
+      "title": ""
+    },
+    "spk09": {
+      "name": "Charlie Anderson",
+      "title": "Vice President, Investor Relations"
+    },
+    "spk05": {
+      "name": "Rick Cohen",
+      "title": "Founder, Chairman and Chief Executive Officer"
+    },
+    "spk16": {
+      "name": "Izzy Martins",
+      "title": "Chief Financial Officer"
+    },
+    "spk15": {
+      "name": "Operator",
+      "title": ""
+    },
+    "spk12": {
+      "name": "Andy Kaplowitz",
+      "title": "Analyst, Citigroup"
+    },
+    "spk13": {
+      "name": "Joe Giordiano",
+      "title": "Analyst"
+    },
+    "spk14": {
+      "name": "Nicole DeBlas",
+      "title": "Analyst, Deutsche Bank"
+    },
+    "spk11": {
+      "name": "Matt Somerville",
+      "title": "Analyst, DA Davidson"
+    },
+    "spk08": {
+      "name": "Ken Newman",
+      "title": "Analyst, KeyBank Capital Markets"
+    },
+    "spk07": {
+      "name": "Mark Delaney",
+      "title": "Analyst, Goldman Sachs"
+    },
+    "spk02": {
+      "name": "Jim Ricciuti",
+      "title": "Analyst, Needham and Company"
+    },
+    "spk06": {
+      "name": "Guy Hardwick",
+      "title": "Analyst, Barclays"
+    },
+    "spk01": {
+      "name": "Colin Rush",
+      "title": "Analyst, Oppenheimer & Co."
+    },
+    "spk03": {
+      "name": "Derek Soderberg",
+      "title": "Analyst, Cantor Fitzgerald"
+    },
+    "spk00": {
+      "name": "Greg Palm",
+      "title": "Analyst, Craig Hallam"
+    },
+    "spk18": {
+      "name": "Robert Jameson",
+      "title": "Analyst, Vertical Research Partners"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk17",
+      "text": "Good day and thank you for standing by. Welcome to the Symbiotic Second Quarter 2026 Financial Results Conference Call. At this time, all participants are in a listen-only mode. After the speaker's presentation, there will be a question and answer session. To ask a question during the session, you will need to press star 11 on your telephone. You will then hear an automated message advising your hand has been raised. To withdraw your question, press star 11 again. Please be advised that today's conference is being recorded. I would now like to hand the conference over to your speaker today, Charlie Anderson, Vice President of Symbiotic Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Hello. Welcome to Symbiotic's second quarter of fiscal year 2026 financial results webcast. I'm Charlie Anderson, Symbiotic's Vice President of Investor Relations. Some of the statements that we make today regarding our business operations and financial performance may be considered forward-looking. Such statements are based on current expectations and assumptions that are subject to a number of risks and uncertainties. Actual results could differ materially. Please refer to our Form 10-K, including the risk factors. We undertake no obligation to update any forward-looking statements. In addition, during this call, we will present both GAAP and non-GAAP financial measures. Reconciliation of GAAP to non-GAAP measures is included in today's earnings press release, which is distributed and available to the public. to our investor relations website located at ir.symbotic.com. On today's call, we're joined by Rick Cohen, Symbotic's founder, chairman, and chief executive officer, and Izzy Martins, Symbotic's chief financial officer. These executives will discuss our second quarter of fiscal year 2026 results and our outlook, followed by Q&A. With that, I'll turn it over to Rick to begin. Rick?"
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thank you, Charlie. Good afternoon, and thank you for joining us to review our most recent results. In the second quarter, we continued to demonstrate strong execution against our objectives. We posted higher revenue growth than forecast with expanding margins, both on a sequential and year-over-year basis. Once again, this led to continued gap profitability and a strengthening balance sheet as we exited the second quarter with over $2 billion in cash and cash equivalents and no debt. Our momentum with customers continues to build, During the second quarter, we begin our first system deployment with Associated Wholesale Grocers, or AWG, the nation's largest cooperative food wholesaler to independently owned supermarkets. We're excited about the potential at AWG, which operates over 9 million square feet of warehouse space and distributes to over 3,500 retail locations. To build upon this momentum, our teams met with many existing and prospective customers last month at the MODEX trade show in Atlanta. A clear theme emerged with our existing customers in that they would like us to do more for them as our system performance and product portfolio have improved since we originally established these relationships. Our goal is to take our core system architecture and layer-on capabilities that allow customers to automate their supply chain fully end-to-end The analogy I often use that it's like an operating system and we add apps. Examples of this include our expansion into e-commerce and dock management. Having this total solution is also driving strong interest from prospective customers. These customers span new geographies and new verticals such as consumer packaged goods, food service, and apparel in addition to our existing verticals such as grocery, general merchandise, beverage, and health care. Within several of these verticals, a capability that has drawn strong interest is our system's ability to sequence goods from route optimization. On the technology front, we continue to make progress on our SIEM micro product for e-commerce order fulfillment and remained on track to install our first prototypes this calendar year. We also continue to invest in technologies meant to generate greater performance from our system, notably next generation battery technology with NIBOL to enhance the operability and efficiency of our bot fleet. We are also now deploying a larger version of our Symbot to handle a larger variety of SKUs or retrieve multiple cases at once. We believe our continued investment in new bot technologies and enhancements will be a key enabler to handle a larger amount of goods across multiple new verticals and use cases. In summary, we are focused on execution and delivering brightly happy customers, sustainable growth, and expanded profitability. As always, I want to thank our team for all their hard work, along with our customers and our investors for their continued support. I'll now turn it over to Izzy, who will discuss our financial results and outlook. Izzy?"
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thanks, Rick. Fiscal second quarter revenue reached $676 million, which was above the high end of our forecasted range. We again achieved gas profitability with $9 million in net income. Our adjusted EBITDA of $78 million was also above the top end of our forecasted range due to higher revenue and strong gross margin performance. Our revenue growth was driven by the continued expansion in the number of systems in deployment and the growth of operational systems that generate recurring revenue. We started 14 new system deployments in the second quarter, bringing us to a total of 70 systems in deployment at the end of the quarter. This expansion in the number of deployments drove systems revenue growth of 24% year over year and 8% sequentially to $634 million. We had one system go operational during the quarter, which is the Atlanta area site for EXIL. Notably, this project's install start to acceptance was accomplished in under 10 months, ahead of our historical performance for installation timeline. As our base of operational systems continues to expand, software revenue grew 93% year over year to $13 million in the fiscal second quarter. including approximately a $1 million from a non-recurring adjustment. Excluding this adjustment, software growth remained above 75% year-over-year. Operations services revenue of $29 million was slightly down year-over-year due to a tough comparable in training revenue, but upped slightly sequentially due to the increase in operational systems, turning to margins in the fiscal second quarter. Gross margin expanded both sequentially and year-over-year due to strong project execution, cost, discipline, and scale benefits. Operating expenses on a gas basis were $144 million in the fiscal second quarter, and adjusted operating expenses totaled $88 million, both up sequentially in support of our growth initiatives. Net income for the fiscal second quarter was $9 million, an improvement from a net loss of $10 million in the second quarter of fiscal year 2025, thanks to expanding margin and operating leverage. Adjusted EBITDA of $78 million was more than double the $35 million in the second quarter of fiscal year 2025. Our backlog of $22.7 billion continued to remain strong. The increase from $22.3 billion last quarter primarily reflects final pricing adjustments on projects started in the quarter and the addition of one system for AWG offset by revenue recognized in the quarter. We finished the quarter with cash and cash equivalents of $2 billion, up from $1.8 billion in the fiscal first quarter, driven by $218 million of free cash flows. Now turning to the outlook for the third quarter of fiscal 2026. We expect revenue between $700 and $720 million and adjusted EBITDA between $80 million and $85 million."
+    },
+    {
+      "speaker": "spk15",
+      "text": "With that, we now welcome your questions. Operator, please begin the Q&A."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Thank you. At this time, we will conduct the question and answer session. As a reminder, to ask a question, you will need to press star 11 on your telephone and wait for your name to be announced. To withdraw your question, please press star 11 again. Please limit yourself to one question and one follow-up. Please stand by while we compile the Q&A roster. Our first question comes from the line of Andy Kaplowitz of Citigroup. Your line is now open."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Good afternoon, everyone. Obviously, back is up a bit sequentially, and you did mention the first deployment with AWG. So, would you say the new storage structure that you have is starting to pay dividends with these kinds of new customers, and maybe, you know, what's the potential that you see with AWG?"
+    },
+    {
+      "speaker": "spk16",
+      "text": "Andy, I heard that a little bit broken up, but I think what your question was, first of all, thank you for your question. is what we see coming forward from AWG. I think like every customer, the start is always with one system. And so the potential there is, you know, really to build one system successfully will take us a couple of years for that and then do one system at a time. The importance there is unlike a larger customer that adds to our backlog, this backlog will come at one system at a time. But like we said, it's a monumental first step. And also having another new customer earlier in our fiscal year, whereas the last new customer that we announced was at the tail end of fiscal year 25. Hopefully that answered your question."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Yeah, no, it's good, Izzy. And like maybe I just, it's great to hear about the new Excel site coming live. So of course I have to ask, I know you've been talking about customers visiting the site. So now that it's live, would you expect to see sort of more movement there in terms of getting these customers on board?"
+    },
+    {
+      "speaker": "spk05",
+      "text": "Yeah, Andy, we do expect to get more movement. We've had a lot of interest at Modex where basically everybody goes. And Exalt was there. We're starting to give tours now. and the Atlanta site, so we would expect pretty quickly to announce our first customers there."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Awesome. Thanks, guys."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Thank you. One moment for our next question. Our next question comes from the line of Joe Giordiano. Your line is now open."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Hey, guys. Thanks for taking my questions. The remaining performance obligation in the Q suggests upside over the forward 12 months versus street revenue assumptions. I know you don't like to give color more than one quarter forward, but just curious, is there any update to the thought process of the ramp in the rest of the fiscal year? I think the midpoint of your guidance is like 5% sequential 2Q to 3Q. I think Consensus is something like 9% from 3Q to 4Q. Just curious if there's any changes into the cadence that you see as the year goes."
+    },
+    {
+      "speaker": "spk16",
+      "text": "I do. Thanks for the question. I think, as you know, we guide one quarter at a time. You're spot on on what we're guiding for the third quarter. I'm not going to get ahead and talk too much about the fourth, but here's what you can expect, right? So, as you know, I'll say that the fourth quarter is should be on a sequential any year over year, you know, show that growth. The other thing that I would point out, as you mentioned, the RPO, you know, in our 10Q, you will see that disclosure of what we expect over the next 12 months. So you kind of come back into what that fourth quarter is. As I said in the past, there would be maybe a little bit less of a sequential growth quarter over quarter. We did over exceed just slightly in, in, this second quarter. I would stick to the guidance in the third and then give us a little bit of time, but you can back into where the RPO is in the next 12 months. And we expect a strong fourth quarter with both sequential growth a little bit higher and year-over-year growth as well."
+    },
+    {
+      "speaker": "spk13",
+      "text": "And then just as a follow-up, I noticed there's a fairly big jump in CapEx and in capitalized software in the quarter. It's up like double versus last year. Just If you can, like, talk to that and the outlook there. And, Rick, you've talked about memory a bunch and input costs in the past. I know it has not been, like, an issue. I mean, they continue to, like, skyrocket. So just curious if there's any updates there. Thank you."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Okay. Joe, I'll take the first half on the CapEx, and then I'll leave it for Rick to answer on the memory side of things. So on the CapEx front, maybe what I should have made a little bit clearer in the last quarter where we only had a $2 million spend. What I mentioned the last quarter was that there was a little bit of a delayed in payment, but really that we would catch up in the second quarter. The best way to think of it is that we are going to spend on average $20 to $25 million a quarter. We just had that delay in the first. I think also what's more important is what are we spending it on? When we announced the next-gen structure, we also mentioned, and we started in the fourth quarter, that we would be investing in our suppliers for them to increase their capacity. So that's where the bulk of the CapEx spend is. I think your next question was about potentially whether you're referring to sort of, you know, memory shortages or things of that nature. You know, in short, I would say we don't have any impact on memory. you know, any memory shortages. We don't consume, you know, a ton of memory on bots. If we have any, you know, consummation of memory, that would be more on the back end IT infrastructure that stores the data, and that's really an immaterial amount."
+    },
+    {
+      "speaker": "spk15",
+      "text": "So, not sure if that's what you were asking about."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Yeah, that covers it. Thanks, Izzy."
+    },
+    {
+      "speaker": "spk15",
+      "text": "All right. Thanks, Joe. Thank you. One moment for our next question."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Our next question comes from the line of Nicole DeBlas of Deutsche Bank. Your line is now open."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Yeah, thanks. Good afternoon, and thank you for the question. Maybe just starting with system completions, step down to one this quarter. I think it was three last quarter. Is the expectation that the number of system completions picks up as we move into the back half? I know this isn't a metric that you necessarily guide to, but just With the step-down in completions that's happening this year relative to last, it would be good to get some color around that. Thanks."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Hi, Nicole. Thank you for the question, and you're right. It's not a metric we guide to, but let me give you a little bit of insight. When you see this quarter or really this year, we're really experiencing the impact from the low number of system starts about two years ago, right? So really, when you go back to... kind of in line, maybe just a tad under. But I think what's important is that we continue to execute well on the items within our control, which is really the installation period. I think really the way to think about it is that, yes, we expect completes, or call it system completes, to grow sequentially from here, with probably Q4 being the highest for the year. but I wouldn't expect them to be significantly higher. There just may be a little bit of movement between the second and third quarter. And I can say today that there's always a little bit of timing in the quarter. We're still early on into the next quarter, and we've already achieved a couple of those system completes."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Okay, understood. That's helpful. Thanks, Izzy. And then just I think you highlighted in the prepared remarks that you achieved less than 10 months of deployment time on a system, which is impressive. Was there anything special about that system that allowed you to do that? And could this potentially be like a new norm moving forward? Thank you."
+    },
+    {
+      "speaker": "spk16",
+      "text": "I will let Rick answer if there's anything specific on the Atlanta installation timeline. I don't believe so. I think as for the new norm, I think we've been talking about it quite a bit, what we're in control, which is post-month 12 to, say, month 24. We continue to see improvements, which is really what's also driving some of the efficiencies that you already see. I think what we've also asked for is give us a little bit more time as to as the mix of the next-gen storage systems really becomes larger. for us to truly, you know, have a good sense of what is driving that today, everything we're seeing, including the one in Atlanta, that we continue to shrink what I'll call the installation time period, which is the second tranche of, you know, call it month 13 to 24. In this particular one, you're going only month, you know, 13 to 22. So we've set the new standard, and the key is to stay there if not beat it. Rick, anything further on the Atlanta site and installation?"
+    },
+    {
+      "speaker": "spk05",
+      "text": "No, I mean, the Atlanta site was an easier site because it was a green field. Some of the sites have been a little more complicated early on because we've been going into existing facilities. So there's two things that I'll say is that that was partly what was responsible with Atlanta, but we've also in another, we have two sites now where we're installing the new structure. And that will be fast."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Thank you. Thank you. One moment for our next question."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Our next question comes from the line of Matt Somerville of DA Davidson. Your line is now open."
+    },
+    {
+      "speaker": "spk11",
+      "text": "I was wondering if you could give any sort of update on kind of where you're at with development on frozen slash perishable, as well as if there's an update on the APD and how you're feeling about hitting kind of the benchmarks you need to hit to trigger that additional backlog and then have a follow-up."
+    },
+    {
+      "speaker": "spk05",
+      "text": "So in the APD, we're working... to get our first two prototypes up and running in the next six months. If you were to visit us in the ITC, you could see a pretty small prototype that is actually working now, so we're very excited. The hardware is pretty much done. We've got some software updates we're doing, but we feel very good about the APDs, and there's a lot of interest at We ran into a MODEX, a lot of interest in that particular product. The second part of your question, so we've now, as part of the APD expansion, when we took over Walmart Robotics, there were 19 sites that we had to upgrade, and we've done that. So we actually now have a... bought working in a freezer. We have another test series of boards that we're testing that are also working in a freezer with no showstoppers. Perishables is actually simpler, not a lot of changes. We've made some substantial upgrades in wiring harnesses and stuff like that coming from some of the car guys that we brought in to handle moisture. And I would say we would expect to begin thinking about a frozen and perishable prototype sometime, certainly within the next year."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thanks."
+    },
+    {
+      "speaker": "spk11",
+      "text": "And then as a follow-up, can you maybe update us on your progress with respect to international expansion, particularly with respect to Europe and what the new buffering structure, how that ultimately could accelerate some of that opportunity for you? Thank you."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Yeah, so we have our first site in Mexico. We're installing RAC, and so that's our, I guess, our first international site with Walmart. We had an early onsite with Giant Tiger in Canada, but we're also looking at other applications in Canada, so I guess you'd call that international. We just came back from Europe, met with a bunch of retailers there just a couple weeks ago. We're getting a lot more notoriety because Europe is very, very interested in brownfields. Most of the automation that's been built in Europe over the last five years is mostly greenfield. It's 70 to 90 foot to 100, actually 110 foot high buildings, very strict permitting processes. So Europe is still a ways off, a lot of interest, but a lot of turmoil in Europe right now with Ukraine and the Middle East. But very good reception. and we'll continue to work on developing our first sites in Europe. Thank you."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Thank you. One moment for our next question. Our next question comes from the line of Ken Newman of KeyBank Capital Markets. Your line is now open."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Hey, good evening, guys. Izzy, maybe for the first question, just wanted to go back on the initiations. I know you don't really guide to it, but I'm trying to make sure that we think about, I think last quarter you had mentioned maybe one of your larger customers with the advent of the new storage structure, maybe transferring some of those deployments into two-in-ones. So is it just safe to assume that the number of of initiations probably stepped down a significant amount starting in the third quarter, or just any help on how to think about that numerically relative to the ASPs?"
+    },
+    {
+      "speaker": "spk16",
+      "text": "Okay. So, as you know, we had the 14 starts in the quarter coming off of 10 starts in the first quarter. Just as for the 14, it's a mix, right? It's a mix of those next phases, and yes, there's some larger systems, but there's still also you know, break back plus the one system for AWG. I think how I would think about it is no different than what I mentioned in the last call. I think the middle will be pretty meaty as to the number of starts, and they will trail off in the fourth quarter. So I'm being consistent to what we said last quarter."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Got it. That's very helpful. And then, you know, maybe, Rick, Can you tell us a little bit more about the investment you made in, in NioBolt and, you know, as you think about the R and D pipeline for future product releases, you know, where do you see the opportunities for maybe some incremental investments? Um, where do you think you can kind of build organically versus having to go out and maybe do some, some modest acquisitions?"
+    },
+    {
+      "speaker": "spk05",
+      "text": "Yeah. So NioBolt was, um, we, we found NioBolt very early on and, um, We invested in them very early on. I think, I don't know, maybe right after their seed round. And so Nival has a unique chemistry where, I don't know, we're one of the larger owners of the company right now. And we believe that the battery technology is very applicable. Our bots... use ultracapacitors. Nibolt is more of a ultracapacitor battery. And so the energy that we can get out of a single charge is five times as long as what we get from a charge today on our regular bots. What does that mean? It means our bots are going to be able to do longer trips, much more reliable, and not be affected by brownouts and other things that are affecting sites today. So we're very excited about that investment, and we're using that technology in all our new bots. So as an example for investments, so we have a regular SIM bot, but we also have a mini bot. We'll have an APD bot, and we'll have a stretch bot. So one of the things that makes us think special is that we can use the same software in four or five different bots we're going to continue to invest in in in new robots and the nine volt battery allows us much more flexibility for the longer trips or bigger bots because it just provides more power in the same space in terms of other acquisitions so we just we just acquired fox and fox is going to be very interesting acquisition they're using the same lidar that we're using on our bot so we actually can buy these lidar considerably cheaper than they can we have a lot more experience so today our bots are traveling a million miles a day so we may have the largest autonomous fleet traveling today in the world i'm not sure but we're traveling a lot of autonomous miles The bots are all being retrofitted with LiDAR. They're all being retrofitted with an iBolt battery. So I think we're distancing ourselves between whatever the competition is and where the future goes. Then there's two other acquisitions that we're looking at as part of our trip to Europe. Can't really announce those, but what's happening in our space is that as we become a clear winner and a sustainable business, there's a lot of startups that are approaching us now about, can you help us expand, maybe take an ownership stake, or maybe just buy us. So a lot of incomings, and we're very excited about that technology."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Really great to hear."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Thanks. Thank you."
+    },
+    {
+      "speaker": "spk17",
+      "text": "One moment for our next question. Our next question comes from the line of Mark Delaney of Goldman Sachs. Your line is now open."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yes, good afternoon. Thanks very much for taking the question. I was hoping the company could give an update on BreakPak. I think, Izzy, you said one of the system starts this quarter was BreakPak. So can you share more on how that product has been doing in the field and your outlook for additional deployments of BreakPak from here?"
+    },
+    {
+      "speaker": "spk05",
+      "text": "Yeah, I'll take that one. We did the original brake pack system in Brooksville. Some of you have seen it. There's now, right next to that, is the new upgraded brake pack. So these are newly designed bots. These bots will have NiBolt batteries. They will have LiDAR. They're much faster. They can do twice as much work in the same amount of time as the old bots. Walmart has given us orders for 40 of these at every site. And there's a lot of interest in terms of break pack is an application that allows us to do smaller versions of these systems. So for instance, convenience stores, where they're doing itches, also the break pack is an interim step between a big system and an e-commerce system. So breakback is very exciting. We're on track. It's going well. No showstoppers. Software is in place, allows us to actually sequence, which is interesting for route drivers, sequence eaches and packages. And so for gig drivers who are doing multiple deliveries, breakback is a very interesting application."
+    },
+    {
+      "speaker": "spk07",
+      "text": "That's helpful. Thanks, Jack. My other question was on EXAL, and now that you've got Atlanta complete, I was hoping to better understand the ramp from here. Maybe you could help with how many of the 14 system starts in the corridor were associated with EXAL and the trajectory going forward. Thank you."
+    },
+    {
+      "speaker": "spk16",
+      "text": "I'll take the front half of that. I would say in the 14, there aren't any EXAL. As we said in the past, EXAL is in the, you know, call it the build mode still. We are very strategic in the five locations they picked throughout the country, and so now we have the first one completed, and we're in the process of doing the other four. So no different than the last time, and the current amount added to deployments does not include an EXIL."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Thank you. One moment for our next question."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Our next question comes from the line of Jim Ricciuti of Needham and Company. Your line is open."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you. I apologize if this was asked already, but you had a nice step up in gross margins. Izzy, I'm wondering, is there anything you'd say about looking out into the, I know you don't guide past the quarter, but how might we be thinking about gross margins over the near term?"
+    },
+    {
+      "speaker": "spk15",
+      "text": "I mean, I think here's where I'd start, right?"
+    },
+    {
+      "speaker": "spk16",
+      "text": "Starting with what we guided to in the third quarter. That's really what I would say a stabilization or, you know, we saw some really, really nice growth. I mean, I think first we should just, you know, stop to think about where we were a year ago and where we're at now. Definitely no small feat. I think as you think of it going further, as I've mentioned, you know, it's really about, you know, stabilizing where we're at for at least the next quarter. Then it's really about not a couple of quarters later about what we've always said is when we really have the mix of system installations being majority next-gen storage structure, that's where we really should be unlocking a path towards longer-term systems margin. And as we said in the past, we expect those to be at 30-plus. So recap, great improvement from where we were a year ago. I would say in the next quarter, a bit of stabilization and give us a little bit of time to get through that journey of having a mix of more next-gen storage systems being installed."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Rick, I think you alluded to stretch spots. I'm wondering, what can you say about the deployment of these, how do you see that ramping? And maybe walk us through locations at different customers that you could envision for this."
+    },
+    {
+      "speaker": "spk04",
+      "text": "So most of the products that we initially designed our systems for was a product that was about eight cubic feet."
+    },
+    {
+      "speaker": "spk05",
+      "text": "two feet by two feet by two feet. And as we got those machines running really, really well, and we understood how to do the software for the turns, we got requests for items that were about 50% bigger. And so that took us about two years to actually develop that. And now we have hundreds of those running around. right in the same sites as the smaller bots. So the customers are really excited because we've now kind of cracked the code that we could design a bot to handle pretty much anything, but the difference between what we designed our bots to handle about 94, 95% of the products, the stretch bot handles another two or 3%, which becomes very important to the customer. And so this is just a journey that we're on, but we could handle products that we could not handle two years ago and we couldn't sell against two years ago. So there's some very technical details when you make a bot a little bit longer. It's the difference between driving a little mini and a Suburban, and then the next thing, of course, is driving a pickup truck or a 53-footer. The handling on those is where the software magic comes about, and then mixing those together, and we've cracked that code. So that's where we are right now."
+    },
+    {
+      "speaker": "spk02",
+      "text": "You've had success penetrating a few different sectors. Would you be willing to share with us your expectations of when you might be in some other areas? You highlighted apparel. I think we've in the past about opportunities even in the broader manufacturing sector with automotive. I'm just curious how you're thinking about some of these other areas of opportunity."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Yeah, so we've done so much development in the last couple of years, but Medline, for instance, is actually a version of Kitting. So what Medline liked about us is that they want these 10 products or these let's say five eachs, to go to the ophthalmology operating room or the surgical room or the oncology area. And so that's a combination between a big system and a break-back system. But then that could also be an each-picking APD system. And so that is also applicable to auto parts. And we talk to auto parts suppliers, some of the retailers, A couple of years ago, our systems were too big and too expensive, but now we're back talking to them again with a smaller, lower cost system that actually is very catered, not to them, but it actually works very well for them because what we've done is develop a system that's applicable across a lot of areas. We've also had a number of discussions with actually auto manufacturers because they also have kitting in parts. We're just on the journey. We're pretty busy because we're growing pretty fast. But we have a lot more salespeople out there talking to a lot more people about future projects. And I think we're very comfortable that we can adapt to most anything that these folks will throw at us."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Thank you. Thank you. One moment for our next question."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Our next question comes from the line of Guy Hardwick of Barclays. Your line is open."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Hi, good evening. Izzy, just a question on the backlog. It looks like the change in the backlog in the quarter is quite considerable. That probably implies the pricing adjustment was quite a big step up, or are you willing to kind of reveal how much of the change was the pricing adjustment versus the AWG win?"
+    },
+    {
+      "speaker": "spk15",
+      "text": "Hi, Guy. It's Izzy. I think I understand."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Basically, here's how I would think about it, no different than you've seen it in the past, right? So quarter of a quarter, the backlog does have an increase. As you mentioned, right, the first thing that happens to the backlog is it's taken down by the amount of revenue that we generated in the quarter. And as you also mentioned, we also have to do the final pricing of the systems that we signed in the quarter, plus the AWG. So as we've said in the past, right, the backlog has been, you know, quite conservative. Actually, coincidentally, if you look at our backlog at the end of this quarter, it's equal to the same amount that we had last year at the same time. So it's a little bit of, you know, the fact that our systems are configurable, the fact that, you know, we do get to align pricing to the current market conditions. And so as we go through all that math, this quarter we end up with really call it a billion dollars of incremental backlog when you take out the amount of revenue that we've recorded in the actual quarter. I hope that helps."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thank you. Just as a follow-up, it looks like no matter how I look at it, whether it's the one-year trailing basis or two-year trailing basis, that system revenue per deployment is coming down sort of double-digit percent. I know you have A lot of new system starts, and I think breakback would be in there as well. But should I just assume that going forward, the past averages of revenue per system don't really apply anymore, then I should step down my assumptions for revenue per system going forward?"
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yeah, I would say you're spot on on the numbers. The number does tend to vary, though, by quarter. So depending on what you said, the mix of systems in the installation versus the design, et cetera, including the mix, be it a large system versus a small system, a breakback, it's going to vary every quarter. So right now what we see or where we find ourselves is that we have a very high percentage of recently signed systems. And, you know, those signed systems haven't entered the installation phase. So the installation phase is really where it's going to be driving more of that revenue. So I do see that decline. And what I'm saying is it's going to vary quarter by quarter. I think it's also as you see where our growth trajectory is that we don't see a concern in the fact that you see, you know, that averaging coming down."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Thank you. One moment for our next question."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Our next question comes from the line of Colin Rush of Oppenheimer & Co. Your line is now open."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thanks so much, guys. You know, I'm curious about, you know, the evolution of the capabilities that you guys are thinking about, as well as some of the increased integration with the supply chain. You know, we're starting to see autonomous trucks hit the road in a little bit higher volume. I'm curious about some of the scheduling capabilities that you're thinking about in partnerships there, as well as the potential to move into heavier objects or even into delivery into hospitals with robots that are integrating into a built environment already. Given the capabilities that you guys have and visibility and opportunities, just curious with the cash balance and the selective acquisitions they've made in the past, how you'd be approaching that or whether from an acquisition or partnership perspective?"
+    },
+    {
+      "speaker": "spk05",
+      "text": "Yeah, so good question. We spend a lot of time talking about this internally and externally. We want to connect the whole supply chain. We want to be able to, coming from a manufacturer, going on a truck, communicate to our system and a warehouse, know what's going to show up in the yard, be able to schedule that into a door, have our robots, a Fox robot, unload that truck, put it away, and then likewise schedule through our system, integrated with somebody else's system probably, could be a Walmart system, could be a Manhattan system, could be our system. So we're very focused on leveraging the end-to-end supply chain and having, whether it's AI, some of this will be, but just knowing where everything is in the system and setting up our robots and our software to be able to handle it is really what we're focused on. We will be acquisitive. That's all I can tell you. I can't tell you who, when, or where, but we're in a good space and we're You know, there are a lot of people with a lot of names, with a lot of high valuations that are talking about physical AI. We're the ones that actually have the information and actually moving the products. And so we're going to go both upstream and downstream and may look at even more software acquisitions as part of how we connect our systems."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Excellent. And the second question is really around data management we're seeing in escalation and data transfer and management expenses. I'm just curious about how you guys are thinking about that, if it's even registering at this point for you from a cost perspective and something you need to manage on a go-forward basis."
+    },
+    {
+      "speaker": "spk05",
+      "text": "The question is, how do we manage the data management?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "And we're just seeing data transfer becoming a more meaningful expense across the physical AI supply chain and thinking about localized decisions versus coming back to centralized compute to train things."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Yeah, absolutely. So I'm like maniacally focused on this for three years. You just have to be in our IT center here and hear me every day. But we're very focused on the data that we need The cloud per unit is going down, but in total it's more expensive. It's not something that's going to become a major problem for us to disrupt it because we can control the data. There's some question about how long you store the data, how you process the data, what we do with the data. But we've been processing massive amounts of data for at least the last five years. And so we do spend a lot of time looking at all of the software packages, how to connect it. But I think we're well ahead of everybody else because we've been doing this for so long and we've been managing so much data on the physical AI side about how we teach the bots to handle data locally as opposed to sending it up to the cloud and what we need to send up to the cloud. So the answer to your question is we're actually very focused on managing this very issue."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thanks so much."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk17",
+      "text": "One moment for our next question. Our next question comes from the line of Derek Soderberg of Cantor Fitzgerald. Your line is now open."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yeah. Hey, everyone. Thanks for taking the questions. A quick one on the AWG project. I'm curious if the deployment represents a standardized retrofit of the existing platform, or will it require significant custom engineering for that customer?"
+    },
+    {
+      "speaker": "spk05",
+      "text": "No, there's no custom engineering. I mean, from day one, grocery is something that is kind of our bread and butter."
+    },
+    {
+      "speaker": "spk04",
+      "text": "So nothing special about this. Got it."
+    },
+    {
+      "speaker": "spk03",
+      "text": "And then as my follow-up, my understanding is that you have a few customers that just have a single pilot line, which they've had for a handful of years now. What's the update on those retailers, and when might we see a larger agreement from that list of customers still sort of in that pilot stage? Thanks."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yeah, I would give you the example of, as you see in the amount of logos, some still are at one system. We expect at least one or two to be increasing that, but it's not really information that we disclose as to where we are with it. But as you said, there are customers who would say one system at a time, but I would continue to expect them to sign one system at a time. I think that for purposes of backlog with those logos or those customers, that's how I would think about it, but yet the potential is greater. So I think there's opportunities for systems two and three,"
+    },
+    {
+      "speaker": "spk15",
+      "text": "in a couple of those, but sometimes we want to be discreet about our customers' business as well."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Perfect. Really appreciate it."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Thank you. One moment for our next question. Our next question comes from the line of Greg Palm of Craig Hallam. Your line is now open."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Yeah, thanks for squeezing me in. Izzy, I'm curious, you know, the operating leverage has been really impressive. Like, if I look at the incremental margins, they've stepped up quite a bit the last two quarters relative to what we've been accustomed to. Any reason why that shouldn't be an appropriate level, you know, going forward, especially as you see the sort of the further boost on the next-gen storage structures, at least on the gross margin line?"
+    },
+    {
+      "speaker": "spk16",
+      "text": "I don't want to get ahead of myself too much, but I am seeing what you're seeing, right? You see not only the sequential improvement in gross margins, but even a better improvement, call it, on the EBITDA margins. So where I said stable on gross margins, I see a little bit of an uptick on the EBITDA margins. And I think it's really how we continue to exercise that discipline around the OPEX. With one caveat, you've heard about all the things that Rick was talking about. So we do want to maintain that ultimate flexibility on the R&D line. So if we see something that we should be investing in, given our cash balance and the ability to allocate cash, we would be doing it. But outside of that, it's I see what you see, whereas we continue to expand that bottom line and very proud to be profitable and plan on being being profitable going forward."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Is there an incremental margin that you're managing the business to either in the near to medium term or longer term or not necessarily?"
+    },
+    {
+      "speaker": "spk16",
+      "text": "I would say not necessarily. It's not as easy as you would suggest. I think what we manage to is the things that we talked about is really the efficiencies on the execution side and the cost disciplines. That's what we're managing to, and you see those results come through in the P&L, but not per se. I think the bigger message is we do continue to drive for that longer term margin being in the 30 bucks."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Okay. Thanks."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Thank you. One moment for our next question. Our next question comes from the line of Robert Jameson of Vertical Research Partners. Your line is now open."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Hey there. Thanks for taking my questions. Just actually one really. Rick, you know, you've made some very interesting acquisitions. You mentioned Fox Robotics that was completed last quarter. Quite a compelling acquisition when you think about how that helps further automate acquisitions. You know, different processes, moving the pallets from the loading base, the intake system, and on the other end, loading the mixed case pallets for final delivery. And, of course, there's the opportunity to sell those, you know, those products to others as well. But when you look ahead, you know, what are some of the other parts that you might look to invest in to further automate other parts of either the symbiotic system itself, break pack, or, you know, the micro-fulfillment system? You know, should we expect, like, ecosystem partnerships on the MFC side, you know, like adding cobot arms to or picking solutions that, you know, take another human out of the loop on the back end of those systems? I mean, I'm just trying to understand, you know, what types of technologies are interesting to you at this point that would help you accelerate some of those efforts as you move kind of towards a, you know, so-called dark warehouse with this symbolic solution?"
+    },
+    {
+      "speaker": "spk05",
+      "text": "Yeah, you mentioned a bunch of things. Obviously, robotic arms are interesting to us. There's a couple companies out there that are doing it. It's not... So we're looking at it. There are a number of companies that are doing truck unloading. I mean, we know everybody because everybody's talking to us and everybody's interested in partnering with us. I think we'll... We're very focused on micro-fulfillment because we think that's a huge opportunity. And so that would lead us to eventually look at robotic arms. We're also very focused on, like I said, connecting all of the supply chains. So there are very large import DCs that are are just basic storage dc's that was not interesting to us before but it becomes more interesting as our customers want us to connect all of these these fox is probably the most important one because we we basically build pallets and somebody has to take them to the truck and so they sit on the dock so managing the dock management is very important to us and that actually allows us to get customers, introductory customers at a very low introductory price, and then upsell them to, well, you could do this with the rest of our system or this part. So everybody needs pallet jacks. So having the best automated pallet jack is something we're focused on. So we will continue to look at opportunities, and opportunities continue to present themselves to us. But I don't think we have a specific roadmap right now. We really want to get the doc management working well. We want to understand the perishable world. And so those are the things that we're really focused on right now."
+    },
+    {
+      "speaker": "spk04",
+      "text": "That's great. Thank you very much for taking my question."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Thank you. This concludes the question and answer session. I would now like to turn it back to Charlie Anderson for closing remarks."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Yeah, thanks everybody for joining our call tonight. We really appreciate your interest in Symbiotic and look forward to seeing some of you in the coming weeks on the road."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Goodbye."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Thank you for your participation in today's conference. This does conclude the program. You may now disconnect."
+    }
+  ]
+}

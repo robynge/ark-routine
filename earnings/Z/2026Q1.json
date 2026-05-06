@@ -1,0 +1,527 @@
+{
+  "event": {
+    "ticker": "Z",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk04": {
+      "name": "Operator",
+      "title": "Conference Call Operator"
+    },
+    "spk00": {
+      "name": "Operator",
+      "title": "Conference Call Operator"
+    },
+    "spk07": {
+      "name": "Zillow Group Investor Relations",
+      "title": "Investor Relations Moderator"
+    },
+    "spk02": {
+      "name": "Rich Barton",
+      "title": "Chief Executive Officer"
+    },
+    "spk11": {
+      "name": "Jeremy Wacksman",
+      "title": "Chief Financial Officer"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk04",
+      "text": "Hello and welcome to Zillow Group's first quarter of 2026. We ask that you please hold all questions until completion of the formal remarks, at which time you will be given instructions for the question and answer session."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Also, as a reminder, this conference call is being recorded today."
+    },
+    {
+      "speaker": "spk04",
+      "text": "If you have any objections, please disconnect at this time. At this time, you may begin."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thank you. Good afternoon, and welcome to Zillow Group's quarterly earnings call. Joining me today to discuss our results are Zillow Group's CFO, Jeremy Waxman."
+    },
+    {
+      "speaker": "spk00",
+      "text": "During today's call, we will make forward-looking statements about our future performance and operating plans based on expectations. These statements are subject to risk, and these statements are subject to risk, and we encourage you to consider them."
+    },
+    {
+      "speaker": "spk07",
+      "text": "As described in our SEC filing, we undertake no obligation to update these statements, or future events, or future events, or future events, please review the cautionary states and additional information which can be found on our website. This call is being broadcast on the Internet and is available on our investor relations website."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Recording the call will be available later today. During the call, we will discuss GAAP, non-GAAP measures, including adjusted EBITDA, and adjusted free cash flow."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Good afternoon, everyone, and thank you for joining us."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you for joining us. Q1 was another quarter of consistent execution across our business. We delivered revenue near the high end of our outlook range, putting us on track toward achieving our full-year goals. That consistency reflects a winning strategy and a platform that is built to grow. Our strategy is straightforward. Make moving easier by connecting. Make moving easier by connecting. Integrate experience. Supporting both consumers and the professionals who serve them. And for sale, that encompasses shopping, touring, financing, collaboration for consumers, as well as software tools."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Make them more efficient at serving clients."
+    },
+    {
+      "speaker": "spk02",
+      "text": "And in rentals, it spans tours, applications, tours, and applications. This integration is what drives better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, better outcomes, Our Q1 results reflect continued execution and progress across the business. Total revenue increased 18% year over year. Near the high end of our outlook range, we once again outperformed the broader housing market, which stayed essentially flat. which stayed essentially flat and in straight volatility. EBITDA exceeded our outlook, driven by lower cost than planned, and we reported $46 million of net income. We made further progress on margin expansion, with net income margin expansion more than 500 basis points a year, in for sale, in for sale, in for sale, in for sale, in for sale, in for sale, Our foresale performance outpaced industry transaction trends, which were roughly flat, and reflects our ability to convert more high-end consumers through a more integrated experience. In rentals, Q1 revenue was up 42% year-over-year, 47% year-over-year, and 57% growth. We are gaining wallet share for fraud-based property managers as they continue to see strong ROI we are providing to their businesses. Our results this quarter reflect our ability to innovate and grow the business while delivering sustainable profitability regardless of macro conditions. Before I give more detailed updates on those driving health and rentals, I want to spend a moment on our company strategy and on how we're using AI to accelerate it. We laid out our thinking on this, and our AI investment summit in March, and our AI investment summit in March. And I'll reiterate it here. We have been building advanced technology and residential real estate for 20 years. From the Zestimate, the Zestimate, to the Mobile Revolution, to the Computer Vision, and beyond. We are now in the next chapter of that arc. We believe Zillow, we believe Zillow, and we believe Zillow in this chapter as well. We believe Zillow in this chapter as well. Thanks to three advantages. Thanks to three advantages. Content, context, and integration. and integration. These advantages are difficult to replicate and differentiate us from horizontal LL and from other real estate companies. First content. We have the most comprehensive and increasingly differentiated housing inventory across existing for sale homes, new construction homes, and rentals. Content that is elevated by proprietary retweeting, by proprietary retweeting, by proprietary retweeting, by proprietary retweeting, by proprietary retweeting, by proprietary retweeting, That's already making the consumer experience better. And over time, it will help make our AI more capable. Our second advantage is content. Our second advantage is content. 70% of everyone who buys or sells a home in America uses Zillow during the process, spending an average of two to three hours a week, five to five hours a week over five hours. They are not just browsing. They are not just saving homes. They're booking tours. They're saving tours. They're determining. They're determining their buyability range. They're determining their buyability range and preparing to make offers. And preparing to make offers. That activity is spanning every point. That transaction is spanning every point in the transaction. That Zillow uniquely sees and understands. And it is a unique scale data advantage. Zillow doesn't just see the search. We see the homes. We see the homes. The affordability calculations. The affordability calculations. The conversations with loan officers. The deals closed. That full vantage is what allows us to do more than answer generic listing questions. We can answer personalized questions. We can anticipate what a consumer needs to do next and actually help them take that action. This leads to our third advantage. Integration. This leads to our third advantage. For buyers and sellers, we connect marketing, marketing, search, marketing, marketing, and closing, and closing, and closing, and closing, and closing, and closing, and closing, and closing, and closing, and closing, But Zillow operates at the core of the transaction, not around the edges of it. We handle the complexity, we handle the complexity, and help consumers and professionals take action. That's what Zillow is delivering. A buyer can understand whether they can afford a buyer, can understand whether they can afford a home, see availability, work through showing time, receive a pre-approved loan scenario, receive a pre-approved loan scenario, and connect with a Zillow-preferred agent who already knows their search. All within a single continuous experience. These three advantages are built on something that matters just as much as it's acknowledged as operating in one of the most regulated and complex transaction categories. Structural complexity in housing shapes what AI can do, what it takes to do it well. Transactions are high dollar, high stake, high dollar, and by most people, they happen only a handful of times over their entire lifetime. There are hundreds of thousands of broke bookings across several hundred MLFs, powering 1.5 million real estate. We've spent 20 years navigating this landscape, putting in place industry relationships, putting in place industry relationships and products and services directly for the transaction, not just observed from the outside. outside, not just observe it from the outside. Our long history of innovation enables us to deliver value that only increases as AI capabilities grow. At our AI Summit last month, we also gave you the consumer-facing AI mode experience. This new way of engaging throughout our site is live for about 5% of our audience, which equates to availability for millions of users. And we plan to expand access this year as we continue to test, learn, and reconsistent all major protocols. Early signals are encouraging. Zillow users in AI mode are having deeper, more substantive conversations than they do in traditional search, and we are seeing more actionable engagement as a result. As just one of many examples of how users are engaging, a recent AI mode user had 16 conversations across 10 days researching neighborhoods in Sonoma County, California, comparing areas, tracking sold properties, asking for shareable maps, asking for shareable and referencing their agent in Santa Rosa. They are now under contract to buy one of the homes they found through this robust experience. That is the art of Zillow Covers. That is the art of guiding the consumer from the very first question to keys in hand. to keys in hand. We are also empowering the professional at every step. We are also empowering the professional at every step. We are also empowering the professional at every step. We are also empowering the professional at every step. We are also empowering the professional at every step. We are also empowering the professional at every step. We are also empowering the professional at every step."
+    },
+    {
+      "speaker": "spk00",
+      "text": "We are also empowering the professional at every step."
+    },
+    {
+      "speaker": "spk02",
+      "text": "and having the key conversations that move deals forward. Follow-up boss, which top agents in the country rely on, is becoming an AI-powered workflow engine that handles coordination, prioritization, and outreach. So agents can stay focused on the judgments, advocacy, trustee, and human relationships that get deals done. The result is that great agents become who can take on more transactions at higher quality without more hours. All enabled by Zillow. All enabled by Zillow. Just as AI is making our two-sided market smarter on both sides of the sale, the same is true for renters. It's powering more personalized search. It's powering more personalized search, the right next step."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Whether that's scheduling a tour, whether that's scheduling a tour, understanding financial readiness for a future home or a financial home purchase."
+    },
+    {
+      "speaker": "spk02",
+      "text": "For property managers using AI assist, it's streamlining lead management, application screening, and lease coordination, reducing friction at every step of the transaction. Our commitment to AI field efficiency doesn't stop at our professional products. It runs all the way through how Zillow itself operates. We are rapidly becoming an AI native company. And internally, we're already seeing what that means. Our engineers are shipping 40% more engineers at the same or higher quality. Product and design team are prototyping faster and taking features faster and taking features in a matter of days. And our employees are using AI to reinvent their workflows. and streamline our work. We are investing to make AI efficient. We are investing to make AI efficient. We are investing to make AI efficient. We are investing to make AI efficient. We are investing to make AI efficient. We are investing to make AI efficient. We are investing to make AI efficient. Now we are powered by AI across every layer of our company, in our products, in our products, in our professional tools, in our products, in our professional tools, and in all that depth of capability, all that depth of capability in the AI era. Now I'll walk you through more details on how our strategy is coming to life, starting with for sale. Our thesis is straightforward. Integration improves outcomes. When marketing, search, scoring, financing, collaboration, collaboration, work together, every participant in the transaction gets a better result. Buyers and sellers move forward with confidence. Agents close more deals. And Zillow captures more of the opportunity through our funnel. Here's how that thesis continues to prove out to buyers and their real estate agents. For buyers, the integrated experience begins The moment they start to buy a tool from Zillow Home, buyers that don't understand what they understand, realistically afford it before they make an offer, make an offer, make an offer, make an offer, make an offer, make an offer, make an offer, make an offer, make an offer, make an offer, make an offer, make an offer, make an offer, make an offer, make an offer, make an offer, make an offer, Purchase loan origination volume grew by 96% year-round, record $1.5 billion in Q1, and Zillow Home Loans is now a top 25 purchase lender. Zillow Home Loans averages double digits, double digits, double digits, dot, dot, dot, dot, dot, dot, dot, dot, dot. officers better served by us accounted for 49% or 49% of our connection Q4 and well on our way to our target of at least 75%. Our new shop with pre-approval feature, which is now available across our entire platform, takes the integration a step further. Buyers who have a Zillow home loan, their buyers who have a Zillow home loan, now get a clear view of the cost of ownership and whether a listing is within their pre-approval button. It makes the shopping experience more accountable, actionable, and accountable, and agent signals to us,"
+    },
+    {
+      "speaker": "spk12",
+      "text": "And it is one of the clearest expressions of what our integrated platform can do to help a buyer shop with confidence. Shop with pre-approval is unique to Zillow."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Shop with pre-approval is unique to Zillow. We're also bringing co-shoppers. We're also bringing co-shoppers because a significant portion of buyers aren't going alone. On Zillow, buyers can search and collaborate with a co-shopper in real time. This capability became available earlier this year, earlier this year, already driving, better buying, better driving, because it brings a naturally collaborative part into Zillow's community ecosystem where those discussions can be acted on."
+    },
+    {
+      "speaker": "spk12",
+      "text": "For sellers, we continue to expand our suite of products."
+    },
+    {
+      "speaker": "spk02",
+      "text": "We continue to expand our suite of products. We continue to expand our suite of products. We continue to expand our suite of products. We continue to expand our suite of products. platform in America. Unlike pre-marketing in a private listing network, with listings in front of the buying public from day one, sellers can build interest, and sellers can build views, save, or scheduling requests, from Zillow's massive audience, which is pricing intelligence, which is pricing intelligence, and a preview listing service right in a regular Zillow search by recommendation, no insider access required. No insider access required. Yesterday, we announced a new preview collaboration with Stelter.com, extending the visibility of two most visited real estate platforms in the country. This wide exposure benefits sellers and buyers with unrestricted access to the inventory in more places. New Harris Poll survey data backs up nearly 9 in 10 Americans who would be interested in viewing homes online."
+    },
+    {
+      "speaker": "spk00",
+      "text": "And 85% of 80 sellers said they'd be more likely to market their home to the pre-market online audience. So it is no wonder Agent Adoption of Zillow Preview has a window so quickly. We announced Preview just seven weeks ago. We announced Preview just seven weeks ago."
+    },
+    {
+      "speaker": "spk02",
+      "text": "And we have since added more than 60 brokerages. We are currently onboarding Agents to use Preview. We are excited about the significant agent demand as we launch and scale it. After Zillow Preview builds initial momentum, and after Zillow Preview builds initial momentum, and after Zillow Preview builds initial momentum, and after Zillow Preview builds initial momentum, and after Zillow Preview builds initial momentum, and after Zillow Preview builds initial momentum, and after Zillow Preview builds initial momentum, Zillow Showcase was on 4.3%. Zillow Showcase was on 4.3%. Up from 3.7%. Up from 3.7%. Agents using Showcase on the majority of their listings."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Win more new listings."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Win more new listings. Which is why adoption continues to grow. Which is why adoption continues to grow. For professionals, the tools and infrastructure can increasingly function as an operating system for modern real estate. Follow-up boss is the customer relationship manager. Follow-up boss is the customer relationship manager. 80% of the highest volume real estate teams in the country. And it's seen more than 70% growth. And it's seen more than 70% growth. And Zillow acquired it at the end of 2023. Showing time enables tours on 90% of all real estate. 40 million tours were booked through the platform last year, and Dotloop nearly half of all transactions nationwide. Each of these is a significant product in its own right. Connected from the first signal that a consumer is shopping to the final closing document. Zillow Pro brings it all together. Zillow Pro brings it all together. Zillow Pro is in beta. Zillow Pro is in beta. Over time, we expect Zillow Pros to reinforce our role as long-term partner for real estate professionals across their entire business."
+    },
+    {
+      "speaker": "spk12",
+      "text": "All of our for-sale solutions point to the same point."
+    },
+    {
+      "speaker": "spk02",
+      "text": "The more integrated the experience, the better the outcome. For buyers, for sellers, for agents, for loan officers, and for Zillow. We are executing against our $1 billion mid-cycle revenue target. And the momentum we are building gives us conviction about the path ahead. In rental, We are building something that is not a true, comprehensive, two-sided marketplace that brings together the most and the widest variety of listings and the widest variety of listings and modern transaction tools. Our strategy is twofold. We reached an all-time high of 76,000 multi-family properties at the end of Q1, up from 55,000 properties a year ago. Combining this with our industry-leading commensurate and long-term leading inventory of retail family homes, Zillow had 2.7 million average rentals in Q1. The most in the category. Zillow rentals attracted 36 million average rentals in Q1. And because of our relentless focus on the Q1, renters rate Zillow as their number one preferred platform. Thank you. They keep renewing and upgrading their presence on Zillow as a result of the ROI. We see a significant opportunity and keep growing WalletShare from here and capture more of the marketing dollars currently being spent on other advertising platforms. Multifamily was the engine behind our forced revenue in Q1. Our continued growth in rentals is a reflection of what happens when you value both sides of the market. And we're not stopping there. For example, the Total Monthly Price Feature launched recently. Let's property managers display the cost of rent. That gives renters a clearer picture and property managers a differentiated way to present their inventory. And in April, we launched two new tools. A live analytics dashboard that gives a live analytics dashboard a single place to get back a portfolio, a single place to get benchmarking trends, and make benchmarking and advertising decisions, and a paid social product that puts their listings in front of renters on Instagram, Facebook, and Zillow. built and managed by Zillow. The two are designed to work together."
+    },
+    {
+      "speaker": "spk00",
+      "text": "The two are designed to work together. Identify which units need more traffic and more traffic."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Identify which units need more traffic and more traffic. Dial up social reach. Dial up social reach. It's all part of the growing list of ways. It's all part of the growing list of ways of leveling up for a platform. Making it easier for them to fill units faster. The same principles driving our for sale strategy. The same principles driving our for sale strategy. Currency builds trust. Currency builds trust. Currency builds trust. And because nearly every buyer starts as a renter, and because nearly every buyer starts as a renter, and because nearly every buyer starts as a renter, and because nearly every buyer starts as a renter, and because nearly every buyer starts as a renter, and because nearly every buyer starts as a renter, and because nearly every buyer starts as a renter, We delivered 18% revenue growth, net income of $46 million, net income margin expansion, net income margin expansion growth, and continued growth all against a housing market that was essentially flat. Our revenue has consistently outperformed industry total transaction value for more than three years now. That kind of performance in this kind of environment does not happen by accident. It reflects the durability of a multi-year strategy that is designed to perform across market cycles, and a platform that operates across the entire housing transaction, and returns you a month-long journey, and that professionals rely on every day to run their businesses. Underpinning all of it is a strong brand from where millions of people come to, millions of people come to, biggest financial decisions of their lives. We earn the trust of consumers and professionals by consistently showing up for them at every stage of their housing journey. It's why, it's why, it's why, it's why, it's why, it's why, it's why, So when people are ready to move, increasingly it was where they start, where they stay, and increasingly take the next step. We are focused on helping more people move with confidence, delivering real value to professionals who serve them, and creating long-term value for shareholders. We are on track toward achieving our full-year goals, year-to-year, in-year, in-year goals, And we are in control of that. I'll turn the call over to Jeremy."
+    },
+    {
+      "speaker": "spk11",
+      "text": "With that, I'll turn the call over to Jeremy. Thanks, Jeremy. And good afternoon, everyone. Thanks, Jeremy. Even though $182 million was above the high end, resulting in an EBITDA margin of 26% per year, which was flat year-over-year. Excluding $11 million of incremental year-over-year costs, EBITDA would have been $193 million, representing a 27% margin and 160 basis points of margin expansion. We reported net income of $46 million, with a net income margin of more than 500 basis points a year. Share-based compensation expense was down 16% a year. Diluted net income per share was $0.93 a year, compared to $0.03 a year. We generated $127 million in the quarter. A 44% in the quarter is compared to the same period a year ago. Now let me take you through the details of the quarter. Our for-sale revenue grew 12% year-over-year to $514 million. Within the for-sale revenue category, residential revenue of $450 million was up 8% year-over-year and in line with our growth outlook. The majority of the increase in residential revenue was due to growth driven by the expansion of the community alongside our enhanced market square and strong conversion for our preferred partners. Zillow Showcase, our suite of agent software tools, and your suite of agent software tools will also contribute to residential revenue growth."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Market-based pricing revenue continues to decline."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Market-based pricing revenue has been transitioning back to our preferred partners. Within the for sale revenue category, mortgage is revenue."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Mortgage is revenue. 56% year-on-year to $64 million. Above our outlook for 40%."
+    },
+    {
+      "speaker": "spk11",
+      "text": "As we saw from customers in our pipeline."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Purchase loan origination volume. Purchase loan origination volume."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Which was the main driver of our mortgage's revenue growth. Our results continue to demonstrate that Zillow Moments has an attractive value proposition for buyers. Note that as Zillow Moments continues to scale, the gap between Zillow Origination and Zillow Moments will continue to narrow over time. Rentals continues to be one of our most exciting. Rentals continues to be one of our most exciting."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Q1 revenue of $100 million. Q1 revenue of $40 million."
+    },
+    {
+      "speaker": "spk11",
+      "text": "With multi-family revenue up 57%. We reach 76,000. The growth algorithm here is straightforward and add more properties, deliver best in life, Deliver best-in-class return wallet chip. We see a clear path to $1 billion or more in annual rentals revenue, and Q1 is another data point confirming we're on track. We produce strong growth in the quarter despite As a result, as a result, as a result, as a result, as a result, as a result, 1% year over year. Q1 EBITDA expenses of $526 million were below our $535 to $545 million as we benefited from lower people-related and legal costs than we anticipated. We ended the quarter with a cash investments of $701.3 billion at the end of 2025. We repurchased $626 million of our stock, a meaningful level of activity that reflects our conviction, our conviction, and our commitment to returning capital, and our commitment to returning capital when the opportunity is compelling. This resulted in our diluted shares outstanding from 206 million shares a year ago to 240 million shares at quarter end. As of the end of March, we have $1.3 billion under our existing authorizations. Combining our $788 million with our $500 million credit, we have total liquidity of approximately $1.3 billion. This strong liquidity position gives us flexibility on our financial priorities to invest in growth, maintain an adequate risk-based capital reserve, support flexibility for potential M&A and continue to be opportunistic with share buybacks. Turning to our Q2 outlook, we expect total revenue of $750,000 to $700,000 to $700,000 to $765,000, applying year-over-year growth of approximately 16% at the midpoint of our outlook range. at the midpoint of our outlook. We expect for sale revenue growth to be similar to Q1. Within for sale, we expect residential revenue growth of mid-single digits year over year. For mortgages, we continue to see a strong pipeline, which we expect puts us on track for growth at similar levels to Q1. In rentals, we expect revenue growth of 30% year over year for the quarter. In Q2, we expect EBITDA to be $165 million. Our expectations include approximately $20 million of incremental legal expenses and approximately $16 million of incremental advertising spend. Compared to a year ago. Excluding the $20 million."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Excluding the $20 million."
+    },
+    {
+      "speaker": "spk11",
+      "text": "We expect EBITDA. We expect EBITDA. We expect EBITDA. We expect EBITDA. We are planning for approximately $80 million in total advertising, up from $64 million last year. The incremental year-over-year advertising of a planned product launch that we're already in our original full-year outlook. Taken together, our Q1 results and Q2 outlook have us squarely on track for the full year. And importantly, the structural drivers that we expect to accelerate on the back half of Saturday, March 26th are already in motion. Turning to our full-year outlook for 2026, we continue to expect to deliver total revenue of approximately 30% growth in rentals, a continued EBITDA margin expansion. We are updating our outlook for full-year share base, which we now expect to be down more than 15% year-over-year versus our previous guide of down more than 10%. We expect our fixed cost base of approximately $1.1 billion to grow with inflation and believe it is the right investment as we execute our growth strategy. For variable costs, we are continuing to invest in rentals and loan officers during the first half of 2026. We expect a slower pace in the second half of the year. This will drive variable costs to trend by year end. We have consistently said we will be opportunistic, dialing it up or down, depending on where we see opportunities. In 2026, we plan to accelerate consumer awareness with modest growth in our advertising spend year over year. Our full year outlook implies margins, our full year outlook implies margins, and there are a number of drivers I will walk you through. First and foremost, our structural revenue, our structural revenue, our structural revenue, our structural revenue, From a revenue perspective, we continue to see a strong growth opportunity in 2026 and beyond. And of course, Our rentals revenue, of course, is on a clear map. Your revenue is on a $1 billion plus in annual revenue. Our rental growth algorithm is clear. Add more properties to our assets and sites and deliver best class ROI. The combination of our for-sale and the combination of our durable offerings are durable and succeed in any market environment. From a cost perspective, there are four key drivers to market expansion in the second half of the year. First, we expect to continue to leverage fixed costs, which is within our control. Second, variable expense growth will decelerate as we move through the year. In the first half of 2026, we expect variable cost to be a headwind of more than 400 basis points to EBITDA markets. By year end, we expect that headwind to be close to a meaningful swing that flows directly to the bottom line. Third, we expect that legal expenses will be in a process point headwind to EBITDA markets in the first half of 2026. We expect that legal expenses will be less of a headwind in the second half of the year as we get through the FTC trial. Finally, our advertising spend is more heavily weighted than in prior years due to planned product launches. In the back half of the year, we expect advertising to fall away more, meaning less year-over-year pressure on margins. then we're seeing that. We are pleased with our results in Q1 and confident in our ability to deliver and mid-cycle financial targets. We are successfully executing on our strategy and we have the right investments in place to support further revenue growth while expanding EBITDA margins, while accelerating net income growth, and continuing to build a platform that we believe will define how people"
+    },
+    {
+      "speaker": "spk04",
+      "text": "And with that operator, we'll open the line for questions. Unmute your audio and ask your question. We will wait one moment to assemble the queue. Our first question today comes from Ryan. Our first question today comes from Ryan. Ryan, you may now ask your question. Thank you. Thank you."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Great. Thank you for taking the questions. So first I wanted to dig in on three days. Obviously, it's early days, but we wrap up early days. So I'm curious if you can talk about what you're seeing in terms of our perception. Secondarily, I guess, how should we think about this strategy? I guess, how should we think about the strategy of working with them versus Camazillo standalone? Thank you."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Thanks, Ryan. Thanks, Ryan. This is Jeremy."
+    },
+    {
+      "speaker": "spk06",
+      "text": "This is Jeremy. Thanks, Ryan."
+    },
+    {
+      "speaker": "spk13",
+      "text": "So on preview early learning, the response really has been expected."
+    },
+    {
+      "speaker": "spk02",
+      "text": "We announced it just a few months ago. We announced it just a few months ago with 60 announced. And And we are really hands down onboarding agents, franchisees, and getting it into the hands of those folks."
+    },
+    {
+      "speaker": "spk00",
+      "text": "So we've been really developing results."
+    },
+    {
+      "speaker": "spk02",
+      "text": "And I think the second question is a collaboration. I mean, it's really just a win-win for Zillow and our agents as well. And it extends the visibility of this pre-marketing. And we think that increases the value. We think that increases the value. It's better for sellers. It's better for sellers. It's better for sellers. Still very early days. Still very early days. We're excited. Thanks for that. Thanks for that."
+    },
+    {
+      "speaker": "spk06",
+      "text": "And then I guess on the, I guess on the, on the, even on the context of 2Q, but also the full year, but also the full year, can you dig a bit more into how much of the cost is involved, how much of the cost is to get the expected margin ramp, and to get the expected margin, I guess I'm curious both, I guess I'm curious both just to get the visibility, visibility you guys have, you know, visibility you guys have in the margin ramp in the back half. Thank you. Thanks, Ryan. Thanks for your help, and I'll take that one. Thanks, Ryan. So Q2 things are going on."
+    },
+    {
+      "speaker": "spk11",
+      "text": "One is legal costs are $20 million. So if you adjust for that, $170,000, $180,000, $170,000, $180,000, $180,000. So those are the two factors. As we get into the back half of the year, we are calculating a full year. And there are a variety of reasons for why. The first half of the year in aggregate, the first half of the year in aggregate, and as we move into the second half of the year, the structural revenue drivers we have are well-attracted for our rentals. And that growth algorithm is great. And then with respect to costs, a lot is in our control. So the first one is fixed costs. That's well within our control. The second is variable costs. Which were a 400 basis point headwind in the first half of the year. of the year, a lot of that's in our rental, our rentals and investments, and our rentals and investments in the year, and we expect variable expenses to be closer to neutral, variable expenses to be closer to neutral, so in our control, primarily. So in our control, we're heading the first half of the year, we expect there'll be less second half, less second half, less second half. Thank you. Great. Thank you. Great, thank you."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thank you. Our next question comes from Ron and Josie. Our next question comes from Ron and Josie. You may now ask your line and ask your question."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Great, great, great."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thanks for taking the question."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Great, thanks for taking the question."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Jeremy, I want to ask one more."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Jeremy, I want to ask one more. a few weeks ago Thank you. Thanks, Ron."
+    },
+    {
+      "speaker": "spk11",
+      "text": "I'll take the first one. I'll take the first one. And then when we step back and look at the last few years,"
+    },
+    {
+      "speaker": "spk00",
+      "text": "In 2024, we grew rentals 27%. In 2025, we grew rentals revenue 39%. And we expect to grow another 30%. It's almost doubling the business in that period."
+    },
+    {
+      "speaker": "spk11",
+      "text": "And growing the business faster and faster in 2026 and nearly doubling the size is something we're really proud of. And we're obviously proud of that. I will say, I will say, I will say, I will say, I will say, I will say, I will say, And the value is really differentiated. So you see that in the growth that we've had the last few years, and we expect it to continue from here."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Yeah, and just to add on to that, just to add on to that, we have that target dollar, we have that target dollar, but that's not the end state."
+    },
+    {
+      "speaker": "spk02",
+      "text": "We expect growth beyond that."
+    },
+    {
+      "speaker": "spk00",
+      "text": "We expect growth beyond that. The strategy continues to be more important."
+    },
+    {
+      "speaker": "spk02",
+      "text": "We see a rental audience growing to 36 million, a rental audience growing to 36 million, number one, number one. That's what drives this ROI challenge. That's what drives this ROI. They want to fill their leases. They want to fill their leases. And they want to continue to see why we are the best ROI. We are the best ROI. Again, not just against focus sites, but against search and social platforms as well."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Not just social platforms as well. They're spending everywhere trying to find renters. They're spending everywhere trying to find renters."
+    },
+    {
+      "speaker": "spk02",
+      "text": "And some of the renters they want, and some of the renters they want, and some of the renters they want, and some of the renters they want, And then on AI mode, you're going to hear us say it's early a lot because you're going to hear us say it's 5% of audience getting a huge signal from users. And what we're seeing is that they're having deeper, more substantive conversations than they do in traditional services. We talked about that a bit when we were with you all during the AI Summit and we were with you all."
+    },
+    {
+      "speaker": "spk00",
+      "text": "This can be a lot of incremental. This can be a lot of incremental because you can have conversations about things. You can have conversations about certain settings, search filters, looking at a list. The example I gave is one example I gave is people just spending time going deeper. The transaction is keeping that person on Zillow. It's keeping that value from Zillow. So you find more of their needs on Zillow."
+    },
+    {
+      "speaker": "spk02",
+      "text": "And then when they reach out, they're ultimately going to be a higher customer. So the structural advantage we have over the long term is to build the best experience. Because of the content we have on our platform, the content we have on our platform, the content we have on our platform, and the fact that we span the full gamut of the platform, once you start in our category, once you triage in the very top of the platform, and ultimately you are trying to get your financing, tour home, tour home, tour home, tour home, tour home, tour home, tour home, tour home, tour home, tour home, tour home, tour home, tour home, tour home, tour home, And really help them with that in an AI native way."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thank you. Thank you. Our next question comes to you from Brad Erickson at RBC Capital. Brad Erickson, you may now unmute your line and ask your question."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Brad, you may now unmute your line and ask your question. Thank you."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Hi, guys."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Can you hear me?"
+    },
+    {
+      "speaker": "spk00",
+      "text": "Hi, guys. Can you hear me? Yeah. Hi, guys. Can you hear me? Great."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thanks for taking the question. Thanks for taking the question. So, I guess, I guess, I guess, I guess, I guess, I guess, I guess, I guess, I guess, Cushion is in there."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Cushion is in there. You're embedding."
+    },
+    {
+      "speaker": "spk03",
+      "text": "You're embedding."
+    },
+    {
+      "speaker": "spk00",
+      "text": "You're embedding. You're embedding. You're embedding. You're embedding."
+    },
+    {
+      "speaker": "spk03",
+      "text": "You're embedding."
+    },
+    {
+      "speaker": "spk00",
+      "text": "You're embedding. You're embedding."
+    },
+    {
+      "speaker": "spk03",
+      "text": "You're embedding. the potential you see margin-wise over the longer term. Thanks, Brad. I'll take it."
+    },
+    {
+      "speaker": "spk11",
+      "text": "So in terms of what we're looking for, we're planning for the housing market to be flat. You're right. It started off slower than I think we're going to plan it. And against that backdrop, and against that backdrop, we're expecting a mid-single residential, we're expecting a four-sale growth, we're expecting a four-sale growth, and the enhanced market is clearly working."
+    },
+    {
+      "speaker": "spk00",
+      "text": "It's clearly working."
+    },
+    {
+      "speaker": "spk11",
+      "text": "So that gives us confidence on the four-sale category. And then with respect to the mortgages, margin question, we are making We are making great progress on growing the mortgage business, but we're not scaling that. Margins are improving. We are serving better loan officers. We are seeing better loan officers. We are processing better products. Even last year. It can be, you know, even last year, despite growing, despite growing, blown off the account by about 40%."
+    },
+    {
+      "speaker": "spk00",
+      "text": "So that just gives you a sense. That will take time. That just gives you a sense."
+    },
+    {
+      "speaker": "spk11",
+      "text": "But when we look at the mortgage opportunity, when we look at CA, we see a far bigger opportunity than being a... plan being made. So we're a top 24 plan being made. So we're a top 24 plan being made. So we're a top 24 plan being made. So we're a top 24 plan being made. So we're a top 24 plan being made. So we're a top 24 plan being made. So we're a top 24 plan being made."
+    },
+    {
+      "speaker": "spk00",
+      "text": "So we're a top 24 plan being made. So we're a top 24 plan being made. Thank you."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Understood. Thank you."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thank you. Thank you. Our next question comes from Nick Jones. Thank you. Great."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you. Thank you."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk05",
+      "text": "So I come to the first question."
+    },
+    {
+      "speaker": "spk09",
+      "text": "And the second question is, more broadly, as you kind of filled this out, are you getting more and more, are you getting more or more using for their psychology, whether it would be more pre-approval, whether it would be pre-approval, buying a home. Ostensibly, you're getting better and better data. Ostensibly, you're getting better and better data. Maybe I'll take the first."
+    },
+    {
+      "speaker": "spk02",
+      "text": "I think on rental, I don't think you should expect a posture change. We're excited about March. We're making tours."
+    },
+    {
+      "speaker": "spk00",
+      "text": "We're making tours. We're making tours."
+    },
+    {
+      "speaker": "spk02",
+      "text": "We're making tours. We're making tours. We're making tours. We're making tours. We're making tours. We're making tours. We're making tours. We're making tours. We're making tours. We're making tours. We're making tours. So all of our And so all of our property management tools are for the semi-pro and the semi-pro and long-tail professionals start to contribute more to the platform, provide more digital tools, and we see tremendous growth coming from there as well. And then I think your second question about can we see more of the on the real estate transaction and for sale. And yes, I mean, that's been our strategy really for the last decade now is down on, down on, down on, down on, down on. When you are a software platform, you are a software platform to look for what the listings are for sale, what the listings are for sale, get pre-approved. Get approved."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Virtually tour. Virtually tour. Hire your agent. Hire your agent. Message your agent. Start to write offers. Start to write offers. And then you're using Zillow tools. And then on the agent side. And then on the agent side. And then on the agent side. And then on the agent side."
+    },
+    {
+      "speaker": "spk02",
+      "text": "CRM is seeing all that data, seeing all that data, seeing all that data, seeing all that data, I think really unparalleled, I think really unparalleled in the real estate category, and that's what helps us build a better platform, build a better platform for all of us. But it also helps build the most successful AI platform. So that as we all begin to expect AI-enabled services in our verticals, you will expect the Zillow one. You will expect the Zillow one. That helps provide the most friction-free and delightful experience. Maybe just to layer on top of that, Nick. Maybe just to layer on top of that. Jeremy said it well. Think about the consumer."
+    },
+    {
+      "speaker": "spk11",
+      "text": "The consumer wants to see as much energy as possible. as much inventory as possible, and they are all from the same person. So having that inventory, all in one place, all in one place, new homes, and existing homes, and the most existing homes, is solving the consumer problem. It's giving us great contests, and then yes, we're building relationships with these consumers, and if we do a good job, and if we do a good job, why shouldn't we in the right year in the And we think we're doing that quite well."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Can you hear me? Can you hear me? Yep, we got you."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Can you hear me? Yep, we got you. Okay, great. Okay, great. Take my question. First one I wanted to ask about. First one I wanted to ask about. I was just hoping you could help. I was just hoping you could help. I was just hoping you could help."
+    },
+    {
+      "speaker": "spk00",
+      "text": "I was just hoping you could help. I was just hoping you could help. And just curious if there's anything you're expecting to pick up in the second half."
+    },
+    {
+      "speaker": "spk01",
+      "text": "And then second, just talk a little bit about agents, sellers, and why you think you've got the right approach. And why you think you've got the right approach to some alternatives that have been launched. Thanks. So, Jeremy, I can take the first one."
+    },
+    {
+      "speaker": "spk11",
+      "text": "So, Jeremy, I can take the first one. So, Jeremy, I can take the first one. And then maybe you take the second one. Yeah. And then maybe you take the second one. rates throughout the first quarter was worse than I think it was. And that impacts that sentiment when there is some excitement around the real estate industry, excitement around the real estate industry heading into the end and the transaction of current. So as a result, I'd say that an agent is selling season in the spring selling season. And as a result, we've seen this now. We've seen this now a number of years in a row, but MVP, MVP, MVP, MVP, MVP, MVP, MVP, MVP, MVP, MVP, MVP, MVP, MVP, MVP, MVP, MVP, MVP, MVP, MVP. throughout the course of the year, so you're not seeing that come through. But I would really not refer to just an agent sentiment and how they think about market-based pricing and what they're willing to buy, being the biggest factor there. When we look at the finance market strategy, It's clearly working quite well. You can see that revenue performance is consistent."
+    },
+    {
+      "speaker": "spk05",
+      "text": "So that's what we're most focused on. So that's what we're personally focused on."
+    },
+    {
+      "speaker": "spk11",
+      "text": "And that's what drives our roll driver. But the margin to MVP is really around MVP sentiment."
+    },
+    {
+      "speaker": "spk13",
+      "text": "And then your second question on preview. And then your second question on preview."
+    },
+    {
+      "speaker": "spk02",
+      "text": "The response to preview, I think, kind of proves that it's desired by most of the market. And that's just because the vast majority of sellers want to sell their home for the most money and sell it fastest. And using the public market and using the market as a way to get out some consumer sentiment steps, Consumers and sellers are going to use agents who can sell them at a maximum price."
+    },
+    {
+      "speaker": "spk00",
+      "text": "And the only benefit of private is it benefits the brokerage."
+    },
+    {
+      "speaker": "spk02",
+      "text": "So it's not surprising for such strong support from brokers and agents, even in just the first two months. We're excited to continue to grow and expand it."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thank you. Thank you. Our final question today comes to you. Our final question today comes to you."
+    },
+    {
+      "speaker": "spk00",
+      "text": "You may now unmute your line and ask your question. Thank you. Is there an expectation on your part that residential or part of that improves in the back half or is it worse in the back half or achievable if that becomes the run rate for residential for the rest of the year?"
+    },
+    {
+      "speaker": "spk11",
+      "text": "Yeah, I can take that one."
+    },
+    {
+      "speaker": "spk00",
+      "text": "I can take that one."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Housing market's been effectively flat."
+    },
+    {
+      "speaker": "spk05",
+      "text": "We're not planning for that to get better."
+    },
+    {
+      "speaker": "spk11",
+      "text": "It may, but we're not planning for it."
+    },
+    {
+      "speaker": "spk05",
+      "text": "It may, but we're not planning for it."
+    },
+    {
+      "speaker": "spk11",
+      "text": "So against that backdrop. So against that backdrop, what informs the mid-teens guide is we expect mid-single-digit growth. We expect mid-single-digit growth."
+    },
+    {
+      "speaker": "spk00",
+      "text": "We expect for sale to grow faster than residential growth. We expect for sale to grow faster than residential growth. Because of the enhanced market. Because of the enhanced market. And then total revenue continues to be on track."
+    },
+    {
+      "speaker": "spk11",
+      "text": "And then total revenue continues to be on track because your mid-teens growth equals your winter."
+    },
+    {
+      "speaker": "spk05",
+      "text": "So they all layer on top of each other."
+    },
+    {
+      "speaker": "spk11",
+      "text": "They're not planning for any macro changes versus what we saw in the first quarter. And despite that, well intact for mid-teens revenue growth for the year."
+    },
+    {
+      "speaker": "spk04",
+      "text": "This completes the allotted time for questions. This completes the allotted time for questions. I will now turn the call back over to Jeremy Waxman. I will now turn the call back over to Jeremy Waxman for closing remarks."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Great. Thanks, everyone, for joining us today. Great. Thanks, everyone, for joining us today. We really appreciate your support. We really appreciate your support. We are tremendously excited for what's ahead, and we look forward to speaking with you next quarter. Thank you for joining Zillow Group. Zillow Group is first quarter to Zillow Group."
+    },
+    {
+      "speaker": "spk04",
+      "text": "This concludes today's conference call. This concludes today's conference call. You may now disconnect. You may now disconnect."
+    }
+  ]
+}
