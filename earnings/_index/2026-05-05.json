@@ -1,6 +1,6 @@
 {
   "date": "2026-05-05",
-  "generated_at": "2026-05-06T07:34:07Z",
+  "generated_at": "2026-05-06T11:05:54Z",
   "n_calls": 10,
   "calls": [
     {
@@ -69,17 +69,6 @@
       }
     },
     {
-      "ticker": "VCYT",
-      "company": "Veracyte, Inc.",
-      "year": 2026,
-      "quarter": 1,
-      "conference_date": "2026-05-05T16:30:00-04:00",
-      "ark_funds": {
-        "ARKG": "2.64%",
-        "ARKK": "0.89%"
-      }
-    },
-    {
       "ticker": "TEM",
       "company": "Tempus AI, Inc.",
       "year": 2026,
@@ -91,6 +80,17 @@
         "ARKSX": "1.71%",
         "ARKUX": "1.71%",
         "ARKVX": "1.71%"
+      }
+    },
+    {
+      "ticker": "VCYT",
+      "company": "Veracyte, Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-05T16:30:00-04:00",
+      "ark_funds": {
+        "ARKG": "2.64%",
+        "ARKK": "0.89%"
       }
     },
     {
