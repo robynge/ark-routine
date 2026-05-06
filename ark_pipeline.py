@@ -187,11 +187,16 @@ def cashtag_ticker(t):
     return t
 
 def build_query(ticker, company, is_private=False, since=None, until=None,
-                since_time=None, until_time=None, min_faves=10):
+                since_time=None, until_time=None, min_followers=1000):
     """Build a Twitter advanced-search query string.
 
     Time filters: prefer `since_time` / `until_time` (Unix epoch seconds) for
     sub-day windows; fall back to `since` / `until` (YYYY-MM-DD) for daily runs.
+
+    Filter: `min_followers:N` — only return tweets from authors with >= N
+    followers. Replaces the previous `min_faves:10` (likes-based) filter,
+    which was too aggressive for small-cap ARK names where retail panic
+    tweets typically sit at 0-3 likes.
     """
     cleaned = clean_company_name(company)
     ambig = bool(cleaned) and cleaned.lower() in COMMON_WORD_NAMES
@@ -209,7 +214,7 @@ def build_query(ticker, company, is_private=False, since=None, until=None,
         sub.append(f'"{keyword}"')
     if not sub: return None
     base = sub[0] if len(sub)==1 else f"({' OR '.join(sub)})"
-    parts = [base, "-is:retweet", f"min_faves:{min_faves}"]
+    parts = [base, "-is:retweet", f"min_followers:{min_followers}"]
     if since_time is not None:
         parts.append(f"since_time:{int(since_time)}")
     elif since:
@@ -235,15 +240,13 @@ def advanced_search(query, query_type="Top", cursor="", retries=4):
         return r.json()
     return {}
 
-def paginated_search(query, max_pages=3, min_likes_continue=50, pace=1.0):
+def paginated_search(query, max_pages=3, pace=1.0):
     all_t = []; cursor = ""
     for _ in range(max_pages):
         r = advanced_search(query, "Top", cursor)
         page = r.get("tweets", [])
         all_t.extend(page)
         if not page or not r.get("has_next_page"): break
-        last_likes = page[-1].get("likeCount") or 0
-        if last_likes < min_likes_continue: break
         cursor = r.get("next_cursor","")
         if not cursor: break
         time.sleep(pace)
