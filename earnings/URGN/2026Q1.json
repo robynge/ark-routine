@@ -1,0 +1,279 @@
+{
+  "event": {
+    "ticker": "URGN",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk05": {
+      "name": "Operator",
+      "title": "Conference Call Operator"
+    },
+    "spk03": {
+      "name": "Vincent Perrone",
+      "title": "Senior Director, Investor Relations"
+    },
+    "spk13": {
+      "name": "Vincent Perrone",
+      "title": "Senior Director, Investor Relations"
+    },
+    "spk07": {
+      "name": "Liz Barrett",
+      "title": "President and Chief Executive Officer"
+    },
+    "spk11": {
+      "name": "Dr. Mark Schoenberg",
+      "title": "Chief Medical Officer"
+    },
+    "spk02": {
+      "name": "Chris Degnan",
+      "title": "Chief Financial Officer"
+    },
+    "spk06": {
+      "name": "Tara Bancroft",
+      "title": "Analyst at TD Cohen"
+    },
+    "spk09": {
+      "name": "Kelsey Goodwin",
+      "title": "Analyst at Piper Sandler"
+    },
+    "spk04": {
+      "name": "Operator",
+      "title": "Conference Call Operator"
+    },
+    "spk00": {
+      "name": "Amin Makarim",
+      "title": "Analyst at Jefferies"
+    },
+    "spk01": {
+      "name": "Michael Schmidt",
+      "title": "Analyst at Guggenheim"
+    },
+    "spk08": {
+      "name": "Roguram Selvuraju",
+      "title": "Analyst at H.C. Wainwright & Co."
+    },
+    "spk12": {
+      "name": "Paul Choi",
+      "title": "Analyst at Goldman Sachs"
+    },
+    "spk10": {
+      "name": "Leland Gershel",
+      "title": "Analyst at Oppenheimer & Co."
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk05",
+      "text": "Good day and thank you for standing by. Welcome to the EuroGen Pharma Q1 2026 results earning call. At this time, all participants are in a listen only mode. After the speaker's presentation, there will be a question and answer session. To ask a question during the session, you will need to press star 11 on your telephone. You will then hear an automated message advising your hand is raised. To withdraw your question, please press star 11 again. Please be advised that today's conference call is being recorded. I would now like to hand the conference over to your first speaker today, Vincent Perrone, Senior Director of IR."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Good morning, everyone, and welcome to Eurogen Pharma's first quarter 2026 financial results and business update conference call. Earlier this morning, we issued a press release providing an overview of our recent corporate highlights and financial results for the quarter ended March 31st, 2026. The release can be accessed on the investors portion of our website at investors.eurogen.com. Joining me today are Liz Barrett, President and Chief Executive Officer, Dr. Mark Schoenberg, Chief Medical Officer, and Chris Degnan, Chief Financial Officer. On today's call, we will be making certain forward-looking statements. These may include statements regarding our ongoing commercialization activities related to Zosteri and Gemmido, our ongoing and planned clinical trials and non-clinical trials, commercial and clinical development milestones, market and revenue opportunities, our commercialization strategy and expectations, as well as anticipated data, regulatory filings and decisions, the importance of Cesare's growth for Urigin's long-term strategy, the potential benefits of our products and product candidates, future R&D efforts and milestones, our corporate goals, and 2026 financial guidance, among other things. These forward-looking statements are based on current information, assumptions, and expectations that are subject to change. A description of potential risks can be found in our earnings press release and latest SEC disclosure documents. You are cautioned not to place undue reliance on these forward-looking statements, and your agenda disclaims any obligation to update these statements. I'll now turn the call over to Liz."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thanks, Vincent. Good morning, and thank you for joining us today. Before I provide our business update, I wanted to share that given the critical importance of a successful sister relaunch, the board and I made the decision a few months ago that I would assume direct oversight of the commercial organization, resulting in the departure of David Lin. For the past several months, I have engaged directly with our commercial team and key external stakeholders, and this change has enhanced our ability to remain agile, promote efficient decision-making, and leverage the expertise of our executive team. Now turning to our results. We are very pleased by our performance in the first quarter, highlighted by $29.2 million in Zesturi revenue. This represents more than 100% quarter-over-quarter growth. As expected, the implementation of the permanent J-code in January marked a major inflection point. and we are now seeing clear acceleration across key commercial metrics. The early momentum we discussed in the initial phase of the launch is now translating into expanded utilization and meaningful growth. Overall, the trends we are seeing are in line with our expectations and provide early validation of our commercial model. This progress reflects the differentiated values the story brings to patients and physicians. As the first and only FDA-approved medicine for adults with recurrent low-grade intermediate-risk non-multi-invasive bladder cancer, Zesturi offers a non-surgical treatment in a disease historically managed through repeated surgical intervention. Zesturi's profile as a primary chemo-ablative therapy represent a fundamentally different approach to treating these patients. Importantly, our clinical data has demonstrated unprecedented complete response and durability of response, offering patients meaningful recurrence-free periods and treatment-free living. Let me provide more detail on the metrics we are tracking. We continue to see strong growth in both unique and repeat prescribers. By the end of the first quarter, we had 256 unique prescribers, up from 102 at year end. and 103 repeat prescribers up from 32. This is the most important indicators we track as it reflects growing HCP confidence and successful integration of Zesturi into routine urology practice. Importantly, these growth trends were consistent throughout the quarter and not limited to the immediate period following the implementation of the J-code. This gives us confidence in the durability of the launch and supports our expectation for continued growth as we move through Q2 and the rest of the year. Patient enrollment forms, or PEFs, remain an important early indicator of demand, providing visibility into activity at the top of the funnel before it is reflected in new patient starts and revenue. In Q1, we saw continued sequential growth in PEF volume which we believe reflects strong and expanded healthcare provider engagement. As we've shared, pests, new patient starts, and doses all significantly outpaced gel mito in Q1, and we expect continued growth across all measures over the course of the year. In terms of conversion, the cycle time from pests to treatment initiation was approximately 45 to 60 days in Q4, which was expected as sites work through onboarding and workflow integration. In Q1, we continue to see improvement and expect this to continue over the course of the year, moving toward the two to three week range we see today with Jalmaito. We also see a continued shift toward greater utilization in community practices. In Q4, the mix was approximately 60% hospital and 40% community. And we are now approaching a more balanced mix, closer to 50-50 at quarter end. Given that approximately 70% of the overall market opportunity resides in the community setting, we expect this shift towards community practices will continue and will be an important driver of long-term growth for Zesturi. From an access and reimbursement perspective, we have open access across more than 95% of covered lives, and reimbursement confidence has significantly improved amongst practices with a permanent J-code versus DUR-E becoming effective on January 1st, 2026. The J-code has been a key catalyst for broader utilization in 2026, especially in the community setting. Looking ahead, we expect continued strong growth throughout 2026. Our focus remains on expanding adoption in the community setting, driving depth of utilization in accounts who have used Asturi, and continue to improve patient conversion timelines. In parallel, we are beginning to expand our commercial approach to more directly engage patients, including targeted awareness efforts, as we believe patients can be a key catalyst to drive adoption and Zesturi is in a unique position of providing both recurrence and treatment-free living. Zesturi addresses an estimated $5 billion annual market opportunity in recurrent low-grade intermediate-risk non-muscle-based bladder cancer, and we believe its differentiated clinical profile positions it to capture a meaningful share of that market. As adoption continues to build, we see Zesturi as a foundational treatment for adults with recurrent low-grade intermediate risk non-Muslim-based bladder cancer patients with the potential to evolve into a blockbuster therapy with peak annual revenues exceeding $1 billion. Turning to Gelmito, we reported revenue of $21.7 million in the first quarter and continue to see a stable, predictable demand profile. We are also continuing to add new users, reflecting sustained confidence among urologists and remain on track to achieve our 2026 sales guidance of $97 million to $101 million. We continue to advance our pipeline, including UGM-103, our next-generation mitomycin-based intravascular therapy, where we will have established a clear regulatory pathway for adults with recurrent low-grade intermediate-risk non-muscle-based bladder cancer. We remain on track for our NDA submission in the second half of 2026. with potential approval in 2027. We also plan to expand this product into additional bladder cancer settings as part of our broader lifecycle strategy. More broadly, as leaders in neuro-oncology, we believe that non-multi-invasive bladder cancer patients need options, and we are committed to developing multiple modalities to address the significant unmet need in this space. Mark will provide more detail on our pipeline in a few moments. Finally, we have a strong balance sheet with approximately $140 million in cash, cash equivalents, and marketable securities as of March 31st, supported by the refinancing of our term loan with Pharmacon Advisors during the quarter. This provides us with the flexibility to fully support the ongoing launch of Sisturi while continuing to invest in our next generation pipeline with cash runway to and through profitability. Overall, we believe we are well-positioned to execute on our strategy, build on our current momentum, and deliver meaningful outcomes for our patients while generating long-term shareholder value. I will now turn the call over to Mark for a clinical update. Mark?"
+    },
+    {
+      "speaker": "spk11",
+      "text": "Thank you, Liz. The American Urologic Association annual meeting will take place May 15th to 18th in Washington, D.C., Urogen will have a significant presence there, and we believe this is an important opportunity to engage with both community and academic urologists and further discuss the clinical value of Zosteri and Gelmito. For Urogen, the national AUA meeting represents a highly relevant and meaningful forum to continue building awareness and healthcare provider engagement. Bladder cancer will be a central focus of this year's meeting, and it's important to clearly define where Zosteri fits within the evolving treatment landscape for NMIVC. In Intermediate Risk Disease, the primary clinical challenge is the management of recurrence rather than progression. Patients commonly experience multiple recurrences requiring repeated TURBT procedures under general anesthesia over time, which contributes to a significant cumulative treatment burden. Accordingly, both patients and physicians are focused on strategies that reduce the frequency of interventions and enable a more rapid return to normal daily activities. Zysturi was specifically designed to address this need. Its clinical benefit is driven by both its efficacy and mode of administration. In the phase three Envision trial, which supported its FDA approval, Zysturi demonstrated a robust complete response rate of approximately 80% at three months. and importantly, durable outcomes over time. At 24 months, the probability of remaining event-free following complete response was approximately 72% based on Kaplan-Meier analysis. These data were recently published in the Journal of Urology and would be featured in a podium presentation at the upcoming AUA Congress. Importantly, median duration of response has not been reached in the envisioned study at a median follow-up of 23.7 months after a three-month complete response. From a clinical perspective, this level of durability is meaningful, as it has the potential to interrupt the cycle of recurrences and decreases patient's treatment burden. In practical terms, it translates into longer recurrence-free intervals and extended periods without treatment. Equally important is how this jury is delivered. It is administered as a finite six-dose chemo-ablative regimen in the outpatient setting. without the need for surgery or ongoing maintenance therapy. In our experience, this allows for straightforward integration into routine clinical practice without significant changes to workflow or infrastructure. This approach is distinct from many therapies currently in development, which are typically evaluated in the adjuvant setting and administered following TURBT. These regimens often involve induction and maintenance therapy over extended periods in some cases up to one year. Zesturi, by contrast, is designed as a primary non-surgical therapy with a total treatment duration of six weeks. Taken together, this approach represents a meaningful shift in how this disease can be managed, offering durable disease control with a finite course of therapy while reducing treatment burden and enabling extended recurrence-free and treatment-free living. As we continue to gain real-world experience, understanding how these clinical benefits translate into routine practice is increasingly important. At the upcoming AUA annual meeting, Urigin will host a KOL panel focused on real-world experience with Zesturi, including patient selection, workflow integration, treatment patterns, and patient outcomes. This event will be webcast and accessible through the company's website, and we believe it will provide important clinical perspective on how Zesturi is being incorporated into routine practice. Turning now to the pipeline. UGN-103 is our next generation mitomycin-based formulation for recurrent low-grade intermediate risk non-muscle invasive bladder cancer, developed to build on the foundation established by Zesturi. It is designed to improve upon the current formulation with a shorter manufacturing process and a more streamlined reconstitution procedure. while also having intellectual property coverage into December of 2041. We plan to submit an NDA for UGN-103 in the second half of this year based on results from the Phase III utopia trial, which demonstrated a 77.8 percent complete response rate at three months, consistent with what we observed with Zesturi. We are aligned with the FDA that the NDA can be submitted with six-month durability data with plans to update the filing as 12-month durability data become available. Six-month durability data are expected mid-year, and if we receive FDA approval in 2027, we expect the permanent J-code could become effective as early as the beginning of 2028. We also see significant opportunity to expand UGN 103 beyond its initial planned indication. We are actively pursuing development in high-grade NMIBC as well as in the adjuvant setting for intermediate risk disease, both of which represent meaningful opportunities to broaden the impact of this program. We plan to hold type C meetings with the FDA in the second quarter of 2026 to align on the development plans for both studies with the goal of initiating a phase three trial in high-grade disease before year end and in the adjuvant intermediate risk setting thereafter. EGN 104, our next generation program for low-grade upper tract urethral cancer continues to progress in a phase three trial as planned, with enrollment expected to complete by the end of 2026. Finally, UGN501 is our investigational next generation oncolytic virus therapy being developed as a locally administered treatment for cancer. UGN501 was specifically designed and genetically engineered to act like chemotherapy initially, producing widespread tumor cell lysis. with a subsequent immunomodulatory benefit, which we believe differentiates EGN501 from other oncolytic viruses in development. IND enabling studies are nearing completion, and we plan to submit an IND in the second quarter of 2026 and initiate a phase one clinical trial in NMIBC by year end. Our nonclinical data support the potential for EGN501 to be a differentiated oncolytic virus, demonstrating broad and consistent cytotoxic activity across a large panel of bladder cancer cell lines representing a range of tumor stages and grades. These findings reinforce our belief that UGN501 has the potential to be best in class, highly active, locally delivered therapeutic approach in this setting. The phase one trial will initially evaluate UGN501 via aqueous intravesical administration. In parallel, we plan to explore additional modes of delivery. including an administration with our proprietary RT-gel technology, which may enable prolonged dwell time and enhanced local activity. While our initial focus is bladder cancer, we believe this platform has the potential to extend beyond the genitourinary setting into additional tumor types over time. I will now hand it over to Chris to discuss our financial results."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you, Mark. Q1 represents an important step forward as we begin to see the early commercial momentum of Zestori translate into meaningful revenue growth while continuing to manage our cost structure in a disciplined manner. At the same time, we remain focused on supporting the ongoing launches of Zestori, advancing our pipeline, and maintaining the financial flexibility needed to execute on our long-term strategy. Now to our financial results. Total revenue was $51 million in the first quarter ended March 31, 2026, compared with $20.3 million in the first quarter of 2025. The 152% year-over-year increase was primarily driven by the commercial launch of the story, and Jalmito revenue growth also contributed to the increase. Research and development expenses were $15.6 million in the first quarter of 2026. compared with $19.9 million in the same period in 2025. The decrease in R&D expenses was primarily attributable to the acquisition of UGN 501 in the first quarter of 2025 and the story manufacturing costs, which we recognized as R&D expense in the first quarter of 2025 prior to receiving FDA approval. Selling, general, and administrative expenses were $51.5 million in the first quarter of 2026, compared with $35 million in the first quarter of 2025. The increase in SG&A expenses was primarily attributable to Zestori commercial activities, including the Salesforce expansion following Zestori approval and higher brand marketing expenses, an increase in overall commercial operation costs, and higher advisory costs, including fees associated with the Pharmacon debt refinancing. We expect Q1 to be the high point of SG&A expense in the year, based on phasing of activities and the one-time costs associated with the debt refinancing in the period. Financing expense related to the prepaid forward obligation to RTW Investments was $4.5 million for the first quarter of 2026, compared with $4.6 million in the prior year. Interest expense related to long-term debt was $4.2 million in the first quarter of 2026, compared to $4.1 million in the same period in 2025. The slight increase in interest expense was primarily attributable to the additional borrowings of $75 million in the first quarter of 2026 in connection with the Pharmacon debt refinancing, offset by the lower interest rate. The company reported a net loss of $23.6 million 47 cents per basic and diluted share, and the quarter ended March 31, 2026. Compare the net loss of $43.8 million, or 92 cents per basic and diluted share, in the first quarter of 2025. As of March 31, 2026, cash, cash equivalents, and marketable securities totaled $140.3 million. Finally, turning to guidance. The guidance that we provided on the year-end call in March is unchanged. For the full year 2026, net product revenues for Joe Mito are expected to be in the range of $97 to $101 million. This implies a year-over-year growth rate of approximately 3% to 7% over 2025. We are not providing formal sales guidance for Zestoria in 2026 at this time, given that the product is still in the early stages of its launch. Full-year 2026 operating expenses are expected to be in the range of $240 to $250 million, including non-cash share-based compensation expense of $20 to $24 million. That concludes our prepared remarks. We will now open the call to questions."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thank you. At this time, we will conduct the question and answer session. As a reminder, To ask a question, you will need to press star 1-1 on your telephone and wait for your name to be announced. To withdraw your question, please press star 1-1 again. Please stand by while we compile the Q&A roster. Our first question comes from Tara Bancroft from TD Cohen. Tara, the line is open."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Hi, good morning. So congrats on the great quarter. Love to see it. And, you know, with this quarter, it appears that you'll pretty significantly exceed the ANCTIVA's demand-driven growth that you previously pointed to as a solid analog for, you know, those six months post the permanent JCODE. So I'm wondering if you have any updated thoughts on how we should think about growth for the rest of the year from here, and maybe is there any other analog that we should look to instead from here? Thanks."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Hi, Tara. Thank you. I'm going to ask Chris to comment, and then I'll add any other commentary."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yeah, Tara, thanks for the question. To your point, I mean, we pointed to ANCTIVA, just to reground folks, where we looked at the first six months with the permanent JCODE. you know, they saw a 220% step up in their revenue. And to your point, you know, given the performance in Q1, you know, we're tracking ahead of that analog. Again, we're not guiding for the year, but, I mean, I think it's important to reiterate a few points from the call. One that we're seeing, you know, consistent growth across all our commercial indicators. This wasn't a one-time step up with the JCO that we saw in January. So these trends that we're seeing are progressing consistently throughout the quarter and into Q2. which gives us confidence that, you know, the underlying demand is building in a sustainable way. And as Liz mentioned on the call, we do expect, you know, continued growth in Q2 and throughout the year, given the early stages of the launch."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, so unfortunately, Harry, I don't – we don't have a great analog, to be honest with you, you know, that we could share with you. I think, you know, as Chris stated, you know, I think we feel good about, you know, where we are. you know, we expect to continue to grow. We do want to caution everybody that, you know, quarter over quarter growth is not likely to be the same, you know, as we go forward as it was in the Q1 versus Q4 because of the JCO dynamics. But we do expect to continue to see quarter over quarter growth. So I wish we could give you an analog. I think, you know, we're happy with where we are. We'll continue to see growth and, you you know, think we're in a good place. But right now, we're just not in a good position to provide any additional guidance beyond that."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Okay, great. Yeah, I understand completely. Thanks so much for that. Thanks. Appreciate it."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk03",
+      "text": "One moment for our next question."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Our next question comes from Kelsey Goodwin from Piper Sandler. Kelsey, the line is now open."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Oh, perfect. Hey, thanks so much for taking our questions and congrats on the really strong quarter. That's wonderful news. Two questions from us. First, could you provide more color on how many TURVTs these patients are receiving prior to getting Zesturi? you know, what kind of patients are getting Zesturi now and when patients recur? How do you get Zesturi to kind of be that first product that physicians reach for? And then secondly, on reimbursement, now that physicians are getting more comfortable post-permanent J-code, I guess maybe could you provide some color on, you know, what kind of cost sensitivity you're seeing given Zesturi's priced, you know, relatively lower than some of the high-risk programs at about $130K price range? Thanks so much."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, hi, Kelsey. Great questions. You know, one, I can give you anecdotally, but we don't track, obviously, how many TRBTs, that information just isn't available. You know, what we're hearing in the beginning is most of the patients that are getting treated in the beginning are those that have had at least two or three TRBTs. Having said that, we do have physicians that have already adopted Cysturi as sort of their standard of care, and so for a recurrent patient. And what I mean by that is they're looking, you know, we do have, you know, physicians who have treated several patients, you know, into the high teens, and so they are really adopting it across the entire paradigm of patients. So, you know, so I think we will get there and We want to be very careful, and that's one of the things we also are very careful with our sales team, is that we don't niche ourselves into those that have had multiple TRVTs, keeping in mind that 23% have had five or more, and 68% have had two or more. So even if we did have those patients, it's still a large number of patients, but we want to make sure that everybody understands. And particularly if you look at our clinical study, A lot of those patients only had one or two, and so we are seeing again. But initially, it's the expectation, and this happens across all of oncology. You typically start with your later line of patients and then move up after they see good results. So that's kind of where we are with that. On the call sensitivity, it's kind of an interesting position for us to be in because obviously the ones that you're talking about are all high-grade patients. And so it's hard to, but we do get lumped in, unfortunately, when they talk about high-priced drugs, they are lumping us in there. So we have to continuously remind everybody, to your point, that our price is significantly less. And we also want to bring that awareness as those high-priced drugs start to move into the low-grade space. When we developed our pricing, it was specifically for the low-grade patients. And also take into consideration the duration of therapy. Because one of the reasons that ours is $130,000 is because you only have six doses and you're done. You don't need to continue maintenance. Whereas you look at the other players in the market, both for high-grade and those coming into IR, they have maintenance therapy. So you're talking about six doses versus 14-plus doses. That also increases the price. You know, we hope that, you know, not only that physicians, payers see the value and the value price that we have, and I think we've been very responsible from that standpoint for the patient population that we're talking about."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Perfect. Super helpful. Thanks so much, and congrats again. Thanks. Appreciate it, Kelsey."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk04",
+      "text": "One moment for our next question. Our next question comes from Amin Makarim from Jefferies."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Hi. Thank you for taking our questions, and congrats on the quarter. Two from us. First, just following up on a prior question, can you comment on 2Q demand trends versus 1Q so far, what you're seeing on the field? whether you're seeing any acceleration early in this quarter. And the second one, within the new prescribers, how does the mix break down between a community versus academics, and are you seeing meaningful differences in demand across these groups already early in this launch?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, Chris, you want to comment,"
+    },
+    {
+      "speaker": "spk02",
+      "text": "Sure. I mean, thanks for the question. So in terms of Q2, I mean, obviously early stages of Q2, but I would say, you know, not necessarily acceleration, but just continued demand growth. As I said, you know, we saw continued growth month over month through Q1, and I would say that trend continues in the early stages of Q2. And in terms of mix, you know, as Liz mentioned on the call, you know, 60% of our business was in the hospital setting last year, and we've already now exceeded 50% mix in the community setting last year. in Q1, and so that is a big part of our growth, and we expect that to continue to shift more and more towards the community practices throughout the course of the year. And just a reminder, you know, 65-70% of these patients are treated in the community setting, so that's a big piece with the JCO being in place and opening up those practices for us."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, I think it's also just important to note, community, very important, but also a lot of the academic centers who do have A lot of these patients, they also continue to come on board. So we have some large academic centers that we just received in the last month, a positive formulary decision. So you'll see some new academic centers coming on board as well. So it's a continuous thing, but obviously most of these low-grade patients do get treated in the community. So as we grow community, but also important that we also support the institutions as they are big drivers also of the adoption. But thanks for your questions."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thanks. Thank you. One moment for our next question. Our next question comes from Michael Schmidt from Guggenheim."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Michael, the line is now open."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Hey guys, good morning. Thanks for taking my question and congrats on a great first quarter. Yeah, maybe just another follow up on Sysduri. Could you just comment if you're seeing a change perhaps in the type of patients that are choosing Sysduri now over TRBT? I think initially you spoke about preference by patients who are high risk, virtually high risk or, you know, elderly type patients. I'm just curious if that's shifting a bit now that the products have been on the market longer. And then, you know, maybe bigger picture, how do you think about the intermediate risk market evolving longer term with the potential entry of adjuvant therapies in the future post-URBT? You know, how could that, you know, impact the landscape as you think about Zesturi use long term?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thank you. Yeah, no, great. Michael, I loved the word when you said, quote, unquote, patients choosing. I will say that, yes, we are seeing across the board different types of patients being able to get Zesturi. I think in your comment about that, I will also say, I'll also answer as part of your second question. What we are finding and what we're hearing, and this is anecdotal, right? So I just want to be very careful about that, is we are starting to see and hear about patients requesting the story. We're hearing things like, oh, I want that gel stuff. And so patients, as they're starting to hear more about that, One of the ways that we believe we can clearly differentiate ourselves versus the market as the market evolves is given that we are the treatment that does not have surgery, yet we have very meaningful clinical results. And so when you talk to patients, they don't want another surgery. So while at the adjuvant setting, I believe that you'll always have those physicians and who want to do surgery because it's in their nature to cut it out and then come back with another therapy, I think you're going to see that patients are going to be opposed to that and patients are going to want to say, hey, let me see how this one works without surgery because you can go back and have surgery. I'll give you an example. We just heard about a patient who had multiple recurrences and very close together, used Zosturi, and she did have two small lesions which were able to be fulgurated in the office. So I think more and more as you start to hear about that, then I think that our drug will get used less in the adjuvant. It does get used. We do know of physicians that are even using Zosturi right now after surgery. But again, one of the biggest benefits we can provide and why we believe we will be the patient's choice for a treatment is because not only do you not have to have surgery, but you also don't have to have maintenance therapy. So it's a clear differentiator for us. And given the results, you have to look at the complete response and the durability that we have without surgery. So, you know, to your point, I think it will continue to evolve. I think there'll be opportunity for others in this space. I think more companies and more drugs being introduced will help to grow the market. And as we've talked about before, even given the pricing of our medicine and the use of only six weekly doses, we still believe that we'll have over a billion dollar revenue drug with only less than a 20% market penetration. So I think there's plenty of room for the category and for the area to evolve. But I also believe that we have a clear differentiator versus anyone coming in. And especially even today, there's no one coming in in the near future. So it's going to be a couple of years before there's others coming in. But our ability to offer patients an opportunity to not go through surgery but still get very meaningful results is very critical."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk03",
+      "text": "One moment for our next question."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Our next question comes from the line of Roguram Selvuraju from HC Wainwright and Co."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Thanks so much for taking our questions. Just three quick ones from us. Firstly, I was wondering if you could give us a sense of where you expect the timing between receipt of a patient enrollment form and finalization of reimbursement for Zoster-H to be by the end of 2026, you know, given the impact of the J code. Secondly, I was wondering if you could talk a little bit further about the community hospital contribution at steady state to the Zesturi revenue base, you know, just on a percentage basis, and also if there are any specific nuances between what you see as the receptivity at the community setting relative to the academic setting. And then lastly, I was wondering if you could just provide us with a few words on gelmito and what you see as the long term future for that product, as well as the life cycle management initiative with 104. Can we expect some re-acceleration of gel mito uptake? Do you think that there is some incremental gain to be made on that front with that product? And perhaps most importantly, are you seeing some renewed interest in gel mito given the receptivity you've seen so far with the story among prescribing physicians? Thank you."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, I'm going to actually go backwards, if that's okay, Ram, and then I'll leave the last question for which is your first question, and I'll turn it over to Chris. On Jomaito, we expect, as I mentioned in the remarks, to continue to see this sort of predictable growth where we are. So we will continue to see low single-digit growth. That's what we've been talking about. The good news is that we do continue to see new users of Jomaito. The issue for gel mito always comes around finding the patients. So as we go out and talk about Zesturi, even before Zesturi may be on formulary, that they're hearing about gel mito, we're getting new users using gel mito. So every quarter we have new physicians using gel mito. So we expect that to continue. And again, the challenge there is really where the patient presents. So you may have a doctor this quarter and that doctor won't see another gel mito patient for two, three, four quarters. And so a lot of that, so while we expect to continue this low single digit growth, we also do expect there to be continued new users of gel mito. And I think Cysturi will help that and we've talked about that before. With UGN 104 coming in, it will be interesting to see the data with UGN 104 And the only reason I say that is because if you recall, the stricter rate for Jalmito was high because of the way that the FDA required that we characterize that. And so we had some physicians who see that and get a little bit worried about that. But now that the nephrostomy tube is at least half of the usage and the clinical study, we'll have to see how that comes out in the clinical study. And also given... the long-term durability of John Mito, and we're seeing, you know, very similar results with Zosturi. And so I think all of those things, you know, point to our ability to continue to grow the low single digits for John Mito. So, you know, and the fact that we'll continue to grow the number of doctors that we're calling on with Zosturi, and that will also help John Mito. On the community versus the hospital, where we end up, you know, my guess, is going to be more of a 60-40 situation where most of it's coming from the community because that's just where the patients get seen. I mean, that's reality. Having said that, I don't want to negate the fact that the institutions are very important. And that's a lot of that is because once these patients have been treated multiple times, they tend to be sent to an institution or an academic institution. And we also know that they tend to be high volume accounts. And so while we expect ultimately the community to be bigger, the institutions will always be a major part of Zesturi. And we have some institution physicians who have already become real champions and advocates of Zesturi. And as I mentioned before, using it on most of their patients. And they're seeing, and I'm sure you heard last week, with Dr. Chamey, he's seeing more patients than he frankly thought he would that are appropriate for Zosteri. And I think we're hearing that more and more. So I think that's where we'll end up. And then I'll just ask Chris to talk a little bit about the conversion timing and where we expect it to be by end of 2026. So Chris."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thanks, Rob. So from PEF to new patient start, as we talked about, last year was roughly 45 to 60 days. And a lot of that less so the benefit verification, which only takes, you know, a few days once it's submitted to the hub. It was more the operational pieces and also as, you know, more use was in the hospital last year just getting on hospital formulary, et cetera. So, we do expect, you know, as this gets adopted into clinical workflows that our time to conversion is going to compress. And we did see that already in Q1. So, average time to conversion in Q1 was 30 to 35 days. We're starting to see that walk down, and we expect ultimately in steady state to be closer to where we are today for gel mito, which is two to three weeks from PEF to new patient start."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Great. Thank you so much, and congrats on all the recent progress."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thanks, Ram."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thank you. Our last question comes from Paul Choi from Goldman Sachs. Paul, the line is now open."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Thank you. Thanks for taking our questions, and let me add my congratulations on the good results. Liz, I was wondering if you could maybe provide some color on where this update is happening. Specifically, what is the sort of percentage of overlap with existing gel mito users versus prescribers who are just new and outside your current commercial base or prior commercial base? And my second question for Mark is... I was wondering if you could expand a little bit more on UGN 103 development plans and potentially an adjuvant trial that seems to be the direction of travel for some of your competitors and just what that kind of trial in your mind might look like for UGN 103. Thank you."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, sure, Paul. Mark, would you like to start there?"
+    },
+    {
+      "speaker": "spk11",
+      "text": "Yeah, sure. Thanks, Liz. Thank you, Paul. So, yes, we are excited about UGN-103's NDA submission this year and expect an expected approval for the successor molecule for Zisteri. In terms of expanding the label or the indication into other aspects of the disease spectrum, we certainly are in the process of finalizing conversations about what trials would look like as adjuvant therapy for newly diagnosed intermediate risk disease and also for high-grade, high-risk disease. Both of those trial designs anticipate prospective randomized adjuvant therapy with a control arm, and we are in the process of finalizing the details of those trials, and we anticipate initiating the high-grade trial this year. That's our current plan."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, I think the only additional comment I'll make about that is, you know, I still hold to what I said earlier in the IR space is that I think doing it without having to do surgery is a real benefit. Having said that, you know, because some physicians want to, it's probably in our best interest to at least generate some data of using Zestori in the adjuvant setting. So, you know, it's one of the reasons we're doing, you know, what Mark was talking about. To go to your first question around gel mito overlap, absolutely. You know, and some of our initial users were gel mito users, and we see today over 50% of the Zesturi users are gel mito users. That's not surprising, obviously, because, you know, the 95% of gel mito users are Zesturi, you know, are potential Zesturis. It doesn't, you know, flip side is not necessarily the case given the rare nature of the upper tract urothelial carcinoma. But so we're seeing again now, you know, in the beginning, I would say it was even higher. You know, we started out, some of our initial users were gel mito users, so probably 80%. But now it's, you know, a little over 50%. So we're seeing both the gel mito and non-gel mito users using Zesturi. So I hope that helps, Paul."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Yes, it does. Thank you very much, Liz."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thank you. We have one last question. The last question will be from Leland Gershel from Oppenheimer."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Leland, the line is open."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Great. Thanks for taking our questions, and terrific to see this story hitting its stride here. Just, Liz and team, I wanted to ask, Appreciate the additional launch metrics that you provided. Looks like you're making solid progress there on activated sites and prescribers. Wondering if you could share with us where you may be sort of in the context of your overall rollout plan with respect to goals of those various metrics. Thanks very much."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thanks, Leland, and thanks for the support. very very early you know so we're nowhere near where we want to be you know we have a target of 8,500 doctors health care providers and you know where we talked about today we've only got you know 300 you know unique prescribers so we have a long way to go but I think that's great news right it's good news for us because that means the opportunity since we're already seeing the great results so far in q1 We believe that those that have used it, we're getting very positive feedback, but we have a long way to go with new users, and we'll continue to add new users. And part of our, I mean, our strategy is both breadth and depth, because we also do know that those physicians who have already used it have more patients that they could use it on, but, you know, absolutely, we have a long way to go. So we're just in the very, very early stages of where we want to be with penetration among docs. Long way to go, very, very early in the early stages."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Great."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thanks very much."
+    },
+    {
+      "speaker": "spk07",
+      "text": "All right. Thanks, Leland."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thank you. I am showing no further questions. Okay, great. This concludes the question and answer session. I would now like to turn it back to Liz Barrett for closing remarks."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thanks, and sorry about that. Just wanted to say thank you to everybody who have been supportive of us for a long time. I think we're finally starting to see the results that we've always known that we could bring. I think the most important thing that we really like to focus on is the impact that we're having on patients because we really do believe if you do the right thing for the patients, the business and our shareholders will be rewarded for that. So thanks for all the support. Happy to continue to share progress as we get into Q2 and beyond. So thanks again for everybody's support, and we will talk to you guys soon. You can disconnect now, operator."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thank you for your participation in today's conference. This concludes the program. You may now disconnect."
+    }
+  ]
+}

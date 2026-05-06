@@ -1,0 +1,295 @@
+{
+  "event": {
+    "ticker": "INMD",
+    "year": 2025,
+    "quarter": 4
+  },
+  "speaker_name_map_v2": {
+    "spk11": {
+      "name": "Operator",
+      "title": "Conference Operator"
+    },
+    "spk01": {
+      "name": "Miri Segal",
+      "title": "CEO of MSIR"
+    },
+    "spk05": {
+      "name": "Moshe Mizrachi",
+      "title": "CEO of InMode"
+    },
+    "spk04": {
+      "name": "Yair Malka",
+      "title": "Chief Financial Officer"
+    },
+    "spk02": {
+      "name": "Matt Mixick",
+      "title": "Analyst, Barclays"
+    },
+    "spk06": {
+      "name": "Danielle Antelfi",
+      "title": "Analyst, UBS"
+    },
+    "spk03": {
+      "name": "Matt Taylor",
+      "title": "Analyst, Jefferies"
+    },
+    "spk08": {
+      "name": "Joseph Conway",
+      "title": "Analyst, Needham"
+    },
+    "spk00": {
+      "name": "Moshe Mizrachi",
+      "title": "CEO of InMode"
+    },
+    "spk07": {
+      "name": "Caitlyn Roberts",
+      "title": "Analyst, Canaccord Genuity"
+    },
+    "spk09": {
+      "name": "Sam Iver",
+      "title": "Analyst, BTIG"
+    },
+    "spk10": {
+      "name": "Dane Reinhart",
+      "title": "Analyst, Baird"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk11",
+      "text": "Good morning and welcome to InMode's fourth quarter and full year 2025 earnings conference call. All participants will be in listen only mode. Should you need assistance, please signal a conference specialist by pressing the star key followed by zero. After today's presentation, there will be an opportunity to ask questions. To ask a question, you may press star then one on a touch tone phone. To withdraw your question, please press star then two. Please note this event is being recorded. I would now like to turn the conference over to Miri Segal, CEO of MSIR. Please go ahead."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thank you, Operator, and everyone for joining us today. Welcome to InMode's conference call. Before we begin, I would like to remind our listeners that certain information provided on this call may contain forward-looking statements. and the safe harbor statement outlined in today's earnings release also pertains to this call. If you have not received a copy of the release, please visit the investor relations section of the company's website. Changes in business, competitive, technological, regulatory, and other factors could cause actual results to differ materially from those expressed by the forward-looking statements made today. Our historical results are not necessarily indicative of future performance. As such, we can give no assurance as to the accuracy of our forward-looking statements and assume no obligation to update them, except as required by law. With that, I'd like to turn the call over to Moshe Mizrachi, Inmo's CEO. Moshe, please go ahead."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thank you, Miri, and to everyone for joining us. With me today are Dr. Michael Kreindel, our co-founder and chief technology officer, Yair Malka, our chief financial officer, and Raphael Likerman, our VP finance. Following our prepared remark, we will be available to answer your question. The fourth quarter was slightly better than expected. even as our industry continues to face ongoing challenges driven by higher interest rate and software customer demand in the aesthetic space. Despite this headwind, InMod continues to benefit from its strong position and from the proven long-lasting clinical outcome patient experience when using our technology and platforms. strengths continue to position us as the leader in the market of minimally invasive aesthetic treatment reflected in both superior patient outcome and financial performance that remain among the best in the industry. While total revenue decline approximately 6% year over year, revenue from consumable and services increased slightly compared to last year. We believe this may represent early signs of stabilization in patient activity and usage level across our install base. We view 2026 as stabilization year for the business following a prolonged period of industry softness. In 2025, we took decisive steps in our North American business. We appointed Michael Dennison as President of North America in October and unified our operation into a single organization spanning from Eastern U.S., Western U.S., and Canada. Given the timing of this leadership change, the impact on fourth quarter results was limited. However, we expect the new structure, leadership, and commercial initiative to begin delivering tangible results in 2026. During 2025, we also laid the foundation for more differentiated and focused commercial organization. Our sales force is now segmented across aesthetic and wellness. with dedicated team aligned to specific platforms. For Envision, we have established a specialized sales team with a deep experience in the category, which we believe will drive increased penetration and improve sales productivity. Product innovation remains a key pillar in our strategy. In 2025, we launch our CO2 laser platforms which is performing well and expand our portfolio. By enabling combined treatment, it further reinforce our position as a one-stop solution across core procedures. Looking ahead into 2026, we plan to keep innovating and introduce two new platforms. a Korean-made PicoLaser device, and a device that combines a new Morpheus technology with Erbium YAG laser. These upcoming launches are an important component of our long-term strategy. We are committed to innovation, and as part of our strategy, we launch two new platforms of all technologies per year. We see meaningful interest across our existing customer base and the new ones, and we believe this product will improve our overall value proposition. From a product mix perspective, most of our offering include Morpheus 8 or minimally invasive component. This will reflect the depth of our portfolio and the comprehensive nature of the solution we provide. From a financial standpoint, we currently expect total revenue in 2026 to be broadly in line with 2025, and we anticipate continuing evolution in our product mix. More broadly, the industry has not yet fully recovered from the global economic slowdown. Demand in North America remains below historical levels. At the same time, we are encouraged by early sign of stabilization in the US and gradual improvement in Europe, which we believe could improve incremental support to our performance going forward. Overall, we are focused on disciplined execution of our product roadmap, continued refinement of our sales team, and maintaining our leadership innovative position in the aesthetic industry. Now, I would like to turn the call over to Yair, our Chief Financial Officer. Yair?"
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thank you, Moshe, and hello everyone. Thank you for joining us. Before I begin to review our financial results, it is important to note that when comparing our year-over-year performance, The fourth quarter of 2024 included a one-time tax benefit. Therefore, we believe non-GAAP net income offers the most meaningful basis for comparing year-over-year results. Starting with total revenues, INMO generated $103.9 million in the fourth quarter of 2025, up from $97.9 million in the same quarter last year. For full year 2025, revenue totaled $370.5 million, a 6% decrease compared to 2024. Moving to our international operations, the fourth quarter was a record revenue quarter for Europe, reflecting continued momentum across the region. Sales outside the U.S. totaled $48.5 million in Q4, representing 47% of total sales and an increase of 38% compared to Q4 of last year, driven primarily by Europe. For the full year 2025, sales outside the US accounted for $171.8 million, or 46% of total sales, representing a 15% increase compared to 2024. Gross margins in the fourth quarter of 2025 was 78% on a GAAP basis, compared to 79% in the fourth quarter of 2024. Non-GAAP gross margins were 79% for both the fourth quarter and the full year of 2025. In Q4 and in full year of 2025, our minimally invasive technology platforms accounted for 76 and 78, respectively, of total revenues. For the full year of 2025, consumer base and service accounted for 22% of revenue and increased from 20% in 2024. To support our operations and growth, we currently have a sales team of more than 285 direct reps and 73 distributors worldwide. GAAP operating expenses in the fourth quarter were $55.3 million and $205.6 million for the full year an 11% and 0.5% increase year over year respectively. Sales and marketing expenses increased slightly to $48.4 million in the fourth quarter compared to $44.7 million in the same period last year. Sales and marketing expenses for the full year of 2025 were $180.6 million compared to $181.4 million for 2024. The year-over-year decrease was primarily driven by lower sales commissions resulting from reduced sales, as well as lower share-based compensation, partially offset by higher salaries and employee-related expenses. Next, we look at share-based compensation, which decreased to $2.5 million in the fourth quarter of 2025 and $11.1 million for the full year of 2025. On a non-GAAP basis, operating expenses were $53.2 million in the fourth quarter compared to a total of $46.8 million in the same quarter of 2024, representing a 13.5% increase. For 2025, non-GAAP operating expenses were $195.8 million compared to $189.8 million in 2024. Gap operating margin for Q4 and for 2025 was 25% and 23% respectively. Non-gap operating margin for the fourth quarter of 2025 was 27% compared to 32% for the fourth quarter of 2024. Non-gap operating margin for 2025 was 26% compared to 33% in the full year of 2024. This decrease was primarily attributable to higher sales and marketing expenses. Gap diluted earnings per share for the fourth quarter were 42 cents compared to $1.14 per diluted share in Q4 of 2024 and $1.43 in 2025 compared to $2.25 in 2024. Non-gap diluted earnings per share for this quarter were 46 cents. compared to 42 cents per diluted share in the fourth quarter of 2024 and $1.60 for 2025 compared to $1.76 for 2024. As of December 31st, 2025, the company had cash and cash equivalents, marketable securities and deposits of $555.3 million. And we return $127.4 million back to the shareholders through a disciplined share repurchase program. This quarter, Inmo generated $22.7 million from operating activities. Before I turn the call back to Moshe, I'd like to reiterate our guidance for 2026. Revenues between $365 million to $375 million, non-GAAP gross margin between 75% and 77%, Nangap income from operations between $87 million and $92 million. Nangap earnings per diluted share between $1.43 to $1.48. I will now turn over the call back to Moshe."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thank you, Yehud. Operator, we're ready for Q&A session."
+    },
+    {
+      "speaker": "spk11",
+      "text": "We will now begin the question and answer session. To ask a question, you may press star then 1 on your telephone keypad. If you're using a speakerphone, please pick up your handset before pressing the keys. If at any time your question has been addressed and you would like to withdraw your question, please press star then 2. At this time, we will pause momentarily to assemble our roster. The first question comes from Matt Mixick with Barclays. Please go ahead."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Hey, thanks so much for taking the questions, and I appreciate all the color. So, one on one of the comments that you made just now, and I have one follow-up, if I may. You talked a little bit about encouraging signs of improving trends. I don't want to make too much of that. This is something we've talked about and anticipated for some time now. What, if anything, are you seeing that would suggest things are starting to perk up a little bit? And then, as I mentioned, I have one quick follow-up."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Well, thank you. Thank you. We see, first of all, the interest rates started to come down. That's a good sign for us. And that means that the interest rate for leasing packages for five years, which is the main vehicle for the doctor to purchase capital equipment, will probably will come down as well. And we see some decline in the interest rate on list packages as well. Second, I believe I said that, in the fourth quarter of 2025, we see slightly increase in the procedures number. We see more sales in consumable. which represent the numbers of minimally invasive treatment. So between these two and a slightly increase in revenue in Europe, we believe that these are very early signs. I'm not saying that we see the light at the end of the tunnel yet, but we see very, very, very, I would say soft, some sign that will encourage us that maybe the momentum or maybe the change is coming soon."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Okay. That's super helpful. And then follow-up, I'm not sure how much you're going to be willing to talk about it, so you probably already know what the question is, but just comments that were in the press about strategical alternatives. We view the stock as very attractively valued and has been for some time. Cash flows and margins stable and being able to buy back shares and maneuver in a way that many companies your size can't just because of your margin structure, cash flows and tax benefits and so on. What can you tell us about the process and maybe the timing as to when we might hear something as a result coming out of it."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Well, you know that in the last two and a half years, we actually implemented a buyback program, and we bought back stock for almost $508 million. Following that, the board of directors decided to look for some other strategic alternative to improve the value of the company, which we believe and the board of directors believe that it's still very low. So they are considering several types of strategic alternatives. They hire a bank in order to help them. I can say the name, Bank of America. And the process is done between the board of directors and the bank. The management is not fully involved in this process. I want to comment one thing about the news that Steel Partners, you know, released to the market in the press release that they are willing to buy 51% of the company for $18 per share. So I wonder why they send this letter to me as the CEO and to the board of director. We do not have 51% of the company to sell. So, you know, the only way to buy 51% of InMod is to do a tender offer, hire a bank, put some money in an actual account and offer it to the public, not to the CEO. I don't have 51% to sell and give them. But they didn't do it. They just sent a letter to me and to the board of directors. And later, one day after, they published it as a press release. Other than that, we have no contact with them whatsoever. Not myself, not the board. We did not talk to them. We did not discuss it with them. We don't know why they put the press release out. But, you know, everything is possible in the U.S.,"
+    },
+    {
+      "speaker": "spk02",
+      "text": "I suppose so. Thanks so much."
+    },
+    {
+      "speaker": "spk11",
+      "text": "The next question comes from Danielle Antelfi with UBS. Please go ahead."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Hey, good morning, everyone. Thanks so much for taking the question. This is just a question on the gross margin and the EBIT margin guide. It did come in a little bit lower. Appreciate Revenue is also coming in a little bit lower. I mean, what are the different levers you can pull there to drive a little bit more leverage? I guess also what I'm getting at is how conservative is this guidance? Because you still have pretty good leverage, even with revenue a little bit softer than what the street was looking for. And then I have one follow-up."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Gael, you want me to answer that? Yeah."
+    },
+    {
+      "speaker": "spk04",
+      "text": "No, I'll take it, Michelle. Okay, go ahead. First of all, yes, learning from the past couple of years, we try to be as conservative as we can. with our guidance. But to answer your specific question about the margin, Moshe mentioned in his script that one of the new products that we plan to launch is a Pico laser next year, as well as Erbium laser. And lasers tend to have a lower gross margin, as everyone in the industry knows very, very well. And we expect those two new lasers that we launched in 2026 to weigh in on our gross margins a little bit."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Let me add to what Yair said. There are two reasons why the gross margin is going down. One, exactly what Yair said, we are getting into the laser development of new laser system, Erbium YAG, CO2, Q-switch, maybe in the future Pico. But in the meantime, we have decided that in order to have those products in our portfolio, We need to find a reliable source to buy it from and bring it under InMod brand name to the market. So the first product that we are buying and selling is CO2 product. We will develop another CO2 in the future, but it's a CO2 product that we buy from American company. under their FDA clearance. We made it with some changes to comply with InMod requirement, as far as software and other elements, and we brought it to the market in 2025. In 2026, we intend to bring to the market two new products, which we are going to buy from a Korean company. This is the Pico and the Q-switch lasers. Both platforms are very well known in the medical aesthetic, but once we buy them and we bring them to the U.S., the cost to us is much higher than our internal manufacturing cost. And we need to take it as a cost. So the effect on the cross-margin plus the effect of the U.S. tariff, 15% from all imports from Israel, will affect the gross margin to go in the neighborhood of 75%."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Okay, that's helpful. And then my next question was actually related to the laser launches. I mean, how much do you think this opens up the market for? to you incrementally in 2026 and 2027. I appreciate you've had products here before, but just sort of how big is the laser portion of this market and how much does your TAM increase by launching these products?"
+    },
+    {
+      "speaker": "spk05",
+      "text": "Well, you know, historically, the laser platforms is the bread and butter of medical aesthetics. We came to the market 10 years ago with a new innovation using RF energy and not just laser. And we did very well because laser cannot penetrate deep, and RF penetrates as deep as you want, especially if you are treating in a minimally invasive method and procedures. So it was a very new technology that we introduced to the market. Right now, we believe that in order to grow into the next level of product, we have to have the bread and butter as well. And this is the laser product. CO2, diode, erbium, peacock, Q-switch, there are many of them. These are not new technologies because all of these technologies are well known in the medical aesthetic industry, I would say for at least 25 years. But we're bringing the new generation of lasers and we come to the market and we believe that the synergetic effect between our technology and the laser technology will create another competitive advantage. But unfortunately, the laser market is very saturated and and therefore prices of laser equipment are relatively low compared to InMod product, compared to Ignite, compared to Optimus Max, compared to Morpheus. And therefore the margin on them are relatively low, relatively low compared to us. They are not relatively low period. In addition to that, Some of this product we are buying, we're acquiring from a Korean company or from an American company. And therefore, we have to share the margin with them. And that also will affect the margin. But basically, margin, it's a laser for medical aesthetic company. Long term, it's a must. It's not nice to have."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Got you. Thank you so much."
+    },
+    {
+      "speaker": "spk11",
+      "text": "The next question comes from Matt Taylor with Jefferies. Please go ahead."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Hey, good morning. This is Mike Sarcona for Matt today. Thanks for taking the questions. I guess maybe just to start, Yair, maybe can you help us on the quarterly phasing when we think about top line and margins through the year?"
+    },
+    {
+      "speaker": "spk04",
+      "text": "I think it's going to be very similar to 2025. As you see, the guidance is pretty much spot on with our actions for 2025, and I expect the quarterly distribution to be the same."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Okay, great. Thank you. And then just, you know, on the two new launches for this year, can you talk about what you have baked into guide from a financial contribution standpoint?"
+    },
+    {
+      "speaker": "spk05",
+      "text": "Well, I mean, the two products that we launched this year in North America are the Solaria, which is the CO2, and the ApexRF, which is for increased blood circulation, and some doctor using it for erectile dysfunction. These two product contribution in 2025 was 35 times 60. It's about, I would say, $15 million. Okay."
+    },
+    {
+      "speaker": "spk03",
+      "text": "And just that's 1.5, 15? 1.5, yes. Got it. Thank you. And any color on kind of new product contributions for 2026, or are you not providing that?"
+    },
+    {
+      "speaker": "spk05",
+      "text": "Well, the two new products that we'll bring in 2026, one of them is made by us, which is a combination platforms of new technology of Morpheus. We don't want to elaborate what kind of a new technology, but for us, Morpheus is technology. It's not a product. And we have some new ideas how to make it next generation of Morpheus combined with Erbium YAG. Erbumiag is a superficial treatment on the skin, 200 micron, 150 micron, something for texture. And the morphules go deeper. So basically, if you combine between these two modalities in one platform, you give the dermatologist or the aesthetic surgeon or the aesthetic doctor information. ability to combine between these two treatments to get much better results. That's one product. The second product is a product that is a picolaser. We buy from a Korean company, a young and small Korean company that we identified and we signed some kind of agreement with them. So we are exclusively selling their product in the United States. Pico, it's a very short pulse of laser. So Pico is used for all kind of pigmented lesion, for tattoos, for melasma, and other skin indications that you're treating. These two products, we believe, will be well accepted, although we're not the first one with Pico. But with other platforms, it's unique, and we're the only one. So I don't know. I cannot give you any estimations how much will sell from each one of them, but these are two products that we're launching, and we're launching with intensive marketing, I would say, activity."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Great. Thank you, Moshe and Yair."
+    },
+    {
+      "speaker": "spk11",
+      "text": "The next question comes from Joseph Conway with Needham. Please go ahead."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Moshe Yair, thank you very much for taking our questions. I guess maybe just a quick one. Obviously, we saw minimally invasive decline a little bit in 2025, while non-invasive, you know, more than doubled, so very strong growth there. I'm just wondering if you can, you know, basically add some color as whether this is mostly driven by, you know, the new product launches, the new lasers, or is there any industry shift that went on in 2025 that, you know, preferred the non-invasive treatments over the minimally invasive? Is this"
+    },
+    {
+      "speaker": "spk05",
+      "text": "know med spas growing faster than uh derm or surgeon clinics or like i said earlier is it mostly just new product uh launch related well uh i i believe we said that before but i will say it again uh typically minimally invasive procedure costs much more than non-invasive So if you want to do one quantum treatment, it can cost you $4,000 to $7,000 per one treatment. When you want to do laser hair removal, you can buy a package of six treatments for $3,000. So it's $500 per treatment. So the basic procedures, like hair removal, skin rejuvenation, these are relatively, I don't want to say cheap, relatively low-priced treatment. And the high-cost treatment, like Morpheus, like Quantum, like BodyTite, are more expensive. And therefore, you know, when you have only $2,000 for aesthetic a year, You first go to do hair removal and skin rejuvenation, and then you go to do skin or face reshaping. The procedures in 2025, although it was, the numbers of procedures in 2025, although it was slightly above 2024, but taking into consideration that we added another 4,500 system in 2025 to the market, the numbers did not grow. So we still don't see a major change in the number of procedures that we're selling, that we are, yeah, the numbers of disposable, which means the numbers of procedures that we're selling to the doctors. Another thing I wanted to add, and this is something that I believe affects all the market, and that's the GLP-1. The GLP-1, you know, 35 million Americans are using GLP-1. So, you know, if they want to lose fat, instead of doing liposuction or body tight, they can lose fat with GLP-1. Long term, we believe it will help us. Because once you lose fat, you have loose skin, and you need to tie the skin. And then minimal invasive is the best way because laser hardly ties the skin."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yes, okay. That makes perfect sense. And then just one more. It looks like based off of your slides that the number of countries that InMode is operating in jumped by – um, considerable amount, I think at least 10 by my math. Uh, just wondering there, you know, what, what countries, um, did you guys enter in, in this quarter? Um, or X four Q, um, you know, what was the split there? Are these more direct subsidiaries versus distributors? I know last call you called out Argentina and Thailand as new, um, direct subsidiaries. And then maybe if you could just expand on that a little bit more, you know, talk about, you know, are you guys still continuing to emphasize the direct sales over the distributor sales? Is that going to be a mission in 2026, possibly to, you know, help the gross margin line? Yeah, any color and all that would be great. Much appreciated. Thank you."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Well, you know, there's always the rule of 20-80. 20% of your customers making 80% of your revenue. So if we're adding more customers, these are relatively small. Because the big countries and the big market we're covering anyway. But for example, I'll give you an example. For example, a small country like Austria. We have a subsidiary in Germany. So we opened a base in Austria as well. So this is another market. Although we don't have a distributor, it's direct from Germany. The same Ireland and Scotland from the UK. The same Belgium for France. The two new subsidiaries that we established in 2025, Argentina and And Thailand used to be distributors, but we were not very happy with these distributors. And this is the reason we thought it might be better if we open our own subsidiary because there is a potential in those countries. But when we add another countries in Africa that buy two, three systems, yes, there is a distributor who sells some products, but that's not adding much to our top line. Our top line will be to increase productivity and to increase market share in the big market. And don't forget, 80% of our sales today are direct. That means that 13 subsidiaries are controlling 80% of our revenue and all other distributors only 20% of our revenue."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Did I answer your question?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "yeah yeah perfectly much appreciated that's helpful the next question comes from caitlyn roberts with canaccord genuity please go ahead hi thanks so much for taking the questions um you know just to start off what are you specifically seeing in europe that's been so encouraging and do you continue to expect international to be a higher mix of revenues in 2026 than it's been historically"
+    },
+    {
+      "speaker": "spk05",
+      "text": "Well, I don't know if I can say that. Although adding two subsidiaries to the international and making basis in some countries with our existing subsidiaries, as I said before, Austria, Belgium, Scotland, Ireland, will increase our direct sales significantly. in those territories, and it might increase the total revenue from the international, but we also invested a lot of money and a lot of effort to, I don't want to say reorganize, but to streamline the operation in North America. We are combining the East, West, and Canada into one company. Instead of having three companies, we have now one company that using the same product line and the same marketing under the same language, and we believe that that will help the North American market as well. So to tell you whether or not the international will be higher than the North America, we're not in a position. We would like both of them to grow."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Understood. And, you know, how should we be thinking about R&D and sales and marketing spend this year?"
+    },
+    {
+      "speaker": "spk05",
+      "text": "What is the question? What do we think about R&D?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "R&D and sales and marketing spend this year, what levels, you know, in 2026 versus 2025?"
+    },
+    {
+      "speaker": "spk05",
+      "text": "Okay. On the R&D, although I don't think it needs to be measured as percentage of revenue, and I said that several times before, we have an R&D team in Israel, which includes electronic, software, mechanical, clinical, regulation. It's one team. The fact is that in 2026, we will increase the spending on, not the spending, the investing on R&D because we are initiating two big clinical studies for women health, which are not just a simple laser. And that will cost money. Each one of them probably will be in the neighborhood of between two to four million dollars in 2024 and maybe a little bit in 2026 and maybe a little bit in 2027. So that will increase the total expenditure on R&D. As far as marketing, when it's a little bit difficult to sell because of the softness of the market, and you want to keep your market share, you have to spend more on marketing. B2B, B2C, social media, conferences, which we're now planning to be in many of them all over the world. And the fact that we're bringing new product to the market also required some more expenses or more investing, I want to call it this way, on marketing. So, I mean, the percentage will be similar to 2025. We will not spend more, but we are more focused on specific spending and not general spending."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Understood. Thanks so much."
+    },
+    {
+      "speaker": "spk11",
+      "text": "The next question comes from Sam Iver with BTIG. Please go ahead."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Hi, good morning. Thanks for taking the questions. Maybe I'll have to just announce them both up front here. First on capital allocation, would love an update on your priorities here in 2026 and if maybe any decisions are going to be held off until the end of this review process. And then the second question, just any update on the clinical work for the dry eye indication and FDA approval timelines. Thanks."
+    },
+    {
+      "speaker": "spk05",
+      "text": "You know, We're trying to get indication for the dry eye using bipolar RF, not IPL, because we believe that the IPL technology can do something, but the best results, as far as we know, and we did some studies, is from RF, bipolar RF. So we initiated the process with the FDA. We met with the FDA. And the FDA have requested to do several safety tests on animals. And we did that to show the safety. We believe that sooner we will get from the FDA approval for the protocol that we're suggesting. And we will do the study in the United States. This is not an easy study because there was no predicate. And therefore, it's not a regular 510K. It's 510K de novo. and it takes more time, I would say that the study will last all over 26 and maybe the first quarter of 27. So sometime in the second quarter of 2027, I believe we'll have the final clearance from the FDA."
+    },
+    {
+      "speaker": "spk09",
+      "text": "And on capital allocation?"
+    },
+    {
+      "speaker": "spk04",
+      "text": "Regarding capital allocation, the board is evaluating all the capital allocation alternatives together with the strategic alternatives that were mentioned earlier on the call. As soon as we have some updates, obviously, we'll share."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Great. Thank you."
+    },
+    {
+      "speaker": "spk11",
+      "text": "The next question comes from Dane Reinhart with Baird. Please go ahead."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Hey, thanks, guys, for the questions here. I think based on the slide deck that was posted, you had a really nice quarter here in system placements in the US. I think by our math, probably the first time that those actually grew year over year in over two years. But offsetting that, I mean, your systems revenue in the US was still down double digits. So just trying to maybe parse out between the year over year growth and system placements, between the declines that we're still seeing in revenue. I mean, how much of that maybe is some of those are just new wands that you're selling? Some of those lower priced lasers versus the RF devices or you know, how much of that even might be discounting just in the current environment where demand is a bit more subdued? Thanks."
+    },
+    {
+      "speaker": "spk05",
+      "text": "The number of systems that we sold this year in North America, I continue to say North America because I want to include Canada, the number of platforms that we sold in 2025 was about 2,100, around 2,100 system. It's about 200 system below 2024. It's about 200 system below 2024. But the market is tough. The competition is strong. And therefore, the average selling price of a platform... in 2025 was down 9% compared to 2024. Between these two, this is the decrease in the numbers in the revenue in the US. And we did our best. I believe that in 2026, with what I said before, the encouraging sign, the lower interest rate, and maybe some kind of better consumer feeling, maybe we will keep it. And therefore, we said that 2026 for us, It's not going to be a growth year. It's going to be a stabilization year. We said that twice in the press release and also in my speech. We will be very happy if we will continue to sell $370 million, which with about $100 million EBITDA, all together worldwide. And therefore, you know, it takes time to transition a company like InMod. We are not a small company. We have 660 people worldwide working, plus the manufacturing, which is another 200 people. And, you know, we are... really made a lot of strategic thinking going forward to 2026, and I believe we're ready."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Thanks, Moshe. And then the other question I had on the men's wellness APEX platform, I think you guys just introduced that in August at a user sales meeting. One, how is feedback from that platform going so far? And two, can you remind me, do you guys have a specialized sales force for that platform or is it something that you guys are planning on doing in the future?"
+    },
+    {
+      "speaker": "spk05",
+      "text": "Which platform? Can you repeat your question? Which platform you're talking about?"
+    },
+    {
+      "speaker": "spk10",
+      "text": "The APEX Men's Wellness."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Ah, the APEX. No, we do not have a special team to sell Apex. We have a special team in 2026, starting January 1st, to sell then Vision. For us, it's a pilot. We didn't want to go and cut the organization into pieces. So we decided that we will take one piece at a time and Vision, it's important. and we're going to invest in a clinical study and therefore Envision is the first product that we actually build a special team only in the United States now and also partially in Canada that will send Envision. The Apex is being sold with the other product with the same team under the same organization. Now, we're not pushing the Apex very much because we do not have yet the indication from the FDA. We're working on it, and we don't want to cross the line. So that's the most I can tell you now."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Got it. Thank you. And if I can squeeze one last one in there, do you have the number of consumable units that you guys sold in the quarter?"
+    },
+    {
+      "speaker": "spk05",
+      "text": "I believe we do. How much we did? Let's see. Overall? Yeah, overall. 228,000."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Got it. Thank you very much. Appreciate the questions today."
+    },
+    {
+      "speaker": "spk11",
+      "text": "This concludes our question and answer session. I would like to turn the conference back over to Moshe Mizrahi, InMode CEO, for any closing remarks."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Well, thank you, everybody. Thanks to all the analysts that are covering us. I want to thank all shareholders. And a special thanks to InMod employees worldwide. It was a tough year, 2025 was not an easy year for all of us with major changes and major adjustments. And we hope to see you again in the first quarter. Thank you very much."
+    },
+    {
+      "speaker": "spk11",
+      "text": "The conference has now concluded. Thank you for attending today's presentation. You may now disconnect."
+    }
+  ]
+}

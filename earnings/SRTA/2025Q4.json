@@ -1,0 +1,227 @@
+{
+  "event": {
+    "ticker": "SRTA",
+    "year": 2025,
+    "quarter": 4
+  },
+  "speaker_name_map_v2": {
+    "spk06": {
+      "name": "Operator",
+      "title": "Conference Call Operator"
+    },
+    "spk03": {
+      "name": "Matt Schneider",
+      "title": "CFO of Clinical Services and Vice President of Finance and Investor Relations"
+    },
+    "spk07": {
+      "name": "Melissa Tomkeel",
+      "title": "Co-CEO"
+    },
+    "spk01": {
+      "name": "Will Haber",
+      "title": "Co-CEO"
+    },
+    "spk00": {
+      "name": "Yuan Ju",
+      "title": "Analyst, B. Riley"
+    },
+    "spk05": {
+      "name": "Ben Hainer",
+      "title": "Analyst, Lake Street Capital Markets"
+    },
+    "spk04": {
+      "name": "John Hickman",
+      "title": "Analyst, Lattenburg-Dahlman"
+    },
+    "spk02": {
+      "name": "Matt Schneider",
+      "title": "CFO of Clinical Services and Vice President of Finance and Investor Relations"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk06",
+      "text": "Good morning, ladies and gentlemen, and welcome to the Strada Critical Medical Fiscal Fourth Quarter 2025 Earnings Release Conference Call. At this time, all participants are in listen-only mode. Later, we will conduct a question and answer session, and instructions will follow at that time. As a reminder, this call is being recorded. I would now like to turn the conference call over to Matt Schneider, CFO of Clinical Services and Vice President of Finance and Investor Relations. Matt, you may begin."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you for standing by and welcome to Strata's conference call and webcast for the quarter-ended December 31st, 2025. We appreciate everyone joining us today. Before we get started, I would like to remind you of the company's forward-looking statement in Safe Harbor language. Statements made in this conference call that are not historical facts, including statements about future time periods, may be deemed to constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These forward-looking statements are subject to risks and uncertainties, and actual future results may differ materially from those expressed or implied by the forward-looking statements. We refer you to our SEC filings, including our annual report on Form 10-K and our quarterly report on Form 10-Q, each as filed with the SEC. for a more detailed discussion of the risk factors that could cause these differences. Any forward-looking statements provided during this conference call are made only as of the date of this call. As stated in our SEC filings, STRATA disclaims any intent or obligation to update or revise these forward-looking statements, except as required by law. During today's call, we will also discuss certain non-GAAP financial measures, which we believe may be useful in evaluating our financial performance. A reconciliation of the most directly historical, comparable, consolidated GAAP financial measures to those historical non-GAAP financial measures is provided in our earnings press release and investor presentation. Our press release, investor presentation, and our form 10-Q and 10-K filings are available on the investor relations section of our website at ir.stratacritical.com. These non-GAAP measures should not be considered an isolation or a substitute for financial results prepared in accordance with GAAP. Hosting today's call are our co-CEOs, Melissa Tomkeel and Will Haber. I will now turn the call over to Melissa."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thank you, Matt, and good morning, everyone. This was a fantastic quarter for Strata, delivering excellent results and supporting our strong confidence in the future. In Q4 specifically, our organic growth of 35% was well ahead of our expectations and led us to a full year result that beat the high end of our guidance on all fronts. Given this strength we saw in Q4, strong volumes which have continued into 2026, and additional new customer wins, we're also raising our guidance for the full year 2026 on both revenue and adjusted EBITDA. Continued acquisitions of smaller businesses operating directly in our areas of expertise are a key part of our strategy to accelerate growth and geographically expand our network, while they seamlessly integrate into our existing business platform. We have multiple additional active opportunities and believe that our continued successful execution of this M&A strategy will accelerate our annualized adjusted EBITDA growth to at least 30% throughout the coming years. This period marks our first full quarter with a singular focus on medical and our first full quarter with Keystone, and I'm happy to report that we're off to a great start. Importantly, we're capturing a larger share of logistics services for transplant clinical cases, and this contributed to the logistics strength in the quarter. More than 40% of our sequential logistics revenue growth in Q4 versus Q3 was generated from Keystone's legacy customers. demonstrating the value of our full-stack, one-call offering. Operationally, the teams are working very well together and also taking on broader responsibility across the Strata organization. To that end, we're excited to announce an expanded role for Dr. Scott Silvestri, who was Keystone's surgical director, as Strata's new chief medical officer. Dr. Silvestri brings decades of experience leading transplant and cardiac surgery programs and is an industry leader in the area of normothermic regional perfusion. We're very lucky to have Scott on the Strata team, and under his surgical leadership, we have already begun rolling out new capabilities to our customers. Most importantly, our expanded abdominal organ recovery platform. On the regulatory front, we're encouraged by the actions taken by government agencies over the last few months. It is clear that our approach is aligned with the regulator's goals of restoring trust in the transplant system, improving patient safety, and increasing the number of transplants in the most efficient manner possible. Strata is incredibly well positioned to help the industry accomplish these goals. For example, in proposed rules from the Centers for Medicare and Medicaid Services, OPOs would now be incentivized to pursue medically complex organs, particularly those resulting from DCD donors. Historically, only some OPOs have been hyper-focused on utilizing technology to increase yields and pursue DCD or marginal organs. Others have been slower to embrace these new opportunities. Rules designed to incentivize more DCD donors are a clear positive for Strata, given our reputation as a leader in the recovery and transportation of all organ types and our unique expertise in DCD recovery. We are also very well positioned from a regulatory perspective in terms of our customer base, which is over-indexed to larger, more sophisticated transplant centers and Tier 1 OPOs that are being held up as the gold standard under new and proposed regulations. Approximately 20% of Strata's revenue is generated from OPOs, with Tier 3 OPOs the lowest ranked, which could potentially be absorbed by larger OPOs under proposed regulations, representing less than 5% of our revenue. while our Tier 1 OPO customers represent 2.4 times the revenue of our Tier 3 OPOs. In the past quarter, these regulations directly resulted in new business for us when an underperforming OPO was decertified and absorbed by one of our existing OPO customers. Importantly, the cost intensity of organ transplant is rising as the transplant community has innovated to identify, recover, and transport organs from DCD donors, which naturally have a higher cost profile compared to organs from DBD donors. Strata is incredibly well-positioned to help the transplant community reduce costs in DCD donation via the utilization of our expanding regional network of logistics bases and organ recovery hubs, and through the use of normothermic regional perfusion, which offers substantial cost savings versus alternative recovery methods. NRP delivered locally exactly the way we do is the best answer to pursue DCD organs more aggressively and reduce costs. Before I hand it over to Will, I wanted to touch on our aircraft fleet. We ended the year with a fleet of approximately 30 dedicated or owned aircraft. During the quarter, we discovered corrosion during an inspection on one of our owned aircraft and made the decision to part out the aircraft and utilize the engines to reduce future engine overhaul costs, rather than investing costly repairs. While the book loss on the aircraft is $1.7 million, we estimate the economic loss at approximately $400,000. We've completed comprehensive G inspections on two-thirds of the remaining owned fleet over the last two years and haven't identified any similar issues. Looking forward, we're excited to report that we've won customers in some new geographies, which we expect to begin servicing in the back half of 2026. We expect to add around two new owned aircraft to our fleet this year to better support these new regions, both for the new accounts and for existing customers that might be flying in those areas. We already acquired one aircraft during the first quarter, which is now in the conformity process. We continue to believe that we've struck the right balance with regards to our asset-light strategy. The vast majority of our flying is on third-party aircraft and will remain that way. At the same time, owning a small portion of our capacity has unlocked new business, provided important leverage in negotiations for third-party aircraft, and enhanced margins. It also allows us to strategically build out our national footprint. With that, I'll turn the call over to Will."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thank you, Melissa. We continue to demonstrate our ability to achieve and exceed the ambitious goals we set for ourselves. both for organic growth, which at 35.3% this quarter, was well ahead of our targets, as well as for our M&A platform. And we are just getting started. We're working diligently towards closing several additional opportunities currently under exclusivity that are operating directly in our core competency areas and are actionable at mid-single-digit multiples of adjusted EBITDA. We expect that our successful continued execution on these acquisition opportunities will significantly accelerate our growth trajectories. enabling us to maintain an average annualized adjusted EBITDA growth rate of at least 30% over the coming years. This is a significant increase from the organic-only high-teens midterm adjusted EBITDA growth that we discussed at Investor Day, demonstrating our increasing confidence and our ability to deploy capital. To support this M&A platform, in February we announced the closing of a $30 million asset-based credit facility with J.P. Morgan, with the ability to upsize to $50 million. Importantly, our aircraft remain unencumbered, creating additional future financing opportunities as needed. This facility remains undrawn, but provides important flexibility for future acquisitions. We also expect to support the acquisition strategy with Joby earn-out payments of up to $45 million related to the sale of Blade, our former passenger business. Up to a $17.5 million portion of the earn-out will become due at the end of August, which is based on Blade's financial performance post-close, and we're encouraged by the results Joby has released to date. The balance, which will become due in March 2027, is based on the retention of former Blade employees who transferred to Joby and is largely hedged by our ability to recover stock from those employees if they do not fulfill their obligations. Finally, as a reminder, if Joby elects to pay in Joby stock, the number of shares will be determined at the time the earn-out is earned. not based on a historical Joby stock price. On the strategic partnership front, our device agnostic strategy is working, and it is resonating with both current and prospective customers. Our willingness and ability to always support our customers' clinical decisions regarding device usage, as well as our capability to fly these devices when possible, has helped to attract new customers to the Strata platform, and we're encouraged by the recent approval of yet another new machine perfusion device and the long pipeline of devices that are currently in clinical trials. As we like to say around here, we still believe that the customer is always right. We also continue to explore opportunities to leverage our existing assets and infrastructure to expand into adjacent offerings. While not material to the overall business at this point, we are now flying radiopharmaceuticals nearly every week as part of a pilot program. We've utilized existing personnel and resources for this program to date, and we'll continue to monitor progress to determine if it makes sense to invest further. But we are encouraged at the positive reaction we've received in the market to date. We'll turn to the financial results now, but before we dive in, let's review a few reporting changes we've introduced this quarter. Starting at the top of the income statement, we will now disaggregate revenue across three business lines. Logistics revenue is comparable to the medical revenue we disclosed before the Keystone acquisition and represents Strata's organic growth. Note that logistics revenue includes air and ground logistics along with our organ placement business, which we market as TOPS. Transplant clinical revenue includes clinical revenue generated from transplant customers, including NRP, surgical organ recovery, product sales, and other related services. Other clinical revenue includes clinical revenue generated from cardiac surgery departments within hospitals, including perfusion services, auto transfusion, ECMO, product sales, and other related services. Moving down the income statement, we will now report two segments, logistics and clinical, which represents the sum of transplant clinical and other clinical. All businesses that we acquired with Keystone. We have shifted away from the non-GAAP flight profit metric utilized by our divested passenger business and have migrated to the more traditional measure of GAAP gross profit as our segment profitability metric. As a result of this change, we shifted some costs from SG&A to cost of sales in our logistics business, which has no impact on adjusted EBITDA but results in logistics gross margins that are approximately 225 basis points below the previously reported medical flight margin metric. We will now report both logistics and clinical growth profit to provide insight into the fundamental trends of the business. As we previously discussed, given our now consolidated corporate structure focused entirely on medical, we will no longer report SG&A by segment or unallocated corporate expenses. Instead, we will break out our SG&A into seven categories available in the MD&A, which we expect will be more helpful in understanding the cost drivers of the business. Finally, as a reminder, our P&L reflects continuing operations only as the results of the passenger business that we divested in August 2025 have been reclassified as discontinued operations for all periods. The cash flow statement and balance sheet, however, continue to include discontinued operations in historical periods, the impact of which is highlighted. Moving now to the financial highlights from the quarter. Full year 2025 revenue and adjusted EBITDA of $197.1 million and $14.1 million, respectively, both beat the high end of our guidance range, driven by a strong Q4 that was ahead of expectations. In Q4 2025, revenue of $66.8 million was driven by logistics growth, which is organic, of 35.3% to $49.2 million in the quarter versus $36.4 million in the prior year. Air logistics strength was supported by new customers, existing customers, and a higher logistics attachment rate for our transplant clinical customers. Clinical revenue was $17.6 million in the current quarter versus $2.8 million in Q3 2025, which reflects the mid-September 2025 close of the Keystone acquisition. Compared to historical unaudited financial results in prior periods before the Keystone acquisition closed, clinical revenue grew strongly in the mid-double digits year over year and mid-single digits quarter over quarter. Within clinical, transplant clinical revenue was $7.8 million in Q4 2025, and other clinical revenue was $9.8 million in Q4 2025. Compared to historical audited financial results in the prior year, before the Keystone acquisition closed, we saw significantly faster growth in the transplant clinical business line. This strong clinical growth continued despite industry regulatory and media scrutiny in the second half of 2025, which resulted in a flattening of U.S. organ donors and NRP donors. As Melissa mentioned earlier, we're encouraged by recent regulatory updates, and while we haven't yet seen a pickup in industry data for overall donors, we have seen a recovery in NRP donors in recent months. New customer acquisitions continue to drive growth in other clinical revenue, And there's a significant opportunity to continue to acquire new cardiac perfusion customers, given our strong value proposition and relatively low market share. Gross profit increased 90% to $14.4 million in the quarter versus $7.6 million in the prior year period, driven by organic growth and the Keystone acquisition. Gross margin increased approximately 80 basis points year-over-year to 21.6% versus 20.8% in the prior year period, driven by higher logistics gross margins and the positive mixed impact from the Keystone acquisition. Logistics gross profit, which represents Stratus organic growth, increased 39.5% to 10.6 million in Q4 2025 versus 7.6 million in the prior year period, driven by strong revenue growth and an approximate 70 basis point increase in gross margin to 21.5% versus 20.8% in the year-ago period. Clinical gross profit was $3.8 million in Q4 2025. Adjusted SG&A rose to $8.9 million in the quarter versus $7.5 million in Q3 2025, which largely reflects a full quarter of Keystone SG&A. Adjusted EBITDA rose to $7 million in Q4 2025, up from $1.1 million in the year-ago period and $4.2 million last quarter. Adjusted EBITDA margin rose to 10.4% in Q4 2025. Note that the year-over-year adjusted EBITDA comparison will not be particularly meaningful until we last the passenger divestiture in Q3 of this year, given significant cost savings realized during the sale that are not reflected in the prior year results. Operating cash flow was negative $8.3 million in Q4 2025. The $15.3 million difference between adjusted EBITDA and operating cash flow was driven by $9.6 million of non-recurring items, including a legacy legal settlement, which we disclosed last quarter, residual transaction costs, and other non-recurring items, along with an approximate $5.7 million increase in working capital, which was driven in part by delays in collections during our back office integration, which we expect to normalize in the coming quarters. Additionally, the logistics business saw significant growth into year-end, contributing to the working capital build. Capital expenditures inclusive of capitalized software development costs were $2 million and a quarter driven primarily by capitalized aircraft maintenance and ground vehicle purchases. We ended the quarter with no debt and approximately $61 million of cash and short-term investments. Moving to the outlook, given the stronger than expected volume growth in Q4 that has persisted into 2026, along with the expected onboarding of new customer wins in the second half of the year, We are raising our 2026 revenue guidance range to $260 to $275 million from $255 to $270 million previously. We are also raising our adjusted EBITDA guidance range to $29 to $33 million versus $28 to $32 million previously. We are reiterating our free cash flow before aircraft and engine purchases guidance of $15 to $22 million. For comparison purposes, assuming we closed the Keystone acquisition at the beginning of 2025, the company would have generated revenue of $243 million, while we estimate our adjusted EBITDA was consistent with the pro forma range we provided at the time of the acquisition. In the first quarter to date, we've seen continued strength in daily logistics trips as well as clinical cases despite a soft January for the industry. However, we have seen a slight mix shift to shorter air trips so far this quarter, and separately, we did have several days where our northeast fleet was grounded due to winter storms. We put this in the category of normal ebbs and flows of both the industry as well as our specific subset of customers. As such, we expect a modest sequential revenue decline in Q1 2026 versus Q4 2025. On the profitability front, we expect adjusted EBITDA margins to decline approximately 100 basis points sequentially in the first quarter, driven by this lower revenue. We do expect to see a sequential improvement in revenue and margin in the second quarter, as well as in the back half of the year, boosted in part by expected new customer additions. In summary, we are thrilled with our progress after our first full quarter operating the now fully integrated organ transplant platform. We're getting great feedback from customers. Our financial results are exceeding expectations. We're even seeing smaller competitors proactively reaching out, hoping to join forces and thus enhancing our already strong acquisition pipeline. The best is yet to come, and we look forward to continuing to achieve and exceed our goals in the months and years ahead. With that, I'll turn it back to the operator for Q&A."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thank you. To ask a question, please press star 1-1 on your telephone and wait for your name to be announced. To withdraw your question, please press star 1-1 again. Please stand by while we compile the Q&A roster. Our first question comes from the line of Yuan Ju with B Raleigh. Your line is now open."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Good morning. Congratulations on a strong quarter. My first question is around regulatory policy. Can you please remind us or give us an update on the continuous distribution policy? A multiple question there may be to Melissa. Who are the stakeholders opposing this continuous distribution policy and why? And then why loans are approved earlier than other organs?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thanks for being on the call and appreciate the question. You know, so continuous distribution is still the goal for all organs. As you pointed out, lungs have already transferred over to that and we're seeing a lot of positive results. both for the number of organs that can successfully match to the people who need them the most, and then also as it relates to our business, we're uniquely able to handle those longer trips for our customers. As it relates to the transition for hearts and livers, we did see at the beginning of this year a deprioritization of that process as regulatory agencies focused on some of the more pressing issues that were raised by the media over the last 6 to 12 months. We've seen a lot of progress on those fronts with new proposed rules coming out of CMS. and coming out of OPTN, but we don't have a certain timeline as to when they'll move that continuous distribution transfer back to the front burner again. We do know that that is the end goal, and once things get started, we would expect to see at least a six-month comment period, and OPTN's been very clear that they'd like to gradually transition from the current acuity circles model to continuous distribution over a period of about a year once that rule is set up. In terms of stakeholders that are opposed to it, I don't know if I would characterize it as opposition, but there are certainly folks that want to make sure everybody is ready for what will be a more logistically challenging process when you move to a true national organ allocation program. we're very well positioned to help the entire industry support what's a more efficient way to get organs to the people that need them. But, of course, we want to proceed carefully because some transplant centers and OPOs might not have the right partners like Strata to enable them to hit the ground running with a new policy like this."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Got it. Thanks for the helpful comment. If we break down this transplant value chain which part of the service has the highest value and margin, and what's the percentage of your customers using your full service portfolio?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "You know, we gave gross profit by segment, both logistics and clinical, this quarter, and you'll see that on a blended basis, the profit margins are very similar. You do tend to see in the transplant clinical business slightly higher profit margins than the non-transplant clinical business. We're already seeing a lot more of those legacy Keystone customers, our clinical customers today, see the value in an integrated offering and start to use logistics. We talked about how about 40% of our sequential growth in logistics this quarter was driven by more business from those clinical customers. And oftentimes, it's not just a convenience decision for the customer. we're able to harmonize the departure location where our aircraft assets are located and where the clinicians and equipment are located that are gonna perform that clinical procedure. And it'll save the customer money to use those integrated solutions together. So the next phase for us is to try to convert more of those clinical customers to contracted logistical customers and vice versa. We've already added a lot of our logistics customers onto rate cards that enable them to use our clinical services. But as we talked about a lot, clinical services, when purchased by transplant centers, tend to be a little more ad hoc. So we're going to give it a few quarters to see what the uptake is. But we're really happy that many of our customers have reached out to get the contracts in place to be able to use both sets of services."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Got it. Thanks for taking our questions. I will jump back to the queue."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thank you. Our next question comes from the line of Ben Hainer with Lake Street Capital Markets. Your line is now open."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Good morning, folks. Thanks for taking the questions. First off for me, just on the acquisition pipeline, you know, as these opportunities become available, do you expect to be announcing them as they occur, and then As it applies to kind of the adjacent offerings, I would imagine there are also some acquisition candidates that you would have there, or is that more something that you would think about doing de novo like with the radiopharmaceuticals?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "Our first and foremost focus as far as our acquisition pipeline are on the product servicing that we currently offer. And we're doing that because we want to increase our scale and national footprint because that provides a more cost-efficient and time-efficient solution for our customers. So we do plan on announcing as we close on acquisitions and hopefully there's some news in the coming months. As we've mentioned, we do have a robust pipeline that we're working through and we're very excited about all the opportunities that are out there that we are seeking through partners like with Keystone in the past and Trinity before them, who are trusted and have credibility and enhance our service offering, as well as Will mentioned earlier, we're being approached by a lot of small competitors. It's still pretty fragmented. And a lot of smaller players realize that this can't be done the right way without scale. So they want to join forces with us and share the same strategic vision."
+    },
+    {
+      "speaker": "spk01",
+      "text": "And Ben, to your question on the radiopharma side, look, here's what we know so far. We know we can do this, and we know we can do it well. The question is whether relative to the other opportunities we have in front of us, which are really very excited about, is that where we want to be investing time and resources? And so what we like to do is we like to first get some experience actually performing the service, which we're doing almost every week, but we're not at a place right now where you would see us make an acquisition in that space in the near term. As Melissa said, we're focused on our core business lines right now, and we're going to keep learning on the radio pharma side. Okay."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Yeah, that's helpful. And on the folks that are approaching you, is part of the reason why beyond just the scale, some of the regulatory scrutiny and such that the industry is seeing as well, or is that too much of a stretch?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "No, it's not a stretch at all. I mean, why we're, you know, like we said, we like what we're seeing on the regulatory front because it's raising the standard across the industry, but it's bringing the standard to, you know, the level that we have. And we have the technology and we have the protocols and processes already in place to be able to provide the services in a way that the regulators want to see. So, yeah, it's for sure that there are, you know, smaller competitors out there that don't have those resources and don't have the infrastructure and, you know, or the high caliber team that we have that want to join up with us."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Makes sense. And then just on the shorter trips that you've seen so far early this year, it sounds like that's more luck of the draw than anything. There's nothing to read into that."
+    },
+    {
+      "speaker": "spk01",
+      "text": "I wouldn't read into it, no. You know, it's a combination of Mixed shift, there's some customers that just generally have better luck matching closer, or there's OPOs that are flying shorter distances consistently. So we see the mixed shift around from a customer basis, quarter to quarter, and we also see trip lengths change. So this is the normal ebb and flow, and we're very encouraged to see those trip volumes, both on the logistics and the clinical side, staying very strong all the way into 2026 to date."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Okay, got it. And then lastly for me, just on the new customer wins, anything you can share on the profiles of those customers and how much of a factor were those wins in bumping up the revenue guide?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "Too soon to give specific guidance on the new customers, but what I would say is that it's really encouraging to see that this integrated model is resonating with folks We're getting a lot of new leads from the combined customer base of the much larger organization that we have today. And also the aircraft strategies Melissa talked about is really resonating with people. We think we struck the perfect balance there. You know, as we talked about, we will invest in one or two new aircraft to support some brand new geographies that we'll be serving much more consistently. But this all adds to the power of the platform. and allows us to serve not just those customers, but other customers as well. So as we get closer to the launch date, we'll provide a little more detail around those new customers."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Got it. That's all I have. Thank you so much, and congrats on the progress and the outlook."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thanks for the great questions, Ben."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thank you. As a reminder, to ask a question at this time, please press star 1-1 on your touchtone telephone. Our next question comes from the line of John Hickman with Lattenburg-Dahlman. Your line is now open."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Hey, good quarter, Will. Could you just kind of reiterate, how many hubs are you operating out of in the United States now?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "Hey, John, this is Matt. Are you referring to the air bases?"
+    },
+    {
+      "speaker": "spk04",
+      "text": "Yes."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yeah, our air bases are in probably the overall or in the teens. As Will just said, when we add new customers or when we have density in a certain region, we consider adding a new base. Based on the new customer when it's this year, we're likely to add at least one or two new bases. That's our plan for the year."
+    },
+    {
+      "speaker": "spk01",
+      "text": "But remember, we have the capability to fly from anywhere through the asset line network. So when we talk about a base, that just means that we have either an owned or contracted aircraft that we are certain is going to be available to us in that location versus aircraft that we've safety vetted and can use but may not be held back for our use. And then on top of that, we do have some dedicated aircraft to us that can float and move their locations around the country as needed, which gives us even more flexibility."
+    },
+    {
+      "speaker": "spk04",
+      "text": "And then could you – maybe I missed this, but on the logistics side, did you – I know it's been a goal kind of to increase the ground services. Were you able to do that this quarter?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yes."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Kind of as a percentage of revenues?"
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yes. I mean, our air business was very strong in the quarter last really in the back half of the year. So we continue to grow and scale our ground business, adding new customers, adding new hubs. But as a percentage of revenue, I believe it's about the same as it was in the prior year period. And that just reflects, as I said, the strong growth in air and other revenue, including our organ placement business."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Okay. Thank you. Appreciate it."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thank you. Our next question is a follow-up from Yuanzhu with B. Riley. Your line is now open."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Yeah, maybe a quick follow-up on radio pharmaceuticals. Are you mainly handling the radio therapeutics or radio imaging agent, and then are you mainly supporting the commercial product versus, you know, the clinical trials? Thank you."
+    },
+    {
+      "speaker": "spk01",
+      "text": "We think we can do all of these things really well. You know, we're probably... Best situated with our existing fleet is on the clinical trial side of things because most of the aircraft we have access to are not cargo configured. So a smaller load is going to be easier for us to leverage the existing fleet. But if this was something that we wanted to invest more resources in, we could support full loads on cargo aircraft as well. But that's not in the existing fleet today."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Got it. Thank you. I would now like to hand the call back over to Matt Schneider."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Great. Thank you. So we received a few investor questions that we'll now take on the call. The first one is on AI. And the question is, you know, how will AI impact the transplant market over time in our business in particular? Will, why don't you take that one?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "Sure. Great question. And I think this is a great business to invest remain extremely durable and actually benefit from AI rather than have any risk. If you think about what we do, we're operating in the physical world, scrubbing into operating rooms, flying airplanes every day, and these things cannot be accomplished without access to these specialized aviation assets and credentialed medical professionals. We're We're driving with lights and sirens on the ground. And so as such, we really see the artificial intelligence opportunity to make this business more efficient. We're already starting to employ it for real-time error checking as we're coordinating communications amongst multiple different stakeholders in an organ transplant mission. And we think over time, it could have the potential to make our cost structure more efficient, allowing us to invest in those differentiated people and assets that make our business great and really defensible."
+    },
+    {
+      "speaker": "spk03",
+      "text": "The next question we received is on some of the dynamics that we talked about in the first quarter in terms of the weather impact that we alluded to. Melissa, can you just talk about the impact of weather that we saw that we're seeing in the first quarter?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "Sure. Normally, weather really doesn't have an impact on our operations, and that's because our flights get priority over other flights at airports. So if a cell comes in, it might cause a disruption or slowdown or air traffic delays at an airport for an hour or two, and it's not going to have any significant impact. We called it out for the first quarter because it was pretty unusual circumstances as far as the severe weather in the Northeast, which is a very important region for us. We basically several aircraft in the Northeast and we have a high customer concentration there as well. And what we saw in the first quarter, which was so unusual, was airports actually being closed for a number of days. So that will have an impact on the number of flights. Now we do see case volumes surging on days after or following an airport closure or something like that. So that will offset or mitigate that impact. And, of course, it doesn't affect our confidence for the year, as you can see with the guidance raise."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Great. And then we received a question recently just on some of the macro events and the impact of higher oil prices on our business. Melissa, can you just take that one?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "Sure. Well, a raise in fuel price is going to result in higher costs for our customers, and that's not something we ever like to see. It won't impact our cost structure. When we contract with our customers, we negotiate fuel surcharge thresholds at a certain number, and anything above that goes pass-through. So if we see a surge in pricing, that's going to be pass-through to the customer, and it won't turn things upside down for us."
+    },
+    {
+      "speaker": "spk01",
+      "text": "And we're above those thresholds already today. So any increase from fuel prices today would just get pass-through."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yeah. Great. That concludes the retail investor Q&A portion of the call. I just want to point out that we're planning on participating in the Sidoti and Needham investor conferences over the next few weeks, and we're looking forward to reporting our first quarter 2026 results in early May. Thanks for everyone for joining the call today, for your continued interest and support."
+    },
+    {
+      "speaker": "spk06",
+      "text": "This concludes today's conference. Thank you for your participation. You may now disconnect."
+    }
+  ]
+}

@@ -1,6 +1,89 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T11:05:54Z",
-  "n_calls": 0,
-  "calls": []
+  "generated_at": "2026-05-06T15:28:25Z",
+  "n_calls": 8,
+  "calls": [
+    {
+      "ticker": "SRTA",
+      "company": "Strata Critical Medical, Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-06T08:00:00-04:00",
+      "ark_funds": {
+        "ARKQ": "0.89%",
+        "ARKX": "1.78%"
+      }
+    },
+    {
+      "ticker": "TRMB",
+      "company": "Trimble Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-06T08:00:00-04:00",
+      "ark_funds": {
+        "ARKQ": "2.42%",
+        "ARKX": "4.13%"
+      }
+    },
+    {
+      "ticker": "MASS",
+      "company": "908 Devices Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-06T08:30:00-04:00",
+      "ark_funds": {
+        "ARKG": "1.06%"
+      }
+    },
+    {
+      "ticker": "TBLA",
+      "company": "Taboola.com Ltd.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-06T08:30:00-04:00",
+      "ark_funds": {
+        "IZRL": "1.63%"
+      }
+    },
+    {
+      "ticker": "NICE",
+      "company": "NICE Ltd",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-06T08:30:00-04:00",
+      "ark_funds": {
+        "IZRL": "1.70%"
+      }
+    },
+    {
+      "ticker": "INMD",
+      "company": "InMode Ltd. ",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-06T08:30:00-04:00",
+      "ark_funds": {
+        "IZRL": "1.58%"
+      }
+    },
+    {
+      "ticker": "KMT",
+      "company": "Kennametal Inc.",
+      "year": 2026,
+      "quarter": 3,
+      "conference_date": "2026-05-06T09:30:00-04:00",
+      "ark_funds": {
+        "PRNT": "0.13%"
+      }
+    },
+    {
+      "ticker": "URGN",
+      "company": "UroGen Pharma Ltd.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-06T10:00:00-04:00",
+      "ark_funds": {
+        "IZRL": "1.67%"
+      }
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-05-05",
-  "generated_at": "2026-05-06T11:05:54Z",
-  "n_calls": 10,
+  "generated_at": "2026-05-06T15:27:13Z",
+  "n_calls": 11,
   "calls": [
     {
       "ticker": "BNTX",
@@ -49,16 +49,6 @@
       }
     },
     {
-      "ticker": "ADPT",
-      "company": "Adaptive Biotechnologies Corporation",
-      "year": 2026,
-      "quarter": 1,
-      "conference_date": "2026-05-05T13:30:00-07:00",
-      "ark_funds": {
-        "ARKG": "2.42%"
-      }
-    },
-    {
       "ticker": "XRAY",
       "company": "DENTSPLY SIRONA Inc.",
       "year": 2026,
@@ -66,6 +56,16 @@
       "conference_date": "2026-05-05T16:30:00-04:00",
       "ark_funds": {
         "PRNT": "4.62%"
+      }
+    },
+    {
+      "ticker": "ADPT",
+      "company": "Adaptive Biotechnologies Corporation",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-05T13:30:00-07:00",
+      "ark_funds": {
+        "ARKG": "2.42%"
       }
     },
     {
@@ -101,6 +101,17 @@
       "conference_date": "2026-05-05T16:30:00-04:00",
       "ark_funds": {
         "ARKG": "2.07%"
+      }
+    },
+    {
+      "ticker": "JOBY",
+      "company": "Joby Aviation, Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-05T17:00:00-04:00",
+      "ark_funds": {
+        "ARKQ": "1.49%",
+        "ARKX": "2.44%"
       }
     },
     {

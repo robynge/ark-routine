@@ -1,0 +1,175 @@
+{
+  "event": {
+    "ticker": "INMD",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk04": {
+      "name": "Operator",
+      "title": "Conference Operator"
+    },
+    "spk00": {
+      "name": "Mary Siegel",
+      "title": "CEO, MSIR"
+    },
+    "spk03": {
+      "name": "Moshe Mizrachi",
+      "title": "CEO, InMode"
+    },
+    "spk02": {
+      "name": "Yair Malka",
+      "title": "Chief Financial Officer, InMode"
+    },
+    "spk08": {
+      "name": "Mike Mattson",
+      "title": "Analyst, Needham & Company"
+    },
+    "spk05": {
+      "name": "Matt Mixick",
+      "title": "Analyst, Barclays"
+    },
+    "spk07": {
+      "name": "Matt Mixick",
+      "title": "Analyst, Barclays"
+    },
+    "spk06": {
+      "name": "Matt Mixick",
+      "title": "Analyst, Barclays"
+    },
+    "spk09": {
+      "name": "Sam Iver",
+      "title": "Analyst, BTIG"
+    },
+    "spk01": {
+      "name": "Michael Toomey",
+      "title": "Analyst, Jefferies"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk04",
+      "text": "Good day and welcome to InMode's first quarter 2026 earnings results conference call. All participants will be in listen-only mode. Should you need assistance, please signal a conference specialist by pressing the star key followed by zero. After today's presentation, there will be an opportunity to ask questions. To ask a question, you may press star then one on your telephone keypad. To withdraw your question, please press star then two. Please note this event is being recorded. I would now like to turn the conference over to Mary Siegel, CEO of MSIR. Please go ahead."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thank you, operator, and everyone for joining us today. Welcome to InMode's conference call. Before we begin, I would like to remind our listeners that certain information provided on this call may contain forward-looking statements, and the safe harbor statement outlined in today's earnings release also pertains to this call. If you have not received the copy of the release, please go to the investor relations section of the company's website. Changes in business, competitive, technological, regulatory, and other factors could cause actual results to differ materially from those expressed by the forward-looking statements made today. Our historical results are not necessarily indicative of future performance. As such, we can give no assurance as to the accuracy of our forward-looking statements and assume no obligation to update them, except as required by law. With that, I'd like to pass the call over to Moshe Mizrachi, CEO. Moshe, please go ahead."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you, Miri, and to everyone for joining us. With me today are Dr. Michael Crandall, our co-founder and chief technology officer, Yair Malka, our chief financial officer, and Mr. Mushik Itskovich, our Senior VP of Finance. Following our prepared remark, we will be available to answer your question. We executed in line with our expectation in Q1, 2026. In addition, we're seeing early sign of stabilization, particularly in the US. and believe that this quarter reinforced our confidence that 2026 is moving in the right direction. I would like to start by reviewing in-mode progress in North America. As you know, we brought in new leadership at the end of Q3 2025, including new North American President and Vice President. While it's still early, the energy and culture shift are already having positive impact. We have transitioned from our long-standing east-west structure to unify North American model, bringing Canada and both coasts under the same organization. This is driving better coordination and clearer accountability. We also implemented a key structure changes in January 1st, 2026. The Envision team, our ophthalmology and optometry sales force now operate independently. This create more focus model that we believe will support stronger execution over time. March deliver particularly strong progress, reinforcing our confidence that these changes are beginning to bear fruit. That said, we are looking for sustained consistency before calling it a long-term trend. On the international market, we continued to operate in over 100 countries, with most of our businesses driven by our direct sales to local offices and supported by distributive partnerships. Europe remains a strong region for us with solid performance and meaningful room for continued growth. In Asia, performance is more mixed, consistent with what we saw last year, though we are making progress in key markets, including China, where we see significant long-term potential. On the laser, The PCOR and the CO2 laser performed well recently, introduced a meaningful contribution to our Q1 revenue performance and are strategically important for our long-term growth. They expanded the range of procedures our physician can offer to enable combination of treatment, which are increasingly in demand. Physicians are looking for comprehensive solutions from a single partner, and these platforms support a one-stop-shop office. They may put pressure on our gross margin, but they play a critical role in strengthening our competitive position and deepening our customers' relationship. On the broader market environment, we are seeing sign of stabilization. Demand for static procedures was again pressured in the first quarter of 2026 by microeconomic headwind. But as we have said many times before, we believe that the demand for static procedure will not go away. It may be deferred, but it will return. Let me turn the call over to Yair, the Chief Financial Officer, who will talk to you, walk you through financial numbers. Yair."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thanks Moshe, and hello everyone. Thank you for joining us. As announced earlier this morning, I will step down as CFO and remain with the company as a consultant for the next six months to support a smooth transition. After nine years with the company, I am proud to have been part of its journey, from driving growth and supporting our expansion to helping lead our transition to the public market. It's been a privilege to work closely with our dedicated employees and build a foundation of financial discipline and transparency. Even during recent macroeconomic headwinds, the company's strong financial position and resilience have enabled us to navigate challenges, including the global pandemic, while consistently prioritizing stability and our people. As I look ahead to new endeavors, I am confident that this disciplined and long-term approach will continue to guide the company's success. With that said, let's get to the Q1 results. Starting with total revenue, Inmu generated $82 million in the first quarter of 2026, up 5% from $77.9 million in the same quarter last year. Growth in Q1 was led by strong performance in the US market. Moving to our international operations, sales outside the US totaled $38.7 million in Q1, representing 48% of total sales, and an increase of 2.65% compared to Q1 of last year. Gross margin in the first quarter of 2026 was 75% on a GAAP basis compared to 78% in the first quarter of 2025. Non-GAAP gross margins were 75% in the first quarter of 2026 compared to 79% in the first quarter of 2025. In Q1, 2026, our minimally invasive technology platform accounted for 77% of total revenues. To support our operations and growth, we currently have a system of more than 298 direct reps and 73 distributors worldwide. GAAP operating expenses in the first quarter were $51.5 million, a 13.7% increase year over year. GAAP sales and marketing expenses increased to $42.9 million in the first quarter, compared to $39.7 million in the same period last year. The year-over-year increase was primarily driven by increased sales expenses tied to the restructuring of the North America Sales Organization and headcount expansion from 2025 subsidiary build-outs, along with higher commission expense, in line with a stronger sales performance. Next, we look at share-based compensation, which increased to $2.7 million in the first quarter of 2026. On a non-GAAP basis, operating expenses were $47.8 million in the first quarter, compared to a total of $43.1 million in the same quarter of 2025, representing an 11.1% increase. Gap operating margin for Q1 was 12%. Non-gap operating margin for the first quarter of 2026 was 17% compared to 23% for the first quarter of 2025. This decrease was primarily attributable to the increase in cost of goods and, as mentioned before, the new structure of the North America sales team implemented towards the end of 2025 and subsidiary establishments in the later part of 2025. GAAP diluted earnings per share for the first quarter were $0.18 compared to $0.26 per diluted share in Q1 of 2025. Non-GAAP diluted earnings per share for this quarter were $0.25 compared to $0.31 per diluted share in the first quarter of 2025. As of March 31st, 2026, the company had cash and cash equivalents, marketable securities and deposits of $537.2 million. We also returned meaningful capital to shareholders. Repurchasing shares in the amount of $127.4 million during 2025 and $52.7 million year-to-date under our new 2026 repurchase program, representing 3.86 million shares this year. With this flexibility, we remain well positioned to pursue a full range of capital allocation opportunities. This quarter, Inmo generated $15.4 million from operating activities. Before I turn the call back to Moshe, I'd like to reiterate our guidance for 2026. Revenues between $365 million to $375 million. Non-GAAP gross margin between 74% and 76%. Non-GAAP income from operations between $73 million and $78 million. Non-GAAP earnings per diluted share between $1.33 to $1.38. I will now turn over the call back to Moshe."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you, Ayu. Thank you very much. Operator, we're ready for Q&A."
+    },
+    {
+      "speaker": "spk04",
+      "text": "We will now begin the question and answer session. To ask a question, you may press star, then 1 on your telephone keypad. If you are using a speakerphone, please pick up your handset before pressing the keys. If at any time your question has been addressed and you would like to withdraw your question, please press star, then 2. At this time, we will pause momentarily to assemble our roster. The first question comes from Mike Mattson with Needham. Please go ahead."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yair Moshe, thank you very much for taking our questions. This is Josephon from Mike. And Yair, wish you the best in your next ventures. Maybe just a question on the next laser launch, I believe the Erbium laser. Can you remind us of the timeline of that? Was that end of the year? And just comparing to the Pico and the CO2 laser, is this product more just filling a gap that can do a different procedure versus the Pico or CO2? Or is it maybe much more differentiated? Just wondering how we should think about that. Under the assumption that this launches at the end of the year, should we expect further impact to gross margin in 2027 from this increased mix of laser platforms?"
+    },
+    {
+      "speaker": "spk03",
+      "text": "Okay. You asked three questions about three different lasers. First, the laser that we introduced to the market in the beginning of this year, sometime in February, was not Erbium, was Pico laser. The erbium laser is still under development, and we hope to finalize the development of the erbium, which is developed in Israel, and get into the FDA clearance sometime in the next months or two. So basically, we hope that by the end of this year, we will have it cleared by the FDA, and we can introduce it to the market. laser that you mentioned, the CO2. The one that we're having today and selling today, which called the Solaria, it's a CO2 laser that we buy from US manufacturer with several modifications that we made it to be looks like and with the software of InMode. We sell it quite nicely throughout US, not in Canada, because they don't have Health Canada clearance to sell it in the U.S. So this product is being sold only in the U.S. At the same time, we are developing our own CO2, which will enable us to expand the market and the territories to almost everywhere. But that will take time because, you know, regulation today, it's a long process. mainly in Europe when you have to clear it through the MDR and not the MDD process that recently changed. Anything else about those lasers?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "No, I think that's all good and clear. Appreciate that. Maybe just one more follow-up question. Just wondering how your newer direct subsidiaries, I think Thailand and Argentina were established in 2025. How have those been growing? And then could you also remind us on the timeline for China? I believe that was maybe one of the next targets for this year. So maybe just what products you're targeting to get into China and then the timeline of when that could happen."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you. Let's start with Argentina. Argentina was established late 2025. It took us some time, two months, to get all the clearances from the regulatory body in Argentina under our name in our subsidiary. Now everything is almost ready. We have an office. We have one or two salespeople. We have a clinical trainer, we have a manager, and hopefully, Q2 in 2026, we will see some results. Until now, it was more like a setup, organizing all the regulatory clearances. Hopefully, Q2 in this year, they will start delivering cells as well. Argentina is not very big country compared to Brazil and others, but we believe that there is a market there. There's major changes in the macroeconomics in Argentina recently, and we felt that this is the best time to establish a subsidiary there and go direct. Regarding China, in China we continue to work on the medical field with our distributors, but we have decided I don't know if everybody knows, but during the COVID, we have established a company in Guangzhou, which was a sleeping company for all the time until today. And we decided right now to use this company, which is fully owned by us, to become the spa and aesthetic arm of InMod in China. We hired a manager. and who's well acquainted with the spa and the aesthetic, not the aesthetic, I would say the cosmetic more or less, in China, and we're developing right now special product to distinguish the product line from the medical in order to penetrate this segment of the market in China. But it's not in full operation yet."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Okay, yeah, thank you very much for taking our questions."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Again, if you have a question, please press star, then 1. Our next question comes from Matt Mixick with Barclays. Please go ahead."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Hey, good morning. Thanks so much for taking our questions. So on ophthalmology, I was wondering if you could, and I've been hopping around,"
+    },
+    {
+      "speaker": "spk07",
+      "text": "So apologies if it's already been covered. But maybe an update on, you know, how the U.S. Sales Reorg and management structure is driving that growth, what your plans are there, maybe what some of the early results you've seen there and some of the upcoming milestones. And I have one quick follow-up."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yeah, well, I'm sure everybody knows that we have a platform which is called Envision for the ophthalmology and optometry. By the way, 95% of the customers are not ophthalmologists, they are more optometrists, which are doing treatment to relieve dry eye. We're working on the study for the FDA to get clearance. Therefore, right now, we don't market it under dry eye treatment, but rather on what we have the clearance. This is increased blood circulation and built some collagen. which we know that also help for dry eye. The team is 30 salespeople and a manager. The manager is a director level. He reports to the president of North America. It's part of the North American team. It's not totally separate company. It's not even a division. And they cover the entire US. They are not territory based. They cover the entire US and also supporting sales of Envision in Canada. This is the first time that we separate the product and the first quarter that we have a special team selling one product from our portfolio. We hope that this model will be successful because if yes, we might do it on other products as well in the future. But I believe it's very early to judge. It's only three months. So far, it seems like the concept is working, and although to be responsible for the entire US and Canada with 30 people, It's a little bit, you know, big territory, but we did it. And we'll see. Let's see the results throughout the year, and then we'll decide if that's successful or not."
+    },
+    {
+      "speaker": "spk06",
+      "text": "That's great. Thanks. And just a question on, and again, I'll make the same apology if you'd cover this, the plans to repurchase shares, use of cash, You've done a good job of putting that cash back to work, giving it back to shareholders as volumes were slowing and the market was kind of troughing here. How does that strategy play out this year? How are you thinking about capital allocation at this point? Thanks."
+    },
+    {
+      "speaker": "spk02",
+      "text": "So this is Yair. We started, as you know, we announced a buyback plan earlier this year. and we started executing on that. So far, we purchased over $3.8 million under that plan. Eight million shares. Eight million shares, sorry. Thank you. 3.8 million shares under the plan, and we plan to continue to execute on the plan. Other than that, Moshe, do you want to elaborate about capital allocations? I think all the options are on the table."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Well, we always say the same thing, all the options are on the table. We are allowed to do 10% of the outstanding shares every year without paying dividend tax, and we're doing it year over year. So far, I would say once we completed this 6.5 million shares, I believe it's another 2.5 million that we have to buy. We already did that six years, six times. and we return $600 million to the shareholders. If you ask me if that helped the share price, so far, no. And therefore, you know, it's always a question mark whether to continue or not to return capital to the shareholders with this type of operation only by buyback. Hopefully now when the company continues to be a public company, I'm sure everybody knows that the last year, 2025, was a very tough year for InMod because of the failed project that tried to sell the company without success. And we remain public. I believe it's important also to the team and to the people. who felt unsecure during very long time. And now maybe we will consider other way to allocate capital to the shareholders, M&A, dividend, and others. Everything is on the table and everything is open."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Good, thank you."
+    },
+    {
+      "speaker": "spk04",
+      "text": "The next question comes from Sam Iver with BTIG. Please go ahead."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Hi, good morning. Thanks for taking the questions, and Yair, just wanted to say thank you for all the access over the years. It was really nice getting to work together. Hopping between a few calls this morning, so apologies if this question already got asked, but maybe just following back up on capital allocation and maybe diving a bit deeper in terms of appetite for M&A. I know it's something that you guys have always been considering, but haven't seen you know, any kind of deals over, over, you know, the last several years, I guess, is that something that, you know, considering where markets are at this moment, willing to reevaluate, um, or is it really more focused on, um, still, still buybacks here?"
+    },
+    {
+      "speaker": "spk03",
+      "text": "Well, uh, you know, uh, I cannot say that I cannot say more than what I did. Uh, yes. MNA, uh, opportunities are being explored. We have nothing in any stage, but we're always checking because we believe that we did a lot of buyback and if we have a candidate or company to acquire in order to synergize either on the product level or the technology level or the customer level, we will explore. The only problem is, right now, private company prices are very high, and unfortunately, we are unable to acquire. We did two attempt, as you know, to buy an injectable company and to buy a toxin company, but we gave price which was probably not the best for this company's shareholders. Therefore, it was not accepted, but we will continue to try."
+    },
+    {
+      "speaker": "spk04",
+      "text": "The next question comes from Michael Toomey with Jefferies. Please go ahead."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Hi, guys. It's Michael Toomey to jump in on for Matt at Jefferies. I just had a question what you're seeing on the broader aesthetics market, not just the energy-based side, but you mentioned in the interest in injectables, but how's the broader aesthetic market growing today and any difference there between broader aesthetics, injectables, and kind of energy-based devices?"
+    },
+    {
+      "speaker": "spk03",
+      "text": "Well, I believe that there are few injectable companies which are public company. And if you look at them, you will realize that in the last, in 2025, they didn't do that good, but they see some sign of momentum in 2026. One thing I want to say, I mean, The energy-based device companies are competing on the same marginal dollar that people have for static. And on the other side, other than energy-based devices, GLP-1 took a lot of money from this industry. A lot of money. And all the new products, boosters, biosimulators, exosomes, are also competing very toughly with energy-based devices. and some of them are doing very well. Now, that means that in the future, and that's what we thought when we gave an offer to injectable companies, energy-based devices will need either strategically cooperation or M&A or mergers with other type of aesthetic solution in order to be a one-stop shop. As of now, we know that several companies like Alma signed a distribution agreement with fillers. I know that there was another Spanish company, Sinclair, that actually closed all the EBD operation and stayed only with the injectables. But I didn't see yet a major company that actually offer both energy-based device treatment and all the other, I would say, injectables, exosome, biosimulator, and other stuff that also compete on the same dollar, on which the same, what I call a static dollar. And the reason for that, the main reason for that, is that it's two different operations. You don't have an engineer that know how to develop EBD or a pharma product, and you don't have a salesman who knows how to sell energy-based device for $100,000 and at the same time to sell fillers or toxin for $100. Should need to be two separate operations. In the future, I do believe that it will come."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Okay, that's great. Thank you. And just to follow up as well, with the gross margin new guides, anything you can comment on the phasing through the year? On the what? Phasing? Yes. Phasing to the... For the gross margin."
+    },
+    {
+      "speaker": "spk03",
+      "text": "I mean, we believe it will stay the same, like 74%, 75%."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Okay, thank you."
+    },
+    {
+      "speaker": "spk04",
+      "text": "This concludes our question and answer session. I would like to turn the conference back over to Moshe Mizrahi, InMode CEO, for any closing remarks."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Okay, thank you, everybody. Thank you for being with us today. Before I close the call, I want to thank our chairman, Dr. Micha Engel. who worked with us for, I would say, eight years as a director and as a chairman. We enjoyed him very much. He's living and I want to wish him success in the future. He was very helpful and he contributed a lot to InMood. And the second guy that I want to thank personally and on behalf of the company is Yair Malka, our chief financial officer for nine years now, even before the IPO, correct, isn't it? Even before the IPO, we hired him. He did a great job taking this company into an IPO and then maintaining everything that we need to do as a public company. with all the reporting, talking with investors, talking with analysts. So thank you, thank you Yair for everything you did for us and all the contributions that you brought to this company. And I wish you success in your new career. Thank you very much. Hopefully the war in Israel will end and everybody will go back to a normal life, including us, and we will continue to do our best."
+    },
+    {
+      "speaker": "spk04",
+      "text": "The conference is now concluded. Thank you for attending today's presentation. You may now disconnect."
+    }
+  ]
+}
