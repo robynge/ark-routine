@@ -1,7 +1,7 @@
 {
   "date": "2026-05-05",
-  "generated_at": "2026-05-05T23:45:25Z",
-  "n_calls": 9,
+  "generated_at": "2026-05-06T04:33:21Z",
+  "n_calls": 10,
   "calls": [
     {
       "ticker": "BNTX",
@@ -31,6 +31,31 @@
       "conference_date": "2026-05-05T08:30:00-04:00",
       "ark_funds": {
         "IZRL": "1.79%"
+      }
+    },
+    {
+      "ticker": "SHOP",
+      "company": "Shopify Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-05T08:30:00-04:00",
+      "ark_funds": {
+        "ARKF": "9.65%",
+        "ARKK": "4.54%",
+        "ARKSX": "0.31%",
+        "ARKUX": "0.31%",
+        "ARKVX": "0.31%",
+        "ARKW": "4.66%"
+      }
+    },
+    {
+      "ticker": "ADPT",
+      "company": "Adaptive Biotechnologies Corporation",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-05T13:30:00-07:00",
+      "ark_funds": {
+        "ARKG": "2.42%"
       }
     },
     {
@@ -66,16 +91,6 @@
         "ARKSX": "1.71%",
         "ARKUX": "1.71%",
         "ARKVX": "1.71%"
-      }
-    },
-    {
-      "ticker": "ADPT",
-      "company": "Adaptive Biotechnologies Corporation",
-      "year": 2026,
-      "quarter": 1,
-      "conference_date": "2026-05-05T13:30:00-07:00",
-      "ark_funds": {
-        "ARKG": "2.42%"
       }
     },
     {
