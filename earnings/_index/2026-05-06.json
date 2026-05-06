@@ -1,7 +1,7 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T20:21:06Z",
-  "n_calls": 9,
+  "generated_at": "2026-05-06T21:55:25Z",
+  "n_calls": 10,
   "calls": [
     {
       "ticker": "RXRX",
@@ -40,16 +40,6 @@
       }
     },
     {
-      "ticker": "MASS",
-      "company": "908 Devices Inc.",
-      "year": 2026,
-      "quarter": 1,
-      "conference_date": "2026-05-06T08:30:00-04:00",
-      "ark_funds": {
-        "ARKG": "1.13%"
-      }
-    },
-    {
       "ticker": "TBLA",
       "company": "Taboola.com Ltd.",
       "year": 2026,
@@ -60,13 +50,13 @@
       }
     },
     {
-      "ticker": "NICE",
-      "company": "NICE Ltd",
+      "ticker": "MASS",
+      "company": "908 Devices Inc.",
       "year": 2026,
       "quarter": 1,
       "conference_date": "2026-05-06T08:30:00-04:00",
       "ark_funds": {
-        "IZRL": "1.86%"
+        "ARKG": "1.13%"
       }
     },
     {
@@ -77,6 +67,16 @@
       "conference_date": "2026-05-06T08:30:00-04:00",
       "ark_funds": {
         "IZRL": "1.56%"
+      }
+    },
+    {
+      "ticker": "NICE",
+      "company": "NICE Ltd",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-06T08:30:00-04:00",
+      "ark_funds": {
+        "IZRL": "1.86%"
       }
     },
     {
@@ -97,6 +97,19 @@
       "conference_date": "2026-05-06T10:00:00-04:00",
       "ark_funds": {
         "IZRL": "1.71%"
+      }
+    },
+    {
+      "ticker": "DASH",
+      "company": "DoorDash, Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-06T16:30:00-04:00",
+      "ark_funds": {
+        "ARKF": "1.56%",
+        "ARKQ": "1.04%",
+        "ARKW": "0.93%",
+        "ARKX": "1.14%"
       }
     }
   ]
