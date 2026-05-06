@@ -1,8 +1,22 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T15:28:25Z",
-  "n_calls": 8,
+  "generated_at": "2026-05-06T18:14:45Z",
+  "n_calls": 9,
   "calls": [
+    {
+      "ticker": "RXRX",
+      "company": "Recursion Pharmaceuticals, Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-06T08:00:00-04:00",
+      "ark_funds": {
+        "ARKG": "3.44%",
+        "ARKK": "1.12%",
+        "ARKSX": "0.48%",
+        "ARKUX": "0.48%",
+        "ARKVX": "0.48%"
+      }
+    },
     {
       "ticker": "SRTA",
       "company": "Strata Critical Medical, Inc.",
@@ -10,7 +24,7 @@
       "quarter": 1,
       "conference_date": "2026-05-06T08:00:00-04:00",
       "ark_funds": {
-        "ARKQ": "0.89%",
+        "ARKQ": "0.85%",
         "ARKX": "1.78%"
       }
     },
@@ -21,18 +35,8 @@
       "quarter": 1,
       "conference_date": "2026-05-06T08:00:00-04:00",
       "ark_funds": {
-        "ARKQ": "2.42%",
+        "ARKQ": "2.45%",
         "ARKX": "4.13%"
-      }
-    },
-    {
-      "ticker": "MASS",
-      "company": "908 Devices Inc.",
-      "year": 2026,
-      "quarter": 1,
-      "conference_date": "2026-05-06T08:30:00-04:00",
-      "ark_funds": {
-        "ARKG": "1.06%"
       }
     },
     {
@@ -46,13 +50,23 @@
       }
     },
     {
+      "ticker": "MASS",
+      "company": "908 Devices Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-06T08:30:00-04:00",
+      "ark_funds": {
+        "ARKG": "1.13%"
+      }
+    },
+    {
       "ticker": "NICE",
       "company": "NICE Ltd",
       "year": 2026,
       "quarter": 1,
       "conference_date": "2026-05-06T08:30:00-04:00",
       "ark_funds": {
-        "IZRL": "1.70%"
+        "IZRL": "1.86%"
       }
     },
     {
@@ -62,7 +76,7 @@
       "quarter": 1,
       "conference_date": "2026-05-06T08:30:00-04:00",
       "ark_funds": {
-        "IZRL": "1.58%"
+        "IZRL": "1.56%"
       }
     },
     {
@@ -72,7 +86,7 @@
       "quarter": 3,
       "conference_date": "2026-05-06T09:30:00-04:00",
       "ark_funds": {
-        "PRNT": "0.13%"
+        "PRNT": "0.12%"
       }
     },
     {
@@ -82,7 +96,7 @@
       "quarter": 1,
       "conference_date": "2026-05-06T10:00:00-04:00",
       "ark_funds": {
-        "IZRL": "1.67%"
+        "IZRL": "1.71%"
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "date": "2026-05-05",
-  "generated_at": "2026-05-06T15:27:13Z",
+  "generated_at": "2026-05-06T18:14:36Z",
   "n_calls": 11,
   "calls": [
     {
@@ -30,7 +30,7 @@
       "quarter": 1,
       "conference_date": "2026-05-05T08:30:00-04:00",
       "ark_funds": {
-        "IZRL": "1.79%"
+        "IZRL": "1.48%"
       }
     },
     {
@@ -41,21 +41,11 @@
       "conference_date": "2026-05-05T08:30:00-04:00",
       "ark_funds": {
         "ARKF": "9.65%",
-        "ARKK": "4.54%",
+        "ARKK": "4.23%",
         "ARKSX": "0.31%",
         "ARKUX": "0.31%",
         "ARKVX": "0.31%",
-        "ARKW": "4.66%"
-      }
-    },
-    {
-      "ticker": "XRAY",
-      "company": "DENTSPLY SIRONA Inc.",
-      "year": 2026,
-      "quarter": 1,
-      "conference_date": "2026-05-05T16:30:00-04:00",
-      "ark_funds": {
-        "PRNT": "4.62%"
+        "ARKW": "4.26%"
       }
     },
     {
@@ -65,7 +55,17 @@
       "quarter": 1,
       "conference_date": "2026-05-05T13:30:00-07:00",
       "ark_funds": {
-        "ARKG": "2.42%"
+        "ARKG": "2.38%"
+      }
+    },
+    {
+      "ticker": "XRAY",
+      "company": "DENTSPLY SIRONA Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-05T16:30:00-04:00",
+      "ark_funds": {
+        "PRNT": "4.42%"
       }
     },
     {
@@ -75,8 +75,8 @@
       "quarter": 1,
       "conference_date": "2026-05-05T16:30:00-04:00",
       "ark_funds": {
-        "ARKG": "9.22%",
-        "ARKK": "5.23%",
+        "ARKG": "9.23%",
+        "ARKK": "5.15%",
         "ARKSX": "1.71%",
         "ARKUX": "1.71%",
         "ARKVX": "1.71%"
@@ -89,8 +89,8 @@
       "quarter": 1,
       "conference_date": "2026-05-05T16:30:00-04:00",
       "ark_funds": {
-        "ARKG": "2.64%",
-        "ARKK": "0.89%"
+        "ARKG": "2.68%",
+        "ARKK": "0.88%"
       }
     },
     {
@@ -100,7 +100,7 @@
       "quarter": 1,
       "conference_date": "2026-05-05T16:30:00-04:00",
       "ark_funds": {
-        "ARKG": "2.07%"
+        "ARKG": "2.19%"
       }
     },
     {
@@ -110,7 +110,7 @@
       "quarter": 1,
       "conference_date": "2026-05-05T17:00:00-04:00",
       "ark_funds": {
-        "ARKQ": "1.49%",
+        "ARKQ": "1.41%",
         "ARKX": "2.44%"
       }
     },
@@ -122,9 +122,9 @@
       "conference_date": "2026-05-05T17:00:00-04:00",
       "ark_funds": {
         "ARKF": "2.36%",
-        "ARKK": "5.06%",
-        "ARKQ": "6.44%",
-        "ARKW": "8.62%",
+        "ARKK": "4.83%",
+        "ARKQ": "6.42%",
+        "ARKW": "8.19%",
         "ARKX": "4.16%"
       }
     }
