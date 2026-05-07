@@ -333,6 +333,29 @@ def cmd_fetch(target_date, window_hours=2):
           f"({datetime.fromtimestamp(since_time, timezone.utc).isoformat()} → {now.isoformat()})")
     rows = fetch_holdings(target_date)
     uniq = unique_companies(rows)
+    # Watchlist: extra companies to monitor that are not in any ARK ETF.
+    # File lives at the repo root and is editable without code change.
+    watchlist_path = Path(__file__).parent / "watchlist.json"
+    if watchlist_path.exists():
+        try:
+            wl_data = json.loads(watchlist_path.read_text())
+            wl_entries = wl_data.get("tickers", []) if isinstance(wl_data, dict) else wl_data
+            existing_tickers = {u["ticker"] for u in uniq}
+            added = 0
+            for entry in wl_entries:
+                t = (entry.get("ticker") or "").strip()
+                c = (entry.get("company") or "").strip()
+                if not t or t in existing_tickers or t in ETF_TICKERS:
+                    continue
+                uniq.append({
+                    "ticker": t, "company": c, "is_private": False,
+                    "weight_sum": 0.0, "etfs": [],
+                })
+                existing_tickers.add(t)
+                added += 1
+            print(f"[ark] watchlist: added {added} non-ARK ticker(s) from {watchlist_path.name}")
+        except Exception as e:
+            print(f"[ark] warning: could not read {watchlist_path}: {e}", file=sys.stderr)
     uniq.sort(key=lambda r: -r["weight_sum"])
     print(f"[ark] {len(uniq)} unique companies")
 

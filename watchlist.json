@@ -1,0 +1,7 @@
+{
+  "_doc": "Extra companies to fetch tweets for, beyond ARK ETF holdings. cmd_fetch in ark_pipeline.py reads this file at fetch time and adds these tickers to the per-day fetch list. Edit this file to add/remove non-ARK monitor targets — no code change needed. Format: each entry has 'ticker' (used in cashtag query and as JSON filename) and 'company' (used as the disambiguating name in the search query).",
+  "tickers": [
+    {"ticker": "NVO", "company": "Novo Nordisk"},
+    {"ticker": "CMI", "company": "Cummins Inc"}
+  ]
+}
