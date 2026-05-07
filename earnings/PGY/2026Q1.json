@@ -1,0 +1,323 @@
+{
+  "event": {
+    "ticker": "PGY",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk00": {
+      "name": "Operator",
+      "title": "Conference Operator"
+    },
+    "spk07": {
+      "name": "Emily Beynon",
+      "title": "Transcriptionist"
+    },
+    "spk10": {
+      "name": "Craig Smith",
+      "title": "Head of Investor Relations"
+    },
+    "spk14": {
+      "name": "Gal Krubiner",
+      "title": "Chief Executive Officer"
+    },
+    "spk15": {
+      "name": "Sanjeev Das",
+      "title": "President"
+    },
+    "spk12": {
+      "name": "Sanjeev Das",
+      "title": "President"
+    },
+    "spk09": {
+      "name": "Evangelos Peros",
+      "title": "Chief Financial Officer"
+    },
+    "spk04": {
+      "name": "John Dovers",
+      "title": "Chief Strategy Officer"
+    },
+    "spk05": {
+      "name": "John Hecht",
+      "title": "Analyst, Jefferies"
+    },
+    "spk13": {
+      "name": "Gal Krubiner",
+      "title": "Chief Executive Officer"
+    },
+    "spk11": {
+      "name": "Guru",
+      "title": "Analyst, Oppenheimer"
+    },
+    "spk02": {
+      "name": "Alex Howell",
+      "title": "Analyst, Stephens, Inc."
+    },
+    "spk16": {
+      "name": "Pete Christensen",
+      "title": "Analyst, Citi"
+    },
+    "spk01": {
+      "name": "Lamar Clark",
+      "title": "Analyst, Freedom Capital Markets"
+    },
+    "spk03": {
+      "name": "David Sharf",
+      "title": "Analyst, Citizens Capital Markets"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk00",
+      "text": "Your meeting will begin shortly. If you need assistance at any time, please press star zero, and a member of our team will be happy to help you."
+    },
+    {
+      "speaker": "spk07",
+      "text": "¶¶ ¶¶ © transcript Emily Beynon ¶¶"
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thank you for your continued patience. Your meeting will begin shortly."
+    },
+    {
+      "speaker": "spk07",
+      "text": "If you need assistance at any time, please press star zero, and a member of our team will be happy to help you. Thank you. ¶¶"
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thank you for your continued patience. Your meeting will begin shortly."
+    },
+    {
+      "speaker": "spk07",
+      "text": "If you need assistance at any time, please press star zero and a member of our team will be happy to help you. ¶¶ ."
+    },
+    {
+      "speaker": "spk06",
+      "text": ". . ."
+    },
+    {
+      "speaker": "spk07",
+      "text": ". ¶¶"
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thank you for your continued patience. Your meeting will begin shortly. If you need assistance at any time, please press star zero and a member of our team will be happy to help you."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thank you. ¶¶ Hello, and welcome everyone joining today's Pagaya First Quarter 2026 earnings call."
+    },
+    {
+      "speaker": "spk00",
+      "text": "At this time, all participants are in a listen-only mode. Later, you will have the opportunity to ask questions during the question and answer session. To register to ask a question at any time, please press star 1 on your telephone keypad. Please note this call is being recorded and we are standing by if you should need any assistance. It is now my pleasure to turn the meeting over to Craig Smith, Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Thank you and welcome to Pagaya's first quarter 2026 earnings conference call. Joining me today to talk about our business and results are Gal Krubiner, Chief Executive Officer of Pagaya, Sanjeev Das, President, Evangelos Peros, Chief Financial Officer, and John Dovers, Chief Strategy Officer. You can find the materials that accompany our prepared remarks and a replay of today's webcast on the investor relations section of our website at investor.pagaya.com. Our remarks today will include forward-looking statements that are based on our current expectations and forecasts with respect to, among other things, our operations and financial performance, including our financial outlook for the second quarter and full year 2026. Our actual results may differ materially from those contemplated by these forward-looking statements. Factors that could cause these results to differ materially from our expectations include, but are not limited to, those risks described in today's press release, and our filings with the U.S. Securities and Exchange Commission. We undertake no obligation to update any forward-looking statements as a result of new information or future events. Please refer to the documents we file from time to time with the SEC, including our 10-K, 10-Q, and other reports for a more detailed discussion of these factors. Additionally, non-GAAP financial measures, including adjusted EBITDA, adjusted EBITDA margin, adjusted net income, fee revenue less production costs, or FRLPC, FRLPC as a percentage of network volume, core operating expenses, and core operating expenses as a percentage of FRLPC will be discussed on the call. We also provide an outlook for the second quarter and the full year 2026 on a non-GAAP basis. Reconciliations to the most directly comparable GAAP financial measures are available to the extent available without unreasonable effort. and our earnings release and other materials, which are posted on our investor relations website. We encourage you to review the shareholder letter, which was furnished with the SEC on form 8K today for detailed commentary on our business and performance in conjunction with a company earnings supplement and press release. With that, let me turn the call over to Gaurav."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Thank you and welcome everyone. Before turning to the quarter, this morning we announced that EB is stepping down as CFO after nearly five years with Pagaya. He has been a great partner to Sanjeev and me and was instrumental in laying the foundation for positive gap net income and cash flow, one of the most important pillars for our long-term success. The transition takes effect June 15, with Ippy remaining on the strategic advisor through year end. We are grateful for his contribution and look forward to continue to work with him in the future. We are also excited to announce John Dobris as the CFO of Pagaya. Since joining Pagaya in 2021, he has worked closely with me, Sanjeev, and Ipi on our corporate strategy and key financing initiatives, including our term loan and high-end bond offering. I'm confident he is the right leader for this role. He knows our business inside out and has been a driving force behind our financial transformation. He will continue to strengthen our balance sheet, drive profitable growth, and sharpen our engagement with the investor community that is here on the coin."
+    },
+    {
+      "speaker": "spk15",
+      "text": "With that, let me turn to our quarterly results."
+    },
+    {
+      "speaker": "spk14",
+      "text": "I'm pleased to report another strong quarter for Pagaya. Despite a macro environment full of volatility, we stayed focused on what we can control, our core business drivers, and delivered gap net income of $25 million. This is now five consecutive quarters of profitability. These results reflect a team that is executing a clear plan, drive sustained profitability by expanding our partner network, building differentiated products, and operating a platform that is designed to perform through cycles. Now let's turn into the consumer. What we see is a resilient consumer supported by stable labor markets and credit conditions. Our first quarter credit performance is in line with expectations, with some benefits from seasonal tax trends. But I want to be clear. We are not relying on those to extend risk. We continue to maintain our selective posture, and that is what allow us to execute our long-term plan regardless of short-term market dislocations. As you will recall, in the fourth quarter last year, we intentionally pulled back origination volumes in selected segments. Throughout the first quarter, we maintained that same credit posture unchanged. We are data-dependent and flexible, and we believe that a measured approach today is what secures our ability to scale tomorrow. On funding, we have raised $2.1 billion this quarter, attracted five new investors into our deals, and expanded our investor base through our first-ever auto resecuritization. The consumer credit public market continues to demonstrate strength despite recent volatility. In fact, we are seeing an influx in new investors participating in this market. We also reached another important funding milestone we welcomed Fitch into our capital market platform, making the first time we have added a major rating agency alongside Kroll. This is meaningful because it provides enhanced stability to our capital market presence and reinforced confidence in our asset performance. Now, while private credit markets are going through a period of repricing, we have strategically linked into the public ABS market. While volatile markets may create some near-term earning pressure, the diversified funding structure we have built allow us to lean on different sources depending on market conditions, giving us real flexibility. All loan buyers remain an important pillar to funding, and we will continue to add relationships there, evident by an additional term sheet that we have signed just a few weeks ago and an ongoing discussion with additional parties. However, we are not dependent on any single channel. This is the benefit of how we are built. It is the same focused execution that continues to drive our B2B2C business model forward. And what I would say is that our growth enterprise strategy is working well. Since the start of the year, we reached a new onboarding record with four partners joining our network this quarter and making progress with regional banks in the pipeline. Allow me to provide a quick overview on our businesses. On the personal loan, we expanded our platform capabilities by adding Experian Activate and continue to operate across a significant affiliate marketplaces in consumer lending. broadening the reach of our partners to be active in more marketplaces through our products. On our auto loans business, the auto loans business have reached record performance this quarter, with volumes hitting all-time highs. Auto has become a true structural growth engine for Pagaya, enhanced by product improvements and network pricing efficiency. Finally, to our POS business. Our POS business continues to evolve. Instead of just being an enabler of point of sale, we have embedded longer-term, larger ticket lending capabilities inside POS platforms like Sezzle and FlexPay, upgrades buy-now-pay-later solutions. Sanjiv will give you more color on what we have accomplished and the momentum we are seeing across the business. Before we close my section, I want to step back. We have built a business that operates through volatility with clarity and purpose. As we approach our 10-year anniversary, I am reminded that the companies that endure are the ones that build through cycles. We are capital disciplined, and by proving our model yet again, we are separating Pagaya as the preferred technology partner for every major consumer lender in the United States. With that, let me turn the call over to Sanjay."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Thank you, Gal. First, I want to thank Evangelos, who has been an excellent partner and collaborator over the last couple of years. He's clearly accomplished a great deal for Pagaya, and he has my sincere best on what's next for him. John Dobris has been a key part of the management team, and I am looking forward to partnering with him We've structured this as a deliberate transition with EP remaining actively involved over the coming months to ensure continuity."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Now to the quarter. Our focus this quarter has been clear."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Drive gap net income through disciplined execution. Simply put, we are diversifying the business as we expand to the top of the origination funnel. More partners, more products, more channels, And as we do that, we are becoming deeply embedded with our lending partners, and that is strengthening our foundation for durable bottom-line growth. What's important is that these growth levels don't require us to expand our credit box. They are driven by the combination of existing and new partner growth. And our relevance to those partners remains very high. Banks are solving for non-interest income and customer lifetime value. FinTechs are solving for return on acquisition spend. And that's exactly what we enable, and that is why our pipeline remains so strong. As Gal mentioned, we are very intentional about pulling back on marginal risk exposure since late last quarter. Consumer behavior right now is in line with our expectations, but we are watching it closely. Our product suite is robust, it's market tested, and it's what's driving our balanced growth this year. New partners, meanwhile, are setting the stage for growth in the back half of the year and beyond. So let me walk you through the details of what we have accomplished this quarter and what we are on track to execute over the remainder of the year. Starting with new partners, we continue to work through the onboarding pipeline we announced at the end of last year, which is a healthy mix of banks, fintechs, and auto players. Year-to-date, we completed the onboarding of four partners, Global Lending Services, or GLS, Upstart, Sezzle, and FlexPay, which is a buy-now, pay-later solution from Upgrade. It's still early days, but all four are showing healthy progression in their ramps, which is very encouraging. On top of that, we are in the process of onboarding regional banks that we expect to announce soon. As a reminder, our onboarding process is truly industrial grade at this point. Every new partner gets a pre-built integration with our entire product suite from day one, which accelerates scaling. Turning to our existing partners, but I'm really excited about the momentum we are seeing. Think about it this way. We are evolving from what was a single product, single channel company into a multi-product, multi-channel platform. that touches the entire cycle of our lenders' underwriting processes. This is a meaningful shift, and we are now in execution mode, building a true multi-product enterprise that is increasingly embedded in our partners' businesses and loan origination funnels through products like our affiliate optimizer engine and direct marketing engine. Our largest lending partners continue to move through the Pagaya lifecycle, by adopting more products, and that translates directly into more volume and revenue for both sides. As we've discussed before, partners who adopt our products see material growth in their partnership. To give you a concrete example, we increased volume with one of our partners by 37% this quarter versus the same period a year ago simply by onboarding them onto a leading affiliate marketplace. So that really highlights the value add of our affiliate channels. And as we are expanding these strategic relationships with the affiliates, we have partnered with Experian, which enables our personal loan partners to join Experian Activate. This partnership allows our personal loan partners to tap directly into Experian's high intent marketplace, fueling a mutual increase in volume and profitability. Following the successful launch of our top five partners this quarter, we have a robust pipeline of major lenders that are scheduled for onboarding throughout the remainder of the year. On the direct marketing engine, we continue to onboard more partners to our pre-screen solution across email and direct mail. We have now completed 12 campaigns across five partners, and each campaign gives us additional insights that allow us to enhance our response models to drive higher efficiency for future campaigns."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Now turning to our asset classes."
+    },
+    {
+      "speaker": "spk12",
+      "text": "We are increasingly operating a diversified platform across personal loan, auto, and point of sale. We are rebalancing our products and channels towards more stable, scalable economics and are continuing to optimize flow through pricing and activation tests. Pagaya brings longer-term, larger-ticket lending capability to our POS partners. Together, we can pursue enterprise merchants with a full lending solution that further differentiates the partner within their verticals. Personal Loans remains our flagship asset class and represents 63% of production this quarter. Our affiliate optimizer engine will continue to drive near-term growth, while our direct marketing engine will support growth over the longer term. Auto remains a key focus for us. We are seeing significant growth and strong profitability driven by access to additional flow sources, improved ABS execution, optimized offers and pricing, and frankly, some tax season tailwinds as well. Our auto volumes now stand at a record annualized run rate of $2.3 billion. That is double where we were in the first quarter of last year. On the product side, we have been focused on transaction optimization at the dealership level, which has allowed us to better address what dealers actually need. And now turning to funding. Funding remains robust across all asset classes. This quarter, we raised four ABS transactions totaling $2.1 billion in funding across our paid and RPM shelves, and we did that despite the increased market volatility. That is a testament to the quality of our assets and the strength of our investor relationships. So, stepping back, our foundation is strong and we continue to build a resilient B2B2C business. The diversification across partners and products is what drives the value of our platform. It gives us unique access to data and insights, an unparalleled vantage point, and the ability to stay nimble. As we continue to grow net income and cash, we are strengthening the business fundamentals for the long term. Before I hand the call over to EP for a detailed review of our financials and outlook, I'd just say we are executing with discipline and momentum across our business as we continue to build it, across new and existing partners, across products, and across asset classes. We remain focused on building an enduring platform."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you, Sanjeev. Before I get into the quarterly results, I want to briefly note that this will be my final earnings call as Chief Financial Officer. It has truly been a privilege to serve as CFO of Pagaya, and I'm proud of what we've built, architecting a financial and business foundation to deliver and grow Gabnet income profitability and expand access to capital. After careful consideration, I have decided this is the right time for me to step down and pursue my next chapter. I remain very confident in the company strategy and the strength of the team. I'm also excited for John as he steps into the role. John and I have worked closely together since joining the company, and I'm confident in both his leadership and the strength of the finance organization that we've built over the last two years. We're focused on a seamless transition and continuity across, particularly in the areas of investor engagement and capital efficiency. I will remain heavily involved as a strategic executive advisor to GAL on Bagaya's long-term funding strategy for its next phase of growth. John is joining us here today also. So, John, perhaps you can say a few words."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thanks, E.P. I'm honored to step into the CFO role and grateful for E.P.' 's partnership over the past several years. We've worked closely together across capital formation and balance sheet strategies. and I look forward to building on the strong foundation already in place. Our priorities and financial strategy remain unchanged, and I'm excited to continue working with the team as we execute through the next phase of evolution."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thanks, John. Turning to results, we delivered our fifth consecutive quarter of gap net income, generating $25 million of profit while continuing to operate within a disciplined risk framework in a challenging macro environment. More broadly, what you're seeing is the strength of our model, optimizing for credit discipline, growth, and operating efficiency while positioning the business for long-term success. At the same time, we remain cautious given the current geopolitical and macro backdrop. So let me take you through the numbers. For the first quarter of 2026, we reported revenue of $318 million, fee revenue less production cost of $121 million, and adjusted EBITDA of $94 million. FRLPC as a percent of network volume was 4.6%. Network volume was 2.6 billion, up 9% year-over-year, and 23% excluding SFR from the same quarter last year. As it relates to SFR, Darwin Homes, our tech-enabled property manager, continues to be the main engine of our SFR business, managing over 15,000 homes, and we expect to continue to add more homes under management as the platform scales. Strategically, our focus remains on consumer credit and becoming the partner of choice for lending institutions in our industry, so we will continue to assess strategic alternatives for Darwin and our SFR business. Application to volume conversion was below 1%, consistent with our deliberate shift toward higher quality borrowers and tighter underwriting, reflecting the actions we took in our prior quarter. Total revenue and other income grew 10% year-over-year to $318 million. Revenue from fees grew 6% to $299 million, driven by higher volume and partially offset by a lower take rate and FRPC percent rate. Interest and investment income almost doubled as a result of our continued growth in our investments. Fee and revenue-less production costs grew 5% year-over-year to $121 million. FRLPC has a percent of network volume contracted by 19 basis points year-over-year to 4.6%, driven by new partner contributions, and tighter pricing on our ABS transaction, reflecting higher cost of capital. As I discussed last quarter, tighter pricing flows through FRLPC in the form of lower fee revenue from capital markets execution, reducing upfront fees by providing support against potential future earnings volatility. In practical terms, we're effectively pricing at higher loss assumptions relative to the rating agencies in the range of approximately 125 to 175 basis points, creating a more clear risk boundary for our investors. Turning to profitability, adjusted EBITDA was 94 million up 15 million with a margin of 29.6%, an increase of 200 basis points year over year. Core operating expenses remained well controlled, flat sequentially and modestly higher year over year, and represented 39% as a percent of FRLPC. We continue to see strong operating leverage with substantially all of revenue growth translating to adjusted EBITDA growth in dollar terms. Operating income was 80 million, up 68% year over year. Cabinet income was $25 million, up $17 million compared to 1Q25, driven by total revenue growth, cost discipline, and lower interest expense. This equated to an 8% margin compared to 3% in the year-ago quarter. Gains and losses on investments in loan and securities amounted to a loss of $38 million. Turning to credit performance, all asset classes are performing in line with underwriting expectations. 2025 integers reflect normalized production levels and underrating at a lower cost of capital by approximately 200 basis points versus 2024, and up to 400 basis points lower versus 2023. In personal loans, though still a few months of seasoning is needed, early stage delinquencies are stabilizing and loss trends remain consistent with our expectations. In auto, recent vintages continue to perform well relative to prior periods, with delinquencies and losses within expected ranges, and recoveries improving. POS credit performance also remains stable. Turning to funding, despite volatility in private credit markets, demand for our production remains strong. This quarter, we issued 2.1 billion through our ABS program across four transactions, marketed to our network of more than 160 institutional funding partners. Additionally, new investor participation accelerated quarter over quarter, highlighting the continued quality and demand of our paper. I would highlight two key milestones here. Firstly, we received our first AAA rating from Fitch on our personal loan re-securitization shelf. And secondly, we successfully executed our first auto re-securitization. These are meaningful achievements that further validate the strength of our credit performance and our platform. In fact, re-securitization is actually becoming a key part of our capital market strategy. It gives us two things. First, a repeatable mechanism to return capital from prior vintages on an accelerated basis. And second, lower funding costs by refinancing seasoned collateral with more predictable credit performance. This is a very powerful combination. Over the last 12 months, we have generated 44 million in net cash flows from this type of transactions while attracting new investors to our platform. As we have discussed, we continue to diversify our funding channels to reduce reliance on any single source and to mitigate market volatility. In recent months, we have leaned more into our ABS execution. This week, we completed another 800 million ABS transaction that was upsized from 600 million. And within ABS, we have different flavors, like public and private structures, giving us significant flexibility. Turning to the balance sheet, asset quality and mix continue to materially improve, increasing both liquidity and flexibility. Approximately 35% of our investment portfolio is in bonds from our sponsored ABS transactions, which provide both accretive returns and access to financing. Over the last 12 months, we have sold 30 million of these nodes above cost and have received gross funding of approximately 180 million in secured borrowings, which we have raised and paid off during this period in line with our needs, highlighting the flexibility that these assets provide. Towards the last two weeks of the quarter, we drew down on our revolver as a precautionary measure given geopolitical uncertainty and paid it back in April. We also continue to deploy capital opportunistically, repurchasing $7 million of our corporate notes in February and an additional $4 million in April. During the first quarter, the fair value of the overall investment portfolio and allowances prior to new additions was adjusted downward by $21 million compared to $50 million in the prior quarter. Now turning to guidance, we expect network volume growth to be driven by deeper engagement with existing partners, primarily in auto, contribution from new partners, and new product initiatives. FRLPC margin is expected to be between 4% and 5% for the year, and we assume that the cost of capital remains elevated at current levels for the rest of the year. For the second quarter of 2026, we expect network volume in the range of 2.875 billion to 3.075 billion, total revenue and other income in the range of 345 million to 365 million, and adjusted EBITDA in the range of 100 to 115 million. We expect gap net income for the quarter of 25 to 45 million. For the full year 2026, we are expecting network volume in the range of $11.45 billion to $13 billion, increasing the lower end of the range by about $200 million versus prior guidance. Total revenue and other income remains in the range of $1.4 billion to $1.575 billion. We are increasing adjusted EBITDA guidance to a range of $420 to $460 million. We're also increasing government income guidance for the year to a range of $110 to $160 million."
+    },
+    {
+      "speaker": "spk15",
+      "text": "With that, let me turn it over to the operator for Q&A."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thank you. And at this time, if you would like to ask a question, press star 1 on your keypad. To leave the queue at any time, press star 2. Once again, that is star one to ask a question, and we'll pause for just a moment to allow everyone a chance to join the queue. And we will take our first question from John Hecht with Jefferies. Please go ahead. Word line is now open."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Morning, guys. Thanks very much for taking my questions. And EP, wish you the best. Great working with you. And John, look forward to working with you. So first question is, The quarter showed relatively stable outcome. I mean, it was a good quarter, but it reflected a lot of stability despite a period of volatility in funding markets, ABS markets, and then a lot of headline noise with the private credit markets. So, Gal, I'm just wondering, maybe can you talk about how you're managing these markets and how the volatility in your funding markets affects how you're able to strategically work with that volatility?"
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thanks, John. This is C.P. I'll take that. Pleasure again having worked with you and you're staying in great hands with John. So first, Broadly speaking, keep in mind that we were very well positioned in this environment, given some of the action that we took in the last year, in previous quarter. When you think about the funding environment, it's obviously very dynamic. And I would say we're very fortunate given the sort of access to capital that we have to some of the deepest pocket institutional capital out there. Maybe I'll step back and give you a little bit of how we think about it and how we see things. Think about the funding markets across two dimensions, on one being, call it public versus private, and then the other one being consumer versus, let's say, corporate, particularly in the context of what's happening in the marketplace right now. So what we see today, most of the college stress is in the private corporate credit side, not on the consumer credit. Keep in mind that the consumer overall is resilient and overall consumer credit performance is attractive, particularly relative to the corporate side. So on the public consumer side, very constructive, very robust. We continue to see very strong demand. In fact, I would go as far as saying that some of the capital is trying to find its way from, call it the corporate side, into the consumer, because insurance capital, pension funds, and everything have to continue to deploy their capital. And they're finding their way primarily through the consumer public side. And that's also evident in our execution. We just announced a new deal this week in the personal loan side. We upsized that during the short marketing period, very similar to the one we did also in January. So all of that to say that we have continued to see very strong demand on the consumer side of things. On the private side, it's obviously, you know, it's something that we have been focusing, as you know, and have executed well over the last 12 to 24 months to continue to diversify and have access to different types of structures like forward flows, pass-throughs, revolving ABS, many flavors there. But we do see on the private credit market side, obviously, an industry that is going through a repricing. And obviously, we're monitoring very closely for a potential contingent And therefore, we're leaning tactically more so a little bit into the public ABS side at this juncture. And keep in mind, there is two things that we're able to do to allow us to do that. First, we have the access to capital. We can very easily pivot. And if anything, some of the things that we have been doing have accelerated the interest from new investors into our shelves. And second and most importantly, we remain very disciplined and laser focused and continue to deliver and grow gap net income profitability and not just execute at any price point. All of that to say that obviously there is a recalibration now in the marketplace. But the key point here for us is that we're not relying on a single funding channel. We have a very robust model, very well diversified. And that allows us to have that stability and pivot as market conditions evolve."
+    },
+    {
+      "speaker": "spk05",
+      "text": "That's great. That's very helpful. Thank you. A second – or a follow-up question. Your expense management – was a good surprise this quarter. I know you've been focused on that in the past. I'm wondering, to what degree should we think about efficiencies in the business and cost management and how high is that on the priority list for you guys?"
+    },
+    {
+      "speaker": "spk09",
+      "text": "So obviously, I would say two things here. First, Look, one of the key differentiators of the business is the operating leverage. This is a quite unique business. We can continue to grow the top line without having to really put a lot more capital to work to grow the business. The infrastructure is already built out. When you think about capital allocation, you know, growth into the business, there is not much there. And that's a great place to be. And second, what I would say, a lot of the actions that we have taken in the last three years are really playing out and continue to play out. There was obviously going to be investments in certain areas, but the operating scalability and the features that we have will continue to play out to our favor over many, many years. As you continue to see us in the existing asset classes, you know, everything that we do can be effectively achieved, again, with a minor investment, can be achieved to the levels of growth and targets that we have without any incremental investment. And that's something you should be taking, obviously, into consideration when you think about modeling the business."
+    },
+    {
+      "speaker": "spk13",
+      "text": "I think, John, maybe one thing to add. Think about it as a design, not as a period. Now, it's not to say that this number will be forever the number, but we are running in purpose, very laser-focused, slim, communicating. type of a company that is highly leveraged with technology and now with the world of agents in the world of AI, we would even potentially see that acceleration of these pieces and our ability to be relevant and to do more things with even deeper, more sophisticated technology embedded, which is our bread and butter and the place where we grew up."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Wonderful, guys. Thanks very much."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thank you. And our next question comes from Raina Kumar with Oppenheimer. Please go ahead, your line is now open."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Hi, this is Guru on for Raina, and thanks for taking our question. Maybe just one on AI, right? As AI underwriting becomes more commercialized, how do you ensure that Pagaya's data advantage remains differentiated and proprietary?"
+    },
+    {
+      "speaker": "spk13",
+      "text": "Thanks. So definitely a great question, and funny enough, I think you have the answer to your question. But the bottom line is the things that are becoming a little bit more commoditized are actually the models and the ability to build them. A lot of the models that are implied in Pagaya are not LLMs by nature, and actually LLMs are not very relevant for these areas. So for the underlying itself, it's really all about the data that we have. We have 30 different partners. We have now a history of millions of customers with of millions of historical performance and payments. All of them are actually in a very specific segment that we are operating in, the 670, 680 FICO, personal loan, auto loan, the same. So the unique data advantage is not something that is easily to be replicated, and we are living in a world of very strongly regulatory regime for the good. because banks and other lenders are not that easily can work with startups or new ideas or to provide them that data because it's proprietary and definitely a very strong ability to continue to have advantage. I will point out that the agentic AI, and these are things that you can imagine we're speaking today are starting to define, but could provide a very lip growth for our business, but in many different avenues. So think about the connectivity to the different banks and lenders that's why we'll be able to be done with agents or at least some way with agent could accelerate our ability to get connected to these pieces when we have our very unique data capabilities then to be able to have even a deeper more robust way of risk management data science with enhanced capabilities from agents and llms is definitely an addition pillar so for us it's definitely a progression We are not ready to talk about the holistic strategy of that right now, but we are definitely forming it and something that we believe will drive a lot of quality outcomes in the future and in the same time will be a major driver to the growth of And as you can imagine, maybe the lessons and a lot of the banks and the lenders around us are viewing us as a technology provider. So for us to have the conversation with them and potentially to help them go through the AI era is definitely something we are looking very deeply in and starting to actually have an interesting conversation around."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Very helpful. Thanks a lot."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thank you. And we'll move next to Alex Howell with Stevens, Inc. Please go ahead. Your line is now open."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Hey, good morning, guys. Congrats on the quarter and the CFO announcement, and we'll miss working with the EP. Just a quick question, and this was touched on in the prepared remarks a bit, but could you help us better understand the mechanics of these re-securitized ABS from a credit and risk transfer and collateral standpoint? And how we can think about the longer term benefits of these transactions as market and credit conditions change."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Hi, Alex. Thanks for the question. It was a pleasure working with you. Yeah, so look, re-securitization is increasingly becoming a key part of our capital market strategy. In simple terms, what it does is basically two things. One, it's a repeatable mechanism for us to get capital back from deals that we had done in previous times and do that from season vintages and do that in an accelerated basis. If you think about the life of this ABS, which is three or four or five years or so, we're managing to do that effectively in two years post the deal. And the second piece is as the collateral has seasoned, We can achieve that first at the lower cost of capital and therefore allows us to extract effectively more economic value through higher cash. So put it a little bit in perspective, we did two re-securitizations year-to-date, one in personal loans and one in auto loans. We refinanced $800 million or so of seasoned collateral. And through that, we managed to get cash back that would otherwise come back to us in a few years out. And effectively, this is becoming now, from a pure corporate balancing perspective, a very powerful tool to recycle the capital that we have put into these deals. And you can see how that plays out. I encourage you to look at our shareholder letter and see how these dynamics have played out over the last 12 months. Okay. So, I think it's a very powerful tool, and then the other thing I would say is actually helping the business in a different way as well. These are different type of structures, somewhat different from the marquee, call it pre-funding ABS, and it actually allows us to attract more institutional investors in ourselves that over time get more access to Pagaya and therefore can become partners of ours or for some of the other structures. So I think it's a very powerful tool, and you should continue seeing us do more of that over the future."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Got it. Thank you. I appreciate the color, and have a good one."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thank you. And we'll move next to Pete Christensen with Citi. Please go ahead. Your line is now open."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thank you. Good morning. Thank you, EP, and best of luck. And John, welcome aboard. Congratulations. Looking forward to working with you. I want to tap into two areas. First, risk posturing, and then also a little bit more detail on the pipeline and how momentum is going there. But first, on the risk side, you know, given the posture change last quarter and you called it out in your shareholder letter that you're not extending current credit performance at this time, more data dependent. Gal, can you walk us through, you know, what areas are you worried about? And then on the data dependency side, like, what's your perceived, like, green light, red light in terms of, you know, any future changes in risk posturing just generally?"
+    },
+    {
+      "speaker": "spk15",
+      "text": "Pete, hi. This is Sanjeev Das."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Let me... address your pipeline question first and then Gal will come back on the consumer risk issues and what we are seeing ahead of us. In terms of the pipeline, very specifically, we had mentioned, we had given kind of guidance last quarter that we had about five partners that we were onboarding and we are very much on track with that. We have, in fact, announced partners like achieve GLS, upstart, and are now in the process of onboarding FlexPay, which is an existing partner upgrade that is getting into the POS business. But essentially, the pipeline of new partners has been very robust. Five partners in a couple of quarters is like way higher than what our target was. And we have about three or four more that are in the process of being onboarded. And I might just add that those are principally regional banks. And our appeal there has been very strong. I also want to articulate the fact that we have our pipeline constitutes all three asset classes that we're in, so personal loans, auto loans, and point of sale. And the pipeline beyond that also continues to be very strong with several banks that are positioned where we are in late stage, some in economic and term sheet discussions, and several in sort of business case discussions. And I would say that there is There are two major banks and about five or six regional banks that we are in those stages of discussions with. And the appeal has been primarily around three or four major attributes. One is we are actually helping some of the regional banks now stand up a stand-alone personal loans business, which completes the consumer product repertoire for them which is extremely important to them for their depositors as a product offering. So we are standing up an entire PL business, personal loans business for them, not just a decline monetization partner, but more than that in terms of the entire product offering. For others, The appeal with the new pipeline is helping them grow beyond their organic personal loans businesses into the marketplaces of what we call the affiliate channels, such as Credit Karma and Experian. And that appeal, including with some of our existing banks, has been very powerful for them. And so our pivot to what we called product in the last few quarters has actually proven to be a very, very good acquisition tool for our new partners. In auto, the fact that we are now talking about massively improving dealer satisfaction through our product range extension in terms of longer-term products, higher ATR products, has had an incredible appeal with some of the new auto partners we are talking to. So long story short, five partners onboarded, checked the boxes on that. three more partners in the process of being onboarded, and about, I would say, eight to ten partners that are in the pipeline, which constitute banks and fintechs. Over to you, Bob."
+    },
+    {
+      "speaker": "spk13",
+      "text": "And Pete, regarding your consumer health question, so obviously this is our business, so the risk management nature and the way we think about risk is instrumental to the way we think about growth. And what we're trying to do is to continue to grow our business model without touching at all the ability to need to extend or to increase the credit risk. So under that kind of like belief system and philosophy, which is a philosophy, the short answer is that The consumer is behaving in line with our expectations this quarter, so we did not have any change to our credit posture. However, as I said before, this is our business model. We continue to monitor it closely and try to see signs beyond the first quarter, which was a very strong tax season, and to see what's going to play out in the rest of the year. So we didn't take out our very observatory eyes and to see what's happening, but we do believe that we are in a better situation, but in the same time happy that we took the decision that we did. Just two things on a more softer piece, when we are thinking about what could potentially go wrong, so this is a lot around the negative headlines regarding Inflation that could come from geopolitical conflicts or others. And we continue to position our portfolio very strongly around strong high income earners. So like while our FICO is 660, 670, which is definitely in the middle, on the personal loan side, our average annual income of these bowels lately has reached as high as $115,000. The same on auto loan that we are going slightly to a lower FICO's ranges, we are still talking about $80,000, $85,000 of annual income, which is above and beyond the average American numbers as we know them. So all in all, just to summarize that up, we have built a very disciplined growth strategy that is really the core and heart of our business model. that we are not growing through opening credit books or marketing spend by adding more product, as Sanjeev mentioned, and adding more partners, as Sanjeev mentioned. So growth and credit posture could go hand in hand for us. And we feel good on where we are today, and we are in the watch of what needs to come in the future."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thank you. It's good to hear that growth is primarily driven by pipeline expansion. Sanjeev, I just want to expand on your comments a little bit. I guess if we think about the cadence over the next, I don't know, three to four quarters, would it be fair to say that the current pipeline is more constrained by lender onboarding or integration timing and less so by, like, available capital or risk appetite? 100%."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Yes, I would totally agree with that, Pete. Not at all constrained by capital. Totally a function of... Execution. Execution, as Carl said. And I would just add that even that whole process has been highly systematized and that the lender onboarding process has been significantly reduced, which is how we were able to get – we told you guys there are about eight partners that we would onboard in about two to three quarters. Remember, our typical guidance is to be two to four a year. Now we are talking eight in about two to three quarters. So the speed of being able to do that. And I just wanted to add one more thing. E.P. mentioned operating leverage in the past. I will say that we added all this without one single headcount being added to the system. So that's the power of the platform that we built. But, yeah, short answer to your question, not at all constrained by EPMs other than just execution."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yeah, that's a good endorsement of value prop. Okay, guys, thank you so much."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thank you. And we'll move next to Lamar Clark with Freedom Capital Markets. Please go ahead. Your line is now open."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Hey, guys. Thanks for taking the question. EP, wishing you all the best. And John, looking forward to working with you. I wanted to ask the question on your multi-product growth strategy and the continued momentum you're seeing in Q1. Maybe if you could provide some color around the interest you're seeing from various lending partners across the newer products and markets. Are there any specific insights you're able to share around how certain products resonate with your lending partners across the different asset classes?"
+    },
+    {
+      "speaker": "spk15",
+      "text": "Okay, hi."
+    },
+    {
+      "speaker": "spk12",
+      "text": "This is Sanjeev. I'll take it. So, yes, great question. As we mentioned earlier, our growth is being driven. The way we think about our growth is in terms of growing the network. which is new partners and growing our products within the existing network. So our volume growth will come from those two vectors as opposed to credit box expansion. So let me talk a little bit about product expansion. On the personal loan side, we said before that our partners grow either organically or they grow through their extension into marketplaces. Those marketplaces we call affiliates. and we have a product called the Affiliate Optimizer Engine, which in the personal loans business as a category is not as well developed as it is in credit cards. I think it's fair to say that Pagaya now kind of owns that category in the personal loans business and is building out the affiliate optimizer engine as a very successful distribution expansion engine for our lending partners. And we've had tremendous success on it. And just to give you real evidence of that, One of our top five partners just by virtue of getting on another affiliate marketplace grew their business by 37% with Pagaya by virtue of just getting on another affiliate platform. The two principal affiliate platforms that you know are Credit Karma and Experian. And now on Experian Activate, we have about five lending partners. that are in the pipeline to grow. And we have our top five partners in there. So think about where the personal loans business could grow for Pagaya by helping our partners extend into these new distribution channels. So that's on the personal loan side. I should also add that on the personal loan side, we have run about 12 pre-screen campaigns, which we talked about earlier, and have now built out our direct marketing campaigns for these top five partners We have built the credit models for them. We have built the response models for them. And they have been built for each lending partner. The economic terms have now been agreed to with these partners. And you can see the trial period extending into a rollout by the end of the year with our top five partners. So in our personal loans business, that's how we're going to expand horizontally. On the auto side, as Gal and AP mentioned, we've obviously had outstanding growth in our auto business, even if I should say so. And a lot of it has been through product expansion on the dealer side. We expanded, we sort of modified the loan terms in keeping with where consumer loans are right now. We started extending the loan amount and higher APR caps. These three things led to a massive growth in our auto business and continue to be very, very powerful in terms of improving or reducing friction at the dealer with the consumer and significantly growing our auto business. Again, none of these are credit box expansion. These are all what we call product feature or product expansion. What are we seeing in terms of interest from lending partners? I would say that on the PL side, the ability to get into marketplaces, which Pagaya now is the principal interface between our lenders and these marketplaces, is really where the focus has been. And we do about, you know, $2.8 to $2.9 billion in these affiliate platforms already. We think our ability to grow these businesses, these marketplaces, is very high. So that is of great interest. And I would say that on the auto side, the continued focus with dealers and improving the dealer interface has been of great interest to our lending partners."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Awesome. Thanks, guys."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thank you. And we'll move next to David Sharf with Citizens Capital Markets. Please go ahead. Your line is now open."
+    },
+    {
+      "speaker": "spk03",
+      "text": "All right, good morning. Thanks for taking my questions, and I'll echo the congrats on the CFO transition for both John and E.P. Hey, one quick question on funding. You know, obviously, 12, 18 months ago, funding mix was a very large topic in funding diversification. you know, as you noted this morning, an awful lot of very positive developments in your ABS funding have taken place recently, adding Fitch, you know, adding revolving securitizations, auto. Can you just remind us, you know, to the extent that the ABS markets continue to become increasingly attractive, do you still have sort of a ceiling placed on what percentage of your total funding, you know, you'll allow to come from securitizations and the accompanying risk retention? Or are you kind of thinking things are a little more fluid just based on kind of recent developments?"
+    },
+    {
+      "speaker": "spk13",
+      "text": "I think it's good to hear you. I'm going to take it, guys. So, no, we don't think about these things in terms of ceilings. I think the better word to use it is infrastructure. So as you know, to develop a funding strategy is not something that takes a quarter or two to build. Sometimes it takes 18 months or even three years to get to the level of efficiency you will need. We definitely started from the capital market side. That was our bread and butter. And over the years, we've pushed ourselves to more the private side and hold loans and revolve and all the things that E.P. mentioned. But the key word is diversification. And as a company execution, you should continue to expect from us to build the pipes, the capabilities, the partnerships, et cetera, on both sides almost equally. So as much as we are working on the fixed rating, we are working on the next forward flow or the next whole loan buyer to make sure it's going to be on top of them. Now, there is a different question of how do you utilize these assets and these relationships and these infrastructures that you have built in order to fund in a specific quarter, in a specific year, in a specific time frame. And there, the discipline of pricing, the discipline of the earning, combined with the capability to have diversification, is really the equation that we are solving for. So I will say that regardless of this or that quarter, we are not trying to solve for a specific percentage in a specific timeframe. we do solve strongly for a very robust fundamental infrastructure across the board. So if you will see some dislocation in one market or the other, our ability to move away and to rely on the other is going to be seamless and in the same scale. And that goes really to the world of diversification."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Got it. Understood. I appreciate kind of the reminder. Hey, a quick follow-up on kind of the product diversification and expansion, and specifically products like the direct marketing engine. As we look a couple years down the road, are more of the products going to be tied to sort of maybe less predictable one-off events, like a marketing campaign by your partners, or Or is the kind of visibility and predictability of volumes going to remain unchanged in your mind?"
+    },
+    {
+      "speaker": "spk15",
+      "text": "Hi, David."
+    },
+    {
+      "speaker": "spk12",
+      "text": "I think we are seeing a lot of moving parts right now in the whole direct marketing piece with our lenders. We are seeing, as I mentioned before, a significant shift towards marketplaces. We are seeing a significant shift within those marketplaces to folks using, consumers using AI platforms for shopping. So there's a lot of consumer trends that are going on simultaneously. From our perspective, we can see that even the marketplaces themselves are trying to adapt to these consumer shifting We are not sure where this is going to land in terms of how consumers finally shop through using AI, for example, but we know for a fact that the banks and fintechs right now are extremely focused on going through the affiliate channels and also leveraging really good consumer selection and credit box and credit spectrum expansion using our products. So for us, that's turned out to be a really valuable product catalyst for our growth and our business. I'm not sure if you had anything there."
+    },
+    {
+      "speaker": "spk13",
+      "text": "No, I think that's definitely right. And as we scale and as we become more valuable, we become much more organized way of like, not just going on the campaign, but many more other ways. So fully aligned here."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Understood. Thanks so much. Thank you, David."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thank you. At this time, we've reached our allotted time for questions. I'll now turn the call back over to Gal Krubiner, CEO and co-founder, for any final or closing remarks."
+    },
+    {
+      "speaker": "spk13",
+      "text": "So we just want to say thank you for everyone today. This was obviously a very strong quarter to demonstrate our B2B2C model in action and the discipline in the way we think about underwriting and growth. Looking forward to see you in the future, and thank you for everyone for listening. Have a great day."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thank you. This concludes today's meeting. We appreciate your time and participation. You may now disconnect."
+    }
+  ]
+}

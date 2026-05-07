@@ -1,6 +1,6 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-07T15:29:09Z",
+  "generated_at": "2026-05-07T18:22:43Z",
   "n_calls": 8,
   "calls": [
     {
@@ -20,17 +20,7 @@
       "quarter": 1,
       "conference_date": "2026-05-07T08:00:00-04:00",
       "ark_funds": {
-        "ARKW": "0.81%"
-      }
-    },
-    {
-      "ticker": "MTLS",
-      "company": "Materialise NV",
-      "year": 2026,
-      "quarter": 1,
-      "conference_date": "2026-05-07T08:30:00-04:00",
-      "ark_funds": {
-        "PRNT": "3.91%"
+        "ARKW": "0.80%"
       }
     },
     {
@@ -40,7 +30,7 @@
       "quarter": 1,
       "conference_date": "2026-05-07T08:30:00-04:00",
       "ark_funds": {
-        "PRNT": "4.22%"
+        "PRNT": "4.24%"
       }
     },
     {
@@ -50,7 +40,17 @@
       "quarter": 1,
       "conference_date": "2026-05-07T08:30:00-04:00",
       "ark_funds": {
-        "PRNT": "3.91%"
+        "PRNT": "3.85%"
+      }
+    },
+    {
+      "ticker": "PGY",
+      "company": "Pagaya Technologies Ltd.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-07T08:30:00-04:00",
+      "ark_funds": {
+        "IZRL": "1.55%"
       }
     },
     {
@@ -60,8 +60,8 @@
       "quarter": 1,
       "conference_date": "2026-05-07T08:30:00-04:00",
       "ark_funds": {
-        "IZRL": "1.61%",
-        "PRNT": "3.81%"
+        "IZRL": "1.66%",
+        "PRNT": "3.88%"
       }
     },
     {
@@ -71,7 +71,7 @@
       "quarter": 1,
       "conference_date": "2026-05-07T08:30:00-04:00",
       "ark_funds": {
-        "IZRL": "1.58%"
+        "IZRL": "1.55%"
       }
     },
     {
@@ -81,7 +81,7 @@
       "quarter": 3,
       "conference_date": "2026-05-07T10:30:00-04:00",
       "ark_funds": {
-        "IZRL": "1.72%"
+        "IZRL": "1.76%"
       }
     }
   ]
