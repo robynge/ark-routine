@@ -30,8 +30,8 @@ strong { font-weight: 600; color: #0a2540; }
 .mast-right { text-align: right; padding-bottom: 3pt; }
 .mast-date { font-size: 11pt; font-weight: 500; color: #0a2540; margin-bottom: 3pt; }
 .mast-coverage { font-size: 8pt; color: #6b7280; letter-spacing: 0.02em; }
-.cast { display: grid; grid-template-columns: repeat(auto-fill, minmax(180pt, 1fr)); gap: 6pt 14pt; padding: 10pt 0 14pt; border-bottom: 0.4pt solid #e5e7eb; margin-bottom: 14pt; }
-.cast-label { grid-column: 1 / -1; font-size: 7pt; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 700; color: #0a2540; }
+.cast-label { font-size: 7pt; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 700; color: #0a2540; padding: 10pt 0 6pt; }
+.cast { display: grid; grid-template-columns: repeat(auto-fill, minmax(180pt, 1fr)); gap: 6pt 14pt; padding-bottom: 14pt; border-bottom: 0.4pt solid #e5e7eb; margin-bottom: 14pt; }
 .cast-entry { font-size: 8.5pt; line-height: 1.3; }
 .cast-entry .name { font-weight: 600; color: #0a2540; }
 .cast-entry .title { display: block; color: #6b7280; font-size: 7.8pt; }
@@ -79,7 +79,13 @@ def main():
     quarter = meta["quarter"]
     conf_date = (meta.get("conference_date") or "")[:10] or "—"
 
-    cast_html = ['<div class="cast"><div class="cast-label">Cast (in order of appearance)</div>']
+    # Label is a sibling of the grid, NOT a grid child — WeasyPrint doesn't
+    # honor `grid-column: 1 / -1`, so a label inside the grid gets squeezed
+    # into a single 180pt cell and breaks each word onto its own line.
+    cast_html = [
+        '<div class="cast-label">Cast (in order of appearance)</div>',
+        '<div class="cast">',
+    ]
     for sid, info in sorted(name_map.items(), key=cast_key):
         name = info.get("name") or sid
         title = (info.get("title") or "").replace("Conference Operator", "Operator").replace("Conference Call Host", "Host")
