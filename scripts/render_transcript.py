@@ -31,7 +31,7 @@ strong { font-weight: 600; color: #0a2540; }
 .mast-date { font-size: 11pt; font-weight: 500; color: #0a2540; margin-bottom: 3pt; }
 .mast-coverage { font-size: 8pt; color: #6b7280; letter-spacing: 0.02em; }
 .cast-label { font-size: 7pt; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 700; color: #0a2540; padding: 10pt 0 6pt; }
-.cast { display: grid; grid-template-columns: repeat(auto-fill, minmax(180pt, 1fr)); gap: 6pt 14pt; padding-bottom: 14pt; border-bottom: 0.4pt solid #e5e7eb; margin-bottom: 14pt; }
+.cast { display: grid; grid-template-columns: 1fr 1fr; gap: 6pt 14pt; padding-bottom: 14pt; border-bottom: 0.4pt solid #e5e7eb; margin-bottom: 14pt; }
 .cast-entry { font-size: 8.5pt; line-height: 1.3; }
 .cast-entry .name { font-weight: 600; color: #0a2540; }
 .cast-entry .title { display: block; color: #6b7280; font-size: 7.8pt; }
