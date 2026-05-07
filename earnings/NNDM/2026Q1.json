@@ -1,0 +1,115 @@
+{
+  "event": {
+    "ticker": "NNDM",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk01": {
+      "name": "Operator",
+      "title": "Conference Operator"
+    },
+    "spk00": {
+      "name": "Purva",
+      "title": "Director of Investor Relations"
+    },
+    "spk04": {
+      "name": "Dave Stalen",
+      "title": "Chief Executive Officer"
+    },
+    "spk03": {
+      "name": "John Brenton",
+      "title": "Chief Financial Officer"
+    },
+    "spk02": {
+      "name": "Mosag Sofardi",
+      "title": "Analyst, Mirtheson"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk01",
+      "text": "Good afternoon, everyone, and welcome to the Nano Dimension first quarter 2026 financial results conference call. All participants will be in a listen-only mode. Should you need assistance, please signal a conference specialist by pressing the star key followed by zero. After today's presentation, there will be an opportunity to ask questions. To ask a question, you may press star and then one using a touchtone telephone. To withdraw your questions, you may press star and two. Please also note today's event is being recorded. At this time, I would like to turn the floor over to Sanaria, Director of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thank you, and good afternoon, everyone. Welcome to Data Dimensions' first quarter 2026 earnings caucus call. Joining me today is our CEO, Dave Stalen, and our CFO, John Brenton. Before we begin, I will remind you that certain information provided on this call may contain forward-looking statements within the meaning of federal securities law. Forward-looking statements are not guaranteed and involve known and unknown risks, uncertainties, and other factors which may cause the actual results, performance, or achievements of the company to be materially different from any future results, performance, or achievements expressed or implied by the forward-looking statements. The Safe Harbor Statement outlined in today's earnings press release also pertains to statements made on this call. For a discussion of these risks and uncertainties, please refer to our filings with the U.S. Securities and Exchange Commission. We undertake no obligation to update any forward-looking statements except as required by law. In addition, I would like to point out that we will be discussing non-GAAP results, which exclude certain items and reflect the results of continuing operations. We use non-GAAP measures because we believe they provide useful information about our operating performance that should be considered by investors in conjunction with the GAAP measures that we provide. I encourage you to review the reconciliation of these non-GAAP measures to their most directly comparable GAAP measures, which can be found in the press release available on the company's website. If you have not received a copy of the press release, please view it in the investor relations section of the company's website. A replay of today's call will also be available on the investor relations section of the company's website. With that, I will turn the call over to Dave."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thank you, Purva, and good afternoon, everyone. We appreciate you joining us today. I want to start by making as clear as possible what our strategic plan is and where we are in our process. We're now at a very clear inflection point, and today I'll walk through what we have already accomplished, what is currently underway, and what to expect going forward. I'll also take you through our three-phase strategic plan in detail and provide an update on each phase. Before that, I'll begin with an overview of our performance in Q1. In the first quarter, our two largest product lines, Fuse Filament Fabrication, or FFF, which represents the largest component of Markforged, and SMTech's Surface Mount Technology, or SMT, product line each delivered solid revenue performances. Results were in line with typical seasonal patterns where the first quarter is historically our lightest period following a strong fourth quarter. Underlying demand trends remain healthy with continued expansion across key industry segments and strong customer engagement. In our FFF business, we secured a significant expansion with a major US-based automotive manufacturer. The deployment of multiple systems across several sites reflects the growing adoption of our solutions in production-oriented environments, and we expect further expansion over time. We also continue to see growth in defense-related opportunities across multiple applications and multiple regions, and we expect this segment to further expand throughout this year. Additionally, the SMTech-SMT product line had a solid start to the year, and we expect momentum to continue to build throughout the year. The combination of our PCB placement accuracy and flexibility, speed, and high-quality engineering is winning exciting and significant new business in electronics and AI-related manufacturing, including engagements with leading global electronic manufacturing services companies serving large-scale customers. We're also seeing continued expansion in the deployment of our SMTech solutions with leading space and satellite companies, reinforcing the applicability of our technologies in highly complex, mission-critical environments. More broadly, we continue to see strong traction across industrial production environments, including repeat orders and expansion with global customers operating at scale. These trends reflect a broader shift across industries, where customers are increasingly prioritizing supply chain resilience, production flexibility, and cost efficiency, areas where our technologies are well positioned. Overall, we remain confident that each of these product lines is positioned to deliver solid performances in 2026. Now, turning to our three-phase strategic plan. These phases are operating in parallel, not in series, and reflect significant actions underway across the company. Nano Dimension today is a set of product lines built over time through acquisitions completed by prior management teams and overseen by prior boards. all within the broader digital manufacturing ecosystem. This includes both additive manufacturing or 3D printing technologies, as well as electronics manufacturing technologies, such as surface mount technology. Our products support some of the most advanced and fastest growing industries, and we have an expanding base of success with companies and governments around the world. At the same time, the board concluded that while these product lines have strong technologies and excellent teams, The ability to fully integrate them and get strong synergies and cost reductions would be highly challenging, require significant capital investment, and introduce unnecessary execution risk. As a result, we initiated the previously described strategic alternatives review process in Q3 of last year to determine how to focus on certain product lines, reduce cash burn, and maximize long-term shareholder value. Earlier last year, we divested out of certain product lines, and as we started phase one in Q3 of 25, we then focused on streamlining the remaining product lines, reducing operating costs while preserving growth potential, and not impairing long-term value creation. We began to see a significant reduction in cash burn in Q4 of 25, and that trend has continued into 26. As discussed in our previous updates, we've taken on meaningful actions to reduce costs and that discipline continues. John will speak to the details, but the overall trend in operating expenses and cash burn remains favorable. Phase two has been underway for a few months now and includes an aggressive and detailed evaluation of our remaining operating product lines. With the support of Guggenheim Securities, one of our two previously announced investment banking relationships, we are presenting the board with alternatives to support the monetization of our product lines. Our first completed transaction was the sale of the AME and Fabrica product lines, which closed on April 6th, just a month ago. This transaction reduces complexity, improves focus, and lowers our cost structure. It also includes both upfront and performance-based deferred considerations, allowing us to participate in potential upside under new ownership. Importantly, this step is expected to reduce annualized cash burn by approximately $10 million while strengthening our liquidity position. As part of our ongoing strategic alternatives review process in Q1 of this year, we identified factors that required us to perform a goodwill impairment review for the Markforged FFF product line. As a result, we determined that the full goodwill balance associated with Markforged, totaling $40.4 million, was impaired as of quarter end. This is a non-cash adjustment and does not impact our liquidity or execution of the plan. We're close to announcing the sale of another product line and are in the regulatory phase of approval. We expect to have more information on this in the coming weeks. We are also actively pursuing the right opportunities for each of our other product lines and expect continued progress toward our objectives in the coming weeks and months. I previously mentioned that the three phases of our plan are operating in parallel and phase three is focused on maximizing long-term value in 2026 and beyond. The Board and management have been working with Houlihan Loki to evaluate and refine a focused set of go-forward alternatives, which may include, but not limited to, a strategic merger, a reverse merger, or other strategic transactions. Our financial resources and public company platform create a compelling opportunity to pursue alternatives that could unlock value that better reflects our underlying balance sheet while also delivering significant long-term upside. Over the past few months, we've been pleased to review a significant number of interesting opportunities and potential partners and have narrowed the list. We're deep in the review process of this narrowed down and short list of exciting opportunities. And we'll present more details to our shareholders as our plan becomes firm. Again, each of these three phases of our plan are continuing forward. Streamlining operations and cash burn reduction, product line monetization, and go forward alternative selection. And they're moving forward at a rapid pace. We expect to provide additional updates and announcements over the next few months as execution continues. In closing, I hope that you can now more clearly see the steps in our three-phase strategic plan initiated by this Board in late Q3 of last year, the measurable and positive results we're seeing, and the potential for exciting opportunities in the near future. With that, I'll turn the call over to John to review our financial results and provide an update on guidance. John?"
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you, Dave. It's a pleasure to be here with you all today. Unless stated otherwise, all numbers I will be discussing today are on a non-GAAP basis and reflect continuing operations. Revenue for the first quarter was $29.7 million, representing approximately 106% year-over-year growth compared to $14.4 million in the first quarter of 2025. This increase was driven primarily by the inclusion of Markforge, which contributed $17.1 million. Excluding Markforge, Nano Dimension's standalone revenue was $12.6 million, lower year-over-year by approximately 12%, primarily due to reduced sales driven by increased tariffs and the impact of divestments. Gross profit for the quarter was $13.6 million, with an adjusted gross margin of approximately 45.9%. compared to 6.2 million and 43.3% in the prior year period. The improvement reflects the impact of divestments and product mix. Sequentially, gross profit decreased from the fourth quarter, reflecting normal quarterly variability and product mix. Operating expenses for the quarter were $26.1 million, representing a year-over-year increase of approximately 60% from $16.3 million in the first quarter of 2025, primarily due to the inclusion of Mark Forge, partially offset by cost efficiencies from organizational synergies. On a standalone basis, Nano Dimensions operating expenses declined approximately 22% year-over-year, reflecting the benefits of divestments and disciplined cost management. On a sequential basis, operating expenses for the first quarter declined by over 4% from $27.3 million in the fourth quarter and approximately 20% relative to the previously identified baseline of approximately $32.5 million. which reflects second quarter operating expenses adjusted to include a full quarter of Markforged. This decrease reflects continued execution on cost discipline and operational streamlining across the organization. Adjusted EBITDA for the quarter was a loss of $12.5 million compared to a loss of $10.1 million in the first quarter of 2025 and a loss of $9.8 million in the fourth quarter of 2025. The change reflects the inclusion of Markforged and lower standalone revenue impacted by tariffs and divestments partially offset by gross margin performance and continued cost discipline. Turning to the balance sheet, Our financial position remains exceptionally strong. As of March 31, 2026, total cash, cash equivalents, deposits, restricted deposits, and marketable equity securities were approximately $441.6 million compared to $459.6 million at the end of the prior quarter. This change of approximately $18 million includes $8.4 million related to changes in the fair value of marketable equity securities. The remaining change of $9.6 million primarily reflects lower sequential operating cash burn. Operating cash burn has continued to trend down since the third quarter of 2025, driven by disciplined expense management and cost reduction actions taken across the business. We continue to maintain a strong liquidity position, which provides flexibility as we execute through our defined strategic plan. Turning to guidance. Given our ongoing execution of our defined strategic plan and the potential for additional significant changes across the business, we have decided to withdraw our full-year financial guidance at this time. This decision reflects the range of outcomes we are currently evaluating, including the timing and scope of potential monetization actions that could materially impact future financial results. With that, I will now hand it back to Dave."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thank you, John. As you can now see, we are executing on all phases of our plan to strengthen Nano and position the company for near and long-term value creation. With that, operator, please open the line for questions."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Ladies and gentlemen, at this time, we'll begin the question and answer session. To ask a question, you may press star and then one using a touchtone telephone. To withdraw your questions, you may press star and two. If you are using a speakerphone, we do ask that you please pick up the handset prior to pressing the keys to ensure the best sound quality. Again, that is star and then one to join the question queue. We'll pause momentarily to assemble the roster. And our first question today comes from Mosag Sofardi from Mirtheson. Please go ahead with your question."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Hi. Good afternoon. Dave, I want to refer to what you talked about, the strategic review process, especially the third part of it. You said not limited to reverse merger, et cetera. And I don't know if you noticed how many times you repeated the terms excited and exciting. But I don't know how excited and exciting it is for Nano Dimension shareholders to hear about more and more mergers done by this company. We've been burned so many times that I don't think it's very exciting to Nano shareholders. Can you comment on that?"
+    },
+    {
+      "speaker": "spk04",
+      "text": "Yeah, Moshe, so as you know, since the September timeframe, we've engaged with our two different banks, and now you can see that they have different roles. And Houlihan Loki has been focused on bringing us interesting partner opportunities. I mentioned that we have had looked at a large number and that's more than a dozen different opportunities. And we've since narrowed that down. And I think when we get to the point where we make a decision and we're not that far away, when we get to the point where we make a decision and are ready to share it with shareholders, you'll see that the upside potential, should we go down that path, is going to be very interesting for the shareholders and a situation that will create value, we hope, well above the value of our balance sheet. So that's the target is You know, we know we've got a balance sheet that's strong. We've got a public entity that is also of value. And we're finding very interesting candidates that might be go-forward candidates to help us take advantage of that in 2026 and beyond."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yeah, well, again, the exciting language is word for word what we heard from Joab Stern in the past. And also when I... try to pass what you just said, that nano has strong balance sheet and a public entity, that means that you treat nanodimension as a SPAC. That's how it sounds to us on this side. I have to tell you because that's what a SPAC is, a public entity with nothing but a balance sheet."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Yeah, we understand what a SPAC is, and we are absolutely not a SPAC. What we're saying, and because we obviously already have a number of different operating assets, we're finding ways to look for potential partners to create additional value."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Well, I hope you'll hear the shareholders loud and clear when you bring it to them for a vote. I want to... move for a second to the other part of the strategic review process, the asset sale. And the only asset sale so far, I mean, you alluded to another one coming very soon, but the only one was the sale of the legacy business, the AME. And you sold it in the beginning of April for $2 million. And you said that that sale will reduce cash burn by $10 million on an annual So the way we do the numbers, if you started the review, started looking to sell this business at the beginning of September, and you sold it at the beginning of April, it took you seven months. During those seven months, you burnt almost $6 million. And you burnt $6 million, you sold this business for two. That math doesn't make any sense. Why keep a business alive if you can't fetch at least something that breaks even?"
+    },
+    {
+      "speaker": "spk04",
+      "text": "Yeah, it's a good question. And as we also described, we have upside potential of another $10.5 million beyond the two that was paid up front."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Right. But we're a month in. Can you give us any color on that so-called upside potential? Sure."
+    },
+    {
+      "speaker": "spk04",
+      "text": "We're not at a point to give any color at this stage, but things are progressing in the right direction. And as I said, the business has already been sold. It has been closed. And the way that the contract is written will allow us to get upside potential of up to $10.5 million."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Okay. Can you comment who found this buyer? I'm asking that because you employ an investment bank. that that's his job, but we noticed that the buyer of that business was actually a Nano Dimension founder. Did he or his company approach Nano, or did the bankers found him?"
+    },
+    {
+      "speaker": "spk04",
+      "text": "Yeah, we're not going to comment on that, and there was a lot of dialogue back and forth, and obviously the bankers were involved."
+    },
+    {
+      "speaker": "spk02",
+      "text": "No, I'm sure they were involved. What I'm asking, they were supposed to find the buyers, right? So what we are... What I'm trying to start a conversation here is about the value that those bankers deliver to nanodimensional shareholders."
+    },
+    {
+      "speaker": "spk04",
+      "text": "We understand. And the bankers, both on the Guggenheim side for the monetization side and the Houlihan side on the go-forward opportunities, were hired to bring us alternatives and options and help us through the process. And both are doing that. As I mentioned, very different jobs, but both are doing that."
+    },
+    {
+      "speaker": "spk01",
+      "text": "And once again, if you would like to ask a question, please press star and then one. To withdraw your questions, you may press star and two. Again, that is star and then one to join the question queue. And in showing no additional questions, I would like to turn the floor back over to Dave for closing remarks."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thank you very much. And we really appreciate everyone being with us today. This is, as we described, a very significant inflection point for this business, for Nano Dimension. There's a lot going on. We're very excited, and I know I've mentioned that a few times, but we're very excited about our go-forward options in Phase 3. Our strategic plan is one that we took a long deliberation to work through. As I mentioned, each of the phases have been operating in parallel, not in series. So that allows us to move more quickly, to reach out across a wide dimension and understand – all the various opportunities we have. And we'll share more information with you as our strategic plan continues to advance and some of these phase three options become more firm. So thank you for your interest today and goodbye."
+    },
+    {
+      "speaker": "spk01",
+      "text": "And with that, ladies and gentlemen, we'll conclude today's conference call and presentation. We do thank you for joining. You may now disconnect your lines."
+    }
+  ]
+}

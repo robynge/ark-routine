@@ -1,0 +1,215 @@
+{
+  "event": {
+    "ticker": "PACB",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk01": {
+      "name": "Operator",
+      "title": "Conference Operator"
+    },
+    "spk00": {
+      "name": "Kayleen Parrish",
+      "title": "Vice President, Investor Relations"
+    },
+    "spk08": {
+      "name": "Christian Henry",
+      "title": "President and Chief Executive Officer"
+    },
+    "spk05": {
+      "name": "Jim Gibson",
+      "title": "Chief Financial Officer"
+    },
+    "spk02": {
+      "name": "Pradeep",
+      "title": "Analyst, TD Cowen"
+    },
+    "spk06": {
+      "name": "Austin",
+      "title": "Analyst, Wolf Research"
+    },
+    "spk07": {
+      "name": "Mason Carrico",
+      "title": "Analyst, Stevens"
+    },
+    "spk04": {
+      "name": "Alex",
+      "title": "Analyst, Canaccord Genuity"
+    },
+    "spk03": {
+      "name": "Ron Patel",
+      "title": "Analyst, Piper Sandler"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk01",
+      "text": "Welcome to the PACBio first quarter 2026 earnings conference call. All participants will be in listen-only mode. Should you need assistance, please signal a conference specialist by pressing the star key followed by zero. After today's presentation, there will be an opportunity to ask questions. To ask a question, you may press star, then one on a touch-tone phone. To withdraw your question, please press star, then two. Please note this event is being recorded. I would now like to turn the conference over to Kayleen Parrish with Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Good afternoon and welcome to PACBio's first quarter 2026 earnings conference call. Earlier today, we issued a press release outlining the financial results we'll be discussing on today's call, a copy of which is available on the investor section of our website at www.pacb.com or as furnished on Form 8K available on the Securities and Exchange Commission website at www.sdc.gov. A copy of our earnings presentation is also available on the Investors section of our website. With me today are Christian Henry, President and Chief Executive Officer, and Jim Gibson, Chief Financial Officer. On today's call, we will make forward-looking statements including, among others, statements providing predictions, estimates, expectations, and guidance. You should not place undue reliance on forward-looking statements because they are subject to assumptions, risks, and uncertainties that could cause our actual results to differ materially from those projected or discussed. Please review our SEC filings, including our most recent Form 10Q and 10K and our press releases, to better understand the risks and uncertainties that could cause results to differ. We disclaim any obligation to update or revise these forward-looking statements, except as required by law. We also present certain financial information on a non-GAAP basis, which is not prepared under a comprehensive set of accounting rules and should only be used to supplement an understanding of the company's operating results as reported under U.S. GAAP. Reconciliations between historical U.S. GAAP and non-GAAP results are presented in our earnings release, which is available on the Investors section of our website. For future periods, we're unable to reconcile non-GAAP gross margin and non-GAAP operating expenses without unreasonable effort due to the uncertainty regarding, among other matters, certain acquisition-related items that may arise during the year. A recording of today's call will be available shortly after the live call in the investor section of our website. Those electing to use the replay are cautioned that forward-looking statements may differ or change materially after the completion of the live call. I will now turn the call over to Christian."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Thank you, and good afternoon, everyone. Our first quarter of 2026 was highlighted by record consumable revenue, greater than 100% year-over-year growth in consumable shipments to clinically focused accounts, and significant progress on our strategic objectives, including entering our first significant AI-related project with Basecamp Research. On the other hand, instrument revenue, particularly Vega, was lower than we had expected. This was driven by continuing pressure on academic funding, particularly in the United States. Additionally, we were unable to deliver some products to the Middle East because of the conflict in the region. I'll start by diving into our consumable performance. Once again, we achieved record consumable revenue, marking our third consecutive record quarter. In Q1, this was highlighted by more than 100% year-over-year growth in shipments to clinically focused accounts. This growth offset the fact that some customers held off consumable shipments to wait for the Spark Next commercial launch. Overall, consumable revenue grew 9% year-over-year, and clinical shipments now represent a mid-teens percentage of total consumable shipments doubling year-over-year. We expect clinical shipments to continue growing as customers transition from testing and validation to full commercialization. Consumable pull-through is within our expected range of 225 to 250K per Revio system. Additionally, there was strong demand to participate in our SPARC Next early access program during the quarter. Turning to instruments, we shipped 15 Revio systems in the first quarter, compared to 12 in the first quarter of 2025. While Revio demand remains constrained by the funding environment in the Americas, we are encouraged by the fact that half of Revio placements went to new customers globally, and we continue to see multi-system orders from clinical accounts building their capacity. We ended the quarter with cumulative Revio shipments of 346 systems. We shipped 27 Vega systems in the first quarter compared to 28 in the first quarter of 2025. The revenue contribution from Vega was impacted by two primary factors, lighter demand in the United States, where academic funding remains under pressure, and promotional pricing geared towards attracting new customers. Specifically, during the quarter, we launched a limited-time Vega promotion to expand our Vega install base and unlock several new accounts. We concluded the promotion at the end of the first quarter, and we expect Vega ASPs to normalize in the second quarter. The good news is that more than 85% of Vega placements went to new customers this quarter, expanding the reach of HiFi sequencing. Cumulative Vega shipments stand at 174 systems. From a regional perspective, EMEA was a highlight in the first quarter, delivering 17% year-over-year growth. We are seeing clinical customers who were in pilot and validation mode now make the transition into sustained production scale sequencing. That shift is creating demand for more REVIO placements and is driving sustained consumable pull through. The EMEA pipeline for REVIO continues to be strong and we believe that instrument sales in EMEA will remain an important driver for our business. As we saw in 2025, we expect that EMEA will be the fastest growing region in our business in 2026. In the Americas, we continue to aggressively shift our strategy to clinical and commercial accounts where the funding dynamics are more favorable. In fact, in Q1, our largest accounts are now commercial service providers and clinical accounts. Revenue in Asia Pacific declined 16% year over year due primarily to our largest customers in China waiting for the commercial launch of our Spark Next kit which are expected to ship later this month. Looking ahead, we remain confident in delivering revenue growth for the year. Although Vega demand remains softer than we anticipated, Revio opportunities are increasing with the imminent launch of SparkNEXT. As I communicated previously, we believe the introduction of SparkNEXT makes HiFi sequencing the most affordable long read sequencing technology. These favorable economics have been enabled by both the multi-use Smart Cell and an increase in Smart Cell yield. We will commercialize Spark next with the ability to use the Smart Cell three times, and our beta customers have seen double-digit improvement in yield. In fact, the beta program has gone so well that we significantly expanded the program in the first quarter. However, as I previously indicated, some of the customers are waiting for the full launch of the new chemistry which will occur later this month. Ultimately, we believe that Spark Next will drive demand for both more Revio systems and more consumables. But Spark Next isn't limited to Revio. Later this summer, we expect to launch the Spark Next chemistry on the Vega platform. On Vega, Spark Next will enable significantly more throughput, and it will unlock some of the key features of the Spark chemistry, including lower DNA input quantities. This will immediately increase the utility of the platform and increase its value, which we believe will accelerate demand for Vega. Now, I'd like to highlight a few significant strategic developments from the first quarter and areas where we have made encouraging progress in support of our long-term goals. First, we completed two significant strategic actions in the quarter. We closed the sale of our high-throughput short-read sequencing assets to Illumina generating approximately $48.1 million in net cash proceeds and meaningfully strengthening our balance sheet. Additionally, we resolved outstanding litigation with Personal Genomics of Taiwan. Taken together, these actions sharpen our focus, strengthen our position, and allow us to concentrate entirely on what we believe to be our true competitive advantage, long-read sequencing. We are also making real progress in our clinical opportunity, which we believe remains the most compelling long-term driver of our business, with shipments to clinical accounts increasing more than 100% year over year. Our goal is clear, lower the barriers of adoption and enable clinicians worldwide to deliver more complete answers to patients and their families. Our core thesis is straightforward. HiFi is the only commercially available sequencing technology that we believe can comprehensively characterize substantially all classes of variants in a single assay. As a comparison, short-reach approaches require multiple tests to achieve a similar result. As demand for comprehensive genomic testing continues to grow, we're focused on expanding the clinical utility of hi-fi sequencing because our system's faster time to answer, comprehensive genomic output, and altogether less expensive total testing costs can provide the insights that meaningfully change outcomes for patients. Specifically, we continue to believe that the rare disease market will be a major driver for clinical adoption of HiFi sequencing. Of the estimated 300 million people living with a rare disease, many remain undiagnosed or misdiagnosed, which we believe to be a reflection of the limitations of historic sequencing technology. What makes the rare disease market particularly compelling from a business perspective is that we believe we are in the early phase of the adoption curve. Patients getting sequenced today represent a small fraction of those who could benefit. It is clear to our team that we are in the early innings of a very large opportunity, and we have the chance to make a big impact with HiFi technology. We've made notable progress across our recently announced collaborations in rare disease. Ambry Genetics is on track to assess 1,000 patients in their ONCE study. With Ambry, we believe we are proving that HiFi has the power to find what other sequencing technologies have missed. Our collaboration with NLORM and EsperRare continues to advance with HiFi sequencing across dozens of ultra-rare diseases. HiFi has the potential to help inform therapy recommendations. another important validation point for clinical utility beyond the initial diagnosis. Additionally, the University of Washington program studying sudden unexplained death in childhood by sequencing across 200 families is well underway, further building our evidence base. As utilization of HiFi to sequence rare disease cases continues to expand, the ability to connect the data across customers and sites becomes a valuable tool for understanding each rare disease. This is why, in late February, we announced a collaboration with DNA Stag to launch the first global federated HiFi whole genome dataset. Through the HiFi Solves Consortium, which includes nearly 30 clinical and research institutions across 15 countries, the collaboration enables secure international research and allows genomic insights to travel across borders. Members have connected or have committed to connect more than 10,000 HiFi whole genome sequences, which would form one of the largest and most diverse federated HiFi datasets dedicated to rare disease research. We expect that collaboration will accelerate discoveries for patients and further drive our strength in the clinical research setting. Beyond rare disease, we're seeing a tremendous opportunity in the carrier and newborn screening markets. For example, in the fourth quarter of 25, we announced the Babies in Focus project led by Eurofins Genomics UK to sequence at least 2,000 samples. This study aims to demonstrate that long-read whole genome sequencing provides clinically meaningful improvements within a newborn screening setting, particularly in detecting complex and structural variants. We believe that this study will generate real-world evidence at population scale that can justify adoption of long-read sequencing in newborns in national healthcare programs and demonstrate the value created by long-read sequencing over short-read approaches. I'm happy to report that this is advancing as planned, and we expect 1,000 samples to be sequenced on the PAC biotechnology between April and September of this year. We believe this work is foundational toward building the evidence base for potential inclusion of long-read sequencing in a national newborn screening program in the United Kingdom. Before I turn the call over to Jim, I want to discuss our recently signed collaboration with Basecamp Research to deeply sequence approximately 100,000 metagenomic samples. This will be the largest project using HIFI technology in the history of PacBio, and the first scaled use of HIFI for the development of a biological foundation model. The team at Basecamp believes that model performance in biology scales disproportionately with data quality and diversity, not just model size. As a result, Basecamp is ambitiously targeting to create a Trillion Gene Atlas, which may end up expanding known genetic diversity by as much as 100-fold by sequencing up to 100-plus million species globally. The Trillion Gene Atlas will be used to train a new class of biological foundation model, Basecamp's EDEN model, which is already demonstrating the ability to move beyond simple prediction into generative biology, designing therapeutics directly from sequence and disease prompts, including gene insertion systems, antimicrobial peptides, and cell therapies with high experimental hit rates. Basecamp selected PacBio for this groundbreaking project because HiFi technology offers the most accurate and comprehensive view of the genome, which will be critical for this new class of biological foundation model. Additionally, with the launch of SPARCnext, we now have the ability to not only sequence at scale, but also offer the economics required to meet the needs of ambitious projects like the Trillium Gene Atlas. I look forward to keeping you updated on this project as we expect sequencing to begin scaling up over the course of 2026. I'll now hand the call over to Jim to detail our financials. Jim?"
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thank you, Christian. I'll discuss non-GAAP results, which include non-cash stock-based compensation expenses. I encourage you to review the reconciliation of GAAP to non-GAAP financial measures and our earnings press release. Unless otherwise noted, all growth rates are year-over-year. We reported total revenue of $37.2 million in the first quarter of 2026. roughly flat compared to $37.2 million in the first quarter of 2025. Instrument revenue in the first quarter was $9.7 million, a 12% decrease from $11 million in the first quarter of 2025. The year-over-year decline was primarily driven by lower revenue ASPs as we continued to prioritize placements in strategic accounts and lower vega ASPs associated with our Q1 promotions. This dynamic was partially offset by an increase in Revio instrument ships. In total, we shipped 15 Revio systems and 27 Vega systems, bringing cumulative shipments to 346 Revio systems and 174 Vega systems. Turning to consumables, revenue reached a record $21.8 million in the first quarter, up 9% from $20.1 million in the first quarter of 2025. Annualized Revio pull-through per system was approximately $229,000, reflecting consistent utilization across an expanding installed base. Finally, service and other revenue declined approximately 7% to $5.6 million in the first quarter, compared to $6 million in the first quarter of 2025. From a regional perspective, America's revenue of $16.7 million increased by 2% year over year. The performance was primarily driven by growth in consumables revenue, related to an increase in our installed base. For Asia Pacific, revenue of $9.7 million decreased by 16% compared to the first quarter of 2025. The year-over-year decline reflected a weaker academic funding environment and the fact that some of our Chinese service providers are waiting for the launch of SparkNAS. EMEA revenue of $10.8 million increased by 17% compared to the first quarter of 2025. Despite some challenges delivering product to the Middle East, The year-over-year increase was due to my consumables demand, reflecting both account expansion and higher utilization, particularly in clinical settings where increased test volumes drove incremental pull-through. Moving down the P&L, first quarter non-GAAP gross profit of $13.8 million represented a non-GAAP gross margin of 37%, compared to a non-GAAP gross profit of $15 million, or a gross margin of 40% in the first quarter of 2025. Non-GAAP gross margin decline in the quarter was impacted by three primary factors. First, we continue to see increased computing component costs, specifically memory, which we flagged on our Q4 call as a potential headwind in 2026 and which we believe will persist throughout the year. Second, we held a temporary Q1 promotion for Vega to dry placements, which compressed instrument margins. Third, There are unique one-time dynamics at play in Q1, including inventory adjustments and warranty-related charges. We want to be clear. Gross margin pressure in Q1 was primarily driven by non-recurring and timing-related factors, and we expect gross margins to improve in the second quarter. Non-GAAP operating expenses were $49.9 million in the first quarter of 2026, representing a 19% decrease from non-GAAP operating expenses of $61.7 million in the first quarter of 2025. Operating expenses in the first quarter of 2026 included non-cash share-based compensation of $3.8 million compared to $8 million in the first quarter of 2025. Regarding headcount, we ended the quarter with 492 employees compared to 485 at the end of 2025. Non-GAAP net loss was $35.9 million, representing $0.12 per share in the first quarter of 2026. compared to a non-GAAP net loss of $44.4 million, representing $0.15 per share in the first quarter of 2025. We ended the first quarter with approximately $276 million in unrestricted cash, cash equivalents, and investments, compared with $280 million at December 31, 2025. Our cash position reflects the January closing of the sale of intellectual property and other assets related to our short-read DNA sequencing technology to Illumina. for which we received $48.1 million in net cash proceeds. Turning to 2026 guidance. Given the dynamics that Christian cited, we are lowering the high end of our outlook for 2026 revenue by $5 million and now expect revenue in the range of $165 to $175 million. Our revised outlook continues to assume that consumables are the primary driver of growth, supported by continued utilization from clinical customers and the ongoing expansion of the Revio and Vega installed base. We continue to assume no meaningful recovery in academic and government funding, particularly in the Americas. We expect non-GAAP gross margin improvement in 2026 to be toward the lower end of our previously communicated range of 100 to 400 basis points. While higher consumable mix and the introduction of SparkNEXT remain important drivers of margin expansion, rising compute costs will temper the pace of margin improvement in the near term. Non-GAAP operating expenses are expected to be in the range of $220 to $225 million, down from 2025 levels. I'll now hand it back to Christian for closing remarks."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Thanks, Jim. The first quarter certainly had its challenges, but when I look at what we have accomplished to start the year, record consumables revenue, continued sequential strength in EMEA, increasing clinical adoption, the Basecamp Trillium Gene Atlas win, and the promising results of our SPARC Next beta program, which will enable full commercialization later this month, I see that we are executing on the initiatives that are expected to drive meaningful, sustained growth. We are well positioned to advance the field of sequencing, making an impact for the better and delivering long-term value across stakeholders. We believe that HiFi sequencing remains the most comprehensive and accurate way to sequence the genome. We remain focused on increasing the adoption of HiFi through both increasing the throughput of the sequencers and dramatically improving the economics of leveraging the technology through SPARCnext. With these improvements, we expect to continue creating new opportunities and expanding our clinical opportunity especially. Additionally, HiFi is increasingly becoming recognized as an obvious choice as large data sets are created to train advanced AI models for drug discovery. As a result, I am confident in the trajectory of our business and growth as we advance through 2026. We look forward to updating you as the year continues to unfold. With that, we will now open it up for questions. Operator?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "We will now begin the question and answer session. To ask a question, you may press star then 1 on your touchtone phone. If you are using a speakerphone, please pick up your handset before pressing the keys. If at any time your question has been addressed and you would like to withdraw your question, please press star then 2. Please limit yourself to ask one question and one follow-up. At this time, we will pause momentarily to assemble our roster. The first question comes from Dan Brennan with TD Cohen. Please go ahead."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Hi. Pradeep on for Dan. What does your guide for instruments imply and what sort of visibility do you have going forward?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "Can you repeat the first part of the question for me?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yes. What does your guide for instruments imply for the rest of the year?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah. So, our guide for instrument, you know, the guide for instruments continues to be strengthening Revios and a little bit of uncertainty around the Vega platform. Vega, we're finding, particularly in the Americas, is really more sensitive to the academic and government funding environment. As we've turned our focus to really driving clinical and commercial accounts, you know, we're seeing more demand for the Revio system. And so on balance, you know, we expect them to somewhat balance out, and that's why you can see in the guide, you know, we still believe we're going to achieve, we're going to still be in the range of the guide that we provided back in February. From a visibility perspective, you know, we do have funnels for both platforms, of course. The platform for Revio has been improving. And, you know, Vega, particularly in the Americas, has been a bit more challenging. And so that's kind of where we sit today."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you. And can you discuss clinical traction, including U.S. versus outside U.S.? ? And what does progress in the U.S. look like and outlook for, you know, 2026 and even 2027?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, so U.S. versus the U.S. If we look at clinical traction, I'll start outside the United States because really we're seeing in EMEA very, very strong traction with the Vega platform being really the platform for whole genome sequencing for rare disease. And we're seeing the customers in EMEA go from the validation phase to increasing full commercialization. And so we expect that to be an important core driver. In the United States, we're actually seeing much of the same thing. And one of the things we said in our written remarks is that our biggest customers now have become the clinical and commercial accounts. And what's exciting about that is those clinical accounts, some of them have gone commercial, but many of them are kind of ending their validation phase at this point in time. And we expect to see them ramping in full commercial production with both the carrier screening assays as well as whole genome sequencing. in the rare disease setting and so uh you know we do expect our growth prospects in clinical to continue and quite frankly keep moving forward both in the united states and in uh in europe in particular so very encouraging results we also you know indicated that we saw 100 uh over 100 growth uh a quarter year over year for for the clinical side of our business and consumables which will help us all around."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk01",
+      "text": "The next question comes from Doug Schenkel with Wolf Research. Please go ahead."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Hey, thanks for the question. This is Austin on for Doug. Just a quick one on input costs. Within cost of product sales, what is your exposure to memory pricing and Given the rise in memory chip costs, are you expecting a material gross margin headwind? And if so, how should we think about the impact on margin cadence for the rest of the year?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, it's a great question. Thank you, Austin. You know, we do – our instruments are heavy compute instruments, both for DRAM and for storage, as well as GPUs. We've mitigated some of that risk over the – for 2026, but we do expect that to impact our gross margin some this year. And as Jim pointed out, we expect to be more on the lower end of gross margin growth than the higher end of gross margin growth, really as a result of these input costs. So they are having an impact. There's a lot of variability there. We're seeing prices increase pretty regularly here, and so we're managing it, but we're managing it through, we already have supply on hand, and we're also looking at R&D solutions, which take a bit longer to get into the system, but over the long run, as DRAM prices kind of normalize, those R&D solutions actually will help us with gross margin in the long run. So in the short run, we're managing it will have some impact in 2026. We still are expecting to improve our gross margins over 2025. And in the long run, R&D solutions will help us lower those costs overall."
+    },
+    {
+      "speaker": "spk06",
+      "text": "I agree. That's helpful. And then just one on the discounting you mentioned, where did ASPs for Revios and Vegas land in the quarter, and are there any similar discounting activities planned for the rest of the year, or should we expect improving ASPs from here?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, there are no additional discount programs that are ongoing or going forward. That Vega was really a one-time promotion, and what we were trying to do with that promotion is get some new accounts, and we were very successful at that. Eighty-five percent of the Vegas sales were to brand new customers, but we've decided to kind of back off of that discount in Q2. Revio ASPs are reasonably consistent with where they've been, and, you know, Vega was certainly lower this quarter because of that promotion. We would expect Vega to return to kind of more normalized levels in Q2."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Great. Thanks so much."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yep."
+    },
+    {
+      "speaker": "spk01",
+      "text": "The next question comes from Kyle Nixon with Canaccord Genuity. Please go ahead."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Hi, this is Alex . I'm on for Kyle Nixon. Thank you for taking our questions. So, I understand you're facing two pressured instruments, but I'd like to focus on some areas of strength and potential growth. Just to start here, congrats again on the consumer's growth in the quarter. Aside from rare disease, you had your peer target panels. Any plans to launch additional peer target panels in the near term? Of course, it's no secret that you've shifted a good deal of focus towards the clinical end market. Do you have any internal targets regarding where you can envision what clinical might make up as a percentage of total revenue in the medium to long term? Thanks."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, those are great questions. And we're actually very happy with the pure target performance that we've had with the company. And that's really enabling us to get into the carrier screening market, for example, You know, where we're seeing the fastest growth, though, in clinical really is in a whole genome context in rare disease. But the peer target panel itself is great for carrier screening. We are developing variations of it so that customers can customize their panels somewhat, which I think will help spread that opportunity out for us. And when we start to look at the long run, we do believe that a very substantial proportion of our business, perhaps as much as more than half of our consumable revenue over time, will be clinically driven And, you know, we'll reserve to figure out when does that actually occur. But we are certainly seeing that the clinical business is making up for some of the weakness in the academic segment, particularly on the consumable side. And we're very happy to see that we've had three sequential quarters in a row of record consumables, which I think will not only is demonstrating the power of the platform, but it's also going to, in the long run, help our gross margins as that product mix continues to improve. And, of course, the one thing I will also say is with the imminent launch of Spark Next, Spark Next, because of its multi-use capability, is one of those rare situations where we can improve the economics for the customer, but we can also increase our gross margin for consumables significantly. And so, you know, as that product starts to take hold over the second half of the year and into 2027, that's another real opportunity for gross margin expansion. So very excited about what's going on in consumables right now."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Great. Thank you. And just one more from me. This is on the upcoming ultra-high throughput sequencer. So just thinking about multiple dynamics here in the near to medium term, the launch of Spark Next and the reusable smart cells. But also you have customers thinking about this ultra-high throughput sequencer as well. So how should we talk about into, you know, potential slowdown of Revio orders, you know, near the ultra-high throughput launch, as well as, you know, the benefit you're going to get from the launch, full broad commercial launch of the reusable smart cells. And then moreover, do you envision yourself as a multiple product tools vendor in the long term? Or realistically, do you think maybe ultra-high throughput in Vega would become the main stage of your portfolio? And perhaps what is customer feedback on potential new sequencers indicated to you about how you think about this dynamic? Thanks."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, you know, it's an interesting question. And, you know, what our strategy has been is that we believe we need that having three platforms in the market gives customers a lot of choice for what levels of volume that they want to pursue. What our intent is is to keep improving the Revio platform through improvements to the reagents, the consumables, which is what we've done with the Spark chemistry and now the Spark Next chemistry. We will keep creating more value for those Revio customers. That said, for those customers that want to operate at very significant scale, the ultra-high throughput system will be the way to go because it will drive costs down for them in terms of not only the economics of the sequencing, but the logistics and everything behind that. And so over the long run, you know, we believe that all three platforms will find their place in the market with the mid-throughput kind of customers being long-term Revio users. And then, you know, for example, the larger clinical accounts all moving to the ultra-high throughput platforms. Vega will continue to improve as well, as I said in my written remarks. We're going to increase the throughput pretty substantially later this summer and also introduce all of the features of Spark, so low DNA input amounts, for example, and that will add value to that platform and help it become a mainstay. It will have the right level of throughput for lots of different applications like AAV and microbial and other types of applications like that. So we do think it will find its footing not only in the academic setting, but perhaps in some aspects of the clinical market as well. So we see very strong prospects for all three platforms in the market going forward."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Great. Thank you so much for the call."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yeah."
+    },
+    {
+      "speaker": "spk01",
+      "text": "The next question comes from David Westenberg with Piper Sandler. Please go ahead."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Hey, this is for Ron Patel on for David. Thank you for taking our question. Maybe just one on EMBA growth. Maybe can you characterize the type of clinical applications that are driving that growth? Is it primarily rare disease germline or are you seeing meaningful contribution from oncology rare disease? Thank you. Bye."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah. So, you know, we grew 17% in EMEA, so we're really pleased with how EMEA is moving forward. And it really is on the back of rare disease testing in it going, becoming first-line tests in different countries. And, you know, structurally, Europe is a perfect market for us and for Revio for this, a single-payer healthcare system with a lot of innovative leaders that have really gotten behind the fact that with long-read sequencing, and particularly HiFi, you can eliminate several other tests relative to short-read approaches, and you can increase your diagnostic yield at the same time. And so they're demonstrating this in multiple countries now, and we're starting to see that push. That's really what is propelling our growth in that part of the world right now, You know, interestingly, they grew substantially, even though we did have some challenges getting some shipments out to the Middle East, which would have counted in the EMEA scorecard. So that region is really doing quite well, and I fully expect it to be our fastest-growing region again in 2026. That's helpful."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yep."
+    },
+    {
+      "speaker": "spk01",
+      "text": "The next question comes from Mason Carrico with Stevens. Please go ahead."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Hey, guys. Appreciate the questions. Maybe first, within the 2026 guide, how much visibility do you have today into consumable revenue that's baked in, maybe from the existing installed base, you know, ramping utilization versus consumables associated with maybe new placements this year?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, that's a great question. And the reality is that we have, you know, most of our guide is predicated on existing customers and their utilization because, you know, here we are, you know, in May, and as we place new systems, there is a ramp-up time for utilization, particularly if they're going to have a meaningful contribution to consumables in 2026. So when you think about the guide, we're really – we're really taking the majority of it coming from existing customers as they grow and expand. The launch of Spark Next is the one variable that we are evaluating and we'll see how that unfolds over the next two or three months as we kind of get that off the ground. As I did say, some of our customers held off their shipments in March for regular Spark reagents in anticipation of the Spark Next launch. And so I suspect as we get Spark Next out to market, some of those customers perhaps will place bigger orders earlier, which will help us and get us off and moving. But overall, when we think about the visibility to the guide in consumables, it really is driven off of the existing install base, what we know about the existing install base, expanding their utilization, and then to a lesser extent, the new placements of instruments that we expect. Hopefully that helps."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, no, that's really helpful. And we're juggling a few tonight, so sorry if you've talked about this, but could you share any additional feedback on the Vega promotional program in Q1 and how we should be thinking about Vega placements for the balance of the year. I think you had a high percentage of new customers in Q1 for Vega. How much of that demand was driven by that promotional program?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, the promotional program was successful. It's always difficult. Once you put a promotion in place, it's always difficult to know which customers would have purchased the system without the promotional price. But we did have a substantial portion of our 27 units shipped under the promotion. And where the promotion was most successful was in APAC in particular. where that's certainly a more price-sensitive market, and so we're seeing that. But it also kind of gave us some insight that it really is a tough academic and government, tough funding environment, particularly in the Americas, because even with the promotion, there wasn't that many customers that took advantage of the promotion in the United States, and it's really due to funding. And so it helped us understand that a little better. When I think about, you know, going forward demand, I do think that the funnel allows us to kind of certainly achieve our guidance. You know, that's why we put the guidance out the way we did. And I do think that vega will be volatile from quarter to quarter. It typically is. It varies. If you look at last year, you know, the numbers varied quite a bit. But I do expect us to start moving in a more normalized, you know, direction with respect to ASPs, and we'll see how the unit volumes react to that."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Got it. Thank you, guys."
+    },
+    {
+      "speaker": "spk01",
+      "text": "This concludes our question and answer session. I would like to turn the conference back over to Christian Henry for closing remarks."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, well, I appreciate everyone's participation on today's call. We look forward to providing you updates at the various conferences this quarter and on our next call, and we appreciate your support of PacBio. So, have a great day."
+    },
+    {
+      "speaker": "spk01",
+      "text": "The conference is now concluded. Thank you for attending today's presentation. You may now disconnect."
+    }
+  ]
+}

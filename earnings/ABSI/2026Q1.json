@@ -1,0 +1,371 @@
+{
+  "event": {
+    "ticker": "ABSI",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk02": {
+      "name": "Duncan",
+      "title": "Conference Operator"
+    },
+    "spk11": {
+      "name": "Alex Khan",
+      "title": "Moderator, Investor Relations"
+    },
+    "spk10": {
+      "name": "Sean McLean",
+      "title": "Founder and Chief Executive Officer"
+    },
+    "spk13": {
+      "name": "Sean McLean",
+      "title": "Founder and Chief Executive Officer"
+    },
+    "spk03": {
+      "name": "Ransi Somaratne",
+      "title": "Chief Medical Officer"
+    },
+    "spk08": {
+      "name": "Zach Donison",
+      "title": "Chief Financial Officer and Chief Business Officer"
+    },
+    "spk04": {
+      "name": "Brendan Smith",
+      "title": "Analyst, C.D. Cowen"
+    },
+    "spk12": {
+      "name": "Gil Bloom",
+      "title": "Analyst, Needham & Company"
+    },
+    "spk09": {
+      "name": "Vamil Devan",
+      "title": "Analyst, Guggenheim"
+    },
+    "spk14": {
+      "name": "Alex",
+      "title": "Analyst, Truist Securities"
+    },
+    "spk01": {
+      "name": "Jeb Chatterjee",
+      "title": "Analyst, Jones Trading"
+    },
+    "spk05": {
+      "name": "Brian Chang",
+      "title": "Analyst, JPMorgan"
+    },
+    "spk00": {
+      "name": "Swayam Pakula Ramakant",
+      "title": "Analyst, H.E. Rainright"
+    },
+    "spk07": {
+      "name": "Steve Desher",
+      "title": "Analyst, KBW Capital Markets"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk02",
+      "text": "Ladies and gentlemen, thank you for standing by. My name is Duncan and I will be your conference operator for today. I would like to welcome you to ABSEI First Quarter 2026 Business Update. All lights have been placed on mute to prevent any background noise. And after the speaker's remarks, there will be a question and answer session. Now, I'd like to turn over the conference over to Alex Khan. Please go ahead."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Thank you. Earlier today, Abcide released financial and operating results for the quarter ended March 31st, 2026. If you haven't received this news release or if you'd like to be added to the company's distribution list, please send an email to investors at Abcide.com. An archived webcast of this call will be available for replay on Abcide's investor relations website at investors.abcide.com for at least 90 days after this call. Joining me today are Sean McLean, Abcide's founder and CEO, Zach Donison, Chief Financial Officer and Chief Business Officer, and Ransi Somaratne, Chief Medical Officer. Before we begin, I'd like to remind you that management will make statements during this call that are forward-looking within the meaning of the federal securities laws. These statements involve material risks and uncertainties that could cause actual results or events to materially differ from those anticipated, and you should not place undue reliance on forward-looking statements. These include statements regarding the development and clinical progress of our pipeline programs, including ABS-201, the design, enrollment, conduct, and timelines of our ongoing Phase I-IIA headline trial of ABS-201 for anterior neck alopecia, Anticipated timing of an interim proof of concept data readout for ABS-201 in the second half of 2026. The potential advancement of ABS-201 into Phase III development. Anticipated initiation of a Phase II clinical trial of ABS-201 for endometriosis in fourth quarter of 2026. And a potential proof of concept readout in the second half of 2027. The anticipated characteristics and product profile of ABS-201 as a drug product. Our target product profile and its attributes. The potential for an expedited development pathway, including the possibility of advancing directly from Phase I to Phase III. Our plan engagement with the FDA regarding development strategy. and the potential market opportunity and commercial prospects for ABS-201. Certain statements may also include projections regarding potential market opportunity. These estimates are based on various assumptions, including potential regulatory approval, the final approved label, and the evolving competitive landscape, any of which could cause our actual addressable market to differ materially for these projections. In addition, certain research findings discussed today reflect participant responses to a hypothetical product profile and do not represent clinical results for ABS-201. Additional information regarding the risks and uncertainties, the code effect, or forward-looking statements is set forth in the press release of AFSCI Issue Today, our most recent annual report on Form 10-K, and subsequent documents and reports filed by AFSCI from time to time with the FCC. If said was required by law, AFSCI disclaims any intention or obligation to update or revise any financial or product pipeline projections or other forward-looking statements, either because of new information, future events, or otherwise. This conference call contains time-sensitive information and is accurate only as of the live broadcast, May 7th, 2026."
+    },
+    {
+      "speaker": "spk10",
+      "text": "With that, I'll turn the call over to Sean. Thanks, Alex. Good afternoon, everyone. Thanks for joining us. Today, I'll cover three things."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Where we are on ADS 201, a new addition to our prolapsing pipeline, and the strategy driving both. 2026 is going to be a data-rich year for AppSci, with multiple readouts in front of us. Ronzi will go through the headline file and discuss early PK modeling that supports our targeted dosing frequency. At a high level, the Phase I QA is on track. We expect to share preliminary safety, tolerability, and PK data next month, interim 13-week regrowth data in the second half of this year, and full 26-week proof of concept data early next year. ADS-201 is not intended to compete with minoxidil. We're aiming to create a new category of hair regrowth therapy, a targeted biologic against the prolactin receptor that provides durable hair regrowth from a few injections. If successful, ADS-201 could represent the first new mechanism of action in androgenic alopecia in nearly three decades. and a fundamentally different treatment paradigm for patients. In parallel, we continue to advance towards initiation of a phase two endometriosis trial in the fourth quarter. We recently launched our Endometriosis Clinical Advisory Board with leaders from Yale, UCSF, Duke, and Mayo Clinic. They bring deep expertise across reproductive medicine, fertility, and translational research and will help guide the ABS-201 endometriosis program. Endometriosis has the same kind of opportunity as AGA, large, underserved, and underexplored. And ABS-201 has the potential to open up a new category of therapy there as well. As Zach will discuss, our top strategic priority is using our platform to create novel, differentiated assets. AGS 201 in AGA and endometriosis is the clearest expression of that. We go after hard problems, novel biology, and large patient populations where the unmet need is real."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Our platform is built for this, and our philosophy has always been simple. Follow the science and follow the data. And one of the places this has taken us is prolactin biology."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Prolactin biology is underexplored, underappreciated, and often misunderstood. Even inside the medical community, the name prolactin can read as narrow, and some still think of it as a lactation hormone. It is much more than that. The more mechanistic insight we've generated on prolactin, the prolactin receptor, and the related pathways, the more opportunity we see for this target, well beyond AGA and endometriosis. We have started sharing some of these insights with the medical community as a part of a broader education effort. Today, we're announcing another anti-prolactin receptor antibody, ABS202, for an undisclosed INI indication. ABS-201 in AGA, ABS-201 in endometriosis, and now ABS-202 in INI are just the start of our prolactin pipeline. The reason we can do this comes back to our people and our platform, OriginOne. We figured out early that having a good platform is not good enough on its own. We need the people who know how to push it. And in this industry, you also need the assets, novel and differentiated programs that can make a real difference in patients' lives. The places where unmet need is largest tend to be where biology is most complex and underexplored. And that is exactly where our platform and our people excel. That overlap is also where the potential return on investment is highest. both for patients as well as our shareholders. Our focus remains being an AI-native company dedicated to developing and delivering novel differentiated therapeutic assets for patients. And as we roll out our agentic AI workflows across ASDAI, each of our Unlimiters is scaling themselves across research, SG&A, and other functions, We are unlocking real efficiencies and new capabilities. That is the focus, and that is what we're committed to delivering. With that, I'll turn it over to Ronzi, who will walk through the ADS201 clinical program. Ronzi?"
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thanks, Sean, and good afternoon, everyone. As Sean mentioned, we are pleased to share that our ongoing phase 1-2A headline trial for ADS201 is progressing well. and tracking according to plan. As a reminder, this trial is a randomized, double-blind, placebo-controlled study. The primary endpoints are safety and tolerability, while secondary endpoints include PK, PD, immunogenicity, target area hair count, target area hair width, and target area darkening or pigmentation. We will also collect patient-reported outcome data from this study. In the headline trial, we have now finished dosing all four planned healthy volunteer single ascending dose cohorts and initiated dosing in the first multiple ascending dose cohort. To date, emerging safety and tolerability data remain favorable. Additionally, preliminary PK modeling from this clinical trial supports ADS201 targeted dosing interval of two or three injections over a six-month period. Next month, we anticipate sharing blinded, preliminary safety, tolerability, and PK data from the SAAD cohorts. In that update, we plan to share clinical data that support the safety profile and anticipated ABS201 dosing interval. In the second half of this year, We plan to disclose interim proof of concept data followed by full proof of concept data in early 2027. The interim POC readout will include 13-week hair growth data. The 13-week interim is, by design, a directional view. The 26-week time point is the trial's full POC readout. Given the regenerative nature of the mechanism and our targeted dosing interval, biology may continue to drive hair growth beyond that point, which is consistent with the long-acting profile we are working towards. Zach will speak to how this positions ABS 201 well for commercial success. We also continue to explore plans to execute our targeted, efficient clinical development strategy, which could enable expedited clinical development with the potential of advancing directly to registrational trials following this Phase I-II-A study. With that, I'll pass it over to Zach to discuss our business strategy and to provide an update on our financials."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Zach? Thanks, Rancey. We remain focused on creating and developing therapeutic programs that offer the highest potential return on investment. Our strategic priority is the execution of the ABS-201 headline trial. which supports our future registrational study plans for AGA and our Phase II clinical trial plan for endometriosis. As Nancy mentioned, we plan to share an interim POC readout, including 13-week hair regrowth data, in the second half of this year. Based on the mechanism and our preclinical data, we anticipate the 13-week interim readout will give a directional view of hair growth. with the 26-week full POC providing the trial's primary efficacy readout. Given the regenerative nature of the mechanism, we anticipate hair growth to continue beyond the 26-week time point. Conversations with the scientific and medical community, as well as patients, continue to affirm our view of the significant return on investment potential for AVS201 in AGA and endometriosis. We estimate that the capital required to advance ABS-201 through registrational AGA trials will be a fraction of the clinical costs required for other large indications, such as oncology and IBD. Moreover, we expect to be able to leverage the SAD and MAD portions of the current headline trial to support Phase II initiation in endometriosis, thereby saving time and cost. Considering the significant potential market opportunities of AGA and endometriosis in conjunction with our efficient development strategy, we believe that AGS 201 offers a unique and compelling ROI. Our market research supports a significant commercial opportunity for AGS 201. In our surveys of AGA consumers and dermatologists, we evaluated a target product profile consisting of Two and a half years of hair growth following three injections of ABS-201, with a hair growth effect of approximately 35 hairs per centimeter squared versus baseline, similar to high-dose oral minoxidil. Results from our market research support a potential total available market exceeding $25 billion annually in the U.S., with meaningful potential upside if hair growth exceeds the surveyed threshold. AVS-201 has the potential to significantly expand the overall AGA market as a new premium category of durable, regenerative hair growth therapy. Our market research indicates the AVS-201 target product profile would attract not only AGA consumers dissatisfied with current standard of care, but also those who elect to use AVS-201 alongside existing standard of care. such as oral minoxidil or new formulations of oral minoxidil. Similarly, in endometriosis, ADS-201 has the potential to define a new category of therapy that has the potential to address not only pain, but also underlying disease. Endometriosis is prevalent in up to 10% of women worldwide, including an estimated 9 million women in the U.S. We believe AVS201's differentiated profile could support potential peak sales in excess of $4 billion. As Sean mentioned earlier, our second priority is building and prioritizing an early pipeline of differentiated programs that offer the highest potential return on investment. Accordingly, today we are pleased to announce the deepening of our pipeline with the addition of a new anti-prolactin receptor antibody, AVS202, This program, which leverages our prolactin biology expertise and our AI platform, enables us to expand into new indications where we believe prolactin receptor inhibition will offer a novel and efficacious treatment option. Conversely, we have determined that oncology no longer fits within our strategic scope, and so we will be deprioritizing development of ABS301 and ABS501. We will no longer commit internal capital or resources to further development of these programs. Our capital and resources will be directed toward programs that offer the greatest potential ROI within our strategy. In addition to the two previously discussed strategic priorities, we continue to advance partnering discussions associated with our other internal programs, which are at various stages of preclinical and clinical development. Overall, our strategy remains focused on executing the development of ABS-201 in AGA and in endonutriosis, and on further building a pipeline of differentiated programs that provide optionality for internal development or partnering."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Turning now to our financials."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Revenue in the first quarter was $200,000 as we continue to progress our partnered programs. Research and development expenses were $19.3 million for the three months ending March 31st, 2026. That's compared to $16.4 million for the prior year period. This increase was primarily driven by advancement of ABSA's internal programs, including direct costs associated with external preclinical and clinical development of ABS 201. Selling, general, and administrative expenses were 9.1 million dollars for the three months ending march 31st 2026 as compared to 9.5 million for the prior year period this decrease was primarily due to a reduction in personnel related costs cash cash equivalents and marketable securities as of march 31st 2026 were $125.7 million as compared to $144.3 million as of December 31st, 2025. Based on our current projections, we believe our cash, cash equivalents, and marketable securities will be sufficient to fund our operating plans into the first half of 2028. Our current balance sheet supports our execution of key upcoming catalysts, including potential proof of concept readouts for both AGA and endometriosis, and continued progress of our early stage pipeline. We also remain focused on opportunities to generate additional non-dilutive cash inflows that could come from early stage asset transactions and or new platform collaborations with large pharma. In particular, we believe our early pipeline programs may offer attractive partnering opportunities. At the same time, we are aggressively implementing agentic AI workflows across our organization, including in business and scientific functions. These implementations are already creating meaningful efficiency gains as well as capability gains. Going forward, we expect to continue to realize cost savings and productivity gains from advancement of our agentic workflows. With that, I'll now turn it back to Sean."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Thanks, Zach. Before we open up for questions, I want to thank the team at AppSci Arm Limiters for the work they put in each and every day. The catalysts ahead this year are, one, preliminary safety and TK data for ABS 201 next month. Two, interim 13-week proof of concept hair regrowth data in the second half of this year. Three, initiation of phase two endometriosis trials in Q4, subject to data and regulatory review. And last, continued progress on our early stage pipeline, including our newest prolactin program ABS 202. Looking into early 2027, we expect full 26-week proof of concepts data for ABS 201 and AGA. Thank you all for your continued support."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Operator, let's open the line for questions."
+    },
+    {
+      "speaker": "spk02",
+      "text": "We are now opening the question and answer session. If you'd like to ask a question, please press star followed by one on your telephone keypad. If you'd like to withdraw your question, please press star followed by one again."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Thank you. Your first question comes from the line of Brendan Smith from C.D. Cowan. Your line is now open. Please go ahead. Brendan, are you there? Brendan, you may be muted. Just to double check. Oh, hey, guys. Hi, guys. Apologies. Can you hear me now? Yes."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Yes. Sorry about that. Yeah, thanks for taking the questions, guys. Congrats on everything going on here. I guess maybe just kind of a quick follow-up on the 202 conversation. Can you maybe just help us understand a little bit more, even on a mechanistic level here, what kind of the most important distinctions versus 201R in terms of why it would make sense for some indications versus others and, you know, I guess versus the first few you're pursuing there? And is there kind of a difference of product profile or something about actual mechanism that makes sense to that distinction? Thanks."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Yeah, absolutely. ABS-202, we are creating a differentiated profile with this. Additionally, we do want to be able to have this outside of AGA and endometriosis for other indications where there may be pricing differences. With regards to the prolactin biology, some of the things that we're really interested in is how Prolactin is driving some of these autoimmune diseases. It looks to be sitting on this stress inflammatory axis and is also driving some interesting B-cell biology as well. You just see it expressed, at least in prolactin receptor, all throughout the body. It's in bones, immune system, endothelial cells, the synovium, And so we're continuing to expand out the biology there as well as going into other indications with ABS-202. And then additionally looking at, you know, bispecifics as well that could be synergistic with this particular mechanism."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Got it. Okay. That's super helpful. And then maybe just quickly on the upcoming MAD-FKC readout with 201. I appreciate the color on some of the, how you're thinking about some of this data. I guess just given how the space has evolved in recent months there, are you kind of ultimately thinking, you know, comparable efficacy, but with clean safety and maybe differentiated dosing is kind of enough to win given how big the market is? Or are you expecting kind of based on how things have evolved now that you would potentially need to show superior efficacy? Just help us understand some of those dynamics."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Yeah, absolutely. And Zach can touch on this more from the consumer quant study we did. But we believe having a comparable efficacy to oral minoxidil with the infrequent dosing will be really a home run product. And that convenience factor with equivalent efficacy, we do see that being a home run product and any efficacy Above that, we see that as just increasing the overall TAM of the opportunity here. And, Zach, maybe you want to speak a little bit more to the consumer quant study that we did."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, I'd be happy to comment. So, Brandon, as you know, we've conducted a sizable consumer survey. We've also conducted surveys with dermatologists. And I think the takeaway from those surveys is that the profile of ADS-201 would really establish a brand new category of therapy. And that's based on its durable, the durability of the profile, infrequent dosing, and the truly regenerative mechanism. So when we test a profile with consumers, dermatologists that has efficacy that's consistent with at least some reports of high dose oral minoxidil, so think about that sort of 35% hairs per square centimeter growth in target area hair count, we see the massive potential for adoption. And that's how we get to a potential $25 billion TAM just on a TPP that looks like that because it's a compilation of all those factors that really define this as a new category. So I think we're quite excited about that. And we think ultimately this product would expand the overall AGA market And we saw that in our consumer research as well. It looks to us like there are a lot of patients out there who are dissatisfied with current standard of care who would come to ABS-201 as a therapeutic option. There are also lots of patients that would just come first line, so before they try anything else. We saw over a third of males and females we surveyed said they would come first line. And that's before trying even like a nutraceutical or something very inexpensive. And then we also saw in the data that there are lots of patients that would elect to use both. So they might use an oral minoxidil in combination with ABS-201. So I think as a brand-new category of therapy and a premium category, I think ABS-201 has the potential to be really well-positioned."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Awesome. Super helpful, guys. Thank you. Your next questions come from the line of Gil Bloom from Needham and Company."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Your line is now open. Please go ahead."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Good afternoon, and thanks for taking our questions. A little bit of a similar question as it relates to the, you know, ABS-201 and ABS-202. Is the difference there pharmacokinetics, binding? Is there anything you can tell us about? the upgrades in ABS-202, and I have a follow-up on the ABS-201 program after this."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Thanks."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Yeah, at this point in time, we are not disclosing the profile that we're looking to achieve for this, other than the fact that we are planning to take this into a different indication."
+    },
+    {
+      "speaker": "spk10",
+      "text": "All right, fair enough."
+    },
+    {
+      "speaker": "spk12",
+      "text": "As it relates to the 13-week readout, you know, Veridermics in their own call noted, quote-unquote, appreciable improvement at two months. It's a very qualitative measure as it relates to early data, you know, an early time point. Is this what we should be expecting at 13 weeks, or should we be expecting something more methodical? Thank you."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Yeah, the 13 weeks is really a directional readout. We want to see hair growth. And the 26th week is where we expect to see the oral minoxidil hairs per square centimeter. And so that's what we're utilizing as the final readout. And the 13th week, again, is just directional from there. And just given the differences, In hair growth and the mechanism, we want to reserve the 26th week as the final definitive readout."
+    },
+    {
+      "speaker": "spk10",
+      "text": "All right. I appreciate that. Thank you."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Your next question comes from the line of Vamil Devan from Guggenheim. Your line is now open. Please go ahead."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Hi, this is Arsene on the phone. Thanks for taking my questions and congrats on all the progress. You've previously talked about 90% receptor occupancy being necessary to achieve the full therapeutic effect with the relaxing mechanism. Has anything you've seen in the trial so far shifted that perspective in any way and do you think it's ultimately achievable with that dose and schedule that you're doing?"
+    },
+    {
+      "speaker": "spk13",
+      "text": "Yeah, so far what we're seeing, we definitely see that as achievable, and Ronzo, maybe you want to speak a little bit more to that."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yeah, we're not looking at anything like hair growth in the SAD study, but the way we've designed the dosing paradigm, we've been very conservative in our scaling, and so we're confident we can hit that 90% receptor occupancy. This is certainly something that is something to look forward to with the MAD data and then the hair growth data."
+    },
+    {
+      "speaker": "spk09",
+      "text": "And one more follow-up. Do you expect variability in therapeutic response among the patients that you enroll, whether that's because of their biomarker profile, because of their age, or there is something about this mechanism where you think essentially every patient will respond at least to some degree?"
+    },
+    {
+      "speaker": "spk03",
+      "text": "I mean, at this point, we seem to have a balanced enrollment of the various stages of the Norwood classification. There's nothing that, from a biomarker's perspective, that I would expect to see or be able to predict a variation in response in the AGA population. So, I don't have a great answer to that question. It's a reasonably sized study, and it's randomized, so in terms of the baseline hair characteristics, we're pleased with how patients are distributing amongst the arms. But at this point, I don't, I'm not worried about something else causing inter-subject variability in the mechanism of action itself."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Thank you. Yeah, and we haven't seen any of that as well in the in vivo or ex vivo experiments that we've run to date."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Understood."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Your next question comes from the line of Cripa de Barraconda from Truist. Your line is now open. Please go ahead."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Hi, how's it going? This is Alex from Cripa. Really exciting time at AppSci. Two questions from us. One, when can we expect to learn more about the mechanism and the properties and indication for ABS-202? And then also, in your consumer survey, did you specifically test for patient preference and desire for combination therapy for ABS-201 and other currently approved products? Thanks."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Yeah, at the current moment, we are not planning on disclosing any more than we have on ABS 202 and the mechanism of action, though I will say we are very excited about the overall opportunities. And as we get closer to the clinic, we'll definitely be disclosing more on that, but just from a competitive standpoint, we're not disclosing at this point in time. And Zach, do you want to take the second question?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, absolutely. So in the survey itself, we did not specifically ask that question, but we have asked that question in our patient interview segments. In the survey, what we did see, which I think was really exciting for us, is when we talked to surveyed men and women, we saw a very high response rate in terms of those who said they would be extremely likely or very likely to go seek out the product today if it were available. That was 87% of men, 69% of women. But then when you zeroed in on subgroups who were on existing standard of care, for example, oral minoxidil, those numbers went up dramatically. So for men, they went from 87% to 92%. And for women, they went from 69% to 89%. So we clearly see a strong... a strong level or a stronger level of interest in the product if you're already using a standard of care in those subgroups. So we think that the survey really supports the new category definition here where patients are really going to be looking for this as a new category either to replace standard of care that they're dissatisfied with or to use on top of standard of care."
+    },
+    {
+      "speaker": "spk10",
+      "text": "All right. That's great color. Thanks. Very excited over here. Congrats on all the progress. Thanks, Alex. Your next question comes from the line of Jeb Chatterjee from Jones."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Please go ahead."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Hi. Thanks for taking my question. So I have a question on the endometriosis program. I know pain is a very common endpoint for these trials. But historically, the high placebo response has been an issue with pain studies. So what kind of structural elements would you implement in this trial to prevent, like, or control placebo response? And I have a follow-up."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Yeah, Ranjit, you want to take that? Yeah."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thanks for the question. I learned a lot in my time at Vertex overseeing the pain program there. Yeah, and I'm glad you appreciate that. The pain aspect of these studies is ultra important. The crux, I think, is how you execute the trial. So we will spend a lot of time making sure the sites are carefully chosen. The investigators are carefully chosen. All of the partners that we're working with understand how to mitigate placebo response. Placebo training is really important. We will be surveilling the blinded data for evidence of placebo response. There is a lot of operational stuff that's not put into the protocol because these are really things that you have to do in execution. And we've also engaged the FDA in how we're approaching mitigation of placebo response. So it's really, really important. Not something that you always see in the protocols, but heavily operational and done behind the scenes."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Okay. That's helpful. I know for competitive reasons you can't share much details, but just wanted to know if that is something for internal development or is that something you would partner off given that the pricing would be very different for I&I indications?"
+    },
+    {
+      "speaker": "spk13",
+      "text": "Yeah, we are definitely open to both options on ABS 201. The current option at the moment is pursuing this ourselves. Given the opportunity here in the market size, we are considering both internal development as well as partnering."
+    },
+    {
+      "speaker": "spk10",
+      "text": "That's helpful. Thank you. And that is for ABS 202, sorry. Yes. Your next question comes from the line of Brian Chang from JP Morgan. Your line is now open. Please go ahead. Hey, guys, can you hear me? Yep. Hey, guys, can you hear me? Yeah, Brian, we can."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Oh, hey, sorry. Yeah, so thanks for taking a question this afternoon. So when you talk about the 20 hair growth as the benchmark for success, I think, you know, that's what you have been guiding for some time now for your AGA map portion. Can you clarify whether that's the benchmark that you expect for the end of the MAD portion, meaning that at the end of the 26th week? And if it is, just curious if you can also help us think about what you would want to see or what you expect to see at the 13-week mark based on the clinical work that you have done."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Yeah, it's a great question, Brian. And where we want to be at the 26 weeks is definitely where oral minoxidil sets and at the 13 week we are not putting an official guide on that we want to see directional hair growth and just given the biology and the new mechanism here we don't want to set any sort of unrealistic expectations and I think the best way to look at this is through the lens of the 26 week readout, which again is where we want to be, right around oral minoxidil with infrequent dosing."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Got it. Brian, if I could add to that, like what we showed in the survey is if we have the TPP that includes that sort of effect size that's similar to oral minoxidil, the high-dose oral minoxidil, so think in the 30s, with that convenient profile and durability, That's really a home run product. There's a product that efficacy below that as well. But the consumer research we've done with KOLs and with AGA consumers would suggest that that is a very fantastic product category defining at that threshold."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Got it. And maybe just going back to the PK data that you have seen so far, and I think you said in your prepared remarks that the modeling work that you have seen from the trial, it truly supports a few times a year type of dosing regimen. So can you give us a little bit more color, a little bit of a glance of how we should think about the key parameters that are driving the conclusions? Thank you."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Yeah, Ronzi, do you want to speak on the PK?"
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yeah, I mean, we're assessing PK from all of the SAD cohorts. We just started dosing the MAD cohorts, so we don't have MAD PK, but the SAD cohorts are developing nicely. We're pretty, we feel pretty good about being able to dose at least every eight weeks, subcutaneously. We'll have more color on this and a more refined estimation of dosing frequency when we have the data that we talked about in a few weeks."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Yeah, I'd say from the preliminary, you know, half-life and PK, we feel very, we're feeling very optimistic and looking forward to sharing the full data on that in June."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Your next question comes from the line of Swayam Pakula Ramakant from H.E."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Rainright. Your line is now open. Please go ahead."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thank you. Good afternoon, Sean and Zach. Thanks for taking my questions. I apologize that I'm going to disappoint you by not asking a question on 201 or 202. However, I have a couple other questions. One is you stated that you're de-emphasizing oncology products. So I'm just trying to understand some of the reasonings behind it and also what sort of an interest are you seeing from outside, especially for these novel drugs?"
+    },
+    {
+      "speaker": "spk13",
+      "text": "Yeah, from a strategy standpoint, you know, if you look at, you know, ABS-201 and in particular going after AGA, I mean, this is going to be a, you know, direct-to-consumer type of product. And we really want to be building out products that would support this. And in particular, you know, an INI makes a lot of sense. And oncology just doesn't, you know, support that particular product. go-to-market strategy that we want to have with AGA. And so we have deprioritized these and no longer going to fund any of these internally and, again, put all the focus into assets that are going to be supporting the lead asset, ABS-201, in AGA and in the metriosis."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Okay."
+    },
+    {
+      "speaker": "spk00",
+      "text": "And then in terms of bringing in partners, right? Because, you know, you've been talking about generating partnerships, including a large-cap pharma for a while now. And that cadence has been slower than what we had seen in the previous years. So I'm just trying to understand some of the factors that are going into it. Is it more because some of the output some of these large-cap pharma or large-cap biotech, they are generating their own tools that they feel sufficient enough? Or is it because the economics that they bring to the table doesn't seem viable for you to enter into a relationship?"
+    },
+    {
+      "speaker": "spk10",
+      "text": "Yes. So our focus is"
+    },
+    {
+      "speaker": "spk13",
+      "text": "driving the clinical development of ABS 201. We are continuing to look for farmer partnerships around our pipeline, but they have to make sense for us. We're a limited team here and we wanted to synergize and so we are being very selective of who we partner with and how they synergize in building out the overall portfolio. that we want to build out and supports the go-to-market strategy as well with ABS 201. So it is definitely an area that we are focused in on, but it has to make sense strategically for us. Zach, do you have anything else to add to that?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, and Sean is exactly right. And RK, I'll just add one thing, and that's internally we have the capability to generate assets, and we believe we have a leading platform that's very focused on challenging targets, as well as leadership in certain areas of biology, foremost prolactin biology. We believe, and we've done a full-blown analysis internally, that we can generate better economic terms on partnerships that are focused on an asset, even at a preclinical stage, versus tying up our resources and capacity for target-based platform partnerships. And so, We've got a number of assets that are coming towards DC this year, and several of those we think would be earmarked towards partnering to generate non-dilutive cash flow. And when we run the analysis internally, the risk-adjusted NPV from focusing on creating assets and partnering those is a multiple of what it would be relative to a platform target-based deal when you look at it on a target-by-target or program-by-program basis. For us, the economics also point us in that direction."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Great. Thanks. Thanks for taking my questions, gentlemen."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Your next question comes from the line of Steve Desher from Kibang Capital Markets. Your line is now open. Please go ahead."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Hey, guys. You mentioned adopting more agentic AI into your business. I guess just How is this impacting your drug discovery process as well as your business operations and any kind of cost savings near term that you can point to?"
+    },
+    {
+      "speaker": "spk10",
+      "text": "Thanks. Zach, you want to take that? Yeah, happy to."
+    },
+    {
+      "speaker": "spk08",
+      "text": "We are very aggressively implementing agentic workflows throughout AMSAI, and that includes not just in science and R&D, but also across SD&A. So we're in a period where we're rolling that out. We're already seeing significant efficiency gains, and we expect to realize those in terms of cost reduction as well as capability gains on a go-forward basis. So you can think of it even over the next few months, we should start realizing some of those gains."
+    },
+    {
+      "speaker": "spk10",
+      "text": "All right, thank you."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Your next questions come from the line of Vamil Devan from Guggenheim. Your line is now open. Please go ahead."
+    },
+    {
+      "speaker": "spk09",
+      "text": "It's Arseniy on for Vamil. I had one more follow-up on the hair repigmentation opportunity. You previously talked about it as being roughly the same size as the AGH market. And a question is, what do you expect to see there? What readout do you think would be clinically meaningful? And then, would you consider pursuing it as a separate indication down the line with additional studies, or would it be sort of an extra claim in the label in addition to the AJA indication? Just any color on that would be helpful."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Yeah, look, we're really excited about the potential for repigmentation. We do see it as creating even a bigger market opportunity than what we currently have. Right now, it's an exploratory endpoint, and we're going to see how the readouts go out to 13 and 26 week and then determine how we want to proceed forward from there. Ronzi, I don't know if you have any other color you want to add to that."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yeah, I think you summed it up well, Zach. And, you know, the cinnamolgus data from that other program are really interesting and exciting. And at this point, we're looking to see what we can see. But mechanistically, it does make sense that it's a potential finding."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Very helpful. Thank you. Thank you. We have reached the end of the question and answer session."
+    },
+    {
+      "speaker": "spk02",
+      "text": "This also concludes our call for today. Thank you everyone for attending this call. You may now disconnect. Goodbye."
+    }
+  ]
+}
