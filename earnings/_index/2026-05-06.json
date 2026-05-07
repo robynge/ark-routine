@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-07T04:33:32Z",
+  "generated_at": "2026-05-07T07:42:00Z",
   "n_calls": 15,
   "calls": [
     {
@@ -113,16 +113,6 @@
       }
     },
     {
-      "ticker": "PTC",
-      "company": "PTC Inc.",
-      "year": 2026,
-      "quarter": 2,
-      "conference_date": "2026-05-06T17:00:00-04:00",
-      "ark_funds": {
-        "PRNT": "4.78%"
-      }
-    },
-    {
       "ticker": "AUR",
       "company": "Aurora Innovation, Inc. ",
       "year": 2026,
@@ -145,13 +135,13 @@
       }
     },
     {
-      "ticker": "SYM",
-      "company": "Symbotic Inc.",
+      "ticker": "PTC",
+      "company": "PTC Inc.",
       "year": 2026,
       "quarter": 2,
       "conference_date": "2026-05-06T17:00:00-04:00",
       "ark_funds": {
-        "ARKQ": "1.87%"
+        "PRNT": "4.78%"
       }
     },
     {
@@ -162,6 +152,16 @@
       "conference_date": "2026-05-06T17:00:00-04:00",
       "ark_funds": {
         "ARKF": "1.52%"
+      }
+    },
+    {
+      "ticker": "SYM",
+      "company": "Symbotic Inc.",
+      "year": 2026,
+      "quarter": 2,
+      "conference_date": "2026-05-06T17:00:00-04:00",
+      "ark_funds": {
+        "ARKQ": "1.87%"
       }
     }
   ]
