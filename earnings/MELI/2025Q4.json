@@ -1,0 +1,291 @@
+{
+  "event": {
+    "ticker": "MELI",
+    "year": 2025,
+    "quarter": 4
+  },
+  "speaker_name_map_v2": {
+    "spk12": {
+      "name": "Richard Cathcart",
+      "title": "Investor Relations Officer"
+    },
+    "spk03": {
+      "name": "Martin",
+      "title": "Chief Financial Officer"
+    },
+    "spk17": {
+      "name": "Operator",
+      "title": "Conference Call Operator"
+    },
+    "spk13": {
+      "name": "Andrew Rubin",
+      "title": "Analyst at Morgan Stanley"
+    },
+    "spk04": {
+      "name": "Irma Cigars",
+      "title": "Analyst at Goldman Sachs"
+    },
+    "spk18": {
+      "name": "Ariel",
+      "title": "Chief Technology Officer"
+    },
+    "spk09": {
+      "name": "Bob Ford",
+      "title": "Analyst at Bank of America"
+    },
+    "spk02": {
+      "name": "Osvaldo",
+      "title": "Head of Mercado Pago"
+    },
+    "spk16": {
+      "name": "Rodrigo Gastim",
+      "title": "Analyst at Itaú BBA"
+    },
+    "spk01": {
+      "name": "Josh Beck",
+      "title": "Analyst at Raymond James"
+    },
+    "spk14": {
+      "name": "Jeffrey Elliott",
+      "title": "Analyst at Autonomous"
+    },
+    "spk08": {
+      "name": "Kyle Brado",
+      "title": "Analyst at UBS"
+    },
+    "spk11": {
+      "name": "Neha Argawala",
+      "title": "Analyst at HSBC"
+    },
+    "spk05": {
+      "name": "Donnie Tiger",
+      "title": "Analyst at XP"
+    },
+    "spk00": {
+      "name": "Craig Moore",
+      "title": "Analyst at FT Partners"
+    },
+    "spk10": {
+      "name": "Marvin Fong",
+      "title": "Analyst at BTIG"
+    },
+    "spk15": {
+      "name": "Jamie Freedman",
+      "title": "Analyst at Susquehanna International Group"
+    },
+    "spk07": {
+      "name": "Joao Flores",
+      "title": "Analyst at Citigroup"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk12",
+      "text": "Hello, everyone, and welcome to the MercadoLibre earnings conference call for the quarter ended December 31st, 2025. Thank you for joining us. I'm Richard Cathcart, MercadoLibre's investor relations officer. Today, we will share our quarterly highlights on video, after which we will begin our live Q&A session with our management team. Before we go on to discuss our results for the fourth quarter of 2025, I remind you that management may make or refer to and this presentation may contain forward-looking statements and non-gap measures. So please refer to the disclaimer on screen, which will also be available in our earnings materials on our investor relations website. Please note that this call is being recorded and a replay will be made available on our IR website also. With that, let's begin with a short message from our CFO."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Good evening everyone and thank you for joining us. I'm pleased to report that we ended 2025 with robust operating trends that reinforced the strength of the MercadoLibre ecosystem. Our relentless focus on customer experience translated directly into strong financial performance with fourth quarter net revenues growth of 45% year-over-year. Our performance is supported by two primary growth drivers, the acceleration of our commerce business and the rapid adoption and structural expansion of our fintech services. Crucially, both of these are increasingly supported by the tangible impact of our investments in artificial intelligence. Turning to commerce, in Brazil, our largest market, GMV, grew an impressive 35% year-over-year, alongside a 45% increase in sold items. This acceleration is the result of our strategic investments to enhance the value proposition, most notably the decision to lower the free shipping threshold. More free shipping is driving higher purchase frequency and bringing new buyers into the ecosystem. This volume is translating directly into efficiency. Our logistics network absorb the increase in volumes while driving productivity gains, proving our ability to scale effectively. Our value proposition is generating traction in Mexico too, where its GMV also grew 35%. Across our ecosystem, we are seeing clear evidence that our investments in artificial intelligence are accelerating revenue. In advertising, AI is powering our bidding algorithms and automated campaign tools are generating better returns for sellers. This improved performance is driving higher adoption and capturing a larger share of advertisers' wallet, propelling the business to grow 67%. AEI is also transforming the effectiveness of our acquiring sales force. In Brazil, these tools helped identify high-value merchants faster, resulting in higher TPV per merchant and shortened payback periods. This contributed to acquiring TPV growing 25% in Brazil and 50% in Mexico. Our Mercado Pago AI assistant is solving 87% of interactions without the need of human support. Millions of users already adopt this conversational tool to manage their credit card, make transfers and understand their credit offerings. In fintech services, we reached a historic milestone. Mercado Pago now holds the leading net promoter score in Brazil, Mexico, Argentina and Chile. Monthly active users are growing close to 30% for 10 consecutive quarters. Our credit portfolio nearly doubled year over year to $12.5 billion, including almost 3 million new credit cards issued in Q4 alone. Assets under management are close to $19 billion, growing at 78% year-over-year. This is helping us to increase principality amongst our users. Regarding our financial performance, our revenue's full-year growth was an impressive 39%. Income from operations grew 22% for the full year. The margin compression reflects our decision to invest in the areas of the business with the greatest long-term growth opportunity, especially shipping and credit card expansion. We remain confident these investments strengthen our ecosystem, deepen our competitive advantages, and expand the long-term growth runway in a region where both e-commerce and financial services remain meaningfully underpenetrated. We enter 2026 in a position of strength. All our business units are growing at a fast pace, demonstrating that these investments are already generating results and unlocking long-term value. We are as excited as always with the opportunities ahead. And now, we open up to your questions."
+    },
+    {
+      "speaker": "spk17",
+      "text": "We will now begin the question and answer session. To ask a question, you may press star then 1 on your telephone keypad. If you are using a speakerphone, please pick up your handset before pressing the keys. To withdraw your question, please press star then 2. please limit yourself to one question. If you have additional questions, you may re-enter the queue. Our first question today is from Andrew Rubin with Morgan Stanley. Please go ahead."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Andrew Rubin, Morgan Stanley, Hey. Congratulations on the growth this quarter, and thanks for the question. It was helpful your mention in the release of the five to six percentage point margin impact from, you mentioned, free shipping, 1P, cross-border, credit card investments. Maybe it involves taking these one-by-one when considering cross-border. It could be a newer call-out than, say, credit card. But I'd like to understand where you are in this investment cycle. We understand the disciplined approach, but my question is, where could these investments already be at peak intensity versus where we could expect a more elongated cycle? Thank you."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Hey, Andrew. It's Martin here. How are you? Thank you for your question. First, let me clarify, we tried to, you know, we've been talking about the investments that we're doing. We talked a lot about the results of those investments, but we wanted to give a sense of what those investments were in terms of margin compression. So what we did here is we basically, we look at the main areas of investment, like you said, a lowering of the shipping threshold that we did last year in Brazil, the credit card where we're investing in Brazil, Mexico, and now Argentina. And then 1B, which continues its path to profitability, but still not profitable on its own. The same thing with CBT, which we are expanding now to the China and the U.S. corridor. And then we also added the smaller countries where we continue to invest as we reach scale in those countries. So when we put all that together, we wanted to give you a sense of the pressure that that generated on our margins, And that gives you a range of between five and six points. So that's the intention of putting it on the letter. In terms of the trajectory, I think it's in line with what we have been talking about this in the past. CBT is a business that, you know, when it's locally fulfilled, it's profitable. International fulfillment needs to continue scaling, and it's moving in the right direction, but it will continue to scale, and it will put some pressure on margins because of that. When you look at our 1P, I think we talked a lot about 1P, it continues to be profitable on a variable basis level before allocating profit Central cost, direct, indirect cost is profitable. So, the scale will play in our favor in terms of continuing to improve profitability. I think the credit card, Osvaldo will talk about this, I'm sure, in some of the questions, but the credit card continues to improve its profitability, in particular in Brazil, where we're seeing already a significant part of the portfolio, the older cohorts being profitable. So, I think a lot of moving parts, right? The individual businesses are moving in the right direction. Then you have a shift issue because some of these are growing at a faster pace. But the bottom line is that we're very confident that the investments that we're making on our platform are addressing the long-term opportunities that we see ahead of us, and we're also improving user experience in our platform. Quarter, we mentioned that we have the highest MPS level in commerce and fintech in Argentina, Brazil, and Mexico. So that's a consequence of the investments that we have been doing. And we're very comfortable with these levels of investments in our ecosystem."
+    },
+    {
+      "speaker": "spk17",
+      "text": "The next question is from Irma Cigars with Goldman Sachs. Please go ahead."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thank you for taking my question. A quick question on the direct contribution margin in Argentina, which was down a little bit quarter over quarter. I know there were some specific pressures last quarter that perhaps you managed to address this quarter in terms of repricing of the credit spreads. whereas others may have still lasted, especially on the logistics and shipping side, and then all fourth quarters also more promotional in general. But I was just hoping if you could break it down for us a little bit more and how we should think about this margin going into 2026, just in terms of some of those pressure points rather than specific guidance. And the other question I had was just as you had some very interesting comments around how you deploy AI across the demand and search side as well as the supply side for merchants. However, one of the debates around agenda commerce relates to the long-term opportunity for ad monetization. So I was hoping you could perhaps share some of your thoughts about or early initial thoughts about how you think about the risks and preparing for some of those risks. of ad monetization moving further up the funnel."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Hi, Irma. Martin here. I'll take the first part. We see, as you mentioned, some compression in Argentina. Keep in mind, Argentina continues to be the highest profitability market in terms of margins. But we did see some compression, mostly coming from fulfillment. As you know, we opened couple of new fulfillment centers recently, so that generated some year-on-year compression on Cox. Also, provisions for bad debt because of the credit card. We launched the credit card in the middle of last year, so we're seeing some compression because of that. As you know, the credit card requires investments up front. And there is some year-on-year increase on funding costs. It's true what you said. Sequentially, quarter on quarter, the funding cost of our credit portfolio was lower in Q4 relative to Q3, but it still was higher relative to a year ago. Those are the main reasons for the compression that we saw in this quarter."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Hi, Irma. Ariel here. So let me try to take a step back in answering your question on AI and the impact of our revenues. But let me start with the idea of agentic commerce and how that will play out for us and potentially disintermediating, which is something that I've been asked over and over. So I think it's still a bit early in the game, but we don't think that solving one part of the value chain will actually change the rules of the game, meaning that we still think that the key is to provide the best end-to-end experience for our customer. So we know that searching for an item is one important task, but reading reviews, making sure the package arrives on time, offering the widest selection, having the best prices, the best financing, preventing fraud, having the best customer support, and so on, are also key parts of the end-to-end job that we need to solve and that drive the decisions on where buyers will end up buying, right? And by the way, to complement this comment, I would say that the part where we're putting most of our efforts is in developing our own agentic experience inside MercadoLibre. We think and we're convinced that we have the first-party data to create the best search, best recommendation, best discovery engine on which we can personalize and lay over the agentic experience that the new technology drives. And by the way, if you believe that there is a world of agentic commerce, that could mean that retail will move even faster from the offline to the online world. So all this to say that I do think that we are well-positioned to actually capturing as revenues in the future because we still think that MercadoLibre will be the go-to place for demand to do shopping online. On top of that, then there's an issue on what happens with all the agentic commerce that will occur outside of MercadoLibre because for sure we will not have 100% market share. And we think that that also represents an incremental opportunity for many, right? So today we are providing with our tech stack advertising services to third parties. We do that with Google Ad Manager. We do that with Disney. We do that with Roku, with HBO Max. And the reason behind that is that we have a unique set of data, customer knowledge, attribution capabilities that we think are very hard to match. So eventually, what I'm trying to convey is that on the one hand, we are confident on Mercado Libre's own ability to capture traffic through its own authentic experience, and on top of that, we do think that advertising represents an additional revenue opportunity in a world in which there is agentic commerce. And by the way, the agentic world can also imply a faster shift of advertising dollars moving from traditional offline channels into digital advertising, which generates the opportunity to be even bigger. So we remain positive. We remain focused. The only thing that we know for sure is that we need to put our developers to work to have the best tech stack for advertising and the best authentic experience inside MercadoLibre."
+    },
+    {
+      "speaker": "spk17",
+      "text": "The next question is from Bob Ford with Bank of America. Please go ahead."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Hey, thanks for taking my question. Good evening, everybody. Just to expand on the discussion on agentic solutions, the press release comments on the agentic solution for Pago in terms of handling queries without human intervention, but the functionality appears to be far more sophisticated than that. And I was curious, how is that Pago agent increasing engagement, impacting borrowing or savings behavior, or promoting the adoption of new financial products? And And, Ariel, maybe, you know, you could comment about how you're thinking about a personal agentic solution or solutions, you know, for the marketplace and the functionality and time to deploy that you're anticipating."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Hi, Bob. We are very excited by Mercado Pago's AI Assistant. It is already helping mostly with solving questions and concerns from our users. We have built a lot of functionality into our agent. Basically, you can do pretty much everything you would with the agent. For example, you can tell him, please tell me all of the invoices I have that are due in the next week, and then it will bring them on, and you can say pay all of them. And so the functionality is really impressive already. So far, We have been mostly dealing with these interactions that are initiated by users, and the vast majority of them are responded by the agent without any kind of human intervention. But I would say so far we have not yet started using the agent for cross-sell, but it's something that we will start doing. Given that you are in a conversation, you can, for example, tell the consumer that she has a credit offer or a credit card offer and the benefits of the credit card. We are not doing that yet, but we believe the opportunity there is significant. The system will become more proactive. And beyond cross-sell, it will also become more proactive in terms of acting like a personal banker. So helping you, I don't know, allocate your portfolio or make recommendations of what kind of credit is better for you. So we believe here the opportunity is significant. And also we also see an opportunity in terms of on the other side of Mercado Pago, on the acquiring side of MercadoPago in helping merchants deal with pre-sales and post-sales, and also integrating with typical platforms that then will be able eventually to use MercadoPago credentials to complete payments. So we're very excited about opportunities with AI at MercadoPago."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Just to compliment Osvaldo here, On the marketplace side, while we have many, many features that are powered by AI, starting with our search algorithm, our recommendation, and so on, I think it's worth highlighting the fact that we have a seller assistant today running in our platform. Basically, 20% of our GMB is somehow advised. by our assistant is actually proving to be pretty successful in helping sellers improve their live listing, reduce their lead times to get a better reputation in our platform, capture some of their questions and requirements in terms of customer support. So very positive on the progress in that regard as well."
+    },
+    {
+      "speaker": "spk17",
+      "text": "The next question is from Marcelo Santos with JP Morgan. Please go ahead."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Good evening. Thanks for taking my question. I wanted to discuss about advertising. You had some good growth, accelerating penetration. Could you discuss what are the main products that are driving these or regions or if there's any particular driver behind acceleration? Thank you very much."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Hey, Marcelo. Ariel here. So, yeah, to your point, we are very pleased with the performance we had in ads this quarter. Revenue accelerated to 67% on an FX neutral with higher adoption and spend, basically driven by improvements in our tech stack. It's broad-based, so there's no one silver bullet driving that growth. But basically, we are attaching our product in the different parts of the value chain, right? Auction, bidding, placement optimization, demagelating initiatives, and all that powered by an improved and easy-to-use platform in terms of front-end technology. for our customers, so extremely, extremely satisfied with that. Just to give you some color on a few of the initiatives, our budget orchestrator allowed sellers to reallocate unused budgets across campaigns that were capping the use of dollars previously and that happened, of course, within the same advertiser and that was positive. We also scaled a budget boost for seasonal campaigns with recommendations powered by predictive signals in order to make sure that advertisers had the right budget in place in order to deal with all the demand. that was coming during peak season. We have performance-driven recommendations based on insights that our technology is capturing. We have AI agents supporting our advisors and engaging directly with sellers in order to accelerate the penetration of ads. for mid and long tail sellers. So many, many tools being deployed and scaled, many of which are using AI. I would say in all, great progress from the team, but still lots of things to do. So penetration of ads with revenues as a percentage of GMB is still small compared to its potential. So very happy with the results so far, but even more encouraged with the potential looking ahead."
+    },
+    {
+      "speaker": "spk17",
+      "text": "The next question is from Rodrigo Gastim with Itaú BBA. Please go ahead."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yeah, good evening, everyone. I just would like to double click here on these margin investments in Brazil. So just wondering, you know, how do you see the balance, this balance of keeping up with this strong GMV growth above 30% in Brazil and eventually dealing with this margin pressure in 2026? In other words, with the market share you've been able to clearly capture over the last couple of quarters, Do you already believe we should start, you know, to see further operating leverage in Brazil going forward? Just to see how you're thinking this balance. Thank you very much."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Hi Rodrigo, it's Martin here. I think, you know, first it's important to put in context when we talk about margins, the growth that we're delivering. You know, most of the margin pressure comes from deliberate decisions that we're making in terms of pursuing investments that are generating tremendous growth and improving user experience. As you mentioned, in Brazil in particular, we have been growing our GMV and gaining market share mainly because of these investments. Our top line grew by 45% year-on-year, as I mentioned earlier. Our MPS is at record levels, and that's because of the investments that we have been doing. You mentioned CBT, 1P, the lowering of free shipping threshold, expanding more free shipping, increasing the capacity. So we feel very comfortable with these investments and the current margin levels because we're seeing the results in terms of growth, market share gains, and improvements in user experience and engagement. As I said in the past, our main focus is on capturing the large opportunities in front of us in commerce, fintech, and advertising. And we will not hesitate to invest in order to capture those opportunities as we have done in the past, even if that puts some short-term margin pressure. We are not trying to optimize short-term margin. We manage the business from a long-term perspective. We believe these investments are creating foundation for future growth. And we remain confident in our long-term margin trajectory. So, again, we are confident in the investments that we're doing in credit card and commerce. And we are seeing already the results, so that's our strategy, and that's the way for us to create long-term value for our shareholders."
+    },
+    {
+      "speaker": "spk17",
+      "text": "The next question is from Josh Beck with Raymond James. Please go ahead."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thank you for taking the question. I'm kind of curious where maybe the business plan shook out versus your expectation with respect to the lower shipping threshold. Certainly, it seems like there's been a very nice frequency lift. Is that pretty much what you had anticipated or modeled? And then related to the improvement in unit cost, I believe it was 11% decline in unit costs in Brazil. Is that something that is sustainable as you build out this parallel slow delivery network or how should we think about the prospects there? Thank you."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Hey, Josh, how are you? Ariel here. So, indeed, we are very pleased with the results of our lower free shipping threshold in Brazil. This is the third time that we have lowered the threshold, and the results we're seeing now are no different from the results we've seen in the past. has accelerated, frequency has accelerated. We are at record conversion rates, record retention rates for new and existing buyers. We are having more new buyers. Our MPS in Brazil is at its peak. We have more sellers, more live listings. For sellers, we are expanding market share and reaching our record level. So, yes, indeed, we are pleased, and this is very much aligned to what we were planning for. Items sold growth accelerated from 26% year-over-year in Q2 to 42%, in Q3 to 45%. In Q4, I think that is huge considering the size. of MercadoLibre. The same happened with GMB from 29 to 34, now to 35. And of course, this on top of all the growth and the size that we've achieved after 25, 26 years of existence and after a pandemic in which we accelerated growth a lot. I think that as we mentioned in our shareholders letters, New buyers that have come to Mercado Libre since June when we launched the new value prop are buying more items across a larger market. number of categories with higher retention rates compared to cohorts of new buyers prior to that change. So we are very encouraged by the impact that we've seen, and this gives us great optimism about the foundations we are building as we look to be the driving force for e-commerce or for commerce shifting. from the offline into the online, which is, at the end of the day, the goal that we are pursuing, right? Serving our customers better, providing the best value proposition out there. In terms of shipping costs, I would say we are pleased with the performance that we are having today. The cost improvements come from several parts of the equation. On the one hand, of course, more volume is diluting more cost. Also, we are taking advantage of idle capacity through our slow shipping network, meaning that we are able to ship items whenever we see demand. space in the value chain. And, of course, we continue working on technology and productivity in order to make our operation even more efficient and more sustainable. So we don't see a reason for this not to change or not to continue, right? So we are positive. I think the team has done a tremendous job, but we still think we have more things to do."
+    },
+    {
+      "speaker": "spk17",
+      "text": "The next question is from Jeffrey Elliott with Autonomous. Please go ahead."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Well, hello, thanks very much for taking the question. Can you discuss the changes that you announced to the shipping model in Brazil, I believe, on January 20th and getting a little bit more variable around different shipping rates for different types of shipments? And then high level, how do you see that impacting financials, impacting margins?"
+    },
+    {
+      "speaker": "spk18",
+      "text": "So basically, we are trying to de-average a bit the way we charge merchants. And we think shipping costs do correlate a lot with measurements and weight. And for that reason, we decided to move to a different type of table in which we are able to charge merchants in a much more correlated way to the cost structure that we have based on actual dimensions and weight of the items. I think it's early to make comments on impacts on financials. As you know, we don't guide. So probably at the end of Q1 with our results at the time, we will be able to share more details and color on impact. But again, as always, we continue to evolve and sophisticate the way we manage the business and what we've done with the shipping tables is no different from that."
+    },
+    {
+      "speaker": "spk17",
+      "text": "The next question is from Kyle Brado with UBS. Please go ahead."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Hello, good evening, everyone. I have two quick questions on my side, please, on Mercado Pago. First, specifically in Brazil, we are seeing a really solid growth on your deposit franchise, basically the double year-on-year, looking to the central bank data. So can you please clarify if these deposits are now being used for funding to your credit business or not? If so, how much of that? I would like to understand how do you see this usage going forward and what type of impact it may bring to your NIMO as well. And quickly, the second is in terms of your NPL ratio. The early NPL ratio between 15 and 90 days, it increased a little bit. Can you talk us through the effects of that, as extra decisionality is usually positive in the FFQ and expectations . Thank you."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Hi, Caio. Let me start with the first question regarding deposits. Today, mostly, we are not using deposits for funding. We are not doing fractional banking the way But nonetheless, we are very happy with the growth in those deposits. And since last year, a year ago, basically, When we introduced POTS and a higher interest rate on POTS, we saw a significant increase in the deposit rate. And what we saw is that those users that use POTS and in general have more money with us, we see a significantly higher level of engagement. And we see that across the board on Mercado Pago and also Mercado Libre. So we see these users doing more transactions, using our credit products more often, be more likely to using our debit cards or getting a credit card. So we see it as a significant driver of engagement and a driver of NPS, of Net Promoter Score, that is. And as you know, this is a metric we follow closely, and we are very happy to have finished the year leading the Net Promoter Score tables for financial institutions in Brazil. The second part of the question, if I got it right, was regarding NPLs and the impact of a little bit, a slight deterioration in NPLs from the third quarter to the fourth quarter. That is so. I would say that in general, NPLs of the credit card book fell to an all-time low of 4.4% in the fourth quarter. Nonetheless, the increase in NPL was mostly related to the consumer and merchant books. But having said that, I think that more important than NPLs are NEMALs, and those improve, meaning we are more profitable than we were a quarter before. Therefore, what we did was we increased the number of people, and the riskier number of people we get credit to, but we priced that risk accordingly, and therefore we ended up having a larger spread than we did on the prior quarter. So I think this was a calculated risk, and it worked out well."
+    },
+    {
+      "speaker": "spk17",
+      "text": "The next question is from Neha Argawala with HSBC. Please go ahead."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Hi, thank you for taking my question. I'd like to follow up on the last question. We have certainly seen a pickup in loan yields quarter on quarter in the fourth quarter. And as you mentioned, you're taking more risk, which is resulting in the early delinquencies going up in fourth quarter despite positive seasonality. Does this mean that Maybe in the next quarter or two, we will start seeing an impact on 90-day NPLs, and they will start going up again since you're taking more risk. Although I understand that you're pricing for it, but is this a trend that we should continue to see going forward? And just to confirm, the increase in loan yields was just from taking higher risk in rural Mexico and not coming from an increase in the share of the portfolio in Argentina. Thank you so much."
+    },
+    {
+      "speaker": "spk02",
+      "text": "As you know, we don't guide, but we are very comfortable with the amount of risk we are taking. We have seen our models improving, and what we have been doing is pricing risk accordingly and having good spreads. When we expect a loss, we book that in advance, so we don't believe there will be any surprises there. I would say that we don't see an increase in long yields coming. I'd say we're growing in all three countries in a very similar fashion. We were more cautious in the fourth quarter in Argentina because of the election and because of we saw some macro instability because of the election. So we were a little more cautious. Also, there was a spike in in interest rates prior to elections, and then they came down. And therefore, being interest rates higher, there was less demand for credit. But beyond that, we did not see any significant change in the other markets in terms of demand for credit or change in long yields."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Maybe to complement Martin here, I think the philosophy on credit has always been that we will grow our credit books so long as we have a healthy book. And as Osaldo mentioned, you're seeing only part of it part of the equation on the MPLs, but obviously we are pricing those ahead of time. And the margins in Argentina and Mexico are extremely high. I mean, much better than last quarter. In fact, when you look at Nemo, that looks at the whole equation, because not only looks at bad debt and provisions, but also the revenues that are generated on that portfolio, you can see that NEMA improved quarter on quarter. So we feel very, very comfortable about the quality and the health of our portfolio. And that's the reason why you see our credit book growing at 90%, because we are confident in our models and our collection."
+    },
+    {
+      "speaker": "spk17",
+      "text": "The next question is from Donnie Tiger with XP. Please go ahead."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Hi, thanks for taking my question. I would like to explore a little bit the sales and marketing and provision of dot flow account dynamics. Personally, regarding sales and marketing, we see an increase queue on queue in terms of investments as a percentage of sales. But you also mentioned on the release some tactical investments being done because of seasonality. So it would be interesting for you to share with us some color around how we should think about these investments going forward, especially as we see a lower intensity coming from competition, especially in Brazil in the beginning of the year. And also regarding the acceleration of consumer books that you mentioned in Brazil and Mexico, and that being the key lever for these dots or accounts not improving Q&Q, you also mentioned that you are benefiting from a higher cross-selling with your marketplace. while, as you mentioned, overall metrics remain healthy. Should we think that maybe this pressure is a consequence of you guys capturing this opportunity of kind of increasing the overlap between the two platforms? And since you have a strong momentum in commerce that is fueling the consumer book growth? Thanks."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Hi, Damis Martin here. I think the first part of the question is related to sales and marketing. I think it's consistent with what we have been saying over the past couple of quarters. Specifically this quarter, if you see sequentially, we increased our spending by 60 basis points and year-on-year by 1.4 basis points on marketing. For the most part, it's a result of expansion of our social channels. As we mentioned in the past, we are scaling our affiliate program with very positive results. In Brazil, for instance, the number of affiliates almost doubled in Q4 relative to Q3. And year on year, we have 6x the number of affiliates that are selling or promoting products to MercadoLibre. So we see it as a very positive and very... It's a channel that should help us drive growth in the future, so we are investing in that particular channel. So that explains most of the increase in in investments and marketing. The rest of the lines remain the same. There might be some seasonality in Q4, but for the most part is the affiliate program. And just to put it in perspective, if you look at the past several years, the range of investments in sales and marketing is between 11% and 12%. We are on the upper range of that level, but it's within those lines that we have been investing over the past several years. Second part of the question."
+    },
+    {
+      "speaker": "spk02",
+      "text": "I think the second part of the question was if there was an acceleration of credit driven by the momentum of e-commerce. I would say to some degree that could be the case, but I would say it's mostly that we're We have been mostly on the, let's split this answer in the two main areas. On the one hand, I would say that the yielding account, we have been advertising it strongly last year, and that has been the main driver. We pay a larger return in the super yielding account, and that has been the main driver for the acceleration. I would not say that it's necessarily related to the extra activity in the marketplace. And then on the credit card front, I would say it's a combination of two things. One, definitely we have been improving the integration of the offer of the credit card in the checkout and also offering more installments in the checkout. So definitely the marketplace is a big driver for the growth of the use of the credit card. But on top of that, We have continuously been improving the quality of our models. As we improve our credit models, we feel more comfortable issuing more cards. And therefore, I would say the main driver for issuing more cards, I would say, has been the increase in the accuracy of these credit models, but also definitely the integration with the checkout of the marketplace is also a big driver."
+    },
+    {
+      "speaker": "spk17",
+      "text": "The next question is from Craig Moore with FT Partners. Please go ahead."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Yeah, hi. Thanks for taking the question. I'd like to ask the flip side of the prior question, which is, you know, if you look over time at the – considering the investments you've made in provisions as well as growing out the credit book through credit cards and other types of loans, I was wondering if you could dimensionalize the lift that you get – on a basket size or a GMV spend basis for those that have the credit card or are borrowing versus those that are not, and perhaps also the degree of retention that you see in those customers versus those that don't."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Hi, Craig. Look, we have not disclosed a specific number in terms of a lift. We see neither spend or retention, but definitely is, I'd say, significant. We measure several things. One of them is how much interactions they have with the marketplace. Also, net promoter scores, there's a significant lift when someone starts using our credit products or they get a credit card in net promoter score. And I would say on top of those two things, we do see a higher engagement and higher net spend. Also, when we look at each of the main countries, I'm talking about Brazil, Mexico, and Argentina, and we look at what percentage of mix of all of the NMB is paid with Mercado Pago products that those lines have been growing steadily in all three markets. So if you combine buy now, pay later, credit card, store balance, and so on, that is growing and is becoming a more significant part of NMB in each of the market. And those transactions are great because typically they have a significantly higher approval rate and a lower cost. And many times we are double dipping because we have some income also on the MercadoPago side, or at least a lower cost. So I think there is really a big synergy going on between the marketplace and MercadoPago there."
+    },
+    {
+      "speaker": "spk17",
+      "text": "The next question is from Marvin Fong with BTIG. Please go ahead."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Good evening. Thanks for taking my questions. Two quick ones also on credit card. I believe you mentioned in prepared remarks you issued $3 million plus in the fourth quarter. I believe that's substantial. I think the last time you mentioned in the second quarter you issued $1.5 million. So it didn't sound like Argentina was the main driver of that, but could you just kind of break out Is the growth in Brazil and Mexico dramatically higher compared to the second quarter? And then the second part of the question, as the NPL performance in credit card continues to get better, are you or is there an opportunity in the future to kind of take a lower provision in the upfront and make it more margin attractive at an earlier stage. Thank you."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Marvin, let me take the first question with regards to number of credit cards we issued. In the fourth quarter, we issued nearly 3 million cards versus, as you said, 1.5 million in the second quarter and 2 million in the third quarter. I would say from the second quarter to the third quarter, the main increase came from Brazil, where improvements in our models meant that we were able to find more users that fit into our payback targets. That was from the second quarter into the third one. But then from the third quarter to the fourth quarter, there were two drivers. One of them was Argentina, as you mentioned. We started issuing cards in, let's say, halfway through the third quarter, but significantly sped up through the fourth quarter. And we issued several, a few, I'd say, 100,000 cards yesterday. as we begin to ramp up our surge in that country. Early results are promising and cards are being issued to lower risk users and the typical ones that use our consumer loans. So we are excited with how Argentina is growing and we are just getting started. And then in Mexico, I would say that better than expected payback periods enabled us to pick up the pace also of issuance, and we are comfortable with the pace we're taking. So I would say the first, we have an acceleration in the third quarter in Brazil, and then in the fourth quarter in Mexico and Argentina, and now we're working with the three countries at full speed, I would say."
+    },
+    {
+      "speaker": "spk03",
+      "text": "And in terms of the profitability of a product, if we look at Brazil, which is the oldest cohort we have, We have been issuing credit cards in Brazil since 2021. Cohorts that are older than two years are already profitable at an email level. So that gives us a lot of encouragement to continue expanding the user base. But obviously, as we incorporate a large number of new users, the average is still not profitable. But we are seeing the light at the end of the tunnel, right? So it should be a profitable business. It should have profitability when it comes to maturity. But still, we are at a stage where we are growing the user base. So on average, it's not profitable yet. So just to put it in perspective, we have three books of credit. We have consumer credit, which is a relatively high margin business in terms of NEMA. If you look at NEMA, it's in the 30s. In the high 40s, merchant credit. The credit card at this point is not NEMA positive on average, but half of the portfolio is already NEMA average in Brazil. We are seeing positive trends also in... Mexico, and I was directed too early to tell."
+    },
+    {
+      "speaker": "spk17",
+      "text": "The next question is from Jamie Freedman with Susquehanna International Group. Please go ahead."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Hi. Thank you. Can you hear me okay? Hello? Jamie, we can hear you. Okay, great. Sorry. So I had a question about the acquiring TPV. In terms of the mix of on and off platform acquiring TPV, how does that mix impact, say, the consolidated take rate of acquiring? And if it does, is the interchange component of that now facing the the regulatory caps that I think are underway in Mexico. Thank you very much."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Hi, Jamie. Let me clarify on acquiring. So we have If you want three segments, you mentioned on-platform and off-platform, but basically all of what is on-platform, we are measuring straightaway on the marketplace economics, so you don't see that on the acquiring side. However, we do see on the acquiring side both online and offline, so that is typically POSs, and we provide merchant services for other merchants. And there, typically, since there is higher risk And it's more complex to do online transactions. We have a higher take rate in online transactions and a lower take rate in POS transactions because in many cases, there is really no risk in those kinds of transactions. So, I would say most, the higher margin is on the online transactions. Nonetheless, offline is growing a lot and we see a lot of potential because we have a lower market share in that part of the business. And then with regard to the interchange cap in Mexico, that did not go through. The regulator decided to postpone that or to put that on hold, so there will be no change in interchanges in Mexico for the time being."
+    },
+    {
+      "speaker": "spk17",
+      "text": "The next question is from Joao Flores with Citigroup. Please go ahead."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thank you. I appreciate the broader strategic upside you've outlined on agentic commerce, and I fully agree with the merits of the driving online retail penetration and digital advertising. What I want to hear is your thoughts on the risk component, so essentially how these independent agentic systems could introduce new forms of intermediation and engage clients directly, right, leading to potential changes in monetization. The most obvious one we discussed we can think of and discuss a lot is the dollar flow of advertising. So I really wanted to hear how you view these risks and how you're approaching them strategically. Thank you."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Yeah. Thank you, Joao. Let me try to rephrase what I meant earlier as I try to address your point. I think there are things that we know and there are things that we don't know. So we don't know which hardware people will use in 10 years to buy. We don't know whether the winning model will be X, Y, or Z, and so on. We do know that consumers do value or do look for the best end-to-end experience. We do know, and that means not only searching for products, but also getting products fast, having the widest selection, pricing, the best financing alternatives, post-purchase support, and so on. We also know that there's a technology today that can dramatically improve the product discovery process, and for that reason, We are putting all of our efforts and deploying lots of engineers in building our own agents and our own shopping assistant within MercadoLibre. It's early to know what will happen with other shopping assistants. I take your point that it might present a risk. I understand where you're coming from. But we are confident that we are playing this one from a position of strength. that we have the relationship with consumers. We have a brand that Latin America loves. We have information and data about past purchases that allow us to offer them a great shopping assistant. And we are betting and putting our efforts on what we can control, which is building the best assistant possible. And then we'll see, right? And time will tell. It's a bit early in the process, but once again, I think that MercadoLibre is well positioned to capture this technology transformation, which, as I said before, I think will accelerate the migration from offline retail into online retail, which will be particularly relevant in a geography like Latin America, where we are somehow like 10 years before where the US, the UK, or Asia is today."
+    },
+    {
+      "speaker": "spk17",
+      "text": "This concludes our question and answer session. I would like to turn the conference back over to Martin de los Santos for any closing remarks."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you all for joining the call and for your questions. We are very excited with the results that we're seeing across our ecosystem. In 2035, we achieved record market share gains in commerce in Brazil and Mexico. In fintech, we also saw important market share gains in our acquiring business, and we continue to scale our credit portfolio, which is very profitable, as we discussed earlier. This resulted in Q4 revenues growing at 45% year-on-year, market at 28, consecutive quarter of growth above 30%. which is another sign of effectiveness of the long-term investment and customer focus that we have within our ecosystem and the way we manage our ecosystem. In 2025, we'll reach the record NPS in commerce and fintech in Brazil, Mexico, and Argentina. It's a great achievement that will enable us to sustain future growth as we look into 2026. I look forward to talking to you again in May when we will disclose Q1 results In the meantime, the investor relations team is available for any further questions. Thank you again, and good evening."
+    },
+    {
+      "speaker": "spk17",
+      "text": "The conference is now concluded. Thank you for attending today's presentation. You may now disconnect."
+    }
+  ]
+}

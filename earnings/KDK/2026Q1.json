@@ -1,0 +1,267 @@
+{
+  "event": {
+    "ticker": "KDK",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk00": {
+      "name": "Operator",
+      "title": "Conference Operator"
+    },
+    "spk05": {
+      "name": "Daniel Goff",
+      "title": "Vice President of External Affairs"
+    },
+    "spk08": {
+      "name": "Don Burnett",
+      "title": "Founder and Chief Executive Officer"
+    },
+    "spk07": {
+      "name": "Surajit Dutta",
+      "title": "Chief Financial Officer"
+    },
+    "spk11": {
+      "name": "Andre Shepherd",
+      "title": "Analyst, Cantor Fitzgerald"
+    },
+    "spk01": {
+      "name": "Colin Roush",
+      "title": "Analyst, Oppenheimer"
+    },
+    "spk09": {
+      "name": "Alina Vitae-McCalley",
+      "title": "Analyst, TD Calum"
+    },
+    "spk02": {
+      "name": "James McIllery",
+      "title": "Analyst"
+    },
+    "spk06": {
+      "name": "Ravi Shankar",
+      "title": "Analyst, Morgan Stanley"
+    },
+    "spk12": {
+      "name": "Walter Pietek",
+      "title": "Analyst, LightShed"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk00",
+      "text": "Thank you for standing by. At this time, I would like to welcome everyone to the Cordiac first quarter 2026 earnings conference call. All lines have been placed on mute to prevent any background noise. After the speaker's remarks, there will be a question and answer session. Today, we ask you to limit to one question and one follow-up. If you would like to ask a question during this time, simply press star followed by the number one on your telephone keypad. If you would like to withdraw your question, Simply press star 1 again. Thank you. I would now like to turn the call over to Daniel Goff, Vice President of External Affairs. You may begin."
+    },
+    {
+      "speaker": "spk05",
+      "text": "On the call today are Don Burnett, Founder and Chief Executive Officer of Kodiak, and Surajit Dutta, Chief Financial Officer of Kodiak. A press release and an earnings presentation were issued earlier today and are posted on the Investor Relations section of our website. This call is being broadcast live via a webcast, and a replay will be available on our website after the call. Before we begin, I would like to remind you that during today's call, Kodiak will be making forward-looking statements within the meeting of the federal securities laws about financial performance and future events, including our guidance for fiscal second quarter and full fiscal year 2026, as well as our long-term goals. Actual events or results could differ materially. Please refer to our SEC filings, including our most recent Form 10-K and the Form 8-K filed with today's press release for important risks and other factors that may cause our actual results to differ from those in our forward-looking statements. Additional information will also be set forth in our quarterly report on Form 10-Q for the quarter ended March 31, 2026. We disclaim any obligation, except as required by law, to update or revise any financial or operational guidance and long-term goals or other forward-looking statements. whether because of new information, future events, or otherwise. Any forward-looking statements made on this call speak only as of the date of this call. Further, in addition to discussing results that are calculated in accordance with generally accepted accounting principles, we also refer to certain non-GAAP financial measures. For more detailed information on our non-GAAP financial disclosures, including reconciliations to most comparable GAAP measures, please refer to our earnings release, which can be found on our investor relations website. I will now turn the call over to Don. Please go ahead."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Good afternoon, and thank you for joining us. Before getting into our Q1 results, I'm excited to highlight that today we announced a $100 million capital raise. With our strengthened balance sheet, we believe we have extended our liquidity into Q2 of 2027, which will enable us to support the next phase of growth as we scale our driverless deployments. Now, I'd like to turn to our Q1 results. In the first quarter, we increased both the scale and productivity of our growing driverless deployment, expanded our partner ecosystem across the long-haul, industrial, and defense verticals, and made meaningful progress toward our driverless long-haul launch targeted for late 2026. We also made significant progress maturing our physical AI power technology and product while maintaining financial discipline and capital efficiency. We deployed eight additional trucks in Q1 for a total of 28 driverless trucks, further expanding our industry-leading driverless truck deployment. As of quarter end, those trucks have driven more than 23,500 paid driverless hours, a 120% increase from the end of Q4 of last year. These hours are equivalent to over a decade of working as a truck driver. Further, the hours driven in Q1 exceeded all the driverless hours driven in 2025. Over the same period, cumulative loads delivered increased to more than 15,600, representing approximately 24% growth. That includes more than 200,000 tons of freight, approximately the weight of the Sears Tower, delivered in Q1 alone. We believe these results demonstrate that we are successfully scaling our product and delivering increasing value to our customers. Because Kodiak's integrated platforms are powered by a single autonomous stack, the capabilities we develop, the miles driven, and the new customers and partners we work with create a compounding flywheel effect, benefiting long-haul, industrial, and defense applications. In the first quarter, we made strong progress on strategic partnerships and customer engagements as industry leaders continue to choose the Kodiak driver to enable their autonomous future. I'd like to highlight one exciting announcement we made earlier today, a strategic partnership with General Dynamics Land Systems, or GDLS, to collaborate on autonomous military ground vehicles. GDLS, part of the Fortune 100 General Dynamics Group, manufactures critical platforms such as the M1A2 Abrams tank and the Stryker combat vehicle. Working with GDLS will allow us to extend our reach into the core of the defense ecosystem, It also demonstrates our flexible approach to defense engagements. We are working with industry leaders to support paths to production and revenue, while simultaneously contracting directly with the Pentagon, as we have done with the Marines' Rogue Fires program. Our work with General Dynamics Land Systems is already generating results. In March, we unveiled the first vehicle we developed in collaboration with GDLS, the Leonidas Autonomous Ground Vehicle. The Leonidas AGV combines the Kodiak driver with Epirus's cutting-edge, high-power microwave system for counter-drone operations, supported by GDLS's system integration expertise. We continue to make significant progress on our core technologies. Driving this progress is our increasingly aggressive adoption of AI tools that are proving to be true force multipliers across our company. AV developers are only as good as the tool they use, and AI is enabling us to develop new, powerful tooling that is already transforming how we work. In Q1, we launched company-wide Model Context Protocol, or MCP, servers that allow agentic AI tools to connect to all of our company data sources, allowing the entire company, not just engineering, to develop new, bespoke AI-powered tools tailored specifically to individual needs. In layman's terms, these NCP servers and related data pipelines empower our team to use plain English to build AI tools and proliferate AI agents that massively increase our productivity, efficiency, and problem-solving capabilities. This, in turn, is driving a transformation in how we run our business. For example, we've used our MCP service to develop Prism, a flexible new tool that allows anyone in the company to search across thousands of hours of unstructured driving data using only text prompts, surfacing patterns and root cause analysis that previously required dedicated engineering effort. Prism can explain the Kodiak driver's behavior in intuitive ways to both technical and non-technical teams using natural language. We've used this new capability to tune the Kodiak driver in ways that would not have been possible before. For example, we use PRISM to not only identify commonalities among challenging highway scenarios, but even identify potential improvements that we have since adopted. But these tools are not only about software. They also help to drive improvements in hardware, manufacturing, and beyond. On the hardware side, we announced that Kodiak will use the NVIDIA Drive Hyperion architecture in the next generation of Kodiak driver-powered trucks. We believe this will increase our ability to deploy even more capable and efficient driverless trucks over time. Additionally, at CES in January, we laid out our vision for industrializing the Kodiak driver through our strategic collaboration with Bosch, one of the world's leading automotive suppliers. Through this collaboration, we will leverage Bosch's manufacturing expertise to deploy driverless vehicles at scale. This week, at ACT Expo, we demonstrated the progress we have already made together exhibiting an early prototype Kodiak sensor pod outfitted with Bosch camera and radar sensors. Taken together, these partnerships enhance the ecosystem needed to efficiently scale simultaneously across all three verticals, from vehicle platforms to industrialized hardware to AI compute. With that, I'd like to discuss our progress toward our targeted driverless long-haul launch in late 2026. As of the end of April, our long-haul autonomy readiness measure increased to 86%, reflecting steady progress in launch readiness. As we leverage our increasing investments in our team and AI tooling, we believe that our ARM progress will accelerate in Q2 and beyond. Over the course of the quarter, we completed numerous safety case claims, including claims covering our driverless long-haul sensor field of view requirements and our redundant braking subsystems. As a reminder, completing a safety case is about collecting sufficient evidence to demonstrate safety, and Kodiak is one of only a small handful of AV companies that have successfully built a safety case and launched driverless operations. We continue to hone our safety case structure as we refine our safety processes and implement our learnings from our long-haul industrial and defense operations. To reach an arm of 100% and unlock long-haul driverless operations, we will continue to gather evidence to close our remaining claims. That work leverages the safety methodology, testing, and documentation processes we established over our nearly 18 months of driverless operational experience in the Permian. In addition to our work on the safe launch of our long-haul driverless product, we continue to expand our long-haul commercial operations, delivering freight with leading shippers and carriers from our Dallas hub. This afternoon, we announced that we launched service with a new carrier, Rail Transport. Through our collaboration, we are hauling freight with rail transport between Dallas and Houston four times a week. Rail transport is one of North America's safest trucking companies as recognized by the American Trucking Associations, or ATA. They are a recent recipient of the ATA's President's Award, the trucking industry's highest safety honor. They specifically chose Kodiak because of our shared commitment to safety. During Q1, we also began freight services between Dallas and El Paso in cooperation with one of our long-term customers. This freight lane is our second route beyond a single hours of service after Dallas to Atlanta. It is just the kind of long-haul lane where the Kodiak driver can offer the most value given the challenges fleets face staffing these routes. These true long-haul freight operations are critical to helping us build a product that meets our customers' needs. We are working closely with all of our long-haul customers to prepare them for driverless operations in the coming quarters. While preparing for long-haul driverless represents our core focus for 2026, our industrial business demonstrates how our driverless technology is continuing to deliver value to our customers and expanding to other geographies and use cases. Today, I'm excited to announce our planned pilot operations with West Fraser, one of the world's largest wood product companies, to demonstrate the Kodiak driver in logging operations in Canada. This will mark our first pilot in the forestry industry our first international expansion, and our initial operations with flatbed trailers. Logging routes, like oil and gas routes we see in the Permian, are among the most demanding environments in trucking. We believe this pilot will further demonstrate the versatility of our system across geographies and trailer types and expands the range of industrial use cases where the Kodiak driver can deliver value. In addition to our new pilot in Canada, we continue to make meaningful progress in our Atlas deployment Since we are not reliant on HD maps, we can quickly add new routes to our operational design domain. To date, we have delivered on over 15 unique routes with Atlas, each with its own complexities. We also expect to continue to execute against our initial 100 truck commitment with Atlas over the next several quarters and expect to execute two with driverless trucks in the mid-30s. Atlas is evaluating deploying the Kodiak driver on a new OEM platform for the remaining trucks. This transition, beginning in Q3, will include a shift to a more economical day cab from a sleeper berth, which we believe will be the predominant configuration for driverless operations across both industrial and long haul. We believe our modular, platform-agnostic architecture positions us well to support this transition efficiently, and we are working closely with Atlas to meet their evolving fleet requirements. We view this as an exciting opportunity to demonstrate the ease of integration of our technology on an additional truck platform. Delivery timing will remain closely aligned with our customer needs and will depend on factors such as procurement of the new truck platform, fleet planning, deployment schedules, and critical hardware and truck availability and lead times. As a result of this platform transition and associated procurement timelines, we now expect to deliver a similar number of trucks in the second half of 2026 as we expect to deliver in the first half. As the new platform scales, we expect deployment to accelerate. We anticipate completing Atlas's initial 100 truck commitment in the first half of 2027. Now turning to defense. With General Dynamics land systems and beyond, we continue to add wins in the defense vertical, where reliability and performance in complex environments are mission critical. At the broadest level, we are seeing the defense autonomy ecosystem evolve from experimentation to deployment, as ongoing geopolitical instability forces both the Pentagon and our allies to accelerate their timelines for frontier technologies like autonomy. Underlining this increased interest, the President's 2027 defense budget includes over $50 billion in funding across land, air, and sea for Defense Autonomous Warfare Group, up from just $225 million in 2026. We therefore expect to see increased revenue-generating opportunities in 2027 and beyond. Our recent successes in defense demonstrate the maturity and adaptability of our system in mission-critical environments, and we believe will position us well as the Pentagon increasingly turns to commercial partners to accelerate autonomous ground vehicle deployments. Moving on from defense, Q1 saw continued regulatory progress for the autonomous vehicle industry. We are encouraged by continued momentum toward a more consistent federal approach, which we believe will further support broader adoption over time. At the state level, California recently published final status regulations that will allow us to deploy the Kodiak driver in our home state, thereby enabling us to offer coast to coast driverless service. These regulations will provide us with additional regulatory certainty. We plan on submitting our application for a California testing permit in the coming weeks. Similarly, Texas also launched its new AV permitting program. After submitting our first responder interaction plan to state officials, we received our Texas AV authorizations. We continue to engage with regulators at both the state and federal level. One engagement of note was our participation in a grant-funded public demonstration in cooperation with DriveOhio, the Ohio Department of Transportation's hub for smart mobility technology. Our work with DriveOhio represents Kodiak's first operational deployment outside of the Sunbelt and enabled us to demonstrate our long-haul autonomous solution to policymakers and industry leaders in Ohio and Indiana. As we prepared for this engagement, we passed an exciting milestone. We added our 25,000 mile to our commercial network, which is more than the circumference of the earth. The massive size of our network underlines the flexibility of our routing technology, which enables us to quickly add new routes across a range of geographies and deployment types. In closing, we believe our $100 million equity financing, combined with our continued product maturation and driverless deployments, position us to scale driver-as-a-service across long-haul, industrial, and defense in a disciplined and capital-efficient way. We are well on our way to scaling Kodiak into a sustainable business that provides real value to customers, and I am excited by the opportunity ahead. I'd like to take a moment to thank all of the Kodiakers who worked so hard in the first quarter to drive us forward. Autonomous driving is the first wide-reaching application of physical AI. This is just the beginning. Now, over to Zorajit."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thank you, Don, and good afternoon, everyone. I am pleased to share Kodiak's financial results for the first quarter of fiscal year 2026. We delivered a strong first quarter across both operational and financial metrics successfully executing against our strategic priorities, scaling driverless deployments, growing recurring revenue, and maintaining discipline spending. We ended Q1-FI-2026 with 28 driverless trucks in line with our expectations as we continue to broaden our deployment with our existing industrial customer. Q1 revenue was $1.8 million, representing 74% growth quarter-over-quarter This performance was primarily driven by continued expansion in driver-as-a-service revenue enabled by growth in customer-owned driverless trucks. Gap operating loss for the first quarter was $37.9 million. Non-gap operating loss, which excludes stock-based compensation, was $31.8 million, primarily reflecting continued investment in R&D and operational support as we scale our deployments. We incurred capital expenditures of approximately $5.5 million, primarily related to AV hardware that we deploy on our customers' trucks. Turning to cash flow, Q1 free cash flow was negative $35 million, outperforming our expectations. This reflects continued investment in R&D, operational scaling, and AV hardware deployment, partially offset by improving operating leverage. For the second quarter of fiscal 2026, we expect driverless trucks to increase to mid 30s. We expect free cash flow of negative 39 million to negative $41 million with the increase primarily driven by non-recurring spend for hardware unit cost improvements and incremental capex to support driverless long haul testing and development. For the full year fiscal 2026, We are improving our free cash flow guidance and now expect free cash flow to be in the range of negative $155 million to negative $165 million. This improved outlook reflects continued growth in revenue, expected lower AV hardware costs due to slower pace of deployment, and sustained discipline in operating expenses. We ended Q1 with cash and cash equivalents and marketable securities of $90 million. Today, we further reinforced our liquidity position with a successful common stock by financing from existing and new investors, raising $100 million of gross proceeds. After fees and expenses, net proceeds are approximately $95 million. On a pro forma basis, this brings our Q1 cash, cash equivalents, and marketable securities to approximately $185 million. The successful financing strengthens our balance sheet and extends our liquidity into Q2 of FY2027. In summary, Q1 reflects a strong start to 2026. We delivered solid revenue growth, continued scaling of driverless deployments, and outperformed our free cash flow expectations. while improving our full-year free cash flow outlook. We believe that we are well positioned to scale our business, progress towards profitability, and generate free cash flow over time. Operator, please open the line for questions."
+    },
+    {
+      "speaker": "spk00",
+      "text": "At this time, I would like to remind everyone, in order to ask a question, press star, then the number one on your telephone keypad. And your first question comes from Andre Shepherd with Cantor Fitzgerald. Please go ahead."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Hey, everyone. Good afternoon and congratulations on all the great progress on the capital race. Lots to unpack. So, again, kudos to everyone. Don, I was just wondering if you could maybe give us a little bit of cadence in terms of how we should think about deployments for this year. Surajit, I think you alluded to kind of Q2, what to expect, but just curious for maybe the remaining part of the year, how should we think about those deployments ramping up in the second half and maybe through next year? Thank you."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Thanks, Andres. As we said in the remarks, we expect the second half of 2026 to look very similar to the first half of 2026 in terms of raw numbers. And we do expect the ramp of the truck to accelerate quarter over quarter through the first half of 2027."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Got it. Okay. Very helpful."
+    },
+    {
+      "speaker": "spk11",
+      "text": "And just curious if you could maybe expand a little bit further on Canada. What kind of opportunities Do you look forward to there? And maybe remind us, what is the regulatory environment there for maybe those that aren't as familiar? Thank you."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Sure, yeah. This is a really exciting development for us. As we've been talking about for some time, we see our industrial and unstructured driving applications as being manifold. You have the oil and gas industry, of course, which we've talked about at length. There's mineral and resource mining in many other countries. And then there's forestry and logging. in the Pacific Northwest, both here in the US and Canada and beyond. And so we're really excited to announce West Fraser as a pilot opportunity that will execute in Q3. These are very difficult, unstructured, remote locations, which have a lot of the same challenges that you will find in some of the other applications that we've already been pursuing, including in the Permian. And as it relates to The regulatory framework, this is something that we are working on currently. We will be operating initially on private land, again, in Canada, which allows us to deploy driverlessly without anybody in the cab, independent of the regulatory framework. We continue to work with regulators at the province level and at the national level in Canada to ensure a free and clear path to deploy driverless trucks at scale beyond those environments. But that's a development that we're working on, and we expect to have progress over time."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Wonderful. Very helpful. And congrats again on all the quarter. I'll pass it on."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thanks, Andres."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Your next question comes from the line of Colin Roush with Oppenheimer. Please go ahead."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thanks so much, guys. Could you talk a little bit about the dexterity that you have in terms of managing autonomy from multiple form factors? It just looks like you're going to be able to deal with multiple types of vehicles in different environments. I just want to understand how quickly that sort of capability can get put out into the field."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, sure. We've held the belief for a long time that generalized AI is always going to win out over specialized implementations. And so from the very beginning of the company, we wanted to be platform agnostic and adaptable to many different form factors, not just makes and models of a vehicle, but also additional form factors. And you're seeing the fruits of that labor as we deploy into the defense space with tracked vehicles and various form factors there, large trucks. like you see on the highways, heavy duty trucks that we implement in our unstructured environments like the Permian and also logging trucks, which are slightly different themselves. Kodiak implements a single AI system behind all of these different products and applications. So the core underlying software that runs on these vehicles is actually the same across each one of them. But that allows us to leverage the learnings, the data, the training, and all of the development costs across each one of those verticals without having to have specialized teams or specialized AI or specialized training that goes into each one of them. And so the more experience that we gain as a company, the more experience that the Kodiak driver gains as a system, the stronger the AI becomes and the more utility we get out of it across all of the different verticals and applications that we supply to our customers."
+    },
+    {
+      "speaker": "spk01",
+      "text": "That's super helpful. And then, you know, you guys have announced the partnership with Bosch, and you're obviously working very closely with them. But there's also been a reasonable evolution of some of the perception solutions that are out in the field. I'm just curious about your capacity to integrate some of those innovations and really monetize them and how much efficiency you might get out of them, thinking particularly around LIDAR as well as some of the other sensors that are out there."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, we're always evaluating new sensors. We use LiDAR cameras and radars in our system today. We feel like that sensor stack is the appropriate balance of cost and performance. You can always add more sensors to your system. Of course, that makes it more expensive. In our business, we can absorb a more expensive hardware solution that increases the safety and utility of the system. And so we continuously evaluate all of the products out there on the market from providers both here in the U.S. and abroad. That's true of the LIDAR space, radar space, and camera space. We did just demonstrate at the ACT Expo in Las Vegas with Bosch, the kind of a concept of the next generation of our sensor pod, which includes Bosch's in-house radar and camera sensors. And so we're really excited to continue to develop a much more mature, reliable, and scalable system with Bosch as our Tier 1 supplier. Great. Thanks so much, guys. Thanks, Colin."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Your next question comes from Alina Vitae-McCalley with TD Calum. Please go ahead."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Great, thanks. Hi, everybody. Maybe just to continue on the last question as well with Bosh, can you maybe just size a little bit how you see the cost-cutting opportunity in the second generation versus kind of where we are today, and maybe just some updates. I think I also heard a mention around some maybe Q2 investments for kind of hardware cost improvement. Maybe you can just elaborate on that as well."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, sure. I'll start, and then maybe Sirajic can speak to that as well. You know, there's a couple of different factors that go into reducing the cost of your system. Obviously, you can engineer it to be cheaper. You can try scale and volume, which ultimately reduces the cost of various components. And certainly, your manufacturing processes, as you scale up into higher quantities, can be optimized for significantly cheaper production. And then, you know, so from the side of engineering perspectives, we are putting in R&D resources and, yeah, putting in R&D resources behind driving down the cost, the BOM cost being one of the main drivers of COGS for our solution. And we expect to start to see those costs coming into effect in the next several quarters."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, just to add to what Don mentioned, for us it's a three-pronged approach. Don talked about the design enhancements we are starting to undertake, and there'll be some NRE spend in Q2, as we referred on the call. And that goes on the census side of things and on the redundant systems. Those are areas we are working on. And second is just not just increasing the scale of production with Bosch and Roush, Roush able to provide high quality assembly, Bosch being able to do high scale assembly across the breadth of the hardware, and that we expect to drive down cost optimization over time. And lastly, what we're trying to enhance, and we'll be continuing to work on this to create a global supply chain organization, and as we scale, and we should be able to procure more effectively, and that'll drive down costs. I think the strength of our system is to be a pretty much hardware source agnostic, and that allows us to be much more efficient on costs over time."
+    },
+    {
+      "speaker": "spk09",
+      "text": "That's very helpful. As a follow-up, a lot of really great announcements with Wes Frazier and some defense, Don, as you look out a couple of years, how would you rank these opportunities in terms of what could have the biggest impact on the company going forward, where you want to be most focused on as you continue to expand your verticals?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "That's a great question. I think it's going to shift over time. I think defense is a bit of a wild card there because it's very difficult to predict the timing of various contracts and the spend. As I mentioned in the remarks, we're Very excited about what we're seeing in the FY27 budget for billions and billions of dollars put towards the autonomy vehicle group within the Department of War. That's the level of funding that we just haven't seen in the past. And so we're optimistic that there will be tailwinds for us to take advantage of in the next, you know, call it 12, 18 to 24 months. And so we expect that to, you know, contribute meaningfully. And at the same time, we're growing our industrial business today both with Atlas and continuing to bring on additional customers such as West Fraser. And so we see that, we see steady growth in that industry. And obviously that's something where we have an existing business and we'll continue to scale. And then the third one being the long haul opportunity. It's certainly the largest by a significant margin relative to the other areas. And so as we prove out the safety case, we close out our arm of 100, we deploy the driverless highway product and start to deploy trucks into customer fleets. We think that ultimately that will be the largest contributor down the line to our revenues and to our growth. But where does that transition point happen is a little bit hard to pinpoint at this exact moment. It'll be in the next several years."
+    },
+    {
+      "speaker": "spk03",
+      "text": "That's perfect. That's very helpful. Thank you."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Your next question comes from the line of James McIllery. Please go ahead."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yeah, thank you, and good afternoon."
+    },
+    {
+      "speaker": "spk02",
+      "text": "The deal with roll, is that on your trucks or their own trucks, and is there an observer in the cab, at least initially?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, today it's with our trucks, similar to the one... Similar to the way we operate with other carriers, being this is a transportation as a service that we offer third-party fleets, and we move freight on their behalf as a third-party capacity provider. And so we'll work with rail in the same capacity that we do with other trucking carriers and trucking companies that we work with."
+    },
+    {
+      "speaker": "spk03",
+      "text": "And yes, there's a safety observer still behind the wheel for now."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Great, thank you. And can you address a little bit the product migration, particularly with your collaboration with NVIDIA?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, we've been a customer of NVIDIA for a long time, as most of the industry has, and we've been working very closely with them on the development of their newest and latest and greatest products, and we're excited about the Thor platform that will be in the next generation of our products. the NVIDIA Drive Hyperion is an ecosystem of components that you can kind of put together to build a fully reliable automotive grade autonomy compute system. So we're working closely not only with NVIDIA but also with tier one suppliers to build that into the next generation system that we can build at scale. So we've been an NVIDIA partner for a considerable amount of time and We continue to be excited to work with them, and we're excited about what they're bringing into the future of low-power compute for applications such as self-driving trucks."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Okay. Does this $100 million get you to cash flow break-even?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "So as we mentioned during the prepared remarks, this provides us liquidity into Q2 of FY2026. We'll continue to be opportunistic about additional capital raises, and we expect to become S3 eligible end of Q3, and that provides us with additional flexibility in accessing capital markets. Also, this $100 million, this has come from both existing investors, including Ares, who was a SPAC sponsor, and also new investors. So we believe this demonstrates confidence in our strategy and execution and the long-term opportunity. So we expect to get access to more additional capital to get to big events."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you. Thanks, Jim."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Again, if you would like to ask a question, press star followed by the number one on your telephone keypad. And your next question comes from the line of Ravi Shankar with Morgan Stanley. Please go ahead."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Great. Thanks, guys. So just on the defense opportunity, who is your competitor there, if you have any at the moment? And also, what do you know about the program so far? Is there... Like, is it just the amount that's in the defense budget, or do you know if there's going to be an RFP and the size of the program or even what the specs of the program are at this point?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, so in terms of competitors, there's probably a long list of companies that play in the defense space. Certainly the more prominent, well-known ones are companies like Fortera, Overland AI have been pretty established in the space. I think what Kodiak brings uniquely to the table is that we are a commercially mature technology stack. We have actual driverless deployments in the hands of customers today, and so we understand how to build safe and reliable systems that we can ultimately bring to military use cases to help save lives in the front lines. And then in terms of the program itself, the budget is not specific to one program or one RFP. We are already working with General Dynamics Land Systems to bid on future programs. It's great to have a partner like them to kind of take this technology to a much more mature and much more credible level. So we'll continue to work with them on new RFPs and new contracts and new programs as they come about. But the budget just underpins a number of programs that both exist today but also are being conceived of and created in the near and long-term futures."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Got it. Thanks, Jonathan. Maybe as a follow-up, just on Atlas and the new OEM, can you just unpack that decision? Was that at their request or your request? Why did that change? Is it just the cab configuration or something else?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, there's many factors there. The cab consideration, as we mentioned in the remarks, I won't speak for Atlas, but generally speaking for fleets and trucking companies at large, you'll definitely be aware that companies like to diversify their fleets. Usually you don't want to be a single platform fleet. And so the request came from the Atlas team. And of course, we are very excited to support the bring up of a new platform, not only to help support their ultimate goals of rolling out autonomy at scale within their business, but also to prove out the modularity and adaptability of our system on other platforms and to establish close relationships with additional OEMs, which of course we've been working on for quite some time. So bringing up a new OEM from our perspective is nothing but a win-win, and this is also than a form factor make and model that we can bring to other customers in other jurisdictions as well. So it just gives customers ultimately more flexibility, more optionality, and that's better for the market. And it shows that Kodiak is ready to scale and ready to be flexible and meet the customer where it is. So the request came from the Atlas side, and we were very excited to support that request and to meet their fleet deployment needs."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thanks for the call, Eric."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Your next question comes from the line of Walter Pietek with LightShed. Please go ahead."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Thanks. Hey, Dan, can we just get some more specific terms on the $100 million and why you're elected to do a pipe with warrants? I know Aurora had success historically with an ATM. Well, I guess success, they were able to raise the money, but obviously at different prices. But what are the things that you look at in terms of cost of capital?"
+    },
+    {
+      "speaker": "spk03",
+      "text": "And again, just if we can get the terms of that $100 million, it would be great."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, happy to, Walt. So, you know, our priority was to secure coveted capital from high-quality investors with speed and certainty. This helps strengthen our balance sheet to support our growth plans and enhance our liquidity. So this gets us liquidated into Q2 of FY2027. Five transactions of this nature are typically priced at a discount. We believe the terms reflect market conditions, the range we are seeing in the market for similar transactions, and most importantly, the strategic value of capital provides us extended liquidity. I think on high level, the transaction raised $100 million in proceeds. The issuance price was $6.50. and we issued warrants along with that. And we have more details you can find in our recently fined 8K and the upcoming 10Q. We'll have more."
+    },
+    {
+      "speaker": "spk12",
+      "text": "How were the warrants priced?"
+    },
+    {
+      "speaker": "spk03",
+      "text": "At $6. Thank you."
+    },
+    {
+      "speaker": "spk12",
+      "text": "And there wasn't an alternative source of capital that was less diluted? I mean, the stock's obviously at $9 now. You had a lot of announcements today. What were some of the alternatives that you looked at in terms of raising that capital?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "We always look for opportunistic financing. We will have more options available as we expect to become S3 eligible end of Q3, and that will give us more additional options on financing alternatives."
+    },
+    {
+      "speaker": "spk12",
+      "text": "So what was the reason for the timing now as opposed to waiting until the end of Q3?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "We had announced that we had liquidated into Q4 of FY2026. This gets us an additional six months of liquidity approximately."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, and I would just note that ATMs are not available before you're S3 eligible. So that's not available to Kodiak at this time."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Understood. Thanks, Sam. And then on the operational side, you were noting these flatbed loggers, whatever. it just occurred to me, you know, you're pitching this kind of modular approach. And when we see other autonomy companies come out with a new vehicle, like let's say Waymo, you know, let's say the Ojai comes out, there's some period of time where it has to adjust and they have to have it learn to the new vehicle. Like how does your process differ? I know it's to the extent that it's modular. I mean, I've obviously seen it and you can bolt it onto the military or a log or whatever, but I presumably carrying sand is, is going to be different than, like if I'm a driver, is going to be different than carrying a bunch of logs or, you know, whatever, like boxes of retail stuff when you hit the highways. How does that work with your driver in terms of new vehicle, different type of load, and how the programming or whatever you have to do to make that work?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, thanks for the question. I can't speak to the differences of how others do it, but let's see. You know, we've continuously expanded and pushed the limits of what the system's capable of doing. For instance, in our last call, we talked about our expansion into double and triple trailers. Triple trailers are incredibly complicated, very small margin for error. There's lots of dynamical challenges that occur when you have a snake. of trailers behind you, especially at heavy loads, like the 275,000 pounds that we're pulling. And the Kodiak driver has learned how to handle the various different distributions of load, both from single trailers that are partially filled all the way to triple trailers that are fully filled. And so yes, the dynamics are different, but the system kind of understands those dynamics and, uh, And we see logging as a natural extension to what we're doing in the Permian. It'll be a single trailer to start. Logs are strapped down tightly, as is the sand in the trailer. So it's not a dramatic difference, but it's hard for me to answer how it generalizes specifically under the hood, other than to say, You know all of our training data from multiple sources both structured environments like highways and surface streets and unstructured environments like what we find in the Permian what we find in Alberta. What we find in our on our military testing at various sites around the country. is brought together along with generative AI techniques that allow us to style transfer other types of data that we may not be able to collect directly into a single AI system that we then deploy across the fleet, which is able to drive in all of the different scenarios that we ask it to and all the applications that we serve across different platforms. So there's definitely testing and validation with every platform, but It is the same software that runs across both our Permian application for trucks that are owned by Atlas and ultimately the trucks that will be owned and operated by West Fraser."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Ladies and gentlemen, that concludes our question and answer session. Thank you all for joining. You may now disconnect."
+    }
+  ]
+}

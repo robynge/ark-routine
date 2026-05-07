@@ -1,0 +1,303 @@
+{
+  "event": {
+    "ticker": "GH",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk16": {
+      "name": "Matt",
+      "title": "Conference Moderator"
+    },
+    "spk18": {
+      "name": "Zarek Prashid",
+      "title": "VP of Investor Relations"
+    },
+    "spk19": {
+      "name": "Helmi El-Tiki",
+      "title": "Co-CEO"
+    },
+    "spk17": {
+      "name": "Amir Ali Talasaz",
+      "title": "Co-CEO"
+    },
+    "spk20": {
+      "name": "Mike Bell",
+      "title": "Chief Financial Officer"
+    },
+    "spk15": {
+      "name": "Mark Massaro",
+      "title": "Analyst, BTIG"
+    },
+    "spk12": {
+      "name": "Subbu Nambi",
+      "title": "Analyst, Guggenheim"
+    },
+    "spk07": {
+      "name": "Patrick Donnelly",
+      "title": "Analyst, Citi"
+    },
+    "spk01": {
+      "name": "Colleen",
+      "title": "Analyst, Wolfe Research"
+    },
+    "spk11": {
+      "name": "Sebastian Sandler",
+      "title": "Analyst, JP Morgan"
+    },
+    "spk02": {
+      "name": "Puneet Soda",
+      "title": "Analyst, Leerink Partners"
+    },
+    "spk06": {
+      "name": "Dan Arias",
+      "title": "Analyst"
+    },
+    "spk05": {
+      "name": "Kyle Mixon",
+      "title": "Analyst, Canaccord Genuity"
+    },
+    "spk00": {
+      "name": "Tycho Peterson",
+      "title": "Analyst, Jefferies"
+    },
+    "spk14": {
+      "name": "Bill Bonello",
+      "title": "Analyst, Craig Hallum"
+    },
+    "spk09": {
+      "name": "Brandon Coulart",
+      "title": "Analyst, Wells Fargo"
+    },
+    "spk03": {
+      "name": "Bradley Bowers",
+      "title": "Analyst, Mesa Hook Partners"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk16",
+      "text": "Good afternoon. Thank you for attending the Garden Health Q1 2026 earnings call. My name is Matt and I'll be the moderator for today's call. All lines will be muted during the presentation portion of the call for an opportunity for questions and answers at the end. If you would like to ask a question, please press star one on your telephone keypad. I'll now have to pass the conference over to our host, Zarek Prashid, VP of Investor Relations. Zarek, please go ahead."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Thank you. Earlier today, Gartent Health released financial results for the quarter ended March 31, 2026. Joining me today from Gartent are Helmi El-Tiki, co-CEO, Amir Ali Talasaz, co-CEO, and Mike Bell, Chief Financial Officer. Before we begin, I'd like to remind you that during this call, we will make forward-looking statements within the meaning of federal securities laws. These statements involve material risks and uncertainties that could cause actual results or events to materially differ from those anticipated. This call will also include a discussion of non-GAAP financial measures, which are adjusted to exclude certain specified items. Additional information regarding material risks and uncertainties, as well as the non-GAAP financial reconciliation to most directly comparable GAAP financial measures, are available in the press release Garden issued today, as well as in our 10-Q and other filings with the SEC. Garden disclaims any intention or obligation to update or revise financial projections and forward-looking statements, whether because of new information, future events, or otherwise, except as required by law. The information in this conference call is accurate only as of the live broadcast. With that, I would like to turn the call over to Helmi."
+    },
+    {
+      "speaker": "spk19",
+      "text": "Thanks, Eric. Good afternoon, and thank you for joining our first quarter 2026 earnings call. Starting on slide three, we entered 2026 with significant momentum that accelerated through Q1, driving a remarkable quarter for Garden Health. These results validate our strategic vision of delivering increasingly more actionable insights to physicians and patients across the care continuum. Notably, our commercial flywheel has achieved a new level of velocity, delivering our fastest year-over-year percentage revenue growth in the last five years and surpassing the $1 billion trailing 12-month revenue milestone. This is a testament to the burgeoning scale and long-term durability of our business. Before I share our results in more detail, I'd like to share a story that illustrates the real-world impact of our tests. A 77-year-old Atlanta resident recently completed a Shield CRC test, The results came back positive and the patient underwent a diagnostic colonoscopy during which a lesion was discovered and biopsied. The lesion was subsequently confirmed to be malignant by pathology. The patient then underwent surgical resection of the malignant lesion which was confirmed to be highly localized. The patient welcomed this news from her oncologist who was further relieved that no additional treatment was necessary. Patient outcomes like this are one of the many reasons we have benefited from accelerating adoption and growth. Turning to our revenue performance in slide four, we had a phenomenal start to 2026, delivering $302 million of revenue in Q1, representing 48% year-over-year growth. The growth was strong and broad-based across our oncology, biopharma and data, and screening business lines. Taking a closer look at our oncology business in slide five, oncology revenue growth accelerated to 36% year-over-year, driving Q1 revenue of $205 million. Oncology test volumes rose 47% to approximately 86,000 tests, up from 59,000 in the prior year period. This was the highest year-over-year percentage growth on oncology volume we've seen in nearly three years, with strength across all products. We're excited to see the expanding role of our portfolio across the cancer care continuum. Turning to slide six, our 47% year-over-year volume growth reflects the increasing breadth of our portfolio across both therapy selection and MRD. Garden360 Liquid delivered 30% volume growth year-over-year, while Garden360 Tissue was our second fastest growing product. Smart platform innovation continues to translate directly into volume growth for both products with Infinity AI powering a steady cadence of new clinical applications that are driving deeper adoption among oncologists. We have a strong pipeline of additional smart apps in development, and we look forward to continuing that cadence. Reveal remained our fastest growing product with volumes up over 100% year over year, reflecting strong adoption of Reveal and MRD across indications and enthusiasm for our new therapy response monitoring use case among our customers in its first full quarter post-launch. Moving on to slide seven. With each patient tested, our data treasury continues to deepen and diversify. Our data repository harnesses insights from over 1 million patient samples 500,000 epigenetic profiles across more than 100 tumor types, and each new sample helps compound the breadth and uniqueness of what we can deliver over time. By applying our Infinity AI learning engine to this expanding data mode, we uncover novel biological signatures, power new smart app development, and accelerate therapeutic discovery for our biopharma partners. The result is a compounding flywheel wherein data drives better insights, which in turn fuels volume growth and strengthens our data advantage. Turning to slide eight to take a closer look at our reveal data pipeline. We continue to make strong progress in generating and publishing compelling data across multiple cancer types and indications. We have submitted data packages to MoldDx to support coverage and breast cancer surveillance, immuno-oncology monitoring, and chemotherapy monitoring, and we are engaging constructively with MOLD-EX through the review process. Each submission represents a potentially meaningful reimbursement catalyst, and we are excited about the ASP upside that favorable outcomes would unlock. We are also advancing our work towards the MOLD-EX submission for CDK4-6 inhibitor monitoring. Looking further ahead, we have ongoing studies across more than five additional tumor types in both the adjuvant and surveillance settings. The breadth of this pipeline gives us real confidence in Reveal's trajectory and its expanding role across the cancer care continuum. Turning to slide nine, we continue to make strong progress across the GARDEN360 portfolio on multiple fronts. For GARDEN360 Liquid, our FDA review remains on track. When approved, GARDEN 360 liquid will become the most comprehensive FDA-approved liquid biopsy for therapy selection on the market. Moreover, this development will help simplify ordering across our therapy selection portfolio and create better connectivity across our larger testing ecosystem. On the tissue side, we are excited to announce our second major platform upgrade in less than a year, expanding RNA testing to hold transcriptome. This further builds on the genomic and epigenomic foundation of our smart platform, and we believe reinforces Garden360 Tissue's position as best in class in the tissue CGP market. We expect these upgrades to be a meaningful volume catalyst for both liquid and tissue, particularly as it opens the door to converting current non-users. Turning to slide 10, Garden had another strong showing at AACR this year. Together with our independent collaborators, 38 abstracts were presented spanning our entire oncology portfolio. The depth of the smart app data was remarkable. 25 of the abstracts featured Infinity AI-generated findings, which speaks to how rapidly this platform is maturing. We were particularly encouraged to see concrete evidence of Infinity AI enabling therapeutic response prediction and improving detection of clinically challenging alterations like ALK fusions and MTAP deletions. These are exactly the kind of insights unlocked by our data treasury and epigenomic capabilities that truly differentiate our platform. Shifting gears to our biopharma data business in slide 11, we delivered another strong quarter with revenue growing 17% year over year to $53 million. The last few months have been highly productive with respect to our CDX strategy, which included GARDEN-360 CDX FDA approval for Pfizer's Brastovir in BRAS B600E mutant metastatic colorectal cancer. And this week's CDX FDA approval with Arvanus and Pfizer's Vipano for ER-positive HER2-negative ESR1-mutated advanced breast cancer. Our CDX franchise now spans 26 approvals across the U.S., Japan, and Europe, backed by a robust pipeline across multiple partnerships with leading biopharma companies. In the quarter, real-world evidence generated from Infinity AI as supplemental data alongside clinical findings contributed to the first tumor agnostic approval of Daiichi Sankyo's and HER2 in Japan. We also saw further strengthening of our relationships with leading biopharma companies, including a multi-year agreement with Merck to develop companion diagnostics and commercialized novel therapies, as well as last week's announced collaboration with Newvalent to develop companion diagnostics with an initial focus on garden 360 tissue. Together, these developments reflect the growing strategic value of our smart platform and Infinity AI to leading biopharma companies and reinforce our confidence and sustained growth in this business. With that, I'll now turn the call over to Amir Ali for an update on screening."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Thanks, Amir. Moving on to slide 12. Q1 was another strong quarter for Shield. We delivered $42 million of Shield testing revenue driven by approximately 44,000 tests compared to $6 million revenue on approximately 9,000 tests in Q1 of 2025. Revenue growth has closely tracked volume growth, reflecting favorable collections and a disciplined focus on reimbursable lives. Now, roughly 18 months into the commercial launch, we continue to break records and look forward to sustained strong growth throughout the remainder of 2026. Moving to slide 13 for a closer look at Q1 screening highlights. We saw strong volume throughout the quarter and exited the quarter with accelerated momentum in March. which gives us real confidence in our trajectory for the remainder of the year. Our growth was fueled by continued improvement in sales rep productivity and amplified by a series of marketing initiatives that came together in the quarter. We launched our DTC and influencer campaigns in conjunction with Colorectal Cancer Awareness Month, including our national campaign with Patrick Dempsey, which I will cover on the next slide. Our Quest collaboration launched nationwide in late Q1, and we are pleased with the early signals. Quest is already opening doors for us in health systems and physician practices where we did not previously have a strong direct presence. SHIELD continues to demonstrate a high adherence rate of over 90%, which is one of the key differentiators of SHIELD versus other non-invasive modalities. Finally, we launched SHIELD multi-cancer detection in Asia through our partnership with Manulife, extending our reach into an important new market segment. Taking a closer look at our direct-to-consumer programs on slide 14, Q1 marked our first comprehensive DTC campaign spanning TV, digital, and influencer channels, and the results exceeded our expectations. Together, these efforts generated over one billion impressions. The centerpiece was our partnership with Patrick Dempsey, actor and avid cancer advocate who shared his personal experience using SHIELD during colorectal cancer awareness month. We saw a meaningful step up in consumer engagement, including website traffic and consumer-initiated provider engagements, which we expect to translate into greater adoption of SHIELD. Turning to slide 15. In complementing our DTC program, we have expanded our healthcare provider marketing initiatives, which drove record HCP engagement in Q1. Our March campaign featured targeted messaging to about 200,000 HCPs, emphasizing that many millions of Americans remain on screen, and that SHIELD is the only FDA-approved blood test for CRC screening with Medicare coverage. We continue to make great progress to enhance physician and patient experience. We are rapidly expanding the number of accounts with direct integration into their epic e-clinical works and Athena Health EMR systems. Moreover, we officially launched our collaboration with Quest Diagnostic Nationwide in late Q1, which has fast-tracked our EMR connectivity to more than 650,000 HCPs. We expect this to meaningfully increase depth of ordering among connected physicians. Quest National Sales Team has now started actively promoting SHIELD. While still early days, we are pleased with positive contributions we are seeing. Finally, our patient navigation team is actively helping practices connect patients to convenient phlebotomy access, utilizing our nationwide network of 40,000 phlebotomists as well as Quest 8,000 patient service centers. Turning to slide 16. At Garden Health, we are dedicated to continuous improvement of our products and patient experience. We are excited to report that we recently received FDA approval to reduce the amount of blood collected from patients to process shield tests to two tubes from the original four-tube kit. We applaud the FDA for their continued collaboration and dedication to strong patient outcomes. Moving to slide 17. Our goal has always been to detect many cancer types early when they are most treatable. With that in mind, we developed SHIELD as a multi-cancer detection platform. When a physician orders SHIELD for CRC screening, they can opt in to receive multi-cancer detection results report. The SHIELD MCD report is available to SHIELD CRC patients who authorize the release of their medical records to GARDEN. The launch of this initiative establishes a scalable platform for clinical data generation, enables assessment of the utilization of MCD results in patient care, and provides a new avenue to expand patient access to multi-cancer detection. The MCD report covers finding across nine additional cancer types behind CRC, including long breast, ovarian, pancreatic, and others. We are encouraged by HCP and patient response to this data collection initiatives and this strong opt-in that we are seeing. As a result, we believe we are building what will quickly become the largest clinical database of multi-cancer detection outcomes from patients in the United States. Now on to slide 18. During Q1, we announced the expansion of SHIELD multi-cancer detection in Asia through our partnership with Manulife. Manulife serves more than 13 million customers across Asia. We initially launched in three key markets, Hong Kong, the Philippines, and Singapore. This is a differentiated go-to-market strategy which leverages a direct channel to a large member base within those markets. With that, I will now turn the call over to Mike for more detail on our financials."
+    },
+    {
+      "speaker": "spk20",
+      "text": "Thanks, Amirali. Moving to slide 19, I'll now review our first quarter 2026 financial results. Unless otherwise noted, all growth rates are year over year. Total revenue in Q1 increased 48% to $302 million, reflecting strong growth and continued momentum across oncology, biopharma, and data and screening. Starting with oncology, Revenue increased 36% to $205 million. We reported approximately 86,000 oncology tests in the quarter, representing 47% volume growth with broad-based strength across the portfolio. Garmin 360 Liquid volumes grew 30%, supported by expanding clinical utility and continued traction of our smart apps. Garmin 360 Tissue also continued to scale and remains our second fastest growing oncology product. Reveal remains our fastest-growing oncology product, with volume growth exceeding 100%, reflecting strong adoption in MRD and continued expansion in therapy response monitoring following its Q4 2025 launch. Average selling prices were stable sequentially, with Garden 360 Liquid in the range of $3,000 to $3,100, Garden 360 Tissue above $2,000, and Reveal between $600 and $700. As a reminder, we've submitted data packages to Moldy X for Medicare reimbursement covering breast MRD and both immunotherapy and chemotherapy response monitoring. Favorable outcomes from these submissions will provide upside to Reveal ASP. Biopharma and data revenue was $53 million, up 17%, reflecting sustained demand and continued strength across sample testing, companion diagnostic projects, and data products. In screening, Q1 revenue was $42 million compared to $6 million in the prior year period. The increase was primarily driven by approximately 44,000 SHIELD tests in the quarter compared to approximately 9,000 in the prior year period. Volume tracked in line with expectations through January and February, and following the launch of our Quest partnership and successful HCP and DTC programs during Colorectal Cancer Awareness Month, we saw clear momentum build through March and exited the quarter strongly. Shield ASPs increased significantly year-over-year, reflecting the Medicare rate step-up from $920 to $1,495 that went into effect on April 1, 2025, following Shield's ADLT designation. As a reminder, after the initial nine-month period of list price-based reimbursement, Shield transitioned to market-based pricing at the start of 2026. Based on commercial and Medicare-advantaged payments received in 2025, the $1,495 Medicare fee-for-service rate is now established for 2026 and 2027. As of period, revenue in Q1 was broadly consistent with quarterly trends over the past year and totaled $22 million, which consisted of $18 million oncology revenue and $4 million screening revenue. Turning to slide 20, non-GAAP gross margin was 66% in Q1, 2026, up from 65% in the prior year period. The improvement was primarily driven by lower Garden360 liquid cost per test, reflecting the ongoing transition to NovaSeqX, which will be completed in May, 2026. The transition reduced Garden360 liquid sequencing cost per test by nearly $200 versus Q1, 2025. We also benefited from improved screening gross margins, which I'll discuss on the next slide. Non-GAAP operating expenses were $268 million, an increase of 34%, primarily driven by commercial investment. While R&D and G&A saw modest year-over-year increases, sales and marketing expense rose to $154 million in Q1 2026, compared to $94 million in the prior year period. This reflects continued investment in building out our screening cells infrastructure, advancing SHIELD HCP and DTC marketing programs, and supporting ongoing oncology revenue growth. Adjusted EBITDA loss in Q1 was $59 million, compared to a loss of $59 million in the first quarter of 2025. Free cash flow burn in Q1 2026 was $71 million, compared to $67 million in the prior year period, The year-over-year change reflects an increase in the company-wide annual bonus payout in Q1 2026 compared to Q1 2025. Excluding this impact, free cash flow burn decreased by approximately $12 million year-over-year. We remain focused on disciplined cash management and are on track to decrease full-year 2026 free cash flow burn compared to 2025. We ended the quarter with approximately $1.2 billion in cash and investments. Turning to slide 21, over the past year, screening non-GAAP gross margin improved from 18% in Q1 2025 to 56% in Q1 2026. This improvement has been driven by an increase in SHIELD ASP, as I outlined earlier, and a decrease in SHIELD non-GAAP cost per test from $520 in Q1 2025 to $420 in Q1 2026. which is a result of higher volumes, disciplined cost management, and efficient lab operations. As a reminder, we continue to expect shield cost per test to decline to approximately $200 at scale, driven by further volume growth, as well as workflow efficiencies and automation, which we expect to implement in 2027. Turning to slide 22, based on our strong first quarter performance and increased visibility, We're raising our full year 2026 revenue guidance to a range of $1.30 to $1.32 billion, representing growth of 32% to 34%. Oncology revenue is now expected to grow 28% to 29%, with volume growth of greater than 35%. Demand fundamentals remain strong across the portfolio. Dynat360 Liquid should continue to benefit from smart app adoption while garden 360 tissue is building on recent upgrades and strong commercial execution. Reveal is expected to remain our fastest growing oncology product, driven by MRD and therapy monitoring. Our oncology guidance does not include potential upside from FDA approval of garden 360 liquid or the launch of Reveal Ultra. We continue to expect biopharma and data to grow in the low double digit range, supported by recent strategic partnerships, continued progress in our CDX pipeline, and a combination of ongoing collaborations and new program staff. Given the momentum exiting Q1, the impact we're seeing from our DTC and HCP campaigns, and the launch of our Quest collaboration, we now expect screening revenue of $186 to $198 million, driven by Shield volume, 30,000 to 245,000 tests. Note that this improved outlook does not include upside from ACS guideline inclusion, which we continue to expect in the near term. We continue to expect full-year non-GAAP gross margin in the range of 64% to 65%, which reflects ongoing improvements to GARN 360 liquid and shield cost per test, balanced with changes to product mix as shield and reveal test volumes scale rapidly. Given the strength and momentum we're seeing with Shield, we plan to continue reinvesting incremental screening gross profit to support commercial expansion during the year. Accordingly, we now expect 2026 non-GAAP operating expenses to be in the range of $1.05 to $1.07 billion, representing growth of 16% to 18% compared to 2025. we continue to expect full-year free cash flow burn to be in the range of $185 to $195 million, representing an improvement year over year. Excluding screening, we expect the remainder of the business to be free cash flow positive for the full year 2026, and we remain committed to achieving company-wide cash flow breakeven by the end of 2027. Turning to slide 23, we're executing well against our key 2026 priorities. In oncology, we'll complete the Garnet 360 Liquid NovoSeq X transition this month and expect multiple product launches, including Reveal Ultra, FDA-approved Garnet 360 Liquid, and continued expansion of the smart platform. Garnet 360 Liquid ESR1 monitoring launch is dependent on FDA approval of camisestrant. Last week, the Oncologic Drugs Advisory Committee voted 6-3 against the claim that chemisestrin demonstrated clinically meaningful benefit in HR-positive, HER2-negative metastatic breast cancer. Ultimately, the FDA retains full discretion over its final decision, and we look forward to that outcome in the coming months. Importantly, the committee's discussion reinforced a broader consensus that ctDNA companion diagnostic therapy monitoring represents the future of precision oncology care. Furthermore, our revenue guidance does not reflect any impact from the potential approval of camisesterine. If it does receive FDA approval, this could represent a meaningful source of upside to GARDA 360. In biopharma and data, we're advancing CDX programs and expanding strategic partnerships, including recent additions with leading biopharma companies and continuing to scale our Infinity AI platform. In screening, we've launched our Quest collaboration and expanded Shield into multi-cancer detection markets in Asia through our partnership with Manulife. Overall, the business is delivering very strong growth and we remain focused on disciplined execution as we scale. With that, we'll now open the call for questions."
+    },
+    {
+      "speaker": "spk16",
+      "text": "If you'd like to ask a question, please press star followed by one on your telephone keypad. If for any reason you'd like to remove that question, please press star followed by two. Again, to ask a question, press star one. As a reminder, if you're using a speakerphone, please remember to pick up your handset before asking your question. We'll pause here briefly as questions are registered. First question is from the line of Mark Massaro with BTIG. Your line is now open."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Hey guys, congrats on the strong beat and raise. I'll stick with the shield question. So it's nice to see both volumes and revenue come in above my expectations. And you talked about volumes accelerated momentum in March. I was curious if you could just speak to your confidence around April. I would assume that that is tracking well since you raised the guide. And can you just give us a sense for why you raised the volume guide for Shield? If I remember this correctly, I believe the prior outlook excluded benefit from Quest. So how much of this might be adding Quest into the calculus versus any other drivers that you're seeing?"
+    },
+    {
+      "speaker": "spk17",
+      "text": "Thank you, Mark. Yeah, we are very proud of what we did in Q1 in terms of shield volume, you know, January and February went as we expected, but as we entered March, really we saw such a huge momentum that, you know, was way better than actually what we expected. The root cause of it, like, you know, multiple things worked all at the same time, hand to hand. You know, we talked about launching our DTC campaign, influencer campaigns, Quest went live at the same time. That EMR connectivity actually helped in a very meaningful way. And we saw that actually continue. So based on the trends that we've seen in March, and we don't want to get into Q2 commentary, but based on everything that we've seen, it gives us a lot of good confidence of what we can deliver in this year. And still we don't want to get ahead of our skis and be too excited with maybe what we've seen. But you know, we are very conscious of this new guide that we put out there in terms of quest contribution. You know we need to capture more data on how much really quest is helping us incrementally. What we are seeing in terms of early indications are positive, so we are counting on some of that in our new guide. But again, in a very thoughtful way and we are going to monitor how it goes in the months to come and. to set the expectation accordingly."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thank you for your question. Next question is from the line of Subbu Nambi with Guggenheim, Carolina's Net Open."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Hey, guys. Thank you for taking my questions. Congratulations on the print. Helmi, G360, despite being on the market for over a decade, is growing 30% year over year. While you have previously said there is no one reason for this outsized growth, could you give us additional color on what is driving this? Is it CRC now starting to adopt liquid? Is it repeat testing or something else? And then, as we look to full year guidance, how much of the guideways is attributed to G360 outlook? Thank you."
+    },
+    {
+      "speaker": "spk19",
+      "text": "Sure. Yeah, thanks a bit for the question. Yeah, we're very pleased with how, as you said, in this year, Garden 360 continues to grow very nicely. You know, I think a lot of it, I think, you know, when we launched this smart liquid biopsy platform a few years ago, I think a lot of people sort of brushed it off as, you know, just a sort of marginal addition to the liquid biopsy space. But this is a fundamental step change in terms of the power of liquid biopsy and its capabilities. allowing us to see phenotypes, allowing us to have all these different capabilities that were never possible with liquid biases before. And I think you're seeing us lean into that and you're seeing the adoption begin to grow and grow. So I think it's, you know, when we dig in and we peel down another layer, there's certainly, I would say in this inning, a lot of share gains that are happening. There is greater depth and greater breadth as well in terms of physicians that haven't traditionally used liquid biopsy for certain tumor types. But I think all in all, the growth is very broad-based. And I think what's even more exciting is that we're still very much in the early endings of the platform's capabilities in terms of what it can do on the smart app side, as well as the longitudinal testing. And we're still not testing at every progression. It's still very under penetrated and so that's the exciting part is that we're very confident that the growth continue not only in the short term but the medium to long term as well thank you for your question next question is from the line of patrick donnelly with city your line has been open hey guys thank you for taking the questions um helmy maybe one for you on the reveal side i think you talked about"
+    },
+    {
+      "speaker": "spk07",
+      "text": "over 100% growth there. Can you just talk about what you're seeing in the market, the key drivers there? And then I know you mentioned you submitted a few data packages to MoldeX on breast cancer surveillance, some of the monitoring pieces. Maybe just talk about the catalyst set on that front, on the reimbursement side, what we should be looking for on the reveal front. Thank you."
+    },
+    {
+      "speaker": "spk19",
+      "text": "Yeah, we're very excited with how fast reveal is growing, how much depth we're seeing there. Part of the drivers are we're still continuing to see really good growth with CRC, breast and lung cancers and the surveillance setting. But therapy monitoring has also been a great addition to the portfolio. And we're seeing, I think, great traction there. I think what that shows is really the brand that we've built over the last 12 years in oncology. And when we launch something new, We tend to see, I think, outside distraction maybe versus, let's say, a new competitor in the market. And then, you know, we're making progress with our moldy ice submissions. You know, I think the nice thing is the volume is sort of a leading indicator. You can't generate revenue without the volume, and hopefully when we get over the finish line with some of the submissions, then we'll really be in a good spot from – revenue and sort of overall ASP for the MRD business that we have."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thank you for your question. Next question is from the line of Doug Schenkel with Wolf Research. Your line is now open."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Hi. Thanks for the question. This is Colleen on for Doug. We've got a question on Shield ASP expectations. So it looks like ASP is holding up a little bit better than we had expected. And if we're We're doing the math right. It looks like you're expecting full year 26 SHIELD ASPs a bit north of $800 per test. If possible, could you share what percentage of SHIELD volume came from CMS in the quarter and how you expect that to evolve over the year?"
+    },
+    {
+      "speaker": "spk20",
+      "text": "Yeah, I can take that. Q1 was pretty consistent with what we saw towards the back end of last year with uh, pretty, you know, high proportion of shield tests being either Medicare fee for service or Medicare, um, advantage. And so that's, what's been driving that, uh, you know, strong ASP over the last few quarters, you know, as we look out for the remainder of the year, uh, we're, we're expecting to sort of broaden the reach, um, to, to, uh, patients under 65. And of course, you know, we're, we're not covered yet on the, on the commercial side. And so I think, you know, our sort of expectation and our guide sort of implies a tick down in the ASP for the remainder of the year. As we build out that, you know, commercial patient volume and getting ahead of when we start to get the reimbursement. So, yeah, today's been strong. It's predominantly Medicare, Medicare advantage. But that sort of mix is going to skew a little bit more to the under 65s throughout the year."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thank you for your question. The next question is from the line of Casey Woodring with JP Morgan. Your line is now open."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Hi, this is Sebastian Sandler on for Casey. Thanks for taking the question. Can you dig a little more into the G360 tissue growth you're seeing? You're growing well above the market, so it seems like you're taking some share there. I'm just curious how sustainable maybe some of these share gains are. And then can you talk about the pathway to ASP upside from this whole transcriptome addition? I would expect that would be more than the $300 benefit you saw from the initial RNA element. Thanks."
+    },
+    {
+      "speaker": "spk19",
+      "text": "Yeah, great questions. Yeah, obviously, we're very pleased with the growth we're seeing in tissue, and we think one of the things that will sort of further accelerate that growth is as we get the approval for our GARDEN360 liquid test, and we think that will really streamline the portfolio. allow simplified ordering between the two products and really help move everything onto the smart platform. And so, yeah, we believe this growth is sustainable. Right now, you know, sort of the trajectory is being led by Garden360 Liquid in terms of just how advanced those capabilities are. But the nice thing is that 360 tissue we'll also have a lot of the same smart apps over time. And so we think essentially tissue can just draft behind the really, I think, amazing growth we're seeing with our liquid portfolio. In terms of whole transcriptome, maybe if we take a step back, you know, I think the overall sort of trajectory or, you know, pathway we're seeing with 360 tissue is that, you know, obviously what that will go through its own Regulatory pathway will submit that to the FDA at some point, and we believe we can qualify for essentially ADLP status there as well, which should improve ASP further substantially."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thank you for your question. Next question is from the line of Puneet Soda with LeeRank Partners. Your line is now open."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Hi, guys, Amiralee and Helmy. Thanks for taking my question and Mike as well. First one on SHIELD, 90% adherence rate. That is impressive, something, Amiralee, you've been pointing out for some time, just as you were pointing out, FDA approval of SHIELD and both of those, you know, obviously coming to fruition here. So I really like the consistency and insight here. But could you talk about the SHIELD volume cadence through the year? How should we think about the next three quarters? Just given the momentum you're seeing and the effort around the ads and the marketing and all of that, that is your DTC that you're putting behind SHIELD. And on the oncology side, tell me, G360 repeat use is an important driver. CamiAdCom was resoundingly positive for G360 and ctDNA use. But the problem was the trial design, not the assay. Going forward, how should we think about the repeat use from 1.3 average? How does that go higher in the future? Thank you."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Yes, thank you, Bonita. So, you know, our guide for this year now for SHIELD, when you do the calculation, it kind of implies an average of about maybe a little bit over 10K sequential growth, like Q over Q. And as I mentioned earlier, we feel very confident about this new guidance. And we'll see how it goes. You know, again, we didn't want to get ahead of our skis. We want to capture more data of how our DTC campaigns are going to continue to impact our volume, how Quest is going to contribute, how much more we can see the rep productivity is going to go up. We continue to hire reps. You know, we have that element too, but they're currently this new guide. I think it's the right guide that we feel very confident of a little bit over 10K to over Q growth."
+    },
+    {
+      "speaker": "spk19",
+      "text": "Yeah. In terms of The 1.3 average that you mentioned on 360, you know, I think what we see is that there are multiple shots on goal for getting, I think, this feature that everyone believes in, which is going from biopsies and scans to just using the power of smart lipid biopsy and blood to monitor patients adaptively and dynamically. And so there are multiple shots on goal there, and I think the primary one is going to be using really the one-two punch of garden 360 liquid and Reveal for monitoring. And then as Reveal ebbs and flows, it will be a much simpler way to reflex patients. So essentially a 360 test when those patients, if and when those patients progress. And so we think this future will happen. It's starting to happen now with the launch of Reveal for therapy monitoring, which we're seeing exciting traction for. And, you know, we're very confident that, you know, regardless of how cannabis turns out, the future of oncology and the future of therapy switching will involve ctDNA."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thank you for your question. And the next question is from the line of Dan Arias with . Hi, guys."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thanks for the questions. Help me on that point on the commensurate adcom. Some of the folks on the committee seem to suggest that the vote for them would have been a yes if there was an overall survival benefit. You know, from where you sit, are the trials that might be on deck here set up endpoint wise to show that? You know, what do we have coming to us in terms of evidence generation and getting over the hump there on what these folks might need to see?"
+    },
+    {
+      "speaker": "spk19",
+      "text": "Yeah, I mean, obviously we don't want to comment on the specifics of any one trial, but yeah, we're very confident that over time there are other trials that, you know, I think are going to sort of push the envelope. It's always hard for the first paradigm shift, and there's always a mountain of evidence that's required from moving from one paradigm, from one modality to another one. Once that dam is broken, it's very hard to go back to the previous paradigm. So it's just a matter of when, not if, and we're very confident we'll get there over the next few years, if not sooner."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thank you for your question. Next question is from the line of Kyle Mixon with Canaccord. Your line is now open."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Hey guys, thanks for the questions. Congrats on the quarter. Mike, on the ASP for Shields, and this was touched on earlier, but it looks like the rest of the year ASP implied in the guide, the new guide, is like high 500s. I'm just curious what you're assuming in terms of mix and, you know, why would it be that low? That's quite, that's quite obviously. And then secondly, on maybe just a broader question, perhaps like how we can answer this. So we have this acquisition today of an AI-based kind of diagnostics company. I mean, I know it's like one example, but are you guys thinking about ways to kind of step up your AI game and, you know, offer AI-based companion diagnostics or anything of that sort?"
+    },
+    {
+      "speaker": "spk20",
+      "text": "Thanks. Yeah, Kyle, I'll take the Shield ASP question first. No, actually, you know, if you look at our guide on the, you know, the volume increase and the revenue increase, what it implies is for Q2 through Q4, on average, the ASP is around $775, which is effectively the same sort of guide that we gave for that part of the year back in February. So there's no change. And, yeah, as I mentioned before, what's driving that tick down from Q1, which is very strong, is going to be just the mix of Medicare and Medicare Advantage versus commercial patients where we're not getting paid now."
+    },
+    {
+      "speaker": "spk19",
+      "text": "Yeah, in terms of the AI question, I feel like we've been leading the pack, frankly, in terms of real AI that has actionable insight. There's a lot of talk about AI in this space, but I think you can see physicians voting with their feet when they're using our products much more than others in this space right now. And we are the first to bring AI pathology to the oncology space. the Linux collaboration we did a few years ago. You're seeing what we're doing with Infinity AI. I think we'll be one of the first to amass an exabyte of data. And data is really the raw fuel that's required to use AI to have truly actionable insights. And so we've built an architecture that's purpose-built from the ground up to be really deployed and utilized and worked with AI in a, I think, very fruitful way. And yeah, you're going to see, I would say, over the coming quarters us really sharing a lot more in terms of all the exciting things that we're building with AI and with the enormous treasury of data that we have inside the company."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thank you for your question. Next question is from the line of Tycho Peterson with Jefferies."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Hey, thanks. A couple quick ones. I guess you've had a couple on Serena 6. Just a different angle, though. You know, how does this change your timelines for establishing therapy monitoring as a standard billable event versus, you know, just therapy selection? Does this kind of extend the adoption curve and other lessons, you know, learned from this trial as we think about other high-volume areas like lung and CRC surveillance? So that's one question. Second is consolidation that came up in an earlier question. There's been a lot. How are you thinking about competitive landscape? I mean, now you've got Roche with Saga, obviously Abbott with Exact. Just curious if that changes your thoughts on size of sales channel, go-to-market strategy at all. And then from Mike, was there any weather impact? I've had a few people asking if there's going to be any catch-up in 2Q. Obviously, you grew through it, but was there any headwind from PCP visit cancellations? Thanks."
+    },
+    {
+      "speaker": "spk19",
+      "text": "In terms of the Serena 6 question, our primary shots on goal there are, frankly, the reveal therapy monitoring we just launched and the reimbursement packages we have on deck in terms of IO therapy monitoring, chemotherapy monitoring, which are really the primary modalities of tools and the therapies in oncology therapy space right now. And so with those two Over the finish line, I think we'll be in a very, very good spot from a therapy monitoring point of view. And as we said, things like Serena 6 and specific trials are frankly upside, you know, really to that primary pathway. In terms of consolidation, we look at almost, you know, I think every company in the space always thinking about balancing organic growth with inorganic growth. But as you can see, the bar is very high in terms of what we build organically inside the company, the growth rates, the quality of our products and so on. And so it really has to be something that is accretive to what we build here."
+    },
+    {
+      "speaker": "spk20",
+      "text": "But yeah, I think it will happen at some point. Yeah. And then with respect to the weather impact, Yeah, you know, I mean, in Q1, we saw the normal seasonal impact, you know, related to sort of PCP. Football, as well as weather, that was expected. That was in our original guide. And so, you know, the start of the year came in, yeah, again, as we expected. No, we don't anticipate any catch-up. I think what we saw in the start of the year was just what we would normally expect to see every year."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thank you for your question. Next question is from the line of Bill Bonello with Craig Hallam. Your line is now open."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Hey, guys. Thanks. I have maybe a slightly bigger picture question, but that's just sort of getting at the importance of the portfolio that you've built out. Just curious if you can give us some sense of, you know, the percentage of customers that are ordering multiple products, so say 360 Liquid and Tissue and Reveal, and then maybe along with that, with this growth, how much of it is sort of competitive takeaway versus docs that might be using some of these products, let's say DeNovo?"
+    },
+    {
+      "speaker": "spk19",
+      "text": "Yeah, it's a great question. Those are numbers that keep going up every single quarter in terms of the depth of ordering, not just the number of patients that the physician may have where they're ordering, let's say, a single product from us, but really the number of essentially linked products we have where there may be a CVX plus a tissue, and then the physician may be sort of monitoring those patients or They may be using an MRD product from us for another patient subset. And that is really the power of the platform, really, this idea that these products are all lean. And I think that is why having such a comprehensive portfolio is so important, because essentially any one of those products with their best-in-class can help convert those users and those physicians Gardens evangelist and yeah, I would say that. You know we. For the. Like. They know versus the sort of users and we have something like. I think 10 11,000 on colleges who order from us. You know, certainly on a quarterly kind of basis, and so it's very hard to. sort of game sharers in terms of Villanova physicians at this point. So it's mostly depth. I would say it's a balance of greater depth in terms of percentage of patients that are sort of needing to do, where garden 360 or where garden products are being utilized. And then certainly share gains as well. And then I think the exciting part is, you know, obviously there's a longitudinal aspect that were barely penetrated and which I think will lead to, I think, growth for the coming years across the portfolio."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thank you for your question. Next question is from the line of Michael Ryskin with Bank of America. You're going to open."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Greg, thanks for the question. Congrats on the quarter again. Maybe sort of a big picture one. You know, there's been a little bit of a a land grab among some of your competitors on the market entrance in terms of expanding Salesforce, building out as they launch new products and have to try to scale their existing products. Just curious what your internal plans are for commercial Salesforce, where you're where you're expanding, where you're investing and just sort of across the portfolio. You know, if you could walk us through the rest of the year where you see some of that incremental OPEX going. Thanks."
+    },
+    {
+      "speaker": "spk19",
+      "text": "On the oncology side, this has been a matter of course now for a number of years, where we look at revenue for territory for reps. And as long as there's no saturation in that territory, we may split it. We may add additional reps, additional support staff. And so that's just a matter of good hygiene for us. And we'll continue to do that where we see positive ROI. But I would say that I think we've prided ourselves on fairly high, maybe industry-best sales efficiency. And so we'll always try to do it in the most efficient way. But yeah, we're not going to skimp on sales and marketing where there's positive ROI there."
+    },
+    {
+      "speaker": "spk17",
+      "text": "On the screening side, you know, as we talked about it before, any additional gross profit in terms of year over year is getting reinvested in building the S&M function. A very good fraction of it goes into hiring additional sales force. Some is going toward this marketing campaigns like DTC campaign that we talked about earlier. It's kind of very interesting. In fact, you know, I heard from our head of sales, you know, we are continuing to hire this year too. that even the quality of the reps that we are hiring continues to go up. So, we are very excited with what we are seeing right now."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thank you for your question. The next question is from the line of Dan Brennan with TD County. Your line is open."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Great. Thank you. Maybe one on G260 and just one on multi-cancer. G360, really nice quarter, 30% volume growth, you know, well above expectations. I know there was a comment, question or two earlier, but just can you speak to a little bit again, like what was better than you thought to drive that kind of volume growth and then be kind of implicit within the new 35% oncology volume growth? How are you thinking about G360? And then just on multi-cancer, can you just remind us of a strategy there? When we'll learn more, you know, you're obviously having the ability to have patients opt in what's the timetable at which we would get some clarity on the regulatory plan there? I know you've been bullish about the number of samples you'll be collecting, but I'm just wondering how we think about the path forward there. Thank you."
+    },
+    {
+      "speaker": "spk19",
+      "text": "In terms of G36, I don't think there was anything that kind of completely surprised us. I mean, I think we know that the test is really best in class, offers a lot of capabilities that frankly, are not available in the market, and I think we're just continuing to lean into that. When we think about the rest of the year, you know, I think beginning we said, you know, something like 20% year-over-year growth for 360. That's obviously with this strong quarter inching up, and we're going to continue pushing 360 out there. The FDA approval of 360 should be another major catalyst that Hopefully will be even upside to this current focus."
+    },
+    {
+      "speaker": "spk17",
+      "text": "On the MCD front, this option rate is going strong. And with this strategy that we have. We are on track to have the biggest clinical database of MCD testing and the value on the patient. From US patient population in near future. So still, we have a couple milestones to hit to build that database. So let us get there, and then we would set the right expectation for the timing of the regulatory milestones. But we are pleased with what we are seeing today."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thank you for your question. The next question is from the line of Brandon Coulart with Wells Fargo. Your line is now open."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Good afternoon. A couple on Shield. How many reps do you expect to have on board exiting the year at this point in the context of the higher revenue guide?"
+    },
+    {
+      "speaker": "spk10",
+      "text": "Number two, do you expect only needing two blood tubes to be a volume driver? And number three, on ACS guidelines, why don't you think they've been published yet? Are you able to share any feedback from maybe some of your interactions with the organization? Thanks."
+    },
+    {
+      "speaker": "spk17",
+      "text": "yeah so we entered this year with like the 300 reps that we talked about and you know as i mentioned this incremental gross profit that we're gonna have this year is gonna you know get reinvested back uh we are not planning to just give like you know bite by bite kind of updates on the size of the sales team as you know the field uh is becoming competitive and that's commercially sensitive information but you know based on this I think you guys are well positioned to have some estimation of how many people we are going to have by end of, let's say, 2026. In terms of two tubes, you know, on one side we didn't hear any kind of issue with four tubes, but we always want to have the best in class, easiest customer experience with garden products. As a result, we worked on studies to reduce the four tubes even to two tubes. and we are very pleased that you know we got the uh approval from fda and we are going live with that you know updated kit in very near future in terms of acs guideline i know you guys are hearing from me it's coming it's coming now probably for over a year and my answer is the same i think it's going to come any day but you know i've been kind of a broken record on it uh Our conversation with them continues to be actually pretty positive and looks like everything is done. So we are just waiting for the finalized guideline to be published. So it should be any day, but we'll see. Matt, last question, please."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Final questions from the line of Bradley Bowers with Mesa Hook. Your line is now open."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Hey, thanks for getting me in. Just wanted to maybe double-click on where you're kind of seeing the reveal of volume growth. You know, the pricing doesn't lend itself to be, you know, in Medicare CRC, but maybe I'm wrong. Just based on KOL checks, that area may be preferring tissue. Just wanted to see if, you know, where you're kind of seeing some of the volume growth ahead of expectation and maybe what the expectations for volume and price lift should be post-breast. Thank you. Yeah, I would say..."
+    },
+    {
+      "speaker": "spk19",
+      "text": "You know, we're seeing growth, frankly, across the board. CRC, breast has been very strong for us, lungs. And then, obviously, new indication of therapy monitoring has been relatively strong for us as well. So, yeah, I think the market really has, I would say, sort of two parts to it. There's a consumer-informed sort of MRD subset, and then certainly a fish-free market as well that is very, very sizable. Right now, we're the far and wide leader in fish-free MRD, and we're continuing to lean into that. And obviously, we'll be excited when we dip our toes into Tumor and Forum with a reveal coming later this year. Let me be nice about this."
+    },
+    {
+      "speaker": "spk20",
+      "text": "Yeah, no, ASP, you know, continues to be in this range, $600 to $700, I think. You know, we're excited, hopefully, to get incremental Maldi X coverage in the near future with the breast and IO and chemo submissions that we've made. So, obviously, you know, getting Medicare coverage for each of those is going to have a nice positive impact. So, you know, Definitely breast is a large portion of the volume now. And so if we get that, you know, it'll definitely take us beyond the current range that we're in and sort of move us step by step closer to the, you know, $1,000 target that we set for 2028. So I think getting that coverage is going to be very positive for us."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thank you for your question. No additional questions waiting at this time, so I'll pass the call back to management for any closing remarks."
+    },
+    {
+      "speaker": "spk11",
+      "text": "No, that's it. Thank you, Matt."
+    },
+    {
+      "speaker": "spk16",
+      "text": "That concludes the conference call. Thank you for your participation. You may now disconnect your lines."
+    }
+  ]
+}

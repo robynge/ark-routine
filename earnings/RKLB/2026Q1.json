@@ -1,0 +1,455 @@
+{
+  "event": {
+    "ticker": "RKLB",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk09": {
+      "name": "Operator",
+      "title": "Conference Operator"
+    },
+    "spk12": {
+      "name": "Muriel Baker",
+      "title": "Investor Relations"
+    },
+    "spk06": {
+      "name": "Sir Peter Beck",
+      "title": "Founder & Chief Executive Officer"
+    },
+    "spk07": {
+      "name": "Adam Spice",
+      "title": "Chief Financial Officer"
+    },
+    "spk15": {
+      "name": "Andres Shepherd",
+      "title": "Analyst, Cantor Fitzgerald"
+    },
+    "spk01": {
+      "name": "Christine Lewak",
+      "title": "Analyst, Morgan Stanley"
+    },
+    "spk14": {
+      "name": "Eric Rasmussen",
+      "title": "Analyst, Stifel"
+    },
+    "spk03": {
+      "name": "Trevor Walsh",
+      "title": "Analyst, Citizens"
+    },
+    "spk13": {
+      "name": "Michael Leshock",
+      "title": "Analyst, QBank Capital Markets"
+    },
+    "spk10": {
+      "name": "Alex Preston",
+      "title": "Analyst, Bank of America"
+    },
+    "spk00": {
+      "name": "Jan Engelbrecht",
+      "title": "Analyst, Baird"
+    },
+    "spk18": {
+      "name": "Edison Yu",
+      "title": "Analyst, Deutsche Bank"
+    },
+    "spk16": {
+      "name": "Anton",
+      "title": "Analyst, TD Cowen"
+    },
+    "spk04": {
+      "name": "Ben Tomek",
+      "title": "Analyst, Wells Fargo"
+    },
+    "spk17": {
+      "name": "Surit De Silva",
+      "title": "Analyst, Roth Capital"
+    },
+    "spk19": {
+      "name": "Ryan Koontz",
+      "title": "Analyst, Needham & Company"
+    },
+    "spk02": {
+      "name": "Ned Morgan",
+      "title": "Analyst, BTIG"
+    },
+    "spk08": {
+      "name": "Vijay",
+      "title": "Analyst, Craig-Hallum"
+    },
+    "spk05": {
+      "name": "Muriel Baker",
+      "title": "Investor Relations"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk09",
+      "text": "Good day and thank you for standing by. Welcome to the Rocket Lab Corporation Q1 earnings call. At this time all participants are in a listen only mode. After the speaker's presentation there will be a question and answer session. To ask a question during this session you will need to press star 1 1 on your telephone. You will then hear an automated message advising your hand is raised. To withdraw your question, please press star one, one again. Please be advised that today's conference is being recorded. I would now like to hand the conference over to your speaker today, Muriel Baker. Please go ahead."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Thank you. Hello and welcome to today's conference call to discuss Rocket Lab's first quarter 2026 financial results, business highlights and other updates. Before we begin the call, I'd like to remind you that our remarks may contain forward-looking statements that relate to the future performance of the company, and these statements are intended to qualify for the safe harbor protection from liability established by the Private Securities Litigation Reform Act. Any such statements are not guarantees of future performance, and factors that could influence our results are highlighted in today's press release, and others are contained in our filings with the Security and Exchange Commission. Such statements are based upon information available to the company as of the date hereof and are subject to change for future developments. Except as required by law, the company does not undertake any obligation to update these statements. Our remarks and press release today also contain non-GAAP financial measures within the meaning of Regulation G enacted by the SEC. Included in such release and our supplemental materials are reconciliations of these historical non-GAAP financial measures to the comparable financial measures calculated in accordance with GAAP. This call is also being webcast with a supporting presentation and a replay and a copy of the presentation will be available on our website. Our speakers today are Rocket Lab founder and Chief Executive Officer Sir Peter Beck as well as Chief Financial Officer Adam Spice. They will be discussing key business highlights, including updates on our launch and space systems programs, and we will discuss financial highlights and outlook before we finish by taking questions. So with that, let me turn the call over to Sir Peter. Thank you."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thanks Muriel. Before we dig into the quarter, I want to walk you through what sets Rocket Lab apart as one of the only true end-to-end space companies on the planet. Ultimately, it's our technologies, our capabilities, and our proven execution for the world's most demanding customers. First, our technology. For launch, we have Electron, the world's leading small launcher alongside Haste, which is delivering critical hypersonic test launch capabilities to the Department of War, and Neutron, a medium-lift rocket tailored to the Constellation deployment and national security missions. But launch was just the start. In 2020, we launched Photon, our first in-house developed spacecraft. That moment marked the beginning of our evolution from a pure-play launch provider to an end-to-end space company. In just six short years, we expanded our technology stack to include a full family of highly capable spacecraft available at constellation scale. And critically, we also manufacture the subsystems and payloads that go into these spacecraft. This vertical integration means we control quality, schedule and cost in ways that our competitors simply can't. These technologies have given us a huge suite of capabilities. We provide tactically responsive space launch and dedicated small satellite launch with unmatched flight heritage. suborbital hypersonic and missile defence testing from our defence customers, and national security launch on both neutron and electron. Our rockets also deploy and replenish constellations, launch lunar and planetary missions, and more. On space systems, our satellite and subsystems enable communication and connectivity infrastructure, missile warning and tracking, space reconnaissance and surveillance, space protection and space control, astrophysics and earth science missions, in-space manufacturing, and more. Execution is what matters most. Anyone can promise capabilities, but Rocket Lab is actually delivering right now for demanding and complex programs. We're enabling SDA's proliferated warfighter space infrastructure, delivering complete satellites with payloads on aggressive timelines. We're supporting the DOW's Mark TB hypersonic program and the Golden Dome space-based interceptor program. We're onboarded as a national security space launch provider, and we're executing missions for the NRO, Space Force, Missile Defence Agency, DIU, and DARPA. We are a trusted partner for the US and international space agencies, including NASA, JAXA, and ESA. Rocket Lab hardware is flying on Artemis missions. Our technology is on Mars rovers and orbiters. We support ISS resupply and other flagship NASA missions. Commercially we're supporting direct-to-device constellations, Earth observation constellations, lunar landers, orbiters and re-entry missions. This is execution, real missions on orbit now or in production and generating revenue. When the world's most sophisticated space organizations need mission success, they choose Rocket Lab. We built this technology and capability to serve our customers, but we also built something more, the ability to deploy and operate our own space-based applications and services. We're one of the only companies on the planet with this capability. This is the next significant opportunity that lays ahead for us. So with everyone up to speed, let's take a closer look how we executed against this strategy in Q1. This quarter has been phenomenal, the strongest Q1 in Rocket Lab's history. We've blown through the ceilings across all of the most important metrics. Record revenue, record gap gross margins, record backlog, record cash position, and record launch contracts across Electron, Haste, and Neutron. With revenue, we topped $200 million in the quarter for the first time, up more than 63% versus this time last year, and our forecast has revenue coming in even higher for Q2. Our gross margins are excellent, sitting strong at 38.2% gap and 43% non-gap. Our backlog jumped to more than $2 billion in contracted revenue across our national security, civil space and commercial programs, 20% over the quarter and 108% year-on-year, again the highest it's ever been. That's partly thanks to the record number of contracts we signed in Q1. In fact, with the 31 Electron and HACE launches and five Neutron contracts combined, we've booked more launches in the first three months of 2026 than we did for all of last year. Overall, we exited the quarter with $1.48 billion in cash and cash equivalents, and currently have secured access to more than $2 billion in total liquidity, giving us financial flexibility and positioning for growth and further M&A. There are more highlights across launch and space systems than we could fit into one slide, so let's go over them in more detail. Starting off a small launch across Electron and HAST. What a truly exceptional quarter it's been for Electron and Haste. We booked 31 missions, which is the most we've ever signed in a quarter. Demand for Electron has always been strong, but we're seeing an inflection now across both orbital and suborbital launch. Our customers know when they book on Electron and Haste, they're buying certainty and responsiveness they need to launch where and when they need to go. We've got more than 70 launches in backlog now, which is a new record. With eight missions off the pad already this year, we're on track to beat last year's launch record too. As well as we'll hit our 100th launch later this year. The fastest anyone in the industry will have ever done that. It's another record on the books for haste with our 190 million 20 launch order through Kratos and the Department of War and Mark TB. This is the largest single order we've seen within the program and a very clear vote of confidence from the Pentagon in HAST's ability to deliver the hypersonic test and missile defence capabilities that the nation needs. HAST now makes up almost one-third of all of our launch backlog today. What's particularly significant about HAST is that along with being the category leader for hypersonic test missions, HAST's strength has helped us to position us in the centre of America's defence architecture for the next big wave of spending. We're already ingrained with spacecraft components and full satellite builds, and when you add HAST hypersonic rockets to test missile tracking and defence, that's almost the entire spectrum of capabilities covered by Golden Dome. The new era of space primes has begun, injecting pace and innovation into national security and defence. Two companies at the forefront of this are Rocket Lab and Andril, and we're excited to confirm that we're teaming up. Andril has booked three dedicated HAST launches to support missions that combine their rapid prototyping with our industry-leading flight cadence, to accelerate tech development for the DOW within months, not years. The first of these launches are scheduled no earlier than November this year. That's commercial speed and tactical responsiveness in action. While we can't talk programme or mission specifics, the main takeaway from this partnership is that it brings together two of the defence industry's most innovative prime contractors to advance defence capabilities for the nation. So like I said, it's been a fantastic quarter for launch, but there's plenty to talk about for space systems as well. I'm thrilled to confirm that Rocket Lab has been selected to enable one of the nation's top national security priorities, the Space Base Interceptor Program under Golden Dome. Rocket Lab and Raytheon have been selected to demonstrate advanced capabilities for the Space Base Interceptor Program. This program is an important step in strengthening national missile defense capabilities, and we're proud to be contributing proven expertise to advance the development of solutions for this urgent security need. By now everyone knows we always have a strategic acquisition opportunity up our sleeve, and I'm excited to share the next one. We've entered into a definitive agreement to acquire Motive Space Systems, a Californian-based leader in space robotics, motion control systems, and spacecraft mechanisms. Their technology is featured on the Cadre Lunar Rover and NASA's Mars Perseverance Rover. That includes the rover's entire robotic arm, which was the most capable ever deployed on Mars in terms of load capacity, precision and sensing. MOTIV also built the zoom and focus and filter wheels for the primary imager for the mission. Most pictures you'll see from Mars come through that camera, and MOTIV's zoom mechanism were the first ever deployed in a planetary surface mission. This acquisition positions us to play a critical role in future lunar and planetary exploration missions, such as future commercial Mars sample return missions, as well as expand into significant national security programs. It will also bring the design and manufacturing of critical spacecraft mechanisms, like solar array drive assemblies, antenna and propulsion gimbals, filter wheels, focus mechanisms, and precision to drive electronics in-house, completing a key element of our satellite manufacturing at scale strategy. We unveiled our new electric propulsion thruster for satellites called GALS at Space Symposium last month, with a 200-unit production line already established and units delivered to ourselves for some of our own constellation programs. We've been inundated with inquiries from programs in need of hundreds of units each, and we're ready to break the bottleneck on electric propulsion. Rocket Lab is recognized as a world leader in propulsion, so an organic electric propulsion solution is a natural progression for us. And we're excited to bring manufacturing, scale reliability and performance to electric propulsion for the first time in the industry. The pace at which we rolled out new products this year has been relentless. Whether it's been organic or inorganic, what unifies our acquisitions and our internal innovations is a powerful vision. Complete vertical integration across the entire satellite value chain. Everything you see on this page, optics, solar, laser terminals, electric propulsion and other components, is already being built to our own platforms or being supplied to others, so that's a good chunk of upcoming missions across civil, commercial and national security have a Rocket Lab logo on them somewhere, with supplier of choice across the industry and other prime contractors turned to us for mission-critical technology. This quarter we also closed our acquisition of Mnarek, but the real story here is more than just adding optical comm terminals to our national security capabilities. With Mnarek, we've established Rocket Lab's first European footprint to support the German and European space industry on a much larger scale. Our expansion couldn't have come at a better time. The European space and defence market has been accelerating its investments in sovereign space capabilities, up to $109 billion by 2030 by some estimates across the European Union, Germany and the United Kingdom. Rocket Lab Europe gives us boots on the ground to capture that demand. whether it's optical comms, spacecraft build, international constellations, responsive launch, or providing our sought-after subsystems in high volumes. The door is now open to programs, partnerships, and revenue streams that weren't accessible before, and Rocket Lab Europe is about positioning the company for what's the next phase of growth in one of the world's most strategic markets. Moving on to Neutron. I'm excited to announce a new multi-launch contract for Neutron that makes up the largest contract in Rocket Lab's history. Five dedicated Neutron flights plus three electrons between now and 2029 for a confidential customer. It was only a few weeks ago that we announced our $190 million 20-launch deal for Haste, which was the record at that time. Now we have exceeded that deal with an even larger one. It speaks volumes to the strong and growing demand for all of our launch capabilities, And this booking means Neutron's manifest is filling up fast right through the end of the decade. This market needs medium launch. The demand signal is clear. Equally clear from these continued bookings is that customers trust Rocket Lab and Neutron to deliver this medium launch capability. We've introduced and scaled new vehicles to reliable high cadence before. We're one of only two companies in history that has successfully done this with meaningful reliability. And we're doing the same with Neutron. I hope that by now you know that my stance is not discounting flights just to fill up a manifest, so I can confirm that pricing for these neutron and electron launchers are very much in family with our commercial rates. Now on to development updates across the program. The team has made tremendous strides on the Stage 1 tank. Design refinements have improved both the tank's strength margins and manufacturability and give us confidence in the structural performance. It's only been two months since our last Neutron update and already we have AFP-made components sitting on the production floor. That's the beauty of automated production with AFP, not just for Flight 1 but also for the fleet of vehicles that come thereafter. This will feed directly into the next round of testing and qualification for Stage 1's tank as we drive towards Neutron's debut. As it stands, current progress is keeping our aggressive schedule towards the first launch later this year. Stage separation tests are also underway using Stage 2, its interstage and fixed fairing test articles, to test a condition as close to flight for how Neutron's first and second stages will separate during launch. Stage 2 deployment is arguably Neutron's most novel capability. Unlike other rockets with stacked stages that separate, Neutron's second stage is hung inside the fairing before it's deployed along its interior rails and out the mouth of the Hungry Hippo fairing. This reusable architecture is one of Neutron's clever competitive advantages. It allows us to reuse fairings without having to deploy separate marine assets to capture them downrange or deal with refurbishment from splashing down them in the ocean. We've cleared separation events at full flight loads on the second stage article and interstage deployment system, which is great news. We're now testing the resilience of the off-nominal separation events. So if you see something broken on the test sand from here on, know that that's completely intentional. For the interstage, that's happening at Middle River right now as the team works on the structures qualification. It's up to the test stand and being subjected to its loads that we should expect during launch, re-entry and landing. Then it will head back inside the building to be fitted out with its full suite of flight avionics and fluid systems. After that it will be shipped off to Wallops to join the Hungry Hippo fairing for further assembly. Another part of Neutron's program that we don't talk about enough but which is a critical part of its development is the landing barge called Return on Investment. Now the photos do not do it justice because this thing is massive. It's practically a launch site of its own. We're talking huge amounts of power generation, 10 megawatts across its four station-keeping thrusters, enough to power thousands of homes. By the time it's completed, it'll be more than 11 million pounds, or 5,000 metric tons, so fitting out this landing platform is coming along nicely. Housing for the platform thrusters have been installed, as well as the main cabin and the aft edge of the barge. Its power generation systems and thrusters have arrived to the shipyard in Louisiana and are ready to go in next, and we're on track for sea trials to start later this year. It's one thing to say that you're going to be reusable, it's another to actually make the investments into the landing platforms that enable it. We're doing this now, well ahead of time, so that we can move swiftly into reusability with Neutron as early as flight two. And finally, to round out Neutron's development, here's a look at the other significant progress across the program. From the bottom of the vehicle to the top, we've got the Archimedes engines continuing to undergo extensive testing at Stennis in their flight configurations. This is for both stage 1 version of the engines and for the vacuum optimised Archimedes that will power stage 2. It's non-stop hot fires across both test stands as the team really stretches the performance of these engines while running them in the full range of gimbal angles. For the thrust structure, since completing qualification, the team has gotten stuck into fitting it out with all the flight set of avionics and fluid systems. That's taking place at our Middle River facility before it's sent out to the Launch Complex 3 for integrated systems testing on the pad. Stage 2 continues to progress with the integration of fluid systems and avionics. We also qualified its payload support structure, a separate interface on the top of the stage that physically attaches the satellite to neutrons. This payload support structure is another carbon composite structure that's designed to be as lightweight as possible since every kilogram reduces payload capacity. And having cleared qualifications smoothly, it's just days away from shipping out to Launch Complex 3 as well. Then right at the top of the Hungry Hippo, our qualified reusable fairing system has been covered in TPS, or thermal protection system, once arriving in Virginia. Integration of the avionics and fluid systems on this part of the vehicle continues as well. So as you can see, there's been lots of neutron activity lately. I'll remind you that these comprehensive test campaigns are all being run in parallel. All time to converge for the first launch at the end of this year. That means a lot more exciting updates to look forward to in the coming weeks and months before the vehicle comes together and goes onto the pad. That wraps up the operational highlights. Now over to Adam for the financial overview and outlook."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thanks, Pete. First quarter 2026 revenue was a record $200.3 million, coming in just above the high end of our prior guidance range and representing an impressive year-over-year growth of 63.5% and quarterly sequential growth of almost 12%. This strong performance was driven by significant contributions from both of our business segments and underscores the continued momentum across the business. Our space system segment delivered $136.7 million in revenue in the quarter. reflecting a year-on-year increase of 57.2% and a sequential increase of 31.7%. This growth is primarily driven by increased contribution from our satellite platforms business, which continues to perform exceptionally well and provides comforting diversification alongside our robust but at times lumpy launch business. Meanwhile, our launch services segment generated $63.7 million in revenue, up an impressive 78.9% year-over-year, though down 16.1% sequentially due to fewer launches in the period. Now, turning to gross margin. GAAP gross margin for the first quarter was 38.2%, up slightly sequentially and above our prior guidance range of 34% to 36%, with outperformance driven primarily by solar products and launch, owing to better than expected absorption and lower spend respectively. Non-GAAP gross margin for the first quarter was 43%, while down slightly sequentially was also above our prior guidance range of 39% to 41%. The sequential decline in non-GAAP gross margin, which was better than expected, was primarily driven by a mixed shift towards space systems and a modest decline in launch margin based on mixed and lower revenue. Relatedly, we ended Q1 with a production-related headcount of 1,448, up 250 from the prior quarter, largely driven by a transition of dedicated R&D headcount from the first neutron test flight to our production teams related to future revenue-generating missions, as well as headcount ramps related to our recent GEOST and PCL acquisitions. Turning to backlogs. We ended Q1 2026 with approximately $2.2 billion in total backlog, with launch backlog accounting for approximately 41.5% and space systems representing 58.5%. During the quarter, launch backlog continued to gain share, supported by strong underlying trends as we convert a robust pipeline of opportunities across Electron, Haste, and Neutron. This includes the 20 HAST Block Buy missions signed within the quarter that Pete mentioned earlier, as well as five Neutron bookings with a confidential customer. We are actively cultivating a strong pipeline that includes multi-launch agreements, large satellite platform contracts, and an increasingly diverse set of satellite component and subsystem merchant opportunities across government and commercial programs. As noted earlier, these larger needle-moving opportunities can introduce lumpiness in backlog growth, but they are critical drivers of long-term value and scale for the business. Looking ahead, we expect approximately 36% of our current backlog to convert into revenue within the next 12 months. Additionally, we continue to benefit from relatively quick-turns business, particularly in our space systems components and subsystems businesses that drive incremental top-line contribution beyond the current 12-month backlog conversion. In addition, as we closed and integrate our new acquisitions, such as Geost, Optical Systems Inc., Monarch, and Motive, they will be accretive to our served addressable market opportunity, backlog, and forward revenue growth rates and margins. Turning to operating expenses. GAAP operating expenses for the first quarter of 2026 were $132.5 million, above our guidance range of $120 to $126 million. driven by the stock-based compensation charge related to Peter Beck's RSU forfeiture, non-GAAP operating expenses for the first quarter were $105 million, which was below our guidance range of $106 to $112 million. In R&D specifically, GAAP expenses increased $1.7 million quarter over quarter, while non-GAAP expenses rose $1.9 million. These increases were driven by continued investment within our Neutron program paired with seasonal step-ups in payroll taxes. Q1 ending R&D headcount was 949, representing a decrease of 70 from the prior quarter. The decrease in dedicated R&D headcount is due to the transition of our production teams from R&D cost centers to production cost centers as we begin the transition from the first Neutron R&D test flight to future revenue generating missions. In SG&A, GAAP expenses increased $11.4 million quarter-over-quarter, while non-GAAP expenses declined $1.3 million quarter-over-quarter. The increase in GAAP SG&A was primarily due to the previously mentioned Peterbeck RSU cancellation, resulting in a large one-time stock-based compensation expense. Meanwhile, the decline in non-GAAP SG&A was primarily due to a one-time adjustment of accruals related to our 2025 annual bonus plan, which were ultimately lower than previously anticipated due to certain executive officers foregoing bonus awards for 2025. Q1 ending SG&A headcount was 381, representing a decrease of four from the prior quarter. In summary, total headcount at the end of the first quarter was 2,778, up 176 heads from the prior quarter. Turning to cash. Purchases of property, equipment, and capitalized software licenses were $27.1 million in the first quarter of 2026, a decrease of $22.6 million from the $49.7 million in the fourth quarter. This decrease reflects less capital investment in neutron development during the quarter, particularly for the return on investment recovery barge, as well as the pad at LC3 at Wallops, Virginia. As we progress towards Neutron's first flight, we expect capital expenditures to remain elevated as we invest in testing, production scaling, and infrastructure expansion. GAAP EPS for the first quarter was a loss of $0.07 per share compared to a loss of $0.09 per share in the fourth quarter. The sequential improvement to GAAP EPS is primarily due to increased revenue contribution paired with increased gross profit. GAAP operating cash flow was a use of $50.3 million in the first quarter of 2026, compared to a use of $64.5 million in the fourth quarter. Similar to the capital expenditure dynamics mentioned earlier, cash consumption will remain elevated due to neutron development, longer lead procurement for our SDA programs, and investments in subsequent neutron tail inventory as we scale the business beyond its initial test flight. Overall, non-GAAP free cash flow, defined as GAAP operating cash flow, less purchases of property, equipment, and capitalized software, in the first quarter of 2026 was a use of $77.4 million, compared to a use of $114.2 million in the fourth quarter. The ending balance of cash, cash equivalents, restricted cash, and marketable securities was roughly $1.48 billion at the end of the first quarter. The sequential increase in liquidity was driven by proceeds from sales from our common stock under our at-the-market equity offering program, which generated $450.4 million during the quarter. In addition, in April, we completed the ATM offering by raising another $24 million in cash, as well as entering into a collared forward transaction with a floor price of $474 million. We also have access to capped call transaction proceeds related to our 2024 convertible notes offering, with a maximum aggregated payment of $201.9 million by final maturity in 2029. Putting this together with our cash on hand, we now have access to more than $2 billion in liquidity, resulting from a successful series of capital raises over the last several years conducted at increasingly higher equity prices. In February of 2024, we raised a $355 million convertible bond offering with an effective post-capped call price of $8.04 a share, and followed that with a series of three ATM facilities executed at average prices of $26.19, $47.85, and $70.47, respectively. Additionally, under the most recent ATM, we entered into collared forward transactions with a floor price of $63.61 and a ceiling price of $86.11. These funds are intended to support acquisitions in a robust M&A pipeline alongside general corporate expenditures and working capital. We execute one in a strong position to execute on both organic and inorganic growth initiatives and to further vertically integrate our supply chain, expand strategic capabilities, and grow our addressable market, consistent with what we've done successfully in the past. Adjusted EBITDA loss for the first quarter of 2026 was $11.8 million, which was well below our guidance range of a $21 million to $27 million loss. The sequential improvement of $5.6 million in adjusted EBITDA loss was driven by higher revenue and strong gross margin. With that, let's turn to our guidance for the second quarter of 2026. We expect revenue in the second quarter to range between $225 million and $240 million, representing 16% quarter-over-quarter revenue growth at the midpoint. We anticipate gap gross margin to range between 33% to 35% and non-gap gross margin to range between 38% to 40%. These forecasted gap and non-gap gross margins are accounting for a shift mix within our space systems business. We expect second quarter gap operating expenses to range between $138 million and $144 million, and non-gap operating expenses to range between $120 million and $126 million. The quarter-over-quarter increases are primarily driven by the Monarch acquisition and ongoing Neutron development and spending related to Flight 1, including staff costs, prototyping, and materials. However, we expect to see a shift in spending from R&D to Flight 2 and beyond inventory, which is an encouraging sign of progress as we move closer to Neutron's first flight. Please note that the nascency of the closing of the Monarch acquisition and the newly announced and yet to be closed mode of transaction The GAAP guidance figures exclude any to be determined impact of purchase price allocation and stock-based compensation related to these deals. We expect second quarter GAAP and non-GAAP net interest income to be $12.5 million, which is a function of higher cash balances, as well as a significant reduction in our outstanding convertible notes. We expect second quarter adjusted EBITDA loss to range between $20 million and $26 million, and basic weighted average common shares outstanding to be approximately 629 million shares, which includes convertible preferred shares of approximately 46 million. Lastly, consistent with prior quarters, we expect negative non-gap free cash flow in the fourth quarter to remain at elevated levels, driven by ongoing investments in neutron development and scaling production. This excludes any potential offsetting effects from any financing activities. In summary, Q1 was another quarter of strong execution, We exceeded guidance and expectations for revenue, gross margins, and EBITDA, all while maintaining robust liquidity to fund future growth initiatives. We expect this momentum to continue, guiding to strong revenue growth as our satellite platforms business continues to scale and Neutron progresses towards first flight. And last but not least, here are some of the upcoming investor events that we'll be attending in the next few months. And with that, we'll hand the call over to the operator for questions."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you. If you wish to ask a question, you will need to press star one, one on your telephone and wait for your name to be announced. To withdraw your question, please press star one, one again. We will take our first question. Your first question comes from the line of Andres Shepherd from Canter Fitzgerald. Please go ahead, your line is open."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Hey, everyone. Good afternoon. Thank you so much for taking our questions. And congratulations on all the quarter and all the great progress. Maybe one on Neutron and one on space systems. So on Neutron, Pete, I know you talked a lot about this during the prepared remarks, but just maybe to simplify it for us, what are the key items that are pending that investors and ourselves should be tracking as we get closer to the first launch? And also curious if you can maybe give us some of the customer feedback that you've been getting on Neutron, you know, since you're contracting Neutron missions ahead of that first launch. So just curious on that customer feedback and reception that you're getting. Thank you."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Hey, Andreas. Nice to chat to you. So I guess the key things to be watching out for, you know, the continued, you know, placing of items on test stands. Because really, that's the large pieces of work yet to come that have risk associated with them. So as we put these large pieces of the vehicle on the test stand and take them to their limits and sometimes beyond, then the completion of those pieces of work is probably the easiest and most visual thing to track. Of course, there's a tremendous amount going on in the background that's kind of less visible. But for investors, I think that's probably the easiest thing to focus on. And then with respect to customer feedback, I think you can see from our strategy of just not dropping our pants and deploying neutrons at really low prices, we've held our ground there. And the customers that ultimately buy those vehicles, they know us well and we're very well trusted. And, you know, they have complete confidence in both, you know, Rocket Lab and our ability to deliver Neutron. So needless to say, there's also a lot of customers waiting to see it fly. So, but, you know, the more aggressive customers are making sure that, you know, they don't miss out their opportunities to fly early."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Wonderful. I know that. That's great to hear. And maybe just as a quick follow-up, maybe for you, Adam, on the space systems and on the space-based interceptor program, just curious if you can maybe quantify that a bit further for us or any granularity in terms of the structure or expectations there alongside Raytheon. Thank you."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, you know, I'll provide what color I can and I'll pass it back over to Pete with regards to the relationship of the partnership with Raytheon. It really is, we view it as a partnership. You know, I think everybody's been, you know, had a lot of visibility to what's going on with various elements of Golden Dome. SBI is one of the more visible ones. You know, there's a limited amount that we can really talk about for that program specifically. But, you know, we envision it to be a very large opportunity, but there are gates that we got to get through. And as you're aware, you know, this is kind of an interesting opportunity procurement process for the government where companies like ourselves and Raytheon and others that are in the mix have to put some of their own skin in the game to unlock a potentially very large opportunity in the back end. So I'd say the most important thing right now is are we able to, like we have in the past, bring really quick cost advantage solutions to the market because of our vertical integration capabilities You know, we'll be able to do things in time frames and cost points that we think few, if any, people will really be able to compete with. So we think we're in a good spot, and I don't know, Pete, do you want to put any more commentary?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "I think you've covered it beautifully, Adam. Yeah, I can't really add more to that."
+    },
+    {
+      "speaker": "spk15",
+      "text": "All right, excellent. Well, thank you so much. Congrats again on all the great progress. Looking forward to that Neutron first launch. We'll pass it on."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you. We will take our next question. Your next question comes from the line of Christine Lewak from Morgan Stanley. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Hey, good afternoon, everyone. You know, Pete, Adam, there were a lot of moving pieces that occurred in the quarter as you continue to broaden out your capabilities and increase vertical integration. So I guess first, you know, when you look at your capabilities today, are there any areas you are interested in filling in more? And also second, as you continue to broaden out your capabilities, How do you think about the expansion of your TAM and how should we think about opportunities as you're able to provide more solutions as space as a service? Thanks."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, hey, Christine, great to talk to you. Well, I think you've just seen, you know, just a methodical approach here from us is, you know, we continue to expand our TAMs. But what I would say is they're all, you know, expanding for a common reason and a common direction and that's as we've talked about, to ultimately be able to provide services of our own in orbit. So, I mean, yeah, I think at this point there's a lot of capability that we've managed to accumulate, both organic and inorganic. And I think we're really at the point where I think if anybody comes to us and asks us to build any spacecraft or satellite, we just sort of shrug our shoulders and get to work. So I think we've brought in-house a tremendous amount of capability and it all kind of drives towards those end goals."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, I would add maybe one more point to that. I think it's important for shareholders. A lot of other companies, when they're going to expand into new TAMs or expanding into ones they're already in, they just default to acquiring their way in. I think this quarter is a great example of us being able to really execute on both sides of the organic and inorganic side. You know, we announced a few weeks ago as Pete talked in his prepared remarks about Gauss, our EP solution that we're bringing to market. That's one where we could have spent, you know, a few hundred million dollars acquiring, you know, a startup and kind of went through all the scaling challenges there and then probably ultimately came up with a solution that we thought would be inferior. Instead, we dedicated, you know, a portion of our engineering team, probably an order of magnitude less capital to get it done. And we ended up with what we think is the best solution for the market. So I think when we look at how we expanded new markets, we're not just so you know, kind of focused on just spending shareholder capital to go get it, you know, from acquisition will actually be very efficient and go after it organically as well, which we think yields great benefits for our shareholders."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Great. Thank you. And if I could follow up on Neutron, you know, you guys talked about the pricing for the recent deal aligns with your average selling price for the launches. You know, with a smaller backlog for Neutron, can you level set us on how we should think about the pricing for that? And then also, you know, with the maturity or the upcoming launch in the fourth quarter, what's been the customer reception for this? You've got a very strong order this quarter. You noted, you know, higher than what you had last year. So I just want to understand the demand environment for that launch as we get closer to 4Q for the first one."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, thanks, Christine. I mean, look, we've always been consistent about, you know, our pricing structure with Neutron, and that remains the same, I think. You know, I was burned pretty heavily with discounting electrons and flushing them out of the manifest. It took years. So we're not we're just not going to go down that road again. And then, you know, of all of the things that I sit awake at night worrying about, like neutron demand is just not one of them. And, you know, with with the backlog we have currently with neutron, you know, the backlog is super healthy for a number of years. And, you know, at this point, we also need to make sure we have capacity for other customers as well."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, and I think, Christine, we can also kind of look back historically and look at what happened with electron pricing. And when we brought that vehicle to market, pricing was, call it $5 to $6 million, and we now see how backlog is priced, with average backlog priced in around $8.5 million for commercial emissions, and some are hypersonics being higher than that. So I suspect that we'll see that same kind of trend present itself as we bring neutron to market, where we tend to be very conservative up front, We understand the value proposition that Neutron brings relative to what is arguably very scarce competition in the market, primarily Falcon 9. And we think that we'll compare very favorably there and hopefully experience an upward bias to ASP as we continue to kind of gain cadence and credibility with the platform."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Great. Thank you very much."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you. We will take our next question. Your next question comes from the line of Eric Rasmussen from Stifel. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Yeah, thanks for taking the questions. Congratulations on the neutron bulk order. Just trying to understand, you know, I hear your comments around trying to be, you know, pretty pragmatic and balanced and keeping, you know, keeping an eye on your ASPs for that, make sure that you're not sort of underselling that rocket ahead of schedule. But, you know, are we, are you at a point now where you will, where we could see an acceleration of the signings of Neutron and those Neutron launch contracts, given, obviously, the strong demand that we're seeing there?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, I mean, potentially, Eric. I think that will certainly occur after successful flights, for sure. And for a number of reasons, you know, not just customer confidence, but also insurance rates will go down and all of those kind of things that get factored into launch costs. So, yeah, and look, we're also always very careful with what we commit, you know, given that it is a development program and we don't want to let anybody down. So, you know, having customers that have, you know, some flexibility in the beginning is super helpful."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Great. And maybe just my follow-up. You spent a little bit of time on the AFP machine. But what are your expectations, and it seems like you're making a lot of progress there, but what are your expectations for moving from maybe a single development machine to maybe more of a high-cadence production on that?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, well, the AFP, the single machine we have, fits our production for far into the future. So at the end of the day, stage ones will be a fleet model, no different to a fleet of aeroplanes. The only, you know, part that we reproduce are the stage twos, which, you know, we can bang out on the AFP super quickly. So, you know, at full cadence rate, you know, we don't see the need to really invest into too much more of the AFP infrastructure. It's well scaled, you know, right out of the chute."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Great. Thank you."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you. We will take our next question. Your next question comes from the line of Trevor Walsh from Citizens. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Great. Thanks for taking the questions. Peter, maybe for you, on the motive acquisition, the prepared remarks focus a lot on the kind of planetary exploration, Mars missions, moon missions, et cetera. But then there was a little call out in the slide deck around on orbit docking and spacecraft servicing. That seems like that could be a really large opportunity. How much is Motive leaning into that right now, or can you just maybe unpack what that specific piece kind of looks like, and if that's something we should kind of be paying attention to at all for that acquisition?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, thanks, Trevor. So Motive actually brings a really interesting and unique capability. So yes, I mean, we highlighted the MAV stuff because that's extremely unique and frankly very cool, but also basically any actuation and high-precision actuation, these guys are literally the world experts at. So that ranges, you know, from like Mars booms and cameras, of course, through to, as you pointed out, like if you want to do some on-orbit rendezvous, you know, we have a very own, you know, Rocket Lab Canada arm, if you will, for that kind of stuff. But also just precision, you know, drive and drive electronics for things like, you know, solar panel rotators and array drives, which is something that typically we've bought. So we're able to now bring that in-house as well. So, yeah, it's a unique acquisition in the fact that it exposes us to new opportunities and gives us new capabilities. It also closes one of the last few subsystems that we currently buy externally with respect to solar array drives. So, yeah, it does a number of things for us."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Great. Appreciate that. Adam, maybe just a quick follow-up for you. With respect to the step-down and non-gap gross margin, both in this quarter and then I think what's implied based on what you're guiding to for Q2, you said that was basically space systems mix entering in. Is that specifically the SDA tranches coming in, or I think that was called out for Q1 as the kind of main driver there, but is that also flowing into what's happening in Q2, or is there some other dynamic that we should be thinking about?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "No, you've got that right, Trevor. It's essentially as the SCA tranche two and tranche three programs become more and more of the mix, they come in at lower gross margin, but they bring a lot of scale with them. So if you look at what that does to kind of overall operating margins, it'll be accretive to that. But I think that the other thing to think about too is we have normal quarterly mix changes. This quarter, there's less higher margin launch business. in Q2 than we had in Q1 and Q4. And the launch business, as we've talked about in the past, it's a little bit difficult to predict because now we have a mix of point-in-time revenue recognition and overtime revenue recognition. And I think it's much harder to have a lot of predictability to what that margin is going to be. But overall, we see margins expanding in launch as we progress through the year, as we increase our cadence on Electron. And then as we also have periods where we mix in more subsystems and components business, those typically come at higher gross margins than these large SDA contracts. So, you know, we feel very good about where we're at margin wise. We think we have a lot of opportunities to continue to drive gross margin increases. So really, but you got to look when you start kind of getting a little bit too kind of digging a little too deep in one quarter versus the next. There's a lot of things that are moving around under the surface. But again, the macro trend is supportive of solid gross margins going forward."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Understood. Appreciate the color. Thanks."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you. We will take our next question, and the question comes from the line of Michael Leshock from QBank Capital Markets. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Hey, good afternoon. I wanted to follow up on the mode of acquisition, and you mentioned how it brings in-house a lot of the costly and supply-constrained components. You called out solar array drive assembly specifically. For things like that, did you previously buy them from Motive or did you have multiple other suppliers for components like that?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, Michael. Yeah, no, we bought them from multiple suppliers previously."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Okay, great. Thanks. And then maybe moving to Electron and just assuming that the demand is there for more launches and the impressive manifest that you have clearly implies that it is. How many electrons could you physically launch annually? Is there anything that could potentially lead to another step change in the electron launch cadence or any potential bottlenecks that might be preventing even more of an increase in those launches? Thank you."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, so when we set up the electron factory, we designed it for 52 electrons a year. So we have a capacity to reach there. And there'll be some modest capital investments to reach that, but that's basically it. And we have two pads already done at LC1, so that's not a constraint. And of course, we have the third pad in Wallops. So no, I think we're really set up for that increase in cadence. And yeah, it would be very, very modest investments to to realize that. And then, of course, if it went over 52 launches a year, we'll have to take a little bit more real estate and expand the factory. But it's all pretty trivial stuff."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Great. Thanks so much."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you. We will take our next question. Your next question comes from the line of Ron Epstein from Bank of America. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Hey, good afternoon. This is Alex Preston on for Ron. I wanted to ask on space systems, are you seeing or thinking about or how are you thinking about opportunities in proliferated geo and maybe other higher orbits? Right. I know it's been the trend has definitely been towards Leo proliferation, but I think in recent weeks we've seen some momentum on contracting activity, particularly seems on the Space Force side there. This is a space you're looking at. And to what extent could you maybe enter that market as a prime as well, given your current capability set?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, hey Alex. Certainly we're interested in that and a lot of the spacecraft that we build already go to low Earth orbits and that necessitates incredibly hard radiation tolerance. So those environments are not dissimilar to geo. So a lot of the challenges around RadHard and those kind of operating environments we're already very familiar with. You know, going to geo for us is not scary at all. I mean, we're happy to go to Mars and operate in those really deep space environments. So a lot of our tech stack is kind of, you know, rad hard or rad tolerant already. So we're watching the geo stuff as well as you are. And I think that is an area we could easily move to."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Great, thanks. And then if I could follow up, I think Christine asked this question similarly, but I wanted to ask more on the national security side if there are, right, so you've got the capabilities on launch, haste, providing satellites themselves to SDA, now adding to that with SBI. Are there areas that you could look to expand your capabilities specifically looking at national security that may be areas you can't address currently that you'd like to in the near term?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, I think one of the really interesting opportunities that the GEOS application bought us is these very bespoke, unique national security payloads. So with that acquisition, I think we were introduced and got exposed to a lot more programs and folks than we would have otherwise. So I think it's a core drive and a core capability within the company, and I think we're In one way or the other, whether it's a component supplier or a prime, we have pretty deep exposure into that national security environment now, as you point out, both through launch and through spacecraft."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Great. Thank you very much. Appreciate the call."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you. We will take our next question. Your next question comes from the line of Jan Engelbrecht from Baird. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Good afternoon, Peter and Adam. Thanks for taking our questions. I'll start with the space systems business. You know, you've announced a lot of updates recently, I think seven different sort of capabilities in the last four months. And then there was the in-house development of key components. We think of, you know, the Star Tracker in Toronto, the electric propulsion thruster in New Zealand, and then the Monarch deal. And sort of each of these updates points towards a strategy of expanding Rocket Lab's manufacturing footprint beyond the U.S., so more of sort of a distributed manufacturing model. Just curious, the thought there, should we expect more of that in the future? Did sort of the disruption of tariffs factor into that, or was it mostly just a logical business decision of being able to serve customers globally in a much easier way?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, so a bit of both, a bit of all of those things you said actually. So yes, it's strategic in the fact that, for example, you know, Monarch really gave us a foothold in Europe and, you know, Europe, you know, outside the United States is like the second largest, you know, market and opportunity for us. So, and also it just sort of depends where the technology is. Like, You know, the Monaric laser terminals are widely regarded as the best in the business. So if it means we have to go to Europe to get them, that's where we'll go. So, you know, that was just convenient that it was also very strategic for us. But yeah, I mean, we operate kind of, you know, areas of excellence and, you know, some places it makes sense to do stuff in New Zealand, some times it makes sense to do it in various facilities in the States. So, you know, we really look at that quite holistically in that sense."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thanks, Peter. And then if I just could have a quick follow-up. As we think about the TRANS3 tracking layer, I think in late December, was about $800 million, and then in the release it said there's the potential for subcontracting opportunities to take it up to a billion dollars. I was curious, Amir, any of the updates, any of the new components that you've announced, sort of developed in-house, and then you've brought Mineric in there, is there anything, I know you can't, maybe don't want to talk about exact dollar values, but if we think about future tranches of the tracking layer, is there a ballpark of sort of content that these latest developments could have has increased your ability to serve the other prime customers?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah. So, I mean, you know, a number, if we just talk about, you know, some of the transport layer stuff and what some of the track and SDA work in particular, like, you know, they are all optically linked together. So, you know, obviously there's an opportunity there and they all have, you know, high power solar requirements and there's opportunities there. all need electric propulsion so there's opportunities there um so you can see that that um you know we can be widely distributed across things and you know i like to think of it as like even when we lose we kind of win because if we lose um a project then you know the next day there's a bunch of purchase orders you know turning up for solar panels and reaction wheels and all that kind of stuff so even when we we lose we win but even when we win we also win twice because um you know the same thing happens is we can win the program and if there's multiple awards Typically, there'll be, you know, come Monday, there'll be a bunch of purchase orders for components for other people's systems as well. So that's kind of what you saw with T3 is we kind of won twice."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Great. Thank you. Very helpful. Appreciate the time."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you. We will take our next question. Your next question comes from Edison Yu from Deutsche Bank. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Hey, thank you for the questions. Let's actually add something I brought up a couple of calls ago. And it's in the context of you obviously laid out today, you have the complete satellite component portfolio, whole line of different types of satellites. And then, you know, you probably saw recently Amazon acquired GlobalStar. And so does Spectrum and, you know, these kind of potential services markets in the future, have your views kind of changed over the last maybe six to nine months? Are there certain services that look more attractive, less attractive? The spectrum, your view on spectrum change at all? Just curious reviews on that."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah. Hey, it's great to talk to you. Um, look, I think we've always been super consistent that, you know, our end goal here is to provide, uh, you know, services from, from, from space. And I think that's the largest PAM and that's where if you're on your own rocket and have your own satellites, uh, you can be most disruptive and that thesis hasn't changed. But, um, I also think it's a little bit academic to be talking about us doing services when we still have Neutron in development and things like that. So at the right time, I think we're happy to talk a little bit more about our thoughts there. But for right now, the focus is really on completing Neutron and making sure that we have all the components and everything we need at scale to be able to ultimately deploy applications in orbit."
+    },
+    {
+      "speaker": "spk18",
+      "text": "I just said I thought I'd try. And then something probably more something maybe more, perhaps a little bit more near term or more kind of next couple years. I think you said it your your your haste, the manifest was like a one third already, or one third of the manifest. You kind of envision, you know, a future where your launch mix is actually becomes, you know, probably like one third haste, whether you know, let's say, you know, for every, let's say you get 30 launches, you know, 10 of them every year actually, you know, hypersonic testing. Is that like a realistic scenario?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, look, it could be. And a part of this will depend on the pace and scale of Golden Dome because, you know, one really key critical element of Golden Dome is, you know, how do you test it and, you know, simulate the threats and all those kinds of things. And this is where we're seeing a lot of interest in the haste portfolio, of course, because you can do things with that that it's very difficult to simulate. So I would say that the scale of haste will somewhat depend, or the massive scale of haste will somewhat depend on the scale of Golden Dome and the pace in which that takes place."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, Edison, I'd also maybe add to that too, that one of the things that we're seeing is You know, the international opportunity is becoming much more clear and present. I think that also applies to hypersonics, right? I think that the environment that we find ourselves in these days, geopolitically, just is driving, you know, more and more sovereigns to need capabilities that they used to rely upon, you know, the U.S. for primarily. So, you know, again, when you think about the long-term demand for haste type of solutions, I don't think you have to think of just the U.S. as the customer base for that. I think it's going to expand beyond that. Now, of course, you know, everything we do, you know, requires, you know, U.S. State Department approval and cooperation. And, you know, we, of course, work with only the most friendly partners in the United States. But I think there is a bigger opportunity out there than just, you know, like Mock TV, for example, and U.S. government opportunities. Understood. Thank you."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you. We will take our next question. The question comes from the line of Gautam Khanna from TD Cohen. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Good afternoon. This is Anton for Gotham. Can you just share some more details on neutron timing? So based on the way things are trending now, is this more of an early Q4 story or late Q4 story? And then just depending on the timing of the first neutron launch, is it possible we could see maybe three payload carrying launches in 2027?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "Hey, Kotham, could you repeat the first question? We had a bit of a fallout on the audio on our side."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Sorry about that. Can you just share some more details on Neutron timing? Is this kind of more of an early Q4 story or late Q4 story? And then the second part was just, you know, depending on the timing of that first launch, could we maybe see three payload carrying launches in 2027?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, I mean, I don't think we have enough visibility to nail it down to, you know, a couple of weeks and a quarter at this point in time. You know, as we approach first launch, it'll be, you know, those timelines will become much, much tighter. And then, you know, we've always said that plan is sort of one, three, five. And, you know, that's what we've demonstrated with Electron. And we think that's the right kind of cadence. So, you know, that thought still remains consistent."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you. We will take our next question. Your next question comes from David Strauss from Wells Fargo. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Good afternoon. This is Ben Tomek on for David. I was just curious, following up on that last question, when do you plan to incorporate the reusability for Neutron, and then how will that kind of impact cadence going from there?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, great question. So on flight one, we'll be attempting to re-enter and do a soft splashdown for Neutron. So that will test all of the re-entry engine relights and downrange burns. This is the area that's kind of the most unknown and the hardest to test for other than actual flight testing. Hence the reasons for the intentional soft splashdown where we just splashdown in the ocean. Provided that all goes well and we're happy with what we need to do there, then we'll slip the return on investment barge under it and attempt a landing on flight two. Now, of course, if we don't get the result that we want on the re-entry for flight one, then we'll re-evaluate. Basically, I just don't want to put the barge under the vehicle until we know that we're not going to punch a hole through it."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Got it. Great. Thanks. And then maybe going back to EWSA, can you just provide an update on your contracts there and then how you're thinking about that program at a high level? Have you guys received all the funding for Tron 2 transport? And how are you thinking about the transport layer going forward with that shift to the space data network?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, well, I can speak to where we are with the contracts. So, Um, everything's on track. We've been, we've been hitting our milestones. We've been getting, you know, on-time payments from our government customers. In fact, you know, pretty sizable one, uh, earlier this week. So, um, no, I think everything seems to be on track there. So I don't think funding is an issue for the programs that we're executing against as far as the long-term, you know, uh, direction for transport layer. You know, I, I think there's been plenty of, uh, kind of press and discussions and a lot of speculation, of course, uh, But I think, you know, for us right now, our focus is on executing, you know, our tranche two of transport. And then, of course, on the missile track, missile warning for tranche three. If Pete, you want to add anything to that?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, thanks, Adam. I think you've covered it well. I mean, you know, transport is kind of one layer, but I mean, The layer that is doing the work is track, so hence the reason why we focused very intently on that for the T3 stuff. Got it. Thank you."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you. We will take our next question. The next question comes from Surit De Silva from Roth Capital. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Hi, Pete. Hi, Adam. Congrats on the progress here. Adam, I know you talked about the space systems business coming in with the PWCA program, but maybe can you talk about what the mix of launch and space systems may, how it may trend? There are a lot of moving parts that I know may be hard, but, and then, you know, gross margin implications of that as you look out the next, you know, several quarters, I guess, one or two years, maybe."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah. So look, I think that, you know, we're clearly going to have more mix in 2026 as we've progressed through the year coming from space systems. even though we're going to have pretty significant growth coming from the Electron side of the business as well, Electron and Haste. I would say that it won't be dramatic. As I mentioned earlier, as the mix skews more towards Electron, that's very helpful to the overall corporate margin because that product is really coming into its own, getting very closer, if not at the target margins that we set for that business several years ago. you look at our space systems business we mentioned earlier that yeah these sda contracts are large and they bring a lot of absolute dollar scale with them a little bit lower gross margin profile but the other thing to take note of too is if you know we just closed the monarch acquisition um that will contribute if you want to think about roughly 15 million dollars you know in this in this quarter on a run rate basis and that comes at lower than uh the space system's overall gross margin because It's a brand new business. I think Pete mentioned on the last call that there's a bunch of work that we need to do there to get that business into fighting shape in the way that we view Rocket Lab product lines. We're very excited and very confident we're going to get there, but there's some work to be done. Until we get a few more quarters under our belt and really Rocket Lab eyes, if you will, that system, it's going to be a bit of a drag on margins, but I wouldn't say anything too, too significant. And we do think longer term that there's no reason why that business can't be at or greater than our target margins for our space systems division. So, you know, I think the other thing that's going to influence this, obviously, once we start to get Neutron in the mix, which is really more of a, obviously, revenue generating, you know, 2027 story onward, you know, that's going to do, we think, very much what Electron did through its maturation, which is start off with challenged gross margins, but then because of reusability and because of our experience in kind of ramping a rocket business, we think that that's got as much, if not better, long-term gross margin potential as Electron is exhibiting. So I think overall, we're not going to see a dramatic shift, I think, either quarter to quarter or even over the next several years. There's going to be more of kind of the progression that we've seen. And I think we've been pretty clear in kind of what our long-term model for the business is, which is a strong top-line growth with gross margins at a corporate level, again, longer-term targets of around 50% or greater, and then delivering mid to upper 20s operating margins for the business. And I think that when we look at what's going on underneath all the various pieces coming together, really the key to unlocking that is Neutron. We've got to get Neutron's first flight off. We've got to pivot that into production. And when we do, there's a lot of very positive things that happen to the P&L and then lagging that by perhaps 18 to 24 months is the strong cashflow generation that will come after we've had the opportunity to build out the fleet of neutrons, as Pete talked about earlier, where it looks much like a fleet of aircraft. So we think we've got all the right kind of levers in place. It's just a matter of executing. And again, I don't think you should be expecting any sharp kind of changes to our margin profile. I think it should be relatively straightforward to model. I don't think there are any big, big surprises that are lurking anywhere."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Thanks, Adam. That was a very helpful color there. And then maybe this one's a bigger picture for Pete. And it could be a bit of a reach because you're not the first company people think about when they think about lunar missions. But, Peter, are there any opportunities that Rocket Lab intercepts with everything Jared Isaac talked about, NASA impact, that we're not maybe realizing but should? Or is that something that maybe is other companies more so than you guys?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yes, it's it's it's. probably other companies than us um in some in some areas um you know we are obviously a provider of a lot of critical hardware for many of those companies so for the lunar stuff i think we we kind of prefer to you know to be the um you know the picks and shovels behind those missions rather than those you know headline those missions um it's it's kind of a bit of a tricky one because um uh, you know, typically those programs, um, have been a little bit, um, wobbly in the fact that, you know, we're going to the moon. No, we're not going to the moon. Now we're going to Mars. Now we're going back to the moon. Now we're going back to it. So I just don't want to get whipsawed and, you know, and have those, uh, those big, those big contracts in, in the mix, um, getting whipsawed backwards and forwards. Um, you know, for example, where gateway got canceled and, and, um, and then the, the commercial space stations got completely changed and, And I don't know, it's just those are cool programs, but, you know, it's very easy to whip sort around. So we much prefer to play a quieter role. Now, in saying that, there's certainly some projects with, you know, with respect to Mars that we're very vocal about. Mars Telecommunication Orbiter, I think, is one that more recently that we've talked about a lot in the Mars Sample Return Missions. So where we see those missions that have strong proven funding and that are relatively uncontentious from changes of administration and all those kind of things, then we'll go after them. But I'm less keen to chase the shiny things that can be a little bit less certain."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Appreciate the update. Thanks, Pete."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you. We will take our next question. And the question comes from the line of Ryan Koontz from Needham & Co. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk19",
+      "text": "Great. Just a quick question here. You know, thinking about your recent additions to the portfolio with Minark and the gas electric propulsion, you know, one first part is how do you think that improves your competitive position in the broader landscape, and then secondly, you know, your ability to compete financially in the big picture, thinking kind of multi-year, you know, strategic level. Appreciate your thoughts there. Thank you."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, no, thanks, Ryan. Well, I think, you know, some of these acquisitions are just driven by pure pain. If we look back through some of our programs, the things that caused a lot of pain for us were things like electric propulsion that was, you know, constantly late, constantly expensive, and just not great solutions. And Monarch was slightly different. Great technology just always struggled with respect to delivery. So some of these things are just driven from pain. Now, of course, owning those things means that you can resolve the pain, and that puts you in a much stronger competitive position, both from an on-time delivery or faster timeline delivery, And then, of course, when they're all vertically integrated, the cost structure is much more effective as well. So, you know, being vertically integrated and owning these really critical, unique key pieces of the space ecosystem, you know, naturally gives a competitive advantage."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, and I'd add one more thing to that. I mean, I think we have a very tangible example of the benefits that it can yield. If you look at our Tronch 3 win that we had for the $816 million, I think one of the main reasons why we think we prevailed in getting award there is because of our level of vertical integration. Um, and if you look at the margins that we model for that, which are very much in line with our, our, our spaces and platform business, I think they look quite different than people who won similar awards that aren't as vertically integrated. So, you know, not only does it position us to win because the customer can have more confidence that we're going to deliver, you know, on schedule with performance that we commit to because we own the whole platform or more of the whole platform. Um, it just also puts us in a much stronger position to win financially as well because we can turn what would otherwise be a pretty lackluster kind of financial profile or program into something that's actually quite strong. So I think it's really important on both levels. First and foremost, strategically enabling us to just execute on programs, and then when we do it, to give it the kind of returns that we and our shareholders expect."
+    },
+    {
+      "speaker": "spk03",
+      "text": "That's wonderful, guys. Thank you."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you. We will take our next question. Your next question comes from Andre Madrid from BTIG. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Hey, this is Ned Morgan on for Andre this afternoon. Could you guys just size up how much of space systems revenue is being consumed internally versus third parties this year? And then moreover, how that could trend over time?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "So I guess I think if I understand your question correctly, you're saying what percentage of our – if you look at a spacecraft that we're delivering, say, for example, to SDA, what percentage of that would be vertically integrated BOM versus third-party procured? Is that what you're asking?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "I mean, I guess more so I was thinking about with the electric thrusters, you guys are using those on your – that business line you're building up is going to support your SDA satellites. How much of your internal –"
+    },
+    {
+      "speaker": "spk07",
+      "text": "production space systems is supporting your programs versus others oh that's an interesting question um i would say i mean yeah it depends like if you look at our solar business for example right i would say that we don't yet consume a majority of our solar capacity for our internal programs that's still very much a program sorry a platform or line of business where the majority of the revenue is coming from other satellite manufacturers that we sell to like lockheed and airbus and and others um If you look at things like electric propulsion for Gauss, that's going to be disproportionately internally focused initially because we're going to prioritize that for our key strategic programs. But make no mistake about it, every line of business, every product that we develop is designed to not only meet our internal needs, but also serve the merchant market. So I would say that, yeah, it really depends by platform. Again, solar's low, Gauss will be high. When we think of things like reaction wheels, I would say the vast majority of our production actually goes to third parties versus internal supply. So, yeah, there's really no, I'd say, holistic number that I can give you that would be helpful. It's just kind of a case-by-case, kind of product-by-product kind of look."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Okay. Thank you. And then one more, just trailing back to how big HAST and hypersonics in general could be. I guess, what would make you decide to broaden your hypersonic offerings beyond just HACE? I know there's some other programs like Mach XL out there. I was just curious if you have any interest in those."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, I mean, I think we have kind of interesting exposure across a wide field of stuff. So the HACE is obviously a very, very specific requirement. And, you know, we're obviously involved in SBI as well. So, yeah, I mean, I think we view it where we can add the most amount of value and we're strategic for us. And, you know, as various programs, you know, rise, we always take a good solid look and sort of make decisions based on, you know, on those factors."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, I think that if I could kind of wave a magic wand and come up with ideal solutions, I talked about this a few years ago when I was meeting with folks. It was like, if we could get to the point where Haste represented, let's say, the base business for the Electron platform that got us to our target margins, which was, as we've talked about before, about 24 launches a year, if we could have 24 launches a year be Haste, that covers really the nut for that business and gets us to absorbing a lot of the overhead and then everything else becomes gravy and really additive to margin, that would be the place where we'd want it to land. Now, could it get there? I think there's a possibility of that. I mean, this year, if you look at the mix of haste launches this year out of our total manifest, it's sitting at around a little over between 20 and 25 percent of the mix is going to be haste. So there'd be a little bit of work yet to get to that to kind of a baseline of, say, two haste launches of a month. But I would say also, as I mentioned earlier, it doesn't just have to come from U.S. programs. You know, there's a good chance it's going to it's going to be coming from from lots of different places."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you. We will take our next question. Your next question comes from the line of Jeff Vannery from Craig Callum Capital Group. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Hi, guys. This is Vijay on for Jeff. Thanks for taking the question, and I'll keep it to one. On subsystems, how are you tracking the progress post-acquisition? Is it how much cost you're able to take out? Is it how much you can increase margins? How much you can scale production? Just kind of what are you looking at there? Thanks."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, it depends a little bit on the business, Vijay. Like, some require a lot more work than others. You know, generally, historically, we've acquired very profitable little companies. And, you know, the rocket labising, as Adam called it, is, you know, relatively limited to black wall snack machines and T-shirts. versus, you know, complete, you know, financial restructure. But I would say that, you know, Monarca is certainly one of those that it's going to take a, you know, take a lot more work. But, you know, consistent to Adam's, you know, comments around their financial model, we have very clear gross margin targets. And, you know, these business units are run almost as their own entities. You know, I treat them actually like startups. So they have to come pitch to me for For money, they're expected to grow a certain amount every year, and whether they do that through selling more products or creating new products, that's their business. But we very much run them fast and hard and like little start-ups, and that's worked out really well for us."
+    },
+    {
+      "speaker": "spk19",
+      "text": "Got it. Thanks for taking the question."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you. There are no further questions. I would like to hand back for closing remarks."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Great, thanks very much, everybody, and thanks for joining us today. And we look forward to sharing more exciting updates in the months ahead. So thanks very much."
+    },
+    {
+      "speaker": "spk09",
+      "text": "This concludes today's conference call. Thank you for participating. You may now disconnect."
+    }
+  ]
+}
