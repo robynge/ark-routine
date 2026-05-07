@@ -34,12 +34,6 @@ jobs:
       - name: Install Python deps
         run: pip install --quiet earningscall weasyprint
 
-      - name: Clone earnings scripts (renderer + fetcher + holdings parser)
-        run: |
-          rm -rf .ear
-          git clone --depth=1 -q https://github.com/robynge/ark-earnings-routine.git .ear
-          ls .ear/scripts/
-
       - name: Verify ARK CSVs are present
         run: |
           # CSVs live at data/holdings/LATEST/*.csv (refresh-csvs.yml symlinks LATEST → today's date dir).
@@ -53,7 +47,10 @@ jobs:
         env:
           EARNINGSCALL_API_KEY: ${{ secrets.EARNINGSCALL_API_KEY }}
           REPO_ROOT: ${{ github.workspace }}
-          SCRIPTS_REPO_DIR: ${{ github.workspace }}/.ear
+          # All 4 data scripts (parse_holdings, find_today_calls, fetch_transcript,
+          # render_transcript) now live in this repo's scripts/ directly. No more
+          # cross-repo clone of ark-earnings-routine.
+          SCRIPTS_REPO_DIR: ${{ github.workspace }}
         run: python3 scripts/run_earnings.py
 
       - name: Commit
