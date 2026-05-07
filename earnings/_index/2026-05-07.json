@@ -1,6 +1,88 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-07T11:08:50Z",
-  "n_calls": 0,
-  "calls": []
+  "generated_at": "2026-05-07T15:29:09Z",
+  "n_calls": 8,
+  "calls": [
+    {
+      "ticker": "AVNT",
+      "company": "Avient Corporation",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-07T08:00:00-04:00",
+      "ark_funds": {
+        "PRNT": "0.12%"
+      }
+    },
+    {
+      "ticker": "GENI",
+      "company": "Genius Sports Limited",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-07T08:00:00-04:00",
+      "ark_funds": {
+        "ARKW": "0.81%"
+      }
+    },
+    {
+      "ticker": "MTLS",
+      "company": "Materialise NV",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-07T08:30:00-04:00",
+      "ark_funds": {
+        "PRNT": "3.91%"
+      }
+    },
+    {
+      "ticker": "XMTR",
+      "company": "Xometry, Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-07T08:30:00-04:00",
+      "ark_funds": {
+        "PRNT": "4.22%"
+      }
+    },
+    {
+      "ticker": "MTLS",
+      "company": "Materialise NV",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-07T08:30:00-04:00",
+      "ark_funds": {
+        "PRNT": "3.91%"
+      }
+    },
+    {
+      "ticker": "SSYS",
+      "company": "Stratasys, Ltd.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-07T08:30:00-04:00",
+      "ark_funds": {
+        "IZRL": "1.61%",
+        "PRNT": "3.81%"
+      }
+    },
+    {
+      "ticker": "PLTK",
+      "company": "Playtika Holding Corp.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-07T08:30:00-04:00",
+      "ark_funds": {
+        "IZRL": "1.58%"
+      }
+    },
+    {
+      "ticker": "MTRX",
+      "company": "Matrix Service Company",
+      "year": 2026,
+      "quarter": 3,
+      "conference_date": "2026-05-07T10:30:00-04:00",
+      "ark_funds": {
+        "IZRL": "1.72%"
+      }
+    }
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-07T11:08:50Z",
+  "generated_at": "2026-05-07T15:28:01Z",
   "n_calls": 15,
   "calls": [
     {
@@ -123,16 +123,6 @@
       }
     },
     {
-      "ticker": "PTC",
-      "company": "PTC Inc.",
-      "year": 2026,
-      "quarter": 2,
-      "conference_date": "2026-05-06T17:00:00-04:00",
-      "ark_funds": {
-        "PRNT": "4.78%"
-      }
-    },
-    {
       "ticker": "KTOS",
       "company": "Kratos Defense & Security Solutions, Inc.",
       "year": 2026,
@@ -145,13 +135,13 @@
       }
     },
     {
-      "ticker": "Z",
-      "company": "Zillow Group, Inc.",
+      "ticker": "PTC",
+      "company": "PTC Inc.",
       "year": 2026,
-      "quarter": 1,
+      "quarter": 2,
       "conference_date": "2026-05-06T17:00:00-04:00",
       "ark_funds": {
-        "ARKF": "1.52%"
+        "PRNT": "4.78%"
       }
     },
     {
@@ -162,6 +152,16 @@
       "conference_date": "2026-05-06T17:00:00-04:00",
       "ark_funds": {
         "ARKQ": "1.87%"
+      }
+    },
+    {
+      "ticker": "Z",
+      "company": "Zillow Group, Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-06T17:00:00-04:00",
+      "ark_funds": {
+        "ARKF": "1.52%"
       }
     }
   ]

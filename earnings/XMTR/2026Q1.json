@@ -1,0 +1,239 @@
+{
+  "event": {
+    "ticker": "XMTR",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk07": {
+      "name": "Randy Altschuler",
+      "title": "Chief Executive Officer"
+    },
+    "spk05": {
+      "name": "Sanjeev Singh Sani",
+      "title": "President and Incoming CEO"
+    },
+    "spk06": {
+      "name": "James",
+      "title": "Chief Financial Officer"
+    },
+    "spk00": {
+      "name": "Operator",
+      "title": "Conference Operator"
+    },
+    "spk10": {
+      "name": "Corey Carpenter",
+      "title": "Analyst, JP Morgan"
+    },
+    "spk08": {
+      "name": "Unidentified Xometry Representative",
+      "title": "Xometry Management"
+    },
+    "spk09": {
+      "name": "Brian Drab",
+      "title": "Analyst, William Blair"
+    },
+    "spk03": {
+      "name": "Andrew Boone",
+      "title": "Analyst, Citizens Bank"
+    },
+    "spk04": {
+      "name": "Unidentified Xometry Executive",
+      "title": "Xometry Management"
+    },
+    "spk02": {
+      "name": "Greg Palm",
+      "title": "Analyst, Craig Hallam"
+    },
+    "spk01": {
+      "name": "Troy Jensen",
+      "title": "Analyst, Cantor Fitzgerald"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk07",
+      "text": "as we deliver expanding margins on top of accelerated growth. In addition to our record financial results, today we announced a strategic partnership with Siemens, the world's leading industrial software company, who is embedding Xometry's AI capabilities natively into Siemens Accelerator and investing $50 million in Xometry Class A common stock to back that conviction. By natively integrating Xometry's marketplace capabilities directly into Siemens' integrated design to manufacturing software ecosystem, including the Siemens Design Center, this partnership puts Xometry's manufacturability, pricing, and sourcing intelligence in front of Siemens' global customer base at the moment design decisions are made. Through this embedded experience, engineers will receive real-time feedback on design feasibility, manufacturing options, pricing, and lead times directly within their existing design workflow. They can also seamlessly place and track orders through to delivery. The result is a continuous digital thread from design decision to delivered part. Xometry is uniquely equipped to power this partnership. With over a decade of proprietary transactional data, real-world manufacturer feedback, and closed-loop production outcomes across our global supplier network. These serve as the foundation of our manufacturability, pricing, and sourcing intelligence, and they are what makes this experience possible at scale. In addition to the Siemens Design Center integration, the partnership will include the integration of Thomas, Xometry's North American industrial sourcing network, with Siemens SupplyFrame to bring deep design to sourcing intelligence for both electronic and mechanical components to completely source the bill of materials for Siemens customers. As Xometry's enterprise install base deepens, with more accounts embedding us into their core engineering and procurement workflows, the Siemens partnership extends that intelligence upstream into the design environment itself, helping teams move from digital intent to physical production with fewer handoffs and greater transparency. And this also accelerates the expansion of Xometry's install base in the process. Together, This strategic partnership will accelerate our collective penetration of the massive, highly fragmented custom manufacturing market, with Siemens' global platform extending Xometry's reach across all commercial markets. Our teams are actively working on the integration roadmap, and we look forward to sharing milestones as the partnership develops. We're thrilled to be working with Siemens to further strengthen the design digital thread. For those new to our story... Xometry is operated as an AI native marketplace since its inception, with data science, machine learning, and core AI models integrated into operations. Xometry's core AI models, which manage the custom order to part manufacturing journey, are trained on proprietary transactional data. Xometry's proprietary pricing and sourcing models are embedded directly within live marketplace transactions. integrating digital quoting, supplier selection, production performance, and delivery outcomes into a closed-loop learning system. Each completed order strengthens future predictions, increasing accuracy, speed, and reliability across the network. By embedding design to fulfillment intelligence directly into engineers' workflows, Xometry reduces information asymmetry in manufacturing procurement, and is transforming what has historically been a fragmented manual coordination problem into a scalable competitive advantage, grounded in both digital intelligence and physical world execution. Our strong Q1 financial results mark three consecutive quarters of accelerating revenue growth and four quarters of increasing EBITDA margins. At the same time, we've invested in and strengthened our platforms, to deliver robust secular growth and expanding profitability in the coming years. We're off to a strong start in Q2, and we expect robust growth to continue in 2026, which James will discuss later in the call. I will now turn it over to our president and incoming CEO, Sanjeev Singh Sani, to discuss some of the initiatives that are driving our strong growth and increasing profitability."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thanks, Andy, and good morning. The strong Q1 results we are reporting today Our direct evidence that the product-led strategy formulated last year is working. This quarter validates our strategic thesis and marks the clear acceleration of our path to a new trajectory. We are defining the e-commerce playbook in custom manufacturing and raising the experience bar for buyers and suppliers everywhere. Our teams are beginning to inflect the growth curve and build a path to this new trajectory. Today I will focus on sharing some developments from our strategic elements focused on our proprietary and core AI models, e-commerce marketplace experience, and expansive supplier network. Our new strategic partnership with Siemens is very exciting as it will help us serve ever more engineers and transform their buying journeys. The Siemens partnership is a strong external proof point that our core AI models are becoming the infrastructure for how the industrial world designs and sources parts. In Q1, we made significant progress on proprietary core AI models. Our proprietary intelligence is crucial for creating value across the entire marketplace. Our strategy over the past year has been to establish our core AI models as de-differentiators. They are the reason why Xometry continues to take significant market share. Our models are laser focused on improving pricing, speed, and selection for both buyers and suppliers. The ability to translate a decade plus of proprietary data into immediate operating leverage and long-term marketplace growth is what underpins our confidence in accelerating the move to the next S-curve of growth. First, we launched a new enterprise machine lead time model that represents a significant expansion of Xometry's predictive intelligence capabilities. The new lead time model represents a significant expansion of Xometry's predictive intelligence capabilities, leading to a superior prediction accuracy for custom-ordered parts. Enabled by the scale of performance data from the global supply network, the model enhances operational throughput by driving a reduction in standard lead time offerings and expanding rapid delivery to facilitate one-day lead times across a growing catalog of materials and geometries. Our updated model leverages a training data set four times larger than its predecessor and now integrates critical factors like specialized certifications, new materials, and advanced finishing options. Enterprise customers are not experimenting with us anymore. They are expanding. Second, we shaped several new journeys on our e-commerce marketplace experience. Our customer and supplier online journeys are rapidly defining the e-commerce playbook in custom manufacturing. One of our core beliefs and something I feel strongly about is that the B2B buying experience in manufacturing should be every bit as good as what people experience in their personal lives on Amazon, Wayfair, or Alibaba. The days of clunky B2B procurement software multi-step checkout processes, and waiting for days for an email code are simply over. What we are seeing is a generational shift in who is making manufacturing purchasing decisions. The engineers, procurement buyers, and supply chain lead roles are now full of dynamic digitally native individuals. They expect the same frictionless journey at work that they have in their personal lives. And when they find that Xometry can deliver to that, they become Xometry champions inside their organizations. That's true whether they are at a Fortune 500 company or a high-growth startup. With our focus on improving the customer journeys on the platform, we introduced two features. First, we launched the Name Your Part feature, which enables customers to match their internal name conventions to what they have on Xometry, creating a unified part and SKU-like structure on our platform. This is an important feature that is already reducing buyer friction and substantially simplifying the reordering process. We can see in recent activity in TeamSpace, the name your part feature is gaining traction as geometry becomes increasingly part of customers' bill of materials. Second, we enriched our pricing models to include greater personalization of customer pricing. We enhanced customer the dynamic pricing logic that powers the pricing intelligence layer of our instant coding engine. We see this drive higher conversions, balanced margin outcomes, and drive higher overall growth while enabling better outcome for our customers. In Q1, we continue to improve our injection molding offering in the US, adding six new materials and three additional finishes to give buyers greater choice and selection increasing instant coating of injection molding parts by over 15%. Xometry's proprietary AI-powered platform manages the full cycle of injection molding needs from instant coating to delivery and reordering in one of the largest custom manufacturing markets in the U.S. The platform enables a spectrum of injection molding options, from prototype and low-volume bridge tooling to high-volume multi-cavity production tooling in approximately 50 different materials, colors, and finishes. Finally, we are ever more focused on expanding our global supplier network and improving supplier experience. Our global supplier network of approximately 5,000 suppliers is a significant strategic advantage, giving buyers unmatched speed, capacity, and resilience, allowing for immediate scaling, and offering sourcing flexibility across 50 countries on four continents. We continue to add more suppliers with higher levels of specialized certifications to support the growing needs of customers in specific industries. In 2025, demand for certified manufacturing surged, with jobs requiring certifications increasing 35% on our platform. For our suppliers, we continue on improving their experience through new technology and tools in work center, including the recent release of on-platform communications. By centralizing job-related communications directly within work center, we are shifting more engagement online. improving visibility, and further reducing friction for our suppliers. Insights we draw from suppliers' interactions on our platform give us significant sourcing insights to drive margin outcomes. This quarter confirms our strategic path and the power of our AI-driven flywheel. As I prepare to take on the CEO role in July, I'm very excited about the trajectory ahead, and I look forward to leading Xometry through its next product-led growth curve that we have already embarked on. I will now turn the call over to James for a more detailed review of Q1 and our business outlook."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thanks, Sanjeev, and good morning, everyone. Our results for Q1 underscore the continued scaling and increasing efficiency of our marketplace, driving both accelerated growth and expanding profitability. Revenue growth increased for the third quarter in a row, and marketplace gross profit dollars saw even faster growth, exceeding 50% year-over-year. This accelerating top line was paired with yet another quarter of improved adjusted EBITDA profit margins. These achievements demonstrate that our marketplace is becoming the essential infrastructure for a predominantly offline and fragmented industry. Q1 revenue grew 36% year-over-year to $205 million, a 600 basis point sequential acceleration from Q4. Q1 marketplace revenue was $191 million, and services revenue was $13.8 million. Q1 marketplace revenue increased 40% year-over-year, a 700 basis point acceleration from Q4, driven by strong execution, expansion of buyer and supplier networks, as we continue to capture significant market share. Q1 active buyers increased 20% year-over-year to 85,581, with a net addition of 3,760 active buyers, the highest number of net ads in nine quarters. Strong Q1 net additions were driven by our product-led growth strategy and efficient corporate marketing initiatives. Q1 marketplace revenue per active buyer increased a robust 17% year-over-year, primarily due to increasing wallet share. We view accounts with at least $50,000 spend as the top of the enterprise funnel. In Q1, the number of accounts with last 12-month spend of at least $50,000 on our platform increased 21% year-over-year to 1,864, with a strong net ads of 104. Enterprise investments continue to show strong returns. Our enterprise strategy focuses on our largest accounts, which we believe each have $10 million plus in potential annual account revenue. Services revenue was roughly flat quarter over quarter as we stabilized the core advertising business. We are focused on improving engagement and monetization on the platform, which remains a leader in industrial sourcing, supplier selection, and digital marketing solutions. Q1 gross profit was $78.5 million, an increase of 39% year over year. Q1 gross margin for Marketplace was 34.7%, an increase of 290 basis points year over year. Q1 Marketplace gross profit dollars increased the robust 53% year over year. We are focused on driving Marketplace gross profit dollar growth through the combination of top-line growth and gross margin expansion. Our commitment to strong discipline and rigor in capital and resource allocation across all teams, while continuing to invest in growth initiatives, is reflected in our Q1 operating costs. Total non-GAAP operating expenses for Q1 were $68.2 million, a 21% increase year over year, a rate significantly lower than our revenue growth. In Q1, sales and marketing decreased 110 basis points year over year to 14.2% of revenue. This reflects improving enterprise sales execution and disciplined advertising spend. Marketplace advertising spend was a record low, 3.9% of marketplace revenue, down 60 basis points year over year as we delivered accelerating growth and expanding profitability. In Q1, operations and support decreased 70 basis points year over year to 8.2% of revenue. We are focused on driving increasing automation with AI across operations and support. Q1 adjusted EBITDA was $10.5 million, compared with $0.1 million in Q1 2025. Q1 adjusted EBITDA improved $10.4 million year over year, driven by strong growth in revenue, gross profit, and operating efficiencies. Alongside accelerating revenue growth, we delivered expanded adjusted EBITDA margin of 5.1%, compared with 4.4% in Q4 2025. Q1 U.S. segment adjusted EBITDA was $13.3 million, a $10.3 million improvement year-over-year. Q1 U.S. segment adjusted EBITDA margin was 7.7%, compared to 2.4% a year ago, driven by expanding gross profit and strong operating expense leverage. Our international segment adjusted EBITDA loss was $2.8 million in Q1 2026, or 8% of revenue, a 400 basis point improvement from a loss of 12% in Q1 2025. We expect continued improvement in international segment operating leverage in 2026. At the end of the first quarter, cash and cash equivalents and marketable securities were $224 million. We generated $14.6 million in operating cash flow and $4.8 million in free cash flow in Q1 2026, driven by strong operating leverage and working capital efficiency. In the first quarter, we invested $10.6 million in cash capex, almost entirely software-related, reflecting our technology investments in the platform and accelerating product rollouts. We are focused on improving cash flow conversion given our asset-light model and limited capital spending. Our disciplined execution has led to strong revenue and gross profit growth in our AI-native marketplace, coupled with significant operating leverage and increased operating cash flow generation. We are focused on strategically balancing future investment with a relentless pursuit of operating leverage, given the vast market opportunity and our low penetration rates. As we rapidly approach a $1 billion run rate, we have a clear trajectory for improving adjusted EBITDA margins, while sustaining our investment in growth. Now, moving on to guidance. We are raising our outlook for the year. For the second quarter, we expect revenue in the range of $214 to $216 million, or 32% to 33% growth year over year. We expect Q2 marketplace growth to be approximately 35% to 36% year over year, driven by ongoing momentum from our growth initiatives. We expect Q2 services revenue to be largely flat quarter over quarter as we continue to work through the transition of the recently launched Thomas ad serving platform and search upgrades. In Q2, we expect adjusted EBITDA of $11 to $12 million compared to $3.9 million in Q2 2025. For the full year 2026, we are raising our revenue growth outlook to at least 27% to 28% from 21%, driven by approximately 30% marketplace growth. We expect 2026 marketplace gross margins to be higher than 2025, as each quarter of growth and technological advancement incrementally fuels margin performance. For 2026, we expect services approximately flat year over year with modest growth in the second half of the year as we expect that revenue in the second half begins to increase quarter over quarter. For the full year 2026, we expect incremental adjusted EBITDA margins of at least 20%. Before we open up for questions, I want to recognize our team. The results we've discussed today reflect their execution and I'm equally excited for what those results make possible going forward. We have real momentum, a large market in front of us, and a team that has demonstrated it can deliver. That combination gives us genuine confidence in what's ahead. With that, operator, can you please open up the call for questions?"
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thank you. At this time, we will conduct the question and answer session. As a reminder, to ask a question, you will need to press star 11 on your telephone and wait for your name to be announced. To withdraw your question, please press star 11 again. Please stand by while we compile the Q&A roster. Our first question comes from Corey Carpenter of JP Morgan. Your line is now open."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Hey, everyone. Good morning. Thanks for the question. I wanted to ask about the Siemens partnership In particular, maybe for some of us more on the internet side, less familiar, could you just help us frame, you know, how meaningful is this for you? Kind of what exposure does this get you that you did not have before? And then, you know, how should we expect it to layer into some of the KPIs like active buyers in the coming quarters? Thank you."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thanks, Corey. This is Randy, and thanks for joining. And I'll jump in, and maybe our president, incoming CEO, Sanjeev, will join in as well. We think, Corey, this is a big deal. I mean, Siemens is the leading industrial software company globally. It has millions of users. As you know, we have 85,000 active buyers, so their user base dwarfs ours, and we are embedding directly into their PLM and CAD software. So right where we want to capture the engineers and the procurement people, that is Siemens' business. This will extend our reach into Globally, it will extend our reach into all different sectors, you know, across different industries. So, it could be a very big deal for us. And I think from a KPI perspective, you know, just as I alluded to, with millions of users, it could really boost up significantly our active buyer count. So, lots of good things. And it also can improve our profitability, as you can think. You know, we're capturing these in, these are Siemens customers. logically our sales and marketing spend would be dramatically less here as we're getting them here natively into their software."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Thanks, Andy."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Just to add on to that, I think, Corey, the way to think about this opportunity is that we are truly integrating directly into the Siemens software as a native embedded solution deployed within their SaaS and on-premises environments. which means real-time data connectivity to the engineer who is designing their product and being able to price it right there in their flow. So without having to break their flow, they would be able to get pricing on parts from Xometry, which would be a very, very big improvement in the user experience and their ability to move from price to placing the order very seamlessly, something that does not exist today at all."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Great. Thank you very much."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thank you. Our next question comes from Brian Drab of William Blair. Your line is open."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Hi. Randy, congratulations. And congrats to the whole team. But, well, what an accomplishment. I wanted to just follow up on the Siemens question. So first of all, can you talk about how that business is going to be structured in terms of margins for you? I know you just said it's going to require less selling and marketing, but Siemens is obviously kind of acting sort of like a distributor. You're using their platform, and they're going to take some value. But the sales through that platform, you're saying, should be accretive to overall EBITDA margin? Is that right?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, so Brian, we're going to monetize. The gross margins, those should be very similar, Brian, to what we see today. We'll also be recognizing the revenue similarly to what we're seeing today. And as you said, we'll have less OpEx associated with it. So we think from an incremental, the incremental margins from this revenue should be more profitable."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Okay, great. And then, okay, thank you. And In terms of recent performance in the first quarter, have you seen or can you talk about in any more detail strength relatively across different end markets, like aerospace, space defense, I imagine continues to be very strong, or is it just broad-based? And then are you seeing any benefit to your business from the disruptions to the global supply chains related to the war, et cetera?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "No, absolutely. So I think, first of all, we really saw growth across all of our industries, Brian. It was very broad-based, which is very exciting for us across many different customer segments. And I think we, you know, certainly the macro has been improving. You know, the ISM data, manufacturing data has been improving. But in general, we just continue to gain more and more market share. And that's been a big driver of our growth. I think when you think about all the disruptions that have happened now for years since COVID, I think it just underscores to buyers the need for resilient supply chains, the need for digital supply chain flexibility, and that's what Xometry is. It enables people instantly to source from different regions, make changes. We strongly believe it's the future of manufacturing supply chains, and we're the leader in it, and so I think that's just helping us gain more and more adoption by users and more and more market share."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Can I ask just one more quick one? I was just going to build on that. What Randy was saying, you accelerated net ads on the buyers, accelerated net ads on our accounts over 50,000, continued success on the enterprise front, as well as continued success on the product-led strategy, so creating a broad-based offering and building up broad-based momentum."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thanks. Can I just say one more quick one? There was, I think, some anxiety on the call last time, you know, with the report because of the succession, you know, Sanjeev coming in. Randy, you said very clearly, I'm not really going anywhere. I'm going to be working on some significant partnerships. Now that's materialized, we know exactly what you're talking about in terms of a partnership. My question is, are there, you know, you used the term partnerships, plural. Is this a sign of potential further indication of other partnerships that we could see down the road? Thanks."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, I mean, absolutely. First, we're building a very special partnership with Siemens, a very unique one, so we're excited and grateful for that. But we're certainly hopeful that there'll be other partnerships, Brian, as you said, down the road. And I'm excited to focus my time on those and assist Sanjeev here, who's been crucial to building this partnership as well as, you know, our execution. And as James said, this is really about our product. I mean, Siemens is excited about our product, integrating our product. This just validates our product-led growth strategy that Sanjeev, you know, since he joined us last year, has been leading and where we're going in the future. But certainly more good stuff to come and hopefully more partnerships, but love the unique one that we built, the special one that we built with Siemens."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, and I think, you know, this really validates, you know, The custom manufacturing TAM that we see, $275 billion, these are the sorts of relationships that we want as the infrastructure, as the platform for custom manufacturing to be able to accelerate our growth and continue to execute really well on the product, improve that, and get in front of more buyers and more suppliers."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you very much."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thank you. Our next question comes from Andrew Boone of Citizens Bank. Your line is now open."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Great. Thanks so much for taking the question. Can we double click on active buyer? It was the strongest net ads in two years. Can you help us understand that outperformance and how should we think about that going forward? And then as we think about AI, just in terms of a bigger picture view as a tool that you guys are now inserting across the business, Can you talk about this very specifically within the instant quote engine? What is that unlocked in terms of accuracy or any other benefits you guys want to highlight as we think about the evolution of what instant quote can be? Thank you so much."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, I'll start with the active buyers. I'm going to hand it over to Sanjeev to talk about the AI integration and what that means. So, look, I think and I appreciate Andrew pointing out this is the biggest ad that we've had for two years. I think you can expect to see more exciting numbers from the ad perspective as we continue to further develop our technology platform to be more personalization. As we extend the reach through our product and through our marketing, we're getting broader adoption. Partnerships certainly, like the one unique one we're building with Siemens here, will accelerate that. And I think the other great thing is not only did we have a record net ad for the last two years, but we grew significantly. the spend per buyer as well. I think that grew 70% year over year. So that's also an indication not only are we getting more buyers, but our share of wallet is increasing. And we think there's an opportunity to continue to grow that share even as we grow that number of active buyers."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Yeah. I would also say, Andrew and Sean, you can see in the slide in the deck that We grew active. The active buyer number was strong. At the same time, the ad spend is percent of marketplace revenue declined 60 base points year over year. Thanks, Andy."
+    },
+    {
+      "speaker": "spk05",
+      "text": "And Sean, Andrew, to your question on AI and what we continue to do there and how we are embedding the instant coding engine. As you can see, I think part of our focus with the product-led growth has been to double down on the predictive intelligence capabilities that our proprietary AI model brings to us. I mentioned on the call that over the last several cycles, we've been focused on improving and expanding the model itself. Our updated model leverages the training data set, which is now four times larger than its predecessor and even integrates new factors that actually help us price better, be more specific to new materials, even have advanced finishing options, which we continue to see more and more of as a need from our customers. Truly, I think this is most exciting for our enterprise customers whose needs are super expansive, but also just make sure that they now can come to us with a trust that we'll be able to deliver irrespective of their need."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Great. Thank you."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thank you. Our next question comes from Greg Palm of Craig Hallam. Your line is open."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yeah, thanks. Good morning. And yeah, I'd like to offer my congratulations on basically all the above as well. I wanted to maybe go back to the Siemens announcement. I don't know if you can give us just a little bit of background on sort of kind of how that came about mostly from their end. I'm also a little bit confused, and this looks like a great deal for you, but, you know, what's kind of in it for them? And, I mean, as I think about them and their global, you know, sort of install base and exposure, I mean, do you think this could be a good, you know, really helpful catalyst to accelerate growth internationally?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, so, look, I think... We're building something very special with Siemens, and I think that's going to give their users a very unique opportunity to access our data, to improve their intelligence in terms of pricing and sourcing. It's being built natively within the Siemens system, so it is very special and unique, and I think that will be a huge value add for the Siemens users. I think, as you said, Obviously, Greg is great for us, and they do have a massive user install base, obviously much, much larger than ours, and it is truly global. And as we've talked about, and as you can see in the press release, this is a global rollout that we expect. So this should help us not only here in the United States, but across all of our regions. So very exciting."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Great. To your question specifically on how it helps them, this is Sanjeev. Very specifically, if you think about it, this actually embeds the entire piezometry experience within the Siemens platform, which means that the Siemens user actually never has to leave the Siemens platform to actually price the part and then track the journey of the part being manufactured and delivered to them, which is going to be very unique and puts them also in a very different category compared to any of the other competitors that they face on a daily basis in the spaces of CAD and PLM. Now being able to make sure that the engineers and the users have a very unique journey, we think is a true differentiator for them as well."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yep. Okay. Understood. And I guess I'm looking or thinking about the full year guide and In light of what's going on in the macro, you know, given the Siemens partnership, I mean, the full year guide, based on what you've done in Q1 and the guide Q2, I mean, implies not just a pretty big deceleration in marketplace growth in the second half, but implies a major deceleration in net ads. It implies no growth in revenue per buyer. So, you know, I guess I'm just asking in light of all of that, You know, maybe it's just conservatism. There's still a lot of year left, but just wanted to, you know, get your quick thoughts on that as well."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, let me just jump. First of all, our guide doesn't include anything about Siemens at all. So let's just, that is not the base of our numbers. And as that partnership develops, we'll certainly update. And if that impacts or when it impacts our numbers, we'll certainly share that. I think just to level set here, you know, we did raise our guidance in Q2. or implied guidance pretty significantly here, the 32% to 33% growth. And our guidance also, and that includes, you know, that's that 35%, 36% marketplace growth in Q2. Our guidance also implies higher growth in the second half of the year, higher than the guidance that we just gave about a month and a half ago. And I just want to say that the trends remain strong. We have started Q2 very strong. And so as As things continue, we will continue to update as we've done all along. But so far, the trend remains strong. And again, we've raised our guidance not only for Q2, but for the second half of the year as well."
+    },
+    {
+      "speaker": "spk06",
+      "text": "As it does, Greg, I think we're really excited. I mean, I think now at 27% to 28% for the full year, that's an acceleration from 2025 growth of 26. Got another year of marketplace growth of 30%, which is what we did over the last year. We're excited about the trends we see, very excited about this relationship with Siemens. I'll just note as well, there's a couple of slides in the earnings presentation on Siemens, so you can reference those as well as you're digging in here. And I think the strength in the product roadmap, the strength in enterprise, what that does is says, in terms of the opportunity ahead of us, the time that we have to penetrate, we still feel very early. There's a lot of opportunity ahead. But when it comes to guidance, it's still early in the year, and we'll update you as we go through."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, I mean, just to be clear, we're not seeing anything that would imply deceleration, but we're being smart here."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yep, makes sense. We'll be looking forward to those updated guidance metrics throughout the year. Thanks."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Okay. Thank you. Our next question comes from Troy Jensen of Cantor Fitzgerald. Your line is open."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Hey, gentlemen, first off, congrats on the great results. I guess I also want to dive in a little bit on Siemens. I think you hit on it a little bit, but just to confirm, there's no exclusivity associated with this, and you guys would be able to do similar stuff with, like, an Autodesk and SolidWorks?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, we're building something, and thanks for joining us. So, we're building something special and unique and proprietary with Siemens, so that relationship is, but But we will continue to work with other companies, other beyond companies and others. But I just want to say what we've built with Siemens is very unique and special to them."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Okay. And then the $50 million investment, is that something that happened after the quarter closed? Or can you just touch on it a little bit more?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yes, that's after the quarter closed. So it'll be, it's, you'll see it in the queue as a subsequent event. And yeah. Thank you. Thank you, Troy."
+    },
+    {
+      "speaker": "spk01",
+      "text": "And James, just maybe one for you, if I could throw it in quick. What revenue level do you think you need to reach like an EBITDA break even for your international business?"
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, I mean, I think we, you know, we're there overall globally. I don't think, you know, we're not going to guide to that on a segment basis. We're really pleased with the progress we're making. As you know as well, we were free cash flow positive in the quarter, and we're getting close to the level. which we mentioned last quarter in terms of where we think that that's sustainable at $2.25 a quarter in revenue. You know, I think we're really excited about the growth opportunity in international and seeing the margin continue to improve. So we think those losses will continue to improve as the year goes on."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Awesome. All right, guys, keep up the great work."
+    },
+    {
+      "speaker": "spk08",
+      "text": "All right."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thanks so much, Roy."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk00",
+      "text": "I am showing no further questions at this time. I would like to thank you for your participation in today's conference. This does conclude the program, and you may now disconnect."
+    }
+  ]
+}

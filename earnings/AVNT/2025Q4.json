@@ -1,0 +1,287 @@
+{
+  "event": {
+    "ticker": "AVNT",
+    "year": 2025,
+    "quarter": 4
+  },
+  "speaker_name_map_v2": {
+    "spk10": {
+      "name": "Michelle",
+      "title": "Operator"
+    },
+    "spk13": {
+      "name": "Joe DiSalvo",
+      "title": "Vice President, Treasurer, Investor Relations"
+    },
+    "spk11": {
+      "name": "Dr. Ashish Kanpur",
+      "title": "Chairman, President, Chief Executive Officer"
+    },
+    "spk04": {
+      "name": "Jamie Beggs",
+      "title": "Senior Vice President, Chief Financial Officer"
+    },
+    "spk01": {
+      "name": "Michael Sisson",
+      "title": "Analyst, Wells Fargo"
+    },
+    "spk12": {
+      "name": "Dan Rizwan",
+      "title": "Analyst, Jefferies"
+    },
+    "spk08": {
+      "name": "Frank Mitch",
+      "title": "Analyst, Fermium Research Partners"
+    },
+    "spk06": {
+      "name": "Brian",
+      "title": "Analyst, KeyBank Capital Markets"
+    },
+    "spk05": {
+      "name": "Kristen Owen",
+      "title": "Analyst, Oppenheimer & Co."
+    },
+    "spk02": {
+      "name": "Mike Harrison",
+      "title": "Analyst, Seaport Research Partners"
+    },
+    "spk07": {
+      "name": "Emily Fusco",
+      "title": "Analyst, Deutsche Bank"
+    },
+    "spk03": {
+      "name": "Ganshan Panjami",
+      "title": "Analyst, Robert W. Baird"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk10",
+      "text": "Good morning, ladies and gentlemen, and welcome to Avian Corporation's webcast to discuss the company's fourth quarter and full year 2025 results. My name is Michelle, and I'll be your operator for today. At this time, all participants are on listen-only mode. We'll have a question-and-answer session following the company's prepared remarks. As a reminder, this conference is being recorded for replay purposes. I would now like to turn the call over to Joe DiSalvo, Vice President, Treasurer, Investor Relations. Please proceed."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Thank you, and good morning, everyone, to joining us on the call today. Before we begin, we'd like to remind you that statements made during this webcast may be considered forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements will give current expectations or forecasts of future events and are not guarantees of future performance. They are based on management's expectation and involve a number of business risks and uncertainties, any of which could cause actual results to differ materially from those expressed in or implied by the forward-looking statements. We encourage you to review our most recent reports, including our 10-K or any applicable amendments, for a complete discussion of these factors and other risks that may affect our future results. During the discussion today, the company will use both GAAP and non-GAAP financial measures. Please refer to the presentation posted on the investor relations section of the Aviant website where the company describes the non-GAAP measures and provides a reconciliation of historical non-GAAP financial measures to their most directly comparable GAAP financial measures. A replay of this call will be available on our website. Information to access the replay is listed in today's press release, which is available at avian.com in the investor relations section. Joining me on the call today is our Chairman, President, and Chief Executive Officer, Dr. Ashish Kanpur, and Senior Vice President and Chief Financial Officer, Jamie Beggs. I will now hand the call over to Ashish to begin."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Thank you, Joe, and good morning, everyone. Strong execution by our teams with favorable mix and management's tight cost control led to 80 basis points of adjusted EBITDA margin expansion and a strong 14% adjusted EPS growth for the fourth quarter. With this result, we expanded our adjusted EBITDA margins year over year in each of the four quarters of 2025. Organic sales in Q4 were down slightly at 0.8% and grew 1.9% as reported over the prior year due to favorable foreign exchange impact. As we had highlighted in our third quarter's earnings call, we continue to see strong momentum in defense, healthcare, and telecom markets with business growing double digits in each. In addition, packaging demand improved modestly growing sales low single digits in the fourth quarter compared to being down low single digits in the third quarter. As expected, businesses in our other markets finished down versus the prior year. Moving to the right-hand side of the slide, for the full year 2025, sales were relatively flat year over year. Favorable product mix and our productivity initiatives led to 50 basis points of adjusted EBITDA margin expansion versus 2024, helping us achieve full-year record high margins of 16.7%. Adjusted EBITDA finished at $545 million for 2025, with 3.5% year-over-year growth as reported. Adjusted EPS grew 6%, helped by lower interest expense and favorable foreign currencies. Our team's highly disciplined cash management helped us generate $195 million of free cash flow, enabling us to reduce our outstanding debt by $150 million and end the year with a net leverage ratio of 2.66. As you know, one of our key drivers to advance our strategy is innovation. Creating meaningful and differentiated products, especially in markets supported by secular trends, will not only help us grow faster, but also increase our profitability. Today, I would like to share some examples of recent innovations from our company. The first set of examples address the need and demand for non-PFAS products in applications currently using PFAS materials, which are facing stringent regulations, especially in the United States and Europe. Our teams recently developed and commercialized GlideTech technology which enables new non-PFAS and non-silicone lubricious materials for use in catheters, particularly those used in neurological and vascular applications. Our portfolio contains formulations that are ISO 10993-5 and USP87 compliant in standard grades. These products deliver exceptional coefficient of friction reduction, are compatible with all common sterilization methods, and processable using conventional extrusion equipment. Another example in this space is non-PFAS polymer processing aids for polyolefin film used in packaging applications for personal care products. Here, we have innovated and launched a portfolio of products in 2025, and several other customer manufacturing qualifications are in progress currently. We continue to gain more knowledge and experience in this new area, working closely with our customers and understanding the interplay between our innovative materials and their processes. The last example for today is a process innovation where we can unlock additional Dyneema fiber making capacity with tailored material properties using our existing manufacturing equipment. As you may recall, demand for our products in defense grew double digits in 2024, followed by high single digits growth in 2025. We expect this momentum to continue, supported by the announced increases in defense spending over the next few years, especially in the United States and Europe. Due to the success of our innovation, we will now be able to quickly unlock meaningful new capacity from our current manufacturing lines to support the anticipated growth in our defense growth vector. In addition, we plan to deploy incremental capital over the next two years to further expand capacity and support the growth we foresee from our Dyneema-based businesses. Jamie will share more about these investments in her section. Before we get to 2026, I would like to take a moment to reflect on our performance over the last two years. As you know, in 2024, we evolved our company strategy to prioritize organic growth to be complemented by targeted M&A where it enhances our capabilities. We also sharpened our focus on profitability to deliver both top line growth and margin expansion. 2023 to 2025 marked the first period of time in nearly 20 years where there has been no impact on financials from acquisitions or divestitures, providing clean and noise-free data to compare performance. I'm happy to report that over the last two years, our strategy has gained significant traction with our prioritized growth vectors delivering substantial growth, with innovation beginning to show up in differentiated products and improved margins. Additionally, we continue to eliminate structural complexity and drive productivity to become a more agile and customer-focused organization. These actions have enabled us to deliver consistent improvements across our key financial metrics for the second consecutive year, despite a volatile macro backdrop. Over the last two years, we have grown adjusted earnings per share by about 20% and expanded adjusted EBITDA margins by 70 basis points, 20 basis points in 2024, and an additional 50 basis points in 2025. As a result, ROIC has improved each year and is now up 90 basis points versus 2023. Our strong free cash flow generation and disciplined capital deployment also allowed us to reduce debt bringing net leverage down from 3.1x in 2023 to 2.6x in 2025. Importantly, we achieved these results while continuing to invest in the business, particularly in our prioritized growth vectors aligned with our strategy. As we move forward, we plan to continue advancing these value creation metrics as we have over the past eight quarters. With increasing traction from our growth vectors and innovation pipeline, we expect to scale revenue and margin expansion with greater ease over time. Coming specifically to 2026, our premise is that macro environment will remain volatile, impacted by trade policies, geopolitics, and moving supply chains. However, we are cautiously optimistic about 2026 being a better year than 2025 from market demand perspective. This is especially true for our color additives and inks, or CAI business, which showed negative 2% organic growth in 2025. Last year, some of the biggest markets for the CAI business, namely consumer, industrial, building and construction, and transportation, saw anemic demand while packaging was relatively flat. With 2026 showing stronger than 2025 U.S. GDP growth projections and several government initiatives in the United States, like the new tax bill, focus on domestic manufacturing expansion, and the potential for easing interest rates, demand in our relevant markets is expected to improve. This would be a welcome scenario for our customers and our business, but at the same time, we are also focused on driving productivity in the organization to ensure we continue to drive our earnings and margin expansion in case market demand does not improve. We grew our specialty engineered materials segment sales by 2% in 2025, excluding foreign currency impact. And we believe there are several secular macro trends in this business that will support organic sales growth again this year. Before I hand the call over to Jamie, who will provide additional color on our 2025 segment and regional performance, as well as our guidance for 2026, I would like to thank the entire AVN team for their determination and outstanding efforts to successfully deliver in 2025. I have no doubt our team is up to the task to deliver an even stronger 2026. Jamie?"
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thank you, Ashish, and good morning, everyone. I'll start with the fourth quarter performance of our color, additives, and ink segment. Continued strength in healthcare and improving packaging demand was not enough to offset demand conditions in consumer, industrial, and building and construction, which led to a 3% decline in organic sales for the segment during the quarter. EBITDA margins declined 10 basis points as productivity initiatives helped mitigate the impact of inflation and reduced demand. Specialty-engineered materials organic sales increased 3% as strong growth in defense, healthcare, and telecommunications more than offset lower sales in energy, industrial, and building and construction in markets. Healthcare continues to deliver strong growth supported by our innovative and specified materials for use in medical devices, equipment, and supplies. Defense grew double digits in the quarter, driven by strong U.S. and European demand and supported by new innovation, including next generation materials in our Dyneema line that we've highlighted in the past. Favorable mix and productivity contributed to 80 basis points of margin expansion, which combined with higher demand and positive effects resulted in 10% EBITDA growth. In the fourth quarter, US-Canada sales declined 1%, which is an improvement from the prior quarter's 5% year-over-year decline as we saw positive growth in packaging. This, combined with continued underlying strength in healthcare, defense, and telecom demand, partially offset lower sales in the industrial, building and construction, and energy markets. Future policy changes and lower inflation could be positive factors that provide momentum to the region in 2026. Similar to the US-Canada, EMEA also performed slightly better than the third quarter, where organic sales only declined 2% on a year-over-year basis. Positive growth in the consumer end market, primarily driven by an increase in small and large appliances, along with continued momentum for defense and healthcare, helped offset weaker industrial demand. Asia grew 3%, driven by strength in packaging and telecommunications. The secular trend of high-performance computing is creating new opportunities for our materials. This has helped offset weak consumer demand, particularly in textile applications. Latin America sales declined 5%, primarily due to softer consumer demand and a difficult year-over-year comparison where the region grew 14% in the fourth quarter last year. Turning to full-year 2025 results, we navigated an uncertain macro environment while delivering bottom-line growth through customer focus, innovation, productivity, and operational discipline. Full-year CAI organic sales declined 2%. Steady growth in healthcare throughout 2025 helped offset softer demand in consumer, industrial, transportation, and building and construction. Packaging remained relatively resilient, ending the year flat versus 2024. EBITDA margins expanded 50 basis points benefiting from favorable mix and productivity tied to our plant footprint optimization, as well as initiatives to streamline the organization, allowing us to serve our customers more efficiently. SEM organic sales grew 2%, driven by defense, healthcare, and telecommunications, partially offset by subdued consumer, industrial, and energy demand. EBITDA margins declined 40 basis points, primarily reflecting planned maintenance in our aviant protective materials business completed in the second quarter of 2025 and strategic investments in our growth factors in this business. Turning to our 2026 outlook, our full-year guidance reflects a balance between encouraging demand trends across our portfolio and continued macro uncertainty and volatility. As Ashish mentioned in his comments, we are cautiously optimistic that some of our end markets negatively impacted in 2025 will start to improve in the coming year, including consumer, industrial, and building and construction. Favorable government policies and easing interest rates as an example could spur consumer and housing demand as we progress through the upcoming year. With that being said, uncertainty remains with evolving global trade, labor markets, GDP growth rates, and foreign currency fluctuations. Accordingly, we are establishing four-year guidance for adjusted EBITDA of $555 million to $585 million, which is up 2% to 7% year-over-year, as well as adjusted EPS of $2.93 to $3.17, which is up 4% to 12% over the prior year. This range includes our first quarter adjusted EPS outlook of 81 cents. Predictivity will again play a role in supporting earnings growth and margin expansion in 2026. We will see carryover benefits from initiatives executed in 2025 along with new actions that are now underway. In addition, we will monitor demand conditions and are prepared to enact additional actions should the demand environment not improve. Regarding free cash flow, we expect another strong year of cash generation with an anticipated range of $200 to $220 million for the full year. This assumes capital expenditures of $140 million, which is approximately $33 million more than 2025. This is driven primarily by the incremental investments that support growth in our defense business, as Ashish highlighted earlier today. As we demonstrated in 2024 and 2025, We have consistently moved the key value creation metrics in the right direction, even in a tough macro environment. Our guidance for 2026 projects another year of adjusted EPS and adjusted EBITDA growth, improved return on invested capital, and a reduction in net leverage. Our strategy of catalyzing the core and building platforms of scale continues to bear fruit and create value for our shareholders. With that, we will now open the line for Q&A. Thank you."
+    },
+    {
+      "speaker": "spk10",
+      "text": "If you'd like to ask a question, please press star 1-1. If your question hasn't answered and you'd like to remove yourself from the queue, please press star 1-1 again. And our first question comes from Michael Sisson with Wells Fargo. Your line is open."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Hey, good morning. Nice quarter and nice finish for the year. Ashish, you sort of mentioned that some of these markets will improve or could potentially improve this year. Are you seeing any sort of green shoots in some of those, the consumer industrial transportation and construction areas now? And then at the midpoint of your guidance, what type of improvement would you need to get to hit it?"
+    },
+    {
+      "speaker": "spk11",
+      "text": "Thanks, Mike, for the question. So, you know, part of the improvement that we are seeing in U.S. especially, we expect in Q1 for consumer and packaging to – you know, flip from negative to positive. You know, last year, packaging Q1 was pretty negative, down 10% in U.S. And so the comps are pretty favorable, and so that's going to help us. But in general, we are seeing better conditions than we were seeing before on the packaging side. As you saw, that in Q4 itself, packaging was up 1% in the United States. So that's a good sign. On the consumer side, it's still subdued, but probably getting a little bit better. Too early to say. There is a little bit noise in the system with the Asia situation, with the Chinese New Year moving overall. So we generally don't want to make too many assumptions with respect to January itself, because there might be some pull-ins from February based on the China New Year situation. And so we'd like to see January and February together on that one. But overall, January came a little marginally better, I would say, you know, definitely as well as we expected, marginally better. So that gives us some optimism at this point in time. But as I said, we are not reading too much into it because there might be a little bit noise in the data from Asia. But overall, I think we are feeling that consumer and packaging, you know, should be at least turning positive in the first half of the year for sure, and for United States probably in first quarter. And then the other part of the question is on the guidance on midpoint. So on the low end of the range, we kind of expect that the consumer industrial and the building and construction markets will probably not improve this day as they are. In the midpoint, that assumes that there is modest growth in all of this, probably low single-digit kind of growth, and packaging also a little bit more modest growth. And then on the high end of the range is a little bit more robust growth, so what typically we would grow in a good year. So that's probably the range, and that captures the ranges in our sales range and everything."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Got it. And then a quick follow-up. When you think about the last two years, you spent a lot of time on innovation, R&D, and trying to get your growth factors to sort of get beefed up. So when you think about 2026, how much growth do you think you'll generate from those initiatives? And are there any particular product lines or end markets that is going to drive that? Thank you."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Yes, so we've been trying to highlight some of our innovation in multiple earnings calls like these. And today, again, I highlighted a few new ones that did not exist a couple of years ago, so to say. So the idea is to tell the audience that, hey, we are moving ahead on this. Our intellectual property filings, for example, last two years we've been filing 50-plus you know, patents, which includes patent filings, initial patent filings, provisional patents, as well as PCT filings. So that's 50 plus for both the years. And that compares to a number of 20 odd, maybe a couple or two or three years ago. So you can see how much innovation is going on. That's an indirect measure. From a financial perspective, if you take 2025, you know, our growth vectors grew high single digits. So almost closer to 10% versus closer to 5%, I would say. And the rest of the businesses actually did not grow. And that gives you an idea of why we were still flat in a year that was so much demand, where the demand was so low in most of our core markets. And the big idea is that, hey, with these growth vectors, we are really now trying to build businesses of scale in markets that are supported by secular trends and growing at rates much faster than GDP. And that seems to be taking hold. So maybe that's where I'll leave it."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Thank you. Our next question comes from Lawrence Alexander with Jefferies. Your line is open. Thank you."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Hey guys, it's Dan Rizwan from Lawrence. Thanks for taking my question. You kind of went through some end markets, but maybe I missed it, but you didn't mention transportation and the outlook for that. I don't know if I missed it, but what are we thinking there? Is it expected to improve at all?"
+    },
+    {
+      "speaker": "spk11",
+      "text": "Yeah, so transportation for us, Lawrence, was overall down minus 1% for the year. And, you know, it's a little bit of a regional story. We grew in EMEA plus 1% versus the auto build was like minus 1%. And we grew in Asia 5%, which was consistent with the builds in the Asia market. In United States, the market was down minus 1% for the year, but we were down minus 5%. And that's largely driven by the fact that we also have rail and, you know, commercial vehicles in our transportation, which were down significantly in the United States. In the auto business, we are doing fine, how the markets are doing, but the rail and the commercial vehicle piece brought us down a little bit. As I look into the future, I think we are watching transportation carefully. There was a lot of build that happened towards the end of the last year, in China especially. because of their structural reform that they are, they call it supply-side structural reform, where they were gonna put restrictions on export of EV vehicles starting January 1, so a lot of material got pushed out at the end of the year. So, which we've benefited from, and as I said, we grew 5% in Asia. But I think Q1 probably will be softer based on that. And then for the total year, Plattish to low single digit is my projection."
+    },
+    {
+      "speaker": "spk12",
+      "text": "All right. Thank you very much for that color. And then you kind of talked about not doing any divestitures or acquisitions in the last two years. I was wondering, I mean, obviously your focus is on organic and internal growth, but I was wondering if that's kind of what we should expect going forward, that, I mean, there's not a lot out there. We're focusing on our business, you know, or what our thoughts are there."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Yeah. So one of the things that we are trying to do, Lawrence, is build a few muscles of innovation and commercialization. And that has been going well for the last two years. You can see the teams getting better every day with customer focus and key account management and then innovating from the market inside. And then understanding the value chains in these growth vectors, which some of them are quite new to us, is very important. So before we put in any acquisitions, which We think at some point we will do, probably not this year, maybe something after that when we also have a better balance sheet situation than where we are today. But by that time, we expect to understand the value chains in our growth areas much better. And then M&A would probably be something to complement or augment our strategy of organic growth versus standalone M&A in a brand new area."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Thank you very much."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Thank you. Our next question comes from Frank Mitch with Fermium Research. Your line is open."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Thank you so much. Nice end to the year. If I could just follow up on that last question. It looks like you ended the year at a better net debt to EBITDA than perhaps was considered at the beginning of the year. And so you offered your thoughts, Ashish, on M&A, I'm curious as to what your thoughts are with respect to debt pay down versus buybacks."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Yeah, so thanks, Frank. One of the things that we are obviously been prioritizing is paying down the debt, as you mentioned. I think, as I said, the next 12 months, no M&A. So most of the cash probably will still go on paying towards more debt. We would like to make that situation stronger. So we expect to finish the year lower than 2.5x per share, if not better than that. And I think that at that point, we'll have more flexibility of buyback versus debt reduction situation. And also, looking at M&A at that point in time would make sense. But I would say that in the near term, you can expect us to keep paying the debt versus buyback. That would be my strategy on deployment of the cash."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Okay. Understood. I appreciate the color with respect to the patent filings. I'm curious if we could ask it another way in terms of a vitality index in terms of products introduced over the last four or five years and how you track that and where that stands today."
+    },
+    {
+      "speaker": "spk11",
+      "text": "I do track that internally, Frank, but that For me, that number is not as critical. And I come from a company, as you know, where these vitality index were talked about a lot. I think it's a good internal measure for us to keep tracking to see the health of the organization and the creativity of the organization is in play. But for me, it's really, you could have a couple of products that are big and are creating a lot of value. And so I think for us, it's more important what is creating growth And, you know, obviously we have to do a lot of product development for replacement because the market needs that. But really, as we are bringing our strategy into this growth mode through growth vectors, especially in these new areas, I think the focus is to net new growth creation. For us, that's how we measure it. You know, our NPVI, our New Product Vitality Index, is pretty healthy. It's internally, but I don't intend to speak about it. I mean, it's... But the difference is that most of that NPVI has been based on replacement products versus products that create new growth. And I'm trying to flip that around and say, okay, we need products that the customers need replacement on an ongoing basis, which is a very important part of our core business. But we now need to also create products which are going to create brand new growth for this company. And that's what some of the products I keep highlighting in some of our These products did not exist a couple of years ago, and they're creating brand-new growth for us."
+    },
+    {
+      "speaker": "spk08",
+      "text": "That's very helpful. I'm looking forward to any other metrics that you might be able to catch that transformation from replacement versus new growth down the line so we get a better handle on it. But thank you so much."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Thanks, Frank."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Thank you. Our next question comes from Alexey Yefremov. With KeyBank Capital Markets, your line is open."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thanks and good morning. This is Brian on for Alexi. I just wanted to go back. I think you guys talked about some more productivity gains and maybe some cost cuts. I think there's some carryover from 25, but you guys also mentioned some new actions. So maybe if you kind of help us understand, you know, in terms of dollar wise, how much is embedded in the guide for this year? you know, how much is carryover from 25 and, you know, how much are these new actions and what exactly are these actions that you guys are taking?"
+    },
+    {
+      "speaker": "spk04",
+      "text": "Hi, Ryan. Thanks for the question. You know, our productivity initiatives really center around four to five major programs. That includes sourcing savings, taking a look at our footprint and optimizing it, Lean Six Sigma programs, as well as simplifying our structure. And so we accomplished a little over $40 million of net productivity from last year. We expect about half of that to basically continue on into 2026 based on when those actions were initiated. And as we take a look at guidance for the full year for 2026, it really is a lever that we will continue to take a look at depending on demand we'll need to go. We're a big believer that we need to invest in the underlying growth of the business. you want to be a little bit cautious about cutting too deep on certain things. And so as we look at how demand evolves, we'll take a look at that productivity initiatives. But like we said in the commentary earlier today, we really are taking a harder look at how demand will end up playing out. Our net inflation for the year is around $30 million. So that's at a baseline. There could be more depending on how the year evolves."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Okay, great. That's very helpful. And then I just wanted to ask, you know, in terms of kind of regional performance, I mean, Asia obviously stands out, right? It's the only region that grew organically in the fourth quarter. So I just want to understand maybe what's driving that. Is that largely, you know, the exposure you have kind of on the semi-front in packaging, or is it something else? Thanks."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Yeah, so, you know, Asia has been – Actually, Q4 has been a good story because Q3 Asia was negative 1% for us, and Q4 we flipped it positive, plus 3%. And that's largely coming from GCA, which also flipped from minus 1% to plus 4.5%. And if you look into GCA, both packaging, you know, went in the right direction. I just visited Our Asia team in January, I was there and I was very pleasantly surprised to see how much market share they are gaining in a market that is not growing, especially in the food and beverage area. And so that brought us pretty healthy on the packaging side from negative to slightly positive in GCA, which helped a lot because packaging is the biggest market there. It's about 33% of Asia, of GCA. And then the other part is that in high-performance computing, which Jamie mentioned in her remarks, we have been growing quite well in that secular trend. And materials that are used in semiconductor chip packaging and wafer packaging have been growing at double digits for us, which was also the case in Q4, which really helped Asia as well. So those were the two main reasons."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Thank you. Our next question comes from Kristen Owen with Oppenheimer and Company. Your line is open."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Good morning. Thank you so much for the question. I wanted to pick up the thread, Jamie, on EBITDA margin expansion. I mean, you guys have done a really nice job of continuing to grow that margin in a top environment. But as you look back to, say, 2024 investor day, you had this target out there of 20% EBITDA margin. If we were to revisit that target against the work that you've done on productivity since those targets were laid out, how do you think about the buckets of opportunity that you have to move further towards that 20% EBITDA margin target?"
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thanks for the question, Kristen. So when we laid out in the investor day, we were sitting around a little over 16% EBITDA margins. Our goal is to get above 20% EBITDA margins. And how we looked at how that would evolve over time would be about half of it be related to operating leverage, another quarter of that related to moving up the value chain in terms of mix, and then also another quarter from productivity. Obviously, the last couple of years has been more focused on the mix dynamic and the productivity dynamic. And in fact, if you take a look at the 50 basis points of expansion that we accomplished in 2025, There wasn't any operating leverage just based on, as you can see, organic sales are basically flat for the year. But we did have quite a bit of price mix and productivity. I would say about half and half between those two. So as we look forward and we look at the opportunity to continue to expand margin, obviously price mix will continue to be a lever. We are very focused on productivity, especially in, I would say, a low demand environment. And I think you're going to see a pretty big uplift once the market starts to, I would say, stabilize in some of our core markets, such as consumer and building construction, industrial. I think that would really boost that up. But as I look forward to 2026, I think the majority of it at this juncture, we're counting on the expansion coming from those two other areas."
+    },
+    {
+      "speaker": "spk05",
+      "text": "That's super helpful. And maybe double-clicking on sort of that macro piece, you know, what, What catalyzes color here? I mean, you've talked about some of the big macro pieces, but is there anything from a portfolio standpoint, things like maybe the PFAS replacement products, that we should be thinking about sort of driving that market outgrowth in color going forward?"
+    },
+    {
+      "speaker": "spk11",
+      "text": "Yeah, Kristen, I think the big opportunities for color are in the area of functional additives. And PFAS is one example of that, but same things can be extended to certain kinds of flame retardants. Also can be extended into foaming agents, which are used in building and construction materials. And all those things are, that functional additives is about close to half a billion business for us. So it's sizable in color. It's not insignificant. And if we can grow that fast based on, again, Attaching to some of these secular trends and our growth vectors."
+    },
+    {
+      "speaker": "spk05",
+      "text": "We feel that we have a good story and that's what we are pursuing Great and if you don't mind if I could sneak one more in just double click on the defense investment Like are you are you currently demand constrained and that's what's driving the the additional capex. That's my last question."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Thank you No, I think we are not demand constraint and we are driving as much as we can on Obviously, this business is lumpy and sometimes shifts between quarters, as we have highlighted several times before. But defense has grown double digits, 14% in 2024 and 8% in 2025. We again expect a strong year from this business, continue to see strength there, and actually are making capacity investments, innovation for de-bottleneck making de-bottlenecking the capacity right now, as we highlighted today in one of the examples, which is already underway. And then making some more CapEx investments that Jamie mentioned for $33 million, which will bring additional capacity in 2028. So, you know, this business takes a while because it's very process intensive and needs a lot of equipment. And so it does take time. So we are, you know, we, When we look into the future, we still see this business growing quite well over the next several years. And so we are making investment decisions now so that we are ready when the capacity continues to grow."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Thank you. Our next question comes from Mike Harrison with Seaport Research Partners. Your line is open."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Hi, good morning. Congrats on a nice finish to the year. I was hoping just to ask another question there on the Dyneema process that you talked about and some of the changes you're making there. Can you give some more color on what exactly you're changing? You kind of categorized it as de-bottlenecking, but it also sounds like you've added some additional capabilities to really tailor some of those products to specific customer requirements or specific applications. And then beyond that, are you able to share how much additional capacity you're going to be able to get as a result of that change? And also, what does that mean for the margin performance of that Dyneema business, just from the debottlenecking and changes that you're making to process near-term?"
+    },
+    {
+      "speaker": "spk11",
+      "text": "Yeah, there's many questions there, Mike, and I'll probably start with saying that I cannot disclose anything about the process. It's a trade secret because, you know, we don't, you know, in process innovation, it's very hard to file and then police patents. So, you know, I just kept trade secrets as pretty standard, and that's what we have done here as well. So all I can tell you is that the whole idea is you have to make, these fibers are made at a certain tenacity, which gives the strength to the fiber, and that tenacity value is achieved. The slower you spin the fiber, the more crystallization can happen to the fiber, which can give it higher tenacity and so on and so forth. So typically, when you make high-performance fibers, you're slowing down your speed of the equipment significantly if you want to increase tenacity. And I think our teams have figured out ways how to not slow it down and continue to ramp it up at a fast rate. So I think that's as much as I can tell on the process innovation side. It is a slight modification of the equipment, but also process modification. And the team has worked on it diligently for more than a year to get us here. So it's significant. It does give us enough capacity to buy time till 2028 when our new capacity would be needed. And I think, clearly, we were not expecting defense to grow like it has been growing. We were thinking more like, mid-single digits kind of growth, and it has been growing double digits or high single digits. So this deep bottlenecking is really helping us get there without compromising and without not being able to serve our customers on time, while in the meantime we are making these new investments so that we are ready when we run out of capacity."
+    },
+    {
+      "speaker": "spk02",
+      "text": "All right, that's helpful. And then on the healthcare business, I'm just curious, a number of these GLP-1 drugs appear to be shifting from a weekly injection with an injector pen that I think you guys are involved with to either a monthly injection or even an oral dosage. So can you just talk a little bit about your drug delivery product line within healthcare and whether you expect to see any impact from kind of the evolution of how those GLP-1 drugs are administered?"
+    },
+    {
+      "speaker": "spk11",
+      "text": "Yeah, so drug delivery for us is a couple of things. What you mentioned on GLP-Pens, that's one part of it. The other part of it is, you know, basically things that are remote devices which are used for delivering drugs and glucose monitoring and so on and so forth. That's also part of healthcare. But just from a GLP perspective, you know, It's too early for us to say that. We believe and our customers believe that there is market for both oral and injector pens at this point in time. The injectors are also being utilized for other applications, not just for weight reduction. And so the market overall growth is expanding and is continued to be robust. That's the signal we get from our customers. And so we are going with that premise at this point in time. And, you know, both in drug delivery devices, remote monitoring devices, as well as injector pen kind of devices, we seem to be doing quite well and expect that to continue at least for 2026."
+    },
+    {
+      "speaker": "spk02",
+      "text": "All right. Thanks very much."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Thank you. Our next question comes from David Begleiter with Deutsche Bank. Your line is open."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Hi, this is Emily Fusco on for Dave Begleiter. What are your expectations for pricing in CAI and specialty for 2026?"
+    },
+    {
+      "speaker": "spk04",
+      "text": "So Emily, when we think about pricing, we're obviously always doing value pricing And so when we take a look at, you know, we take a look at both price and mix as we move forward. And as we've mentioned from what occurred back in 2025, we've had a lot of success in healthcare and in defense. That has driven a lot of our price mix dynamic in 2025. We expect that to continue as we think about 2026. Other pricing initiatives that people think about is, you know, what's going on with the raw materials. We've proven through, I would say, at least the five or six years that I've been here that that doesn't really seem, doesn't really, it could enable us to be able to capture some margin expansion. We always are on top of it in terms of making sure that it's not destructing the margin based on what raw materials are. So in our bridges, we just normally, like I mentioned with Kristen's comment, We do expect some margin expansion in 2026 based on price mix, and that really is a function of where we're selling our products, not because there's specific pricing initiatives going on, other than our normal monitoring of where raw materials are and making sure that we're value pricing our products as they're created and differentiated from what is else in the market."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Perfect. Thank you."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Thank you. Our next question comes from Ganshan Panjami with Robert W. Baird. Your line is open."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yeah, hi, good morning. Ashish, just going back to the fourth quarter, as it relates to the strategic growth vectors you've outlined in the past and so on and so forth, how did that portion of the portfolio grow on a core sales basis in the fourth quarter relative to where you came in on a consolidated basis, which was roughly down 1%?"
+    },
+    {
+      "speaker": "spk13",
+      "text": "Growth factor growth versus the rest of the portfolio."
+    },
+    {
+      "speaker": "spk11",
+      "text": "In fourth quarter specifically?"
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yeah, or you can give it to us for the year."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Yeah, so for the year, maybe it's better for me to talk about the year versus quarter because these growth vectors are launched in different parts of the year, so it's kind of an unfavorable thing. As I mentioned, growth vectors grew high single digits for us and high single digits for growth vectors versus less than 1% or low single-digit kind of decline in the rest of the business."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Okay, and then as it relates to core sales for the following year, for 2026, did you break that up by segment? I'm not sure if I heard that."
+    },
+    {
+      "speaker": "spk04",
+      "text": "No, we did not provide any specific guidance based on segments. We did provide a four-year range on EBITDA as well as EPS. We gave a little bit of color between the segments in terms of some of the end markets and where we're seeing strengths and weaknesses. Maybe just to reiterate, you know, from a SEM perspective as well as from a color perspective, we do expect things like health care continue to perform well. SEM also has the exposure to defense, which is also something that we continue to take a look at. And we are looking to see how the evolution really comes about for consumer industrial and building construction."
+    },
+    {
+      "speaker": "spk09",
+      "text": "which will be a key driver for the color segment very good thank you thank you we have time for one last question and that question comes from vincent andrews with morgan stanley your line is open hi this is turner henricks on for vincent um i was just wondering if you could provide a little bit more regional color on what your 2026 guide considers for growth by region, particularly in Europe and Asia, considering you all have talked a lot about growth drivers in the U.S. economy so far?"
+    },
+    {
+      "speaker": "spk04",
+      "text": "So, Turner, we didn't give any specific guidance, just like the question that Gansham said based on segments. We really were talking more about from an in-market perspective. You know, obviously, there's a lot of geopolitical uncertainty, trade tariffs, and other things going on. as it impacts the US in particular. And so those are the things that we're watching closely, as well as, you know, whether or not the Fed will decrease rates and at what pace will they actually do that. I know you mentioned Europe and Asia specifically. Those are, you know, as you can see from what happened in 2025 in Europe, we ended it down 1%. At this juncture, we're expecting similar levels until we see some type of potential recovery. And the Asia dynamic, as Ashish also mentioned during the commentary, we are seeing some really nice tailwinds in our packaging space, our telecommunications space. And we expect with the underlying GDP there, although maybe slightly lower than what it's been previously, it's still a growth part of the world. So I would expect to continue to see growth in that area."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Great. Thanks for the color."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Thank you. This concludes the question and answer session. You may now disconnect. Everyone, have a great day."
+    }
+  ]
+}
