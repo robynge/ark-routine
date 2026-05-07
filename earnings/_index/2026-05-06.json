@@ -1,7 +1,7 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T23:49:59Z",
-  "n_calls": 14,
+  "generated_at": "2026-05-07T03:23:46Z",
+  "n_calls": 15,
   "calls": [
     {
       "ticker": "RXRX",
@@ -40,16 +40,6 @@
       }
     },
     {
-      "ticker": "TBLA",
-      "company": "Taboola.com Ltd.",
-      "year": 2026,
-      "quarter": 1,
-      "conference_date": "2026-05-06T08:30:00-04:00",
-      "ark_funds": {
-        "IZRL": "1.63%"
-      }
-    },
-    {
       "ticker": "MASS",
       "company": "908 Devices Inc.",
       "year": 2026,
@@ -57,6 +47,16 @@
       "conference_date": "2026-05-06T08:30:00-04:00",
       "ark_funds": {
         "ARKG": "1.13%"
+      }
+    },
+    {
+      "ticker": "TBLA",
+      "company": "Taboola.com Ltd.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-06T08:30:00-04:00",
+      "ark_funds": {
+        "IZRL": "1.63%"
       }
     },
     {
@@ -123,6 +123,16 @@
       }
     },
     {
+      "ticker": "AUR",
+      "company": "Aurora Innovation, Inc. ",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-06T17:00:00-04:00",
+      "ark_funds": {
+        "ARKQ": "1.78%"
+      }
+    },
+    {
       "ticker": "KTOS",
       "company": "Kratos Defense & Security Solutions, Inc.",
       "year": 2026,
@@ -135,16 +145,6 @@
       }
     },
     {
-      "ticker": "Z",
-      "company": "Zillow Group, Inc.",
-      "year": 2026,
-      "quarter": 1,
-      "conference_date": "2026-05-06T17:00:00-04:00",
-      "ark_funds": {
-        "ARKF": "1.52%"
-      }
-    },
-    {
       "ticker": "SYM",
       "company": "Symbotic Inc.",
       "year": 2026,
@@ -152,6 +152,16 @@
       "conference_date": "2026-05-06T17:00:00-04:00",
       "ark_funds": {
         "ARKQ": "1.87%"
+      }
+    },
+    {
+      "ticker": "Z",
+      "company": "Zillow Group, Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-06T17:00:00-04:00",
+      "ark_funds": {
+        "ARKF": "1.52%"
       }
     }
   ]
