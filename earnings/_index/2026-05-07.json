@@ -1,6 +1,6 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-08T06:51:57Z",
+  "generated_at": "2026-05-08T08:21:05Z",
   "n_calls": 28,
   "calls": [
     {
@@ -138,17 +138,6 @@
       }
     },
     {
-      "ticker": "NTRA",
-      "company": "Natera, Inc.",
-      "year": 2026,
-      "quarter": 1,
-      "conference_date": "2026-05-07T13:30:00-07:00",
-      "ark_funds": {
-        "ARKG": "4.09%",
-        "ARKK": "1.17%"
-      }
-    },
-    {
       "ticker": "TXG",
       "company": "10x Genomics, Inc.",
       "year": 2026,
@@ -160,6 +149,17 @@
         "ARKSX": "1.24%",
         "ARKUX": "1.24%",
         "ARKVX": "1.24%"
+      }
+    },
+    {
+      "ticker": "NTRA",
+      "company": "Natera, Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-07T13:30:00-07:00",
+      "ark_funds": {
+        "ARKG": "4.09%",
+        "ARKK": "1.17%"
       }
     },
     {
@@ -219,6 +219,16 @@
       }
     },
     {
+      "ticker": "FROG",
+      "company": "JFrog Ltd.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-07T17:00:00-04:00",
+      "ark_funds": {
+        "IZRL": "1.92%"
+      }
+    },
+    {
       "ticker": "CRWV",
       "company": "CoreWeave, Inc.",
       "year": 2026,
@@ -230,13 +240,14 @@
       }
     },
     {
-      "ticker": "FROG",
-      "company": "JFrog Ltd.",
+      "ticker": "RKLB",
+      "company": "Rocket Lab Corporation",
       "year": 2026,
       "quarter": 1,
       "conference_date": "2026-05-07T17:00:00-04:00",
       "ark_funds": {
-        "IZRL": "1.92%"
+        "ARKQ": "4.72%",
+        "ARKX": "8.90%"
       }
     },
     {
@@ -253,14 +264,14 @@
       }
     },
     {
-      "ticker": "RKLB",
-      "company": "Rocket Lab Corporation",
+      "ticker": "MELI",
+      "company": "MercadoLibre, Inc.",
       "year": 2026,
       "quarter": 1,
       "conference_date": "2026-05-07T17:00:00-04:00",
       "ark_funds": {
-        "ARKQ": "4.72%",
-        "ARKX": "8.90%"
+        "ARKF": "2.85%",
+        "ARKW": "0.93%"
       }
     },
     {
@@ -271,17 +282,6 @@
       "conference_date": "2026-05-07T14:00:00-07:00",
       "ark_funds": {
         "ARKG": "3.80%"
-      }
-    },
-    {
-      "ticker": "MELI",
-      "company": "MercadoLibre, Inc.",
-      "year": 2026,
-      "quarter": 1,
-      "conference_date": "2026-05-07T17:00:00-04:00",
-      "ark_funds": {
-        "ARKF": "2.85%",
-        "ARKW": "0.93%"
       }
     },
     {
