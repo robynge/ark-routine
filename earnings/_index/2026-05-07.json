@@ -1,6 +1,6 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-08T10:24:21Z",
+  "generated_at": "2026-05-08T12:07:55Z",
   "n_calls": 28,
   "calls": [
     {
@@ -264,16 +264,6 @@
       }
     },
     {
-      "ticker": "NET",
-      "company": "Cloudflare, Inc.",
-      "year": 2026,
-      "quarter": 1,
-      "conference_date": "2026-05-07T17:00:00-04:00",
-      "ark_funds": {
-        "ARKW": "2.06%"
-      }
-    },
-    {
       "ticker": "MELI",
       "company": "MercadoLibre, Inc.",
       "year": 2026,
@@ -292,6 +282,16 @@
       "conference_date": "2026-05-07T14:00:00-07:00",
       "ark_funds": {
         "ARKG": "3.80%"
+      }
+    },
+    {
+      "ticker": "NET",
+      "company": "Cloudflare, Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-07T17:00:00-04:00",
+      "ark_funds": {
+        "ARKW": "2.06%"
       }
     },
     {
