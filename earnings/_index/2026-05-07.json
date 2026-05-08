@@ -1,6 +1,6 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-08T08:21:05Z",
+  "generated_at": "2026-05-08T10:24:21Z",
   "n_calls": 28,
   "calls": [
     {
@@ -105,19 +105,6 @@
       }
     },
     {
-      "ticker": "ABSI",
-      "company": "Absci Corporation",
-      "year": 2026,
-      "quarter": 1,
-      "conference_date": "2026-05-07T16:30:00-04:00",
-      "ark_funds": {
-        "ARKG": "5.51%",
-        "ARKSX": "1.92%",
-        "ARKUX": "1.92%",
-        "ARKVX": "1.92%"
-      }
-    },
-    {
       "ticker": "GH",
       "company": "Guardant Health, Inc.",
       "year": 2026,
@@ -138,17 +125,16 @@
       }
     },
     {
-      "ticker": "TXG",
-      "company": "10x Genomics, Inc.",
+      "ticker": "ABSI",
+      "company": "Absci Corporation",
       "year": 2026,
       "quarter": 1,
-      "conference_date": "2026-05-07T13:30:00-07:00",
+      "conference_date": "2026-05-07T16:30:00-04:00",
       "ark_funds": {
-        "ARKG": "5.66%",
-        "ARKK": "2.27%",
-        "ARKSX": "1.24%",
-        "ARKUX": "1.24%",
-        "ARKVX": "1.24%"
+        "ARKG": "5.51%",
+        "ARKSX": "1.92%",
+        "ARKUX": "1.92%",
+        "ARKVX": "1.92%"
       }
     },
     {
@@ -160,6 +146,20 @@
       "ark_funds": {
         "ARKG": "4.09%",
         "ARKK": "1.17%"
+      }
+    },
+    {
+      "ticker": "TXG",
+      "company": "10x Genomics, Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-07T13:30:00-07:00",
+      "ark_funds": {
+        "ARKG": "5.66%",
+        "ARKK": "2.27%",
+        "ARKSX": "1.24%",
+        "ARKUX": "1.24%",
+        "ARKVX": "1.24%"
       }
     },
     {
@@ -177,16 +177,6 @@
       }
     },
     {
-      "ticker": "NNDM",
-      "company": "Nano Dimension Ltd.",
-      "year": 2026,
-      "quarter": 1,
-      "conference_date": "2026-05-07T16:30:00-04:00",
-      "ark_funds": {
-        "PRNT": "3.87%"
-      }
-    },
-    {
       "ticker": "ARCT",
       "company": "Arcturus Therapeutics Holdings Inc.",
       "year": 2026,
@@ -194,6 +184,16 @@
       "conference_date": "2026-05-07T16:30:00-04:00",
       "ark_funds": {
         "ARKG": "2.00%"
+      }
+    },
+    {
+      "ticker": "NNDM",
+      "company": "Nano Dimension Ltd.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-07T16:30:00-04:00",
+      "ark_funds": {
+        "PRNT": "3.87%"
       }
     },
     {
@@ -219,6 +219,17 @@
       }
     },
     {
+      "ticker": "CRWV",
+      "company": "CoreWeave, Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-07T17:00:00-04:00",
+      "ark_funds": {
+        "ARKK": "3.02%",
+        "ARKW": "4.45%"
+      }
+    },
+    {
       "ticker": "FROG",
       "company": "JFrog Ltd.",
       "year": 2026,
@@ -229,14 +240,16 @@
       }
     },
     {
-      "ticker": "CRWV",
-      "company": "CoreWeave, Inc.",
+      "ticker": "KDK",
+      "company": "Kodiak AI, Inc.",
       "year": 2026,
       "quarter": 1,
       "conference_date": "2026-05-07T17:00:00-04:00",
       "ark_funds": {
-        "ARKK": "3.02%",
-        "ARKW": "4.45%"
+        "ARKQ": "1.05%",
+        "ARKSX": "1.07%",
+        "ARKUX": "1.07%",
+        "ARKVX": "1.07%"
       }
     },
     {
@@ -251,16 +264,13 @@
       }
     },
     {
-      "ticker": "KDK",
-      "company": "Kodiak AI, Inc.",
+      "ticker": "NET",
+      "company": "Cloudflare, Inc.",
       "year": 2026,
       "quarter": 1,
       "conference_date": "2026-05-07T17:00:00-04:00",
       "ark_funds": {
-        "ARKQ": "1.05%",
-        "ARKSX": "1.07%",
-        "ARKUX": "1.07%",
-        "ARKVX": "1.07%"
+        "ARKW": "2.06%"
       }
     },
     {
@@ -282,16 +292,6 @@
       "conference_date": "2026-05-07T14:00:00-07:00",
       "ark_funds": {
         "ARKG": "3.80%"
-      }
-    },
-    {
-      "ticker": "NET",
-      "company": "Cloudflare, Inc.",
-      "year": 2026,
-      "quarter": 1,
-      "conference_date": "2026-05-07T17:00:00-04:00",
-      "ark_funds": {
-        "ARKW": "2.06%"
       }
     },
     {
