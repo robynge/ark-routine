@@ -1,6 +1,6 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-08T14:50:20Z",
+  "generated_at": "2026-05-08T16:13:17Z",
   "n_calls": 28,
   "calls": [
     {
@@ -20,7 +20,7 @@
       "quarter": 1,
       "conference_date": "2026-05-07T08:00:00-04:00",
       "ark_funds": {
-        "ARKW": "1.50%"
+        "ARKW": "1.97%"
       }
     },
     {
@@ -30,7 +30,7 @@
       "quarter": 1,
       "conference_date": "2026-05-07T08:00:00-04:00",
       "ark_funds": {
-        "ARKW": "0.80%"
+        "ARKW": "0.87%"
       }
     },
     {
@@ -40,17 +40,7 @@
       "quarter": 1,
       "conference_date": "2026-05-07T08:30:00-04:00",
       "ark_funds": {
-        "IZRL": "1.55%"
-      }
-    },
-    {
-      "ticker": "XMTR",
-      "company": "Xometry, Inc.",
-      "year": 2026,
-      "quarter": 1,
-      "conference_date": "2026-05-07T08:30:00-04:00",
-      "ark_funds": {
-        "PRNT": "4.24%"
+        "IZRL": "1.61%"
       }
     },
     {
@@ -60,7 +50,17 @@
       "quarter": 1,
       "conference_date": "2026-05-07T08:30:00-04:00",
       "ark_funds": {
-        "PRNT": "3.85%"
+        "PRNT": "3.71%"
+      }
+    },
+    {
+      "ticker": "XMTR",
+      "company": "Xometry, Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-07T08:30:00-04:00",
+      "ark_funds": {
+        "PRNT": "5.87%"
       }
     },
     {
@@ -70,8 +70,8 @@
       "quarter": 1,
       "conference_date": "2026-05-07T08:30:00-04:00",
       "ark_funds": {
-        "IZRL": "1.66%",
-        "PRNT": "3.88%"
+        "IZRL": "1.47%",
+        "PRNT": "3.43%"
       }
     },
     {
@@ -91,7 +91,7 @@
       "quarter": 1,
       "conference_date": "2026-05-07T08:30:00-04:00",
       "ark_funds": {
-        "IZRL": "1.64%"
+        "IZRL": "1.72%"
       }
     },
     {
@@ -101,7 +101,7 @@
       "quarter": 3,
       "conference_date": "2026-05-07T10:30:00-04:00",
       "ark_funds": {
-        "IZRL": "1.76%"
+        "IZRL": "1.73%"
       }
     },
     {
@@ -111,7 +111,7 @@
       "quarter": 1,
       "conference_date": "2026-05-07T13:30:00-07:00",
       "ark_funds": {
-        "ARKG": "3.57%"
+        "ARKG": "3.66%"
       }
     },
     {
@@ -121,7 +121,7 @@
       "quarter": 1,
       "conference_date": "2026-05-07T16:30:00-04:00",
       "ark_funds": {
-        "ARKG": "0.56%"
+        "ARKG": "0.54%"
       }
     },
     {
@@ -131,7 +131,7 @@
       "quarter": 1,
       "conference_date": "2026-05-07T16:30:00-04:00",
       "ark_funds": {
-        "ARKG": "5.51%",
+        "ARKG": "5.46%",
         "ARKSX": "1.92%",
         "ARKUX": "1.92%",
         "ARKVX": "1.92%"
@@ -144,8 +144,8 @@
       "quarter": 1,
       "conference_date": "2026-05-07T13:30:00-07:00",
       "ark_funds": {
-        "ARKG": "4.09%",
-        "ARKK": "1.17%"
+        "ARKG": "4.28%",
+        "ARKK": "1.21%"
       }
     },
     {
@@ -155,7 +155,7 @@
       "quarter": 1,
       "conference_date": "2026-05-07T13:30:00-07:00",
       "ark_funds": {
-        "ARKG": "5.66%",
+        "ARKG": "5.72%",
         "ARKK": "2.27%",
         "ARKSX": "1.24%",
         "ARKUX": "1.24%",
@@ -169,8 +169,8 @@
       "quarter": 1,
       "conference_date": "2026-05-07T16:30:00-04:00",
       "ark_funds": {
-        "ARKG": "1.46%",
-        "ARKK": "0.37%",
+        "ARKG": "1.45%",
+        "ARKK": "0.36%",
         "ARKSX": "0.28%",
         "ARKUX": "0.28%",
         "ARKVX": "0.28%"
@@ -193,7 +193,7 @@
       "quarter": 1,
       "conference_date": "2026-05-07T16:30:00-04:00",
       "ark_funds": {
-        "PRNT": "3.87%"
+        "PRNT": "3.75%"
       }
     },
     {
@@ -204,7 +204,7 @@
       "conference_date": "2026-05-07T17:00:00-04:00",
       "ark_funds": {
         "ARKF": "4.34%",
-        "ARKW": "0.95%"
+        "ARKW": "0.99%"
       }
     },
     {
@@ -225,8 +225,8 @@
       "quarter": 1,
       "conference_date": "2026-05-07T17:00:00-04:00",
       "ark_funds": {
-        "ARKK": "3.02%",
-        "ARKW": "4.45%"
+        "ARKK": "2.87%",
+        "ARKW": "4.16%"
       }
     },
     {
@@ -236,7 +236,7 @@
       "quarter": 1,
       "conference_date": "2026-05-07T17:00:00-04:00",
       "ark_funds": {
-        "IZRL": "1.92%"
+        "IZRL": "2.03%"
       }
     },
     {
@@ -246,7 +246,7 @@
       "quarter": 1,
       "conference_date": "2026-05-07T17:00:00-04:00",
       "ark_funds": {
-        "ARKQ": "1.05%",
+        "ARKQ": "1.11%",
         "ARKSX": "1.07%",
         "ARKUX": "1.07%",
         "ARKVX": "1.07%"
@@ -259,7 +259,7 @@
       "quarter": 1,
       "conference_date": "2026-05-07T17:00:00-04:00",
       "ark_funds": {
-        "ARKQ": "4.72%",
+        "ARKQ": "4.50%",
         "ARKX": "8.90%"
       }
     },
@@ -271,7 +271,7 @@
       "conference_date": "2026-05-07T17:00:00-04:00",
       "ark_funds": {
         "ARKF": "2.85%",
-        "ARKW": "0.93%"
+        "ARKW": "0.95%"
       }
     },
     {
@@ -281,7 +281,7 @@
       "quarter": 1,
       "conference_date": "2026-05-07T14:00:00-07:00",
       "ark_funds": {
-        "ARKG": "3.80%"
+        "ARKG": "3.84%"
       }
     },
     {
@@ -291,7 +291,7 @@
       "quarter": 1,
       "conference_date": "2026-05-07T17:00:00-04:00",
       "ark_funds": {
-        "ARKW": "2.06%"
+        "ARKW": "2.13%"
       }
     },
     {
@@ -302,11 +302,11 @@
       "conference_date": "2026-05-07T17:30:00-04:00",
       "ark_funds": {
         "ARKF": "5.67%",
-        "ARKK": "4.25%",
+        "ARKK": "4.21%",
         "ARKSX": "0.32%",
         "ARKUX": "0.32%",
         "ARKVX": "0.32%",
-        "ARKW": "3.70%"
+        "ARKW": "3.60%"
       }
     }
   ]

@@ -1,7 +1,7 @@
 {
   "date": "2026-05-08",
-  "generated_at": "2026-05-08T14:50:30Z",
-  "n_calls": 1,
+  "generated_at": "2026-05-08T16:13:28Z",
+  "n_calls": 2,
   "calls": [
     {
       "ticker": "DKNG",
@@ -11,7 +11,17 @@
       "conference_date": "2026-05-08T08:30:00-04:00",
       "ark_funds": {
         "ARKF": "2.36%",
-        "ARKW": "0.92%"
+        "ARKW": "0.97%"
+      }
+    },
+    {
+      "ticker": "DCH",
+      "company": "Dauch Corporation",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-08T10:00:00-04:00",
+      "ark_funds": {
+        "PRNT": "0.05%"
       }
     }
   ]
