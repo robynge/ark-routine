@@ -1,0 +1,439 @@
+{
+  "event": {
+    "ticker": "DKNG",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk12": {
+      "name": "Operator",
+      "title": "Conference Operator"
+    },
+    "spk10": {
+      "name": "Michael Delaglio",
+      "title": "Vice President of Investor Relations"
+    },
+    "spk17": {
+      "name": "Jason Robbins",
+      "title": "Co-founder and Chief Executive Officer"
+    },
+    "spk15": {
+      "name": "Alan Ellingson",
+      "title": "Chief Financial Officer"
+    },
+    "spk06": {
+      "name": "Jordan Bender",
+      "title": "Analyst, Citizens Bank"
+    },
+    "spk19": {
+      "name": "David Katz",
+      "title": "Analyst, Jefferies"
+    },
+    "spk21": {
+      "name": "Dan Politzer",
+      "title": "Analyst, JP Morgan"
+    },
+    "spk04": {
+      "name": "Stephen Grambling",
+      "title": "Analyst, Morgan Stanley"
+    },
+    "spk09": {
+      "name": "Barry Jonas",
+      "title": "Analyst, Truist Securities"
+    },
+    "spk08": {
+      "name": "Trey Bowers",
+      "title": "Analyst, Wells Fargo"
+    },
+    "spk05": {
+      "name": "Brant Montour",
+      "title": "Analyst, Barclays"
+    },
+    "spk03": {
+      "name": "Ben Chaykin",
+      "title": "Analyst, Mizuho"
+    },
+    "spk16": {
+      "name": "Sean Kelly",
+      "title": "Analyst, Bank of America"
+    },
+    "spk00": {
+      "name": "Robin Farley",
+      "title": "Analyst, UBS"
+    },
+    "spk02": {
+      "name": "Joe Stoff",
+      "title": "Analyst, Susquehanna"
+    },
+    "spk20": {
+      "name": "Chad Bannon",
+      "title": "Analyst, Macquarie Capital"
+    },
+    "spk01": {
+      "name": "Steve Pizzella",
+      "title": "Analyst, Deutsche Bank"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk12",
+      "text": "Hello, everyone. Thank you for joining us and welcome to the DraftKings first quarter 2026 earnings call. After today's prepared remarks, we will host a question and answer session. If you would like to ask a question, please press star one to raise your hand. To withdraw your question, press star one again. I will now hand the conference over to Michael Delaglio, Vice President of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Good morning everyone and thank you for joining us today. Certain statements we make during this call may constitute forward-looking statements that are subject to risks, uncertainties, and other factors as discussed further in our SEC filings that could cause our actual results to differ materially from our historical results or from our forecasts. We assume no responsibility to update forward-looking statements other than as required by law. During this call, Management will also discuss certain non-GAAP financial measures that we believe may be useful in evaluating DraftKings operating performance. These measures should not be considered in isolation or as a substitute for DraftKings financial results prepared in accordance with GAAP. Reconciliations of these non-GAAP measures to the most directly comparable GAAP measures are available in our earnings release, slide presentation, and business update, which can be found on our website and in our quarterly report on Form 10-Q filed with the SEC. Hosting the call today, we have Jason Robbins, co-founder and chief executive officer of DraftKings, who will share some opening remarks and an update on our business. Following Jason's remarks, our chief financial officer, Alan Ellingson, will provide a review of our financials. We will then open the line to questions. I will now turn the call over to Jason Robbins."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Thank you, Mike. We are off to a fantastic start this year. Our first quarter results exceeded our expectations and we continue to expect fiscal year 2026 revenue of $6.5 billion to $6.9 billion and adjusted EBITDA of $700 million to $900 million. In the first quarter, revenue increased 17% year over year and surpassed $1.6 billion. Adjusted EBITDA increased 64% year over year to $168 million. If not for our significant investment in predictions in the launch of Sportsbook in Arkansas, our adjusted EBITDA would have exceeded $200 million. Profitability is inflecting in our core business. That gives us the firepower to press our advantage in predictions. Predictions, especially in sports, is a strategic priority for DraftKings. This category is still in its first inning, and we believe DraftKings is best positioned to define it. We are planning significant investment in the coming months to improve our offering, build liquidity, and scale customer acquisition. We intend to execute with urgency and establish a leadership position in sports predictions before year end. At our investor day in March, we laid out a clear strategy, one nationwide super app to win in sports. Already, we are delivering on our plan. Predictions is now live in our flagship app, and as a result, our predictions customer acquisition cost declined by more than 80% in April. Within predictions, we have more than double markets available to trade, which is driving predictions volume per customer above sportsbook handle per customer. In April, our annualized predictions consumer volume exceeded $1 billion, and our annualized total volume traded exceeded $2.3 billion, an increase of 38% and 43% month over month, respectively. We have also launched market making, which unlocks access to an additional layer of the value chain. Market making is already generating a positive return for us. In the coming weeks, we expect to launch our proprietary exchange and begin offering combos. Together, these moves will accelerate innovation, improve the customer experience, and strengthen our economics. We are confident in sports predictions because we increasingly view our sportsbook capabilities as a key advantage. Sports predictions and sportsbooks serve the same customers in the same live moments and leverage a shared underlying infrastructure. Whether the customer experience is structured as a bet or a contract, success still comes down to compelling markets, pricing, liquidity, trust, and a seamless customer experience. That is why our sustainable advantage has made us a leader in Sportsbook and positioned us to lead in sports predictions too. Beginning next quarter, we will report sports revenue, which will combine Sportsbook and sports predictions. This best reflects how we plan to operate the business. The opportunity ahead in sports is massive. At Investor Day, we laid out a path to a $55 billion to $80 billion gross revenue opportunity by 2030, along with at least a 30% long-term adjusted EBITDA margin. Predictions is an important part of this opportunity, broadening our reach, strengthening our sports platform, and driving meaningful incremental adjusted EBITDA over time. Experience and discipline matter in this category. Early third-party data suggests that predictions customers are experiencing losses more quickly than sportsbook customers. reinforcing the importance of trust, consumer protections, and operator discipline. We have spent more than a decade building and managing these ecosystems, from fantasy to sportsbook to iGaming, and we will apply that same discipline to predictions. We will grow predictions the right way through data-driven decisions, constructive engagement with industry stakeholders, and a focus on markets that uphold the integrity of sports, strengthen customer trust, and align with our standards for responsible engagement. Our super app, market-making capabilities, proprietary exchange, and combos are coming together ahead of the World Cup. Our roadmap is clear, our execution is real, and we intend to establish a leadership position in sports predictions by year-end. With that, I will turn it over to our Chief Financial Officer, Alan Ellingson."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Thank you, Jason. I'll hit the highlights, including our first quarter 2026 performance and our fiscal year guidance. Please note that all income statement measures discussed, except for revenue, are on a non-GAAP adjusted EBITDA basis. As Jason mentioned, in the first quarter, revenue increased 17% year over year and surpassed $1.6 billion. Adjusted EBITDA increased 64% year over year to $168 million. If not for our significant investment in predictions and the launch of Sportsbook in Arkansas, our adjusted EBITDA would have exceeded $200 million for the quarter. I'm also proud that we have achieved positive net income for the second consecutive quarter, continuing the progress that we've made on our profitability while repurchasing almost $100 million of our shares. In the first quarter, Sportsbook led the way. Sportsbook revenue increased 24% year-over-year to $1.1 billion, a net revenue margin increase of 140 basis points to 7.8%. Parlay handle mix increased by nearly 300 basis points. Revenue growth exceeded 20% across nearly all major sports, including NBA and NCAA men's basketball, reflecting continued enhancements to our offering and deeper media integrations. Across all key metrics, our Sportsbook business remains strong. We are also scaling efficiently. In the first quarter, adjusted gross margins increased by nearly 200 basis points year over year, and adjusted operating expenses increased only slightly when excluding our investments and predictions and the launch of Sportsbook in Arkansas. AI-first execution and streamlined teams are driving higher productivity than ever, with some teams operating at two to three times last year's output. We have generated more than $500 million of adjusted EBITDA over the last six months, reflecting effective execution and continued strength of our core business. Now I'll touch on our fiscal year 2026 guidance. In February, we guided fiscal year 2026 revenue of $6.5 billion to $6.9 billion. and adjusted EBITDA of $700 million to $900 million. Importantly, the adjusted EBITDA guidance range includes significant investment in predictions, which we see as a massive incremental opportunity for the company. Today, we are reaffirming these guidance ranges. That concludes our remarks. We will now open the line for questions."
+    },
+    {
+      "speaker": "spk12",
+      "text": "We will now begin the question and answer session. We ask that you please limit yourself to one question. If you would like to ask a question, please press star 1 to raise your hand, and to withdraw it, press star 1 again. We ask that you pick your handset up when asking a question to allow for optimum sound quality, and if muted locally, please remember to unmute your device. Please stand by while we compile the Q&A roster. Your first question comes from the line of Jordan Bender with Citizens Bank. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Hey, everyone. Good morning. To start with the guidance, Jason, it might get harder to parse out the cost now with the super app, but are you starting to see investment spending like marketing come down across the prediction market business? And maybe on the flip side of that, how should we think about layering in some of the prediction market spend for the remainder of the year?"
+    },
+    {
+      "speaker": "spk17",
+      "text": "Well, I think first start with, uh, I think we mentioned that cats have been really dropping quickly and, uh, it's scaling actually a little faster than we thought. So at this point we are thinking we're going to probably invest about two to 300 million all in on predictions this year. Uh, a lot of that'll be marketing, but some of that'll be product technology investment as well. Um, so, you know, what that means is that the rest of the business is going to do somewhere in the billion plus range and adjusted EBITDA this year, which we're really excited about. So that's the latest thinking, but obviously we'll assess the data, and as always, we'll follow what the numbers say."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Great. And then if I could just follow up on the guide. Revenue growth strong across non-NFL events in the quarter, but Handel has moderated a touch here. Can you just help us think about what Handel looks like, or the exit rate into 2Q here? Thank you."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Yeah, Handel's actually been doing really nicely so far. So we actually just finished soft closing April. Handel was up 6%. We still have World Cup coming, which should be a boon. Also, April revenue is up 22% year over year. We did over $100 million in adjusted EBIT in April alone. So really feeling great about the way the quarter started. And those are all soft close numbers, but should be roughly correct. Thank you very much."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Your next question comes from David Katz with Jefferies. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "spk19",
+      "text": "Morning. Thanks for taking my question. I'm sure there will be an ample number of predictions, questions. So I wanted to ask about the core business. Can we just talk about more specificity about what's left to do, whether that's product enhancement, interface improvements? We know what the environment is. What are you doing? What's controllable for you in terms of moving the core business forward?"
+    },
+    {
+      "speaker": "spk17",
+      "text": "It's a great question. So I think we still have a lot we can do to improve the offering. Right now, we feel like we have a number of things on the product roadmap, which will definitely deliver value. So really just clear line of sight to generate incremental retention and better value for the customer lifetime. I also think that there's a real opportunity in the iGaming side. We've lagged the market a little bit there. We've been very focused on sports naturally with the predictions and everything else going on. And Recently, we beefed up a lot of the team and effort on the iGaming side. So I think there's a lot of opportunity to grow that as well. And then, of course, still half the country doesn't have legal sports betting, and almost 90% of the country we're not present in for iGaming. So tons of room left on the GA side to hopefully drive more legalization."
+    },
+    {
+      "speaker": "spk19",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Your next question comes from Dan Politzer with JP Morgan. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "spk21",
+      "text": "Hey, good morning, everyone. Thanks for the questions. Just another on the core, obviously recognizing you guys don't give quarterly guidance, but just given some of the investor focus and moving pieces into the second quarter, can you kind of bridge us in how you think about some of those moving pieces for the second quarter, whether it's prediction market spend or launch costs or any of the kind of whole dynamics that you're seeing in the market?"
+    },
+    {
+      "speaker": "spk17",
+      "text": "Well, on the core side right now, we're seeing a ton of momentum. As I mentioned, we did over $100 million in adjusted EBITDA in April. Revenue grew 22% year over year. We've actually had 15 consecutive weeks of net revenue growth year over year. So really feel great about the core. We do expect we're going to start ramping our investment and predictions. We've seen really, really strong numbers on the CAC side. The product is getting so much better. If you've used it recently, you'll see what we launched in December looks nothing like what you can use now. So obviously still a ton of work to do there. It's very, very early, but definitely plan on increasing investment there as the quarter progresses, especially with World Cup, which we think is going to be a big event, especially on the acquisition side."
+    },
+    {
+      "speaker": "spk21",
+      "text": "Thanks so much."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Your next question comes from Stephen Grambling with Morgan Stanley. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Hey, thank you. It looks like in the quarter that the promotional effectiveness improved on the core OSB side, even as a lot of the other folks in the industry have been talking about maybe worse CACs and that promotional effectiveness decreasing. So I'm curious what you attribute that to and any kind of initiatives you have underway that you think could actually further improve the efficiency and how we should be thinking about it, maybe as a percentage of handle or percentage of GGR. Thanks."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Yeah, it's a great question. I mean, first starts with we see a pretty stable competitive environment. It doesn't really look any different than it has in terms of the core business. Obviously, there's the prediction side, but just focusing on our typical competitors. And so we've really been able to focus heavily on optimization. And I think one of the things that's been consistent with us as a company is we're very data-oriented. We're extremely strong on that front. And so the more time and the more data you give us, the better we can create efficiency and optimization. I think you're just seeing the results of some of that work over the course of several years really start to pay off. Also really doing great in terms of the top line side. So it helps to be more efficient in promotions when you're driving strong top line. Our hold rates have been increasing significantly year over year. Parlay mix has been going up. We see really no end to that continuing to go up in the near site, really. Who knows where that ends, but right now a ton of runway left to increase parlay mix. So lots of good tailwinds, I think, for the business right now. Promotional efficiency is one of them."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Your next question comes from Jed Kelly with Oppenheimer & Co. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Hey, great. Thanks for taking my question. Just on customer growth and month growth, realize it was up low single digits, extra lottery. Can you just talk about trends there? I think there's a slide in your shareholder deck that says 30% of prediction market volume in regulated states is coming from regulated markets. Is there something where younger customers that are like 18 to 20, 18 to 20, 18 to 20, just aren't shifting over to drafting as they get older? Or can you just talk about the month trends? Thanks."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Yeah, I don't really think it has anything to do with predictions. I mean, if you look at the total customer numbers, they're quite small, single digits. There is volume, but most of that's coming from lower margin customers as well as also just from market makers and things like that. I think the really important thing is the opportunity to grow MUPS and predictions. We have the entire other half of the country now open to us, and we haven't even begun to ramp marketing. And if you look at our early predictions data, with very modest marketing investment, we are seeing really exciting things on the customer acquisition side and the CAC side. So I think if you look at the back half of the year, you're going to see tremendous increase in MUPS for us, really via predictions, customer acquisitions. And we're really excited about that. And I think that's kind of our main focus on the MUP side."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Your next question comes from Trey Bowers with Wells Fargo. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Hey, guys. Thanks for the question. I just wanted to kind of dig in a little further on just cadence, if we could. You know, your big peer out there set kind of targets for the next three quarters that are pretty significant. heavily Q4 weighted. I know Q4 is generally the biggest seasonal quarter, but just any color around that, just so we make sure we're not kind of offsides on our models would be great. Thanks so much."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Yeah, so I mean, I think you can expect pretty similar to what we've seen in past years. We don't expect any real difference in terms of the revenue side. Obviously, there's sport outcomes to contend with, so you have to look at that in more of a neutral sport outcome world, but putting a sport outcomes aside, I think it'll look pretty typical in terms of seasonality. Obviously we do have predictions spend layered in. Um, I think you're going to see much more of that, of course, in the coming months than in the previous months, we have not spent much in the marketing side on predictions yet. We do intend to spend more. As I mentioned, we think the total investment for predictions will be two to 300 million with the vast majority of that coming, uh, really in the months ahead, especially in the back half of the year, but some also in the later part of Q2. So I think that'll obviously have a little bit of effect on the bottom line, but also hopefully we'll see great customer acquisition with that. And if we don't, we'll pull back. We're not signing up for a lot of committed spend, so it's very fluid and we'll follow the data as we always do. But in terms of the core business, I think you can assume a pretty similar quarterly cadence to what we've seen in the past."
+    },
+    {
+      "speaker": "spk08",
+      "text": "And just a quick follow-up, if I could, the advocacy spend in the first quarter was a pretty big number at 26 million. Could you guys just break down a little bit what was involved there in terms of prediction market or states and then just going forward to what extent that represents a piece of kind of the prediction market investment? Thanks."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Yeah, it's really not prediction related. Actually, that was more of something that we are experimenting with with our coalition that we lobbied together. We have a super PAC that we formed and are spending in various states and we're going to try that strategy out for this election cycle, see how it goes, and then assess whether it's something that we want to continue doing in future years."
+    },
+    {
+      "speaker": "spk19",
+      "text": "Thanks for the questions."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Your next question comes from Brant Montour with Barclays. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Good morning, everybody. Thanks for taking my questions. You know, Jason, you mentioned some interesting stats on prediction and specifically volume per customer, bigger than, you know, greater than OSB volume per customer. I was hoping maybe you could just flesh out a little bit more about what you've learned so far about the prediction customer, especially with the stats you gave. What else have you learned about early sense for LTVs? And then what are the sort of take rates that you're seeing early on against those volume stats that you gave?"
+    },
+    {
+      "speaker": "spk17",
+      "text": "Yeah, it's a great question. I mean, it's very early, so hard to say. They do look quite similar. You know, the stat that you cited that we mentioned, that is something we're seeing. I think that could also have a lot to do with the fact that it's still early and usually the most avid customers sign up early. So that's something we're bearing in mind. But if you look at kind of who these customers are demographically, what their spend patterns are with sports, It's actually quite similar. There are a couple things that are interesting. So college basketball in particular was even heavier on the prediction side than maybe some of the other sports. So that was something that we noticed as an example. And I think it's largely because the format is, you know, more of like a singles type of thing, win, loss, that sort of thing. So, you know, versus a sport like NBA, which on the sportsbook side is very SGP heavy and There's not a product that's sufficiently equivalent yet in terms of predictions to make that as attractive. So there's probably some reasons for it that have nothing to do with the customer, but that is something we noticed. But largely, they look very similar. We're not seeing a whole lot of differences between who we're getting on the prediction side and who we have on our sports betting business. Great. Thanks."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Your next question comes from Ben Chaykin with Mizuho. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "spk03",
+      "text": "hey good morning um my questions on the on the cost side of the core business underlying i think performed well in the quarter maybe we could touch specifically on payments which i believe is one of your larger individual expenses how much of a focus is this for you and anything you can share regarding the opportunity to lower this expense and then kind of related do you think the super app provides any payment savings under the premise that users are maybe more engaged across multiple products and those aren't kind of moving money in and out as quickly thanks"
+    },
+    {
+      "speaker": "spk17",
+      "text": "Yeah, I think it's a great point you make there. I do think part of the idea is increased retention, easier access to different products that we offer, different verticals. I think that is a huge part of the idea behind the Super App, and one of the results of that could be better retention of money and less movement of money on and off the system, which is a lot of what drives the payment costs, is people depositing and withdrawing. That's something we definitely will keep an eye on and could be a benefit. And I think even beyond that, there is a lot of room to optimize. If you look at our overall payment costs, they have been coming down. That's been through a number of changes that we've made internally, but also through renegotiating rates as we've ramped our volumes. So that's generally the way it works is as you ramp volumes, you get better rates. So I expect that to continue. Payments is an area that we look at this year and see definite opportunity in year to decrease that cost and certainly in 2027 and beyond."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thanks, appreciate it."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Your next question comes from Sean Kelly with Bank of America. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Hi, good morning and thanks for taking my question. Jason, I think market making and prediction markets has continued to be a focal point. Just kind of curious on where you're at on experimenting there. What have you learned on pricing and just big picture, what's your willingness to kind of look at third party platforms and or potentially hedge via third party platforms when you see some of the concentration risk that you've done combos and parlays as you get more experience with the product? Thanks."
+    },
+    {
+      "speaker": "spk17",
+      "text": "It's a great question. Um, I think even beyond hedging, there's probably arbitrage moments and ways to just increase value. So that's something we're definitely looking at. Our market makers stood up in the last couple of months. Um, so far so good. We're making money. Uh, it's, uh, one of our fastest to profitability business lines we've ever launched. So really excited about that. Uh, and we think a lot of opportunity to scale it. Um, so, you know, we should theoretically have one of the top two or three market makers in the world, arguably the best given our modeling capabilities. So I don't see, at least on the sports front, I don't see how anyone is going to be able to match that outside of maybe one or two of our big sports book competitors that also have really strong pricing models internally. So really feels like we can capture a big chunk of that. I do think that will involve being on third-party platforms. We will obviously focus on our own exchange as well, which is launching in the coming weeks and We're excited about that. But, you know, I think for us to really maximize the market-making opportunity, we want to be able to participate in different platforms and, you know, examples like you said, not just to have more volume, but also to be able to, you know, manage risk across a much wider canvas. Just the more opportunity you have to do that, the better that we can optimize. I mentioned earlier we're a very data-driven company, so the more we kind of have access to different ways to manage that risk, I think the better that we'll perform over time."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Your next question comes from Barry Jonas with Truist Securities. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Hey, can we dig in more on the legalization outlook? Are there particular states you're focused on for iGaming or OSB in the near term? I'm curious if prediction markets has helped or hurt those efforts. Thank you."
+    },
+    {
+      "speaker": "spk17",
+      "text": "I think in terms of sports, prediction markets are helping. People are starting to really understand that if you haven't legalized sports betting yet, you have this thing called sports predictions now that is not within your own jurisdiction, and you still have companies like us that are very interested in doing it under the state framework. I do think that is starting to resonate. Sometimes these things take a little time, so I'm not 100% sure we're going to get any over the line this year, but I do see increased momentum. And then I think on the iGaming side, I absolutely see momentum, particularly in the DMV area. Washington, D.C. is strongly considering a proposal now. And Virginia came very close. It actually passed through both chambers but then died in conference. So hoping that that one's really close and maybe, you know, next year, next session can be revived and get through. And then same thing on Maryland. We're seeing real momentum building there. So I think once we start to really break through in one of these regions, you typically see multiple states, or in the case of D.C., jurisdictions that move too. And so, you know, not surprising to see momentum regionally like that. And I do expect that we'll start to see momentum develop in some of the Midwestern states too. I think Ohio next year is a good one to focus on. Illinois is always interesting. I don't see a clear path at the moment, but I think that could be one that comes into play. Um, so lots of different opportunities there and we'll have to see, but. Right now, I do think on the, on the margin, having predictions is a huge advantage in terms of legalization, but I think it's been an even bigger tool in terms of pushing back on things like tax increases or any further restrictions. If you notice so far, we've had no tax increases this year. I hope I didn't just jinx us, but we've had no tax increases and. I think a lot of that is because states are looking at predictions and saying we'd be absolutely crazy to raise taxes on legal online sports betting operators now when we're contending with prediction markets, which are not paying taxes in our state."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Your next question comes from Robin Farley with UBS. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Great, thanks. Some other sports books noted sport outcome hold impact in Q1. You haven't really mentioned that. Was your math better in Q1 and you didn't have a hold impact, or is it just that the rest of your business was strong enough to offset a hold impact? If you could give us some color on that, thanks."
+    },
+    {
+      "speaker": "spk17",
+      "text": "We were actually slightly positive on outcomes. It was very minor, so we didn't really feel like it was necessary to call out. It was in the tens of millions, but we were slightly positive on sport outcomes in Q1."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Okay, great. Thanks. And then just another one on prediction markets. Can you give us a sense of the profitability of the different layers of prediction markets that you're expecting to be involved in, sort of where the Emily Early- we're the most economics are for you when you think about you know whether it's market making your proprietary exchange or just how we can think about those layers thanks."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Tom Beierle , The Capacity Collective, yeah you know for us it's really about having the whole ecosystem and so it's hard to parse out where the value is because I think it feeds off each other, but. we do see tremendous value in every layer of the ecosystem, which is why we're playing in all of them. In terms of profitability versus investment, the market maker is profitable already, so that's going to be the one that's sort of the least capital-intensive in terms of investment and I think will produce really strong results in the near term and continue to grow. I think when it comes to more of the consumer-facing side of it, we will be investing in customer acquisition. So I think that's going to end up being a little bit more of a headwind in 2026, and that's what's driving most of the $200 million to $300 million that we said we're investing in predictions this year. So those are kind of the two layers. And then the exchange sort of sits in the middle. The exchange, I think, will be a little bit of product investment, but if you don't attribute any of the customer acquisition costs, that should be one that becomes profitable pretty quickly too."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Great. Thanks very much."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Your next question comes from Joe Stoff with Susquehanna. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thanks. Good morning, Jason, Alan. Jason, I was wondering if you could talk about your World Cup expectations. I think we have a pretty good idea for the tailwind and the impact of of the World Cup on, you know, for the European bookmakers and customers, but the U.S. and North America is more unique. And is this, you know, more of an opportunity to expand the user base? How do you think about, say, the opportunity and what you're thinking about World Cup expectations?"
+    },
+    {
+      "speaker": "spk17",
+      "text": "Yeah, it's a great question. So I have very high expectations for World Cup when it comes to customer acquisition and engagement. I'm not as sure it'll be a huge revenue opportunity. The quantum of games, and I'm guessing the amount wagered on some of these won't be quite as high as maybe you'll see in NFL or certainly NBA and some of these other sports. But I think it'll be absolutely tremendous for customer acquisition, starting with these prediction states. So about half the US, including large states like California, Texas, and Florida, we have never had a World Cup, never had you know, any major marketing event in terms of, you know, something like this in those states. So we're going to really go for it. Obviously, if the numbers are not supporting that, we will back off. But I have a feeling it's going to be very strong. And then the other thing I should mention is we recently launched a Spanish language app, I think, or Spanish language functionality, excuse me, in our app. I think that also is a really interesting one. And we aim to have it in, which we did ahead of the World Cup, knowing that There could be some incremental audience to be acquired there, and really being able to have a Spanish native experience we think will be a differentiator for us, even with people that might have signed up for the English product, just have a preference for the Spanish language product. So those are two things I'm really excited about, and we'll definitely be making an investment, and as I said, following the data. So it'll either work or it won't, but we won't spend heavily into it if it's not working."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Your next question comes from Chad Bannon with Macquarie Capital. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "spk20",
+      "text": "Morning. Thanks for taking my question. The NBA saw record viewership this year. I know the programming was better than prior years and you guys remain a partner with them. Can you just talk about if you're seeing share gains in the NBA this And then related to kind of all the big sports, how you're thinking about being an official partner, if that's driving engagement. Thank you."
+    },
+    {
+      "speaker": "spk17",
+      "text": "It was a great year so far for NBA. The playoffs have been tremendous too so far. So expect that to continue. You know, I think being a partner has been a really important thing for DraftKings over many years. We've had a great relationship with the NBA since our fantasy sports days, really love what they have done with the sport and how they've grown engagement and made it such a broad sport in terms of the reach and the types of people that are fans. So I really give a lot of credit to the NBA, and we're proud to be a partner of theirs. Thanks. Thanks."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Your next question comes from Clark Lampin with BTIG. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "spk22",
+      "text": "Hey, good morning. Thanks for taking the question. I wanted to go back to the topic of core profitability. I think you mentioned at the top of the call, if it weren't for a prediction this year, you'd have over a billion dollars. I think on top of that number, you've got about $4 billion in player-facing expenses. Just curious where those numbers could go over the next couple of years if we continue to see the rates of incremental penetration moderating. How much could you theoretically pull back, I guess, without impacting engagement?"
+    },
+    {
+      "speaker": "spk17",
+      "text": "I mean, we have a lot of room to bring down marketing if that is warranted. I think right now, given the acquisition opportunity we see in predictions, we think it's more likely we'll be spending into it. And the partnerships that we have should be a huge asset for us in that. But I do think that, you know, in terms of the amount allocated to the core, you're going to see that continue to decline as prediction spend ramps. So that's something that I think you'll see in the coming months and years. And, you know, really for us, the sort of, you know, combination right now of moderating promotional and marketing spend on the core, along with still strong top line growth, as I mentioned, April 1st, was 22% year-over-year revenue growth, over $100 million in adjusted EBITDA in that month alone. That's really, I think, a sign that we see just continuing strength on the bottom line as we also continue to see strong growth on the top line. And obviously, that's what you want. So hopefully, we'll continue to see those trends."
+    },
+    {
+      "speaker": "spk22",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Your next question comes from Bernie McTiernan with Needham. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Jason, the shareholder letter mentions that consumers are losing more in prediction markets than OSB, and that's just surprising to me, at least given the parlay penetration likely lower in prediction markets. So can you just talk about what you're seeing there? Because I think conventional wisdom would say that your hold will be lower in prediction markets than OSB, but just seeing how you think about that longer term. Thank you."
+    },
+    {
+      "speaker": "spk17",
+      "text": "It's not necessarily hold as much as just the rate of loss. I think part of it is that predictions operators, some of them anyway, are sort of irresponsibly saying that this is not the same as a product like ours where you have people playing against each other on prediction markets when the reality is that most of the money is being put up, most of the liquidity is being put up by professional market makers, institutions, things like that. I think some people don't necessarily understand that. And as that becomes more apparent, I think you'll start to see that moderate. But we saw this in fantasy sports. When you have a peer-to-peer, somewhat of a peer-to-peer setup, you're going to have people on one side that are experts. And you got to make sure you protect the ecosystem as best as you can, obviously, within the rules and regulations, right? But doing things to make sure that you're building a healthy ecosystem was critical to us building out a sustainable daily fantasy sports product. And right now I don't see that necessarily happening with some of our predictions competitors. But, you know, as time goes on, hopefully we'll set the standard there and it'll be something that really, you know, becomes an important part of managing the ecosystem."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Your next question comes from Robert Fishman with Moffitt Nathanson. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Good morning, Jason. You just mentioned your marketing partnerships. Does ESPN and NBC allow you to promote predictions through your super app? And how do you plan to leverage those relationships with the ramp in the marketing that you talked about, especially ahead of the NFL season? Thank you."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Yeah. So, I mean, a huge part of having these national partnerships is being able to have a national singular sort of offering and message that we put out there. And that's been a core effort that we've been really focused on as we've thought about what our back half of the year and also remaining Q2 plans are for the super app. So it's really less about advertising predictions and more about advertising a unified DraftKings platform that's accessible in almost every state in the country. So that's That's something that we really feel excited about, having these great partnerships and relationships and having all this data from having worked with these companies for so many years gives us a great foundational starting point. But there's also some testing and work we have to do to figure out how we unify that message in a way that makes sense for all consumers, no matter what products they end up accessing."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Your next question comes from Jeff Stanchel with Stiefel. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Hey, good morning, guys. Thanks for taking the question. Maybe just digging into the quarter, it looks like NGR growth for online casino stepped down a bit, quarter on quarter, 9%, versus you grew that business closer to 20% in 2025. Can you just sort of help us think about some of the drivers of this deceleration and whether there's anything sort of one time in nature that contributed as well? Thanks."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Yeah, I mean, I think that really we see a huge opportunity there. We have lower growth than we think we should. Clearly, the overall industry demonstrates that. So there's a lot of changes that we've made on the product side and the marketing side in the last few months, and we see a huge opportunity to accelerate that. And hopefully that's some upside. It's not something we're counting on in order to hit our guide. So if we can increase that growth rate, that provides a lot of upside for us."
+    },
+    {
+      "speaker": "spk11",
+      "text": "And they just default to double-click on that. When you talk about sort of some changes being made, does this include sort of going after more of that iCasino direct player? Can you just sort of talk about that mix between OSB cross-sell and how much you're targeting that iCasino-led player?"
+    },
+    {
+      "speaker": "spk17",
+      "text": "Absolutely. I think we overly focused on the OSB cross-sell and did not focus enough on the iCasino first, particularly the slots first player. And we really increased our focus in the last several months there. One example of that is we launched a unique feature no one else has called Flex Spins, which has been a really great addition. Everybody else sort of gives free spins by game. Flex Spins is a promotion that you can allow people to use on any game they want, so a very unique offering that no one else has. We've also developed a lot of new marketing assets and have tested into some things that are working much better and have significantly reduced our CAC and ramp customer acquisition a lot in the last few months. So, you know, those are a couple of examples of where I see some tailwind there. And really, I think there's still a lot more we can unlock, too. We know that there are areas of opportunity that we haven't yet discovered and unlocked in iGaming. And I think there's a huge opportunity to grow that in the back half of the year."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Thanks very much."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Your next question comes from James Hardiman with Citi. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Hey, good morning. Thanks for taking my question. So I wanted to actually circle back to the guide. Obviously, EBITDA guide is unchanged, but it now needs to absorb the Arkansas spend and an increase in predictions. I was hoping maybe you could quantify those pieces, the $200 million to $300 million for predictions. I don't think you were previously quite as explicit. So I guess how much did that go up? What's the total Arkansas spend? I'm just trying to get my arms around what seems like a pretty big raise to the core business guidance, sort of the magnitude of that. And if you don't mind the split in Q1, I think it sounds like Arkansas and predictions is about $33 million or more to get us to that $200 million EBITDA plus, but maybe split out between those two components. Thanks."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Yeah, it's a great question. I mean, Alberta is in there now, too. That'll be launching, we believe, in July. So definitely some things we've been able to absorb. I think it starts with we were pretty disciplined at the beginning of the year with the guidance. We knew that there was a chance that we would want to go very aggressive on predictions. We also knew that we would probably have at least one, maybe multiple launches coming up with you know, some rumblings in Arkansas and some thought to Alberta at that time. So these are things we contemplated when we set the initial guide. You know, as far as like expectations, I think at the time we kind of had ranges for each. And so, you know, there has been, I think, some tailwind. We also did, I think, have some conservatism in the initial guide. And that was deliberate because we wanted to make sure that as these things materialized, we were able to, you know, maintain and hopefully as the year progresses, raise the guide. So that was the thinking going in, and, you know, really not much has changed other than I think we've become a little more crystallized in some of these exact numbers, but nothing's too far off from where we initially thought it would be at the beginning of the year."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Got it. Just to clarify, is there sort of a total Arkansas number for, I guess? We're not going to disclose an individual state."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Yeah, I don't want to say that, but it's not a huge number. I mean, it's in the, you know, low double digits."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Perfect. Thank you."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Your next question comes from Ryan Sigdahl with Craig Hallam Capital Group. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Hey, good morning, guys. Your main largest peer seems to be shutting down several product lines. You guys seem to be investing into PIC6. You launched DK Replay in Oregon, but really investing kind of across the product suite, obviously with an emphasis on predictions in the super app. But Justin Cappos, Curious, how you think about kind of the the adjacent and long tail of products you offer in the market what those look like from a margin standpoint and if they're going to continue to be a focus or if it makes more sense to shift those players over to predictions thanks."
+    },
+    {
+      "speaker": "spk17",
+      "text": "yeah I mean I think we're constantly evaluating these things we have ourselves shut down products, and you know before we had a rainmakers nfc product, for example, that we shut down a couple years ago. Right now, though, the ones you mentioned are all real success stories, and none of them are draining capital or resources in a material way outside of predictions right now. So we think, obviously, predictions is clearly one that we need to invest in and will continue to. But things like PIC6 are kind of humming along at a really nice growth rate without really having to invest at a significant level. So we like products like that. They provide incremental engagement revenue. and, you know, don't cost the company a whole lot to maintain. But we are always evaluating and looking at what different things we're doing and making sure that we're deploying our capital and also our human capital and other resources in the best possible way to maximize value for shareholders."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Our final question comes from Steve Pizzella with Deutsche Bank. Your line is open. Please go ahead."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Hey, good morning, and thank you for taking our question. Just want to follow up on the prediction market spend. How much of that should we think about as one time in nature this year versus more recurring as we think about next year?"
+    },
+    {
+      "speaker": "spk17",
+      "text": "Well, I think given this is our first real year with predictions, we will want to invest in 2027 as well. You know, whether we're generating enough revenue to cover that and how that looks in terms of bottom line impact, it's way too early to tell. But, you know, I doubt that The only way we figure this is a one-time investment is if it weren't working, but then we wouldn't end up investing at these levels in the first place. But I don't expect that. I expect to see huge customer acquisition numbers in the back half of the year. Obviously, there's always the chance that something regulatory-wise or other changes, but assuming a consistent environment to what we see today, I expect it will continue to invest in 2027."
+    },
+    {
+      "speaker": "spk12",
+      "text": "We have reached the end of our Q&A session. I will now turn the call back to Jason Robbins for closing remarks."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Thank you all for joining us on today's call. We are really excited and well positioned for success. Thank you for your continued support and hope to speak to all of you again soon."
+    },
+    {
+      "speaker": "spk12",
+      "text": "This concludes today's call. Thank you for attending. You may now disconnect."
+    }
+  ]
+}

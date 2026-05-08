@@ -1,6 +1,6 @@
 {
   "date": "2026-05-07",
-  "generated_at": "2026-05-08T12:07:55Z",
+  "generated_at": "2026-05-08T14:50:20Z",
   "n_calls": 28,
   "calls": [
     {
@@ -44,16 +44,6 @@
       }
     },
     {
-      "ticker": "MTLS",
-      "company": "Materialise NV",
-      "year": 2026,
-      "quarter": 1,
-      "conference_date": "2026-05-07T08:30:00-04:00",
-      "ark_funds": {
-        "PRNT": "3.85%"
-      }
-    },
-    {
       "ticker": "XMTR",
       "company": "Xometry, Inc.",
       "year": 2026,
@@ -61,6 +51,16 @@
       "conference_date": "2026-05-07T08:30:00-04:00",
       "ark_funds": {
         "PRNT": "4.24%"
+      }
+    },
+    {
+      "ticker": "MTLS",
+      "company": "Materialise NV",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-07T08:30:00-04:00",
+      "ark_funds": {
+        "PRNT": "3.85%"
       }
     },
     {

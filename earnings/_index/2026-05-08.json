@@ -1,6 +1,18 @@
 {
   "date": "2026-05-08",
-  "generated_at": "2026-05-08T12:07:55Z",
-  "n_calls": 0,
-  "calls": []
+  "generated_at": "2026-05-08T14:50:30Z",
+  "n_calls": 1,
+  "calls": [
+    {
+      "ticker": "DKNG",
+      "company": "DraftKings Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-08T08:30:00-04:00",
+      "ark_funds": {
+        "ARKF": "2.36%",
+        "ARKW": "0.92%"
+      }
+    }
+  ]
 }
