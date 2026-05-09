@@ -1,16 +1,16 @@
 {
   "date": "2026-05-09",
   "total_holdings": 280,
-  "total_tweets_kept": 1127,
-  "total_tweets_dropped": 166,
+  "total_tweets_kept": 1288,
+  "total_tweets_dropped": 176,
   "silent_holdings": 273,
   "saturated_holdings": 7,
   "errors": 0,
   "last_window": {
-    "since_time": 1778352145,
-    "until_time": 1778359345,
+    "since_time": 1778359045,
+    "until_time": 1778366562,
     "hours": 2.0,
-    "new_kept": 78,
-    "new_dropped": 3
+    "new_kept": 161,
+    "new_dropped": 10
   }
 }
