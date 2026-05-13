@@ -1,0 +1,323 @@
+{
+  "event": {
+    "ticker": "GLBE",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk01": {
+      "name": "Unknown",
+      "title": ""
+    },
+    "spk02": {
+      "name": "Operator",
+      "title": "Conference Call Operator"
+    },
+    "spk18": {
+      "name": "Alan Katz",
+      "title": "Head of Investor Relations"
+    },
+    "spk04": {
+      "name": "Alan Katz",
+      "title": "Head of Investor Relations"
+    },
+    "spk14": {
+      "name": "Amir Falkhat",
+      "title": "Co-Founder and Chief Executive Officer"
+    },
+    "spk13": {
+      "name": "Ofer Koren",
+      "title": "Chief Financial Officer"
+    },
+    "spk08": {
+      "name": "Billy Fitzsimmons",
+      "title": "Analyst, Piper Sandler"
+    },
+    "spk03": {
+      "name": "Unknown",
+      "title": ""
+    },
+    "spk06": {
+      "name": "Scott Berg",
+      "title": "Analyst, Needham"
+    },
+    "spk11": {
+      "name": "Nir Devi",
+      "title": "Co-Founder and President"
+    },
+    "spk07": {
+      "name": "Andrew Bach",
+      "title": "Analyst, BMO Capital Markets"
+    },
+    "spk16": {
+      "name": "Mark Gutowicz",
+      "title": "Analyst, Benchmark"
+    },
+    "spk09": {
+      "name": "William Nance",
+      "title": "Analyst, Goldman Sachs"
+    },
+    "spk12": {
+      "name": "Craig Maurer",
+      "title": "Analyst, FT Partners"
+    },
+    "spk19": {
+      "name": "Matt Bullock",
+      "title": "Analyst, Bank of America"
+    },
+    "spk10": {
+      "name": "Samad Samana",
+      "title": "Analyst, Jefferies"
+    },
+    "spk05": {
+      "name": "Brian Peterson",
+      "title": "Analyst, Raymond James"
+    },
+    "spk15": {
+      "name": "James Fawcett",
+      "title": "Analyst, Morgan Family"
+    },
+    "spk17": {
+      "name": "Alan Katz",
+      "title": "Head of Investor Relations"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk01",
+      "text": "Thank you. Thank you. Thank you. Thank you."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Welcome to the GlobalEQ1 2026 Earnings Announcement Conference Call. This call is being simultaneously webcast on the company's website in the Investor section under News and Events. For opening remarks and introductions, I will now turn the call over to Alan Katz, GlobalE's Head of Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "spk18",
+      "text": "Thank you, and good morning, everyone. With me on the call today are Amir Falkhat, Co-Founder and Chief Executive Officer, Ofer Koren, Chief Financial Officer, and Nir Devi, Co-Founder and President. Amir will begin with a review of the business results for the first quarter of 2026. Ofer will then review the financial results for the first quarter in more detail, followed by the company's updated outlook for the full year, as well as the Q2 outlook. He will then open the call for questions. Before I read the forward-looking statements, I'll note that we have posted an Excel-based metrics file on our IR website. This provides historical data for both financial information and KPIs that may be helpful as investors are researching the company. Please feel free to let me know if you have any feedback on this document. Moving on, certain statements we make today may constitute forward-looking statements. All statements other than statements of historical fact are forward-looking statements, which reflect our current views with respect to future events and are not a guarantee of future performance. Actual outcomes may differ materially from the information contained in the forward-looking statements as a result of a number of factors, including those set forth in our 2025 Annual Report filed with the SEC. please refer to our press release issued today, May 13, 2026, for additional information. In addition, certain metrics we will discuss today are non-GAAP metrics. We believe that these measures provide useful information about operating results, enhance the overall understanding of past financial performance and future prospects, and allow for greater transparency with respect to key metrics used by management in its financial and operational decision-making. For more information on these non-GAAP financial measures, please see the reconciliations provided in our press release issued today. Throughout this call, we will also discuss a number of key performance indicators used by our management team. These and other KPIs are discussed in more detail in our press release issued today."
+    },
+    {
+      "speaker": "spk04",
+      "text": "I will now turn the call over to Amir, our co-founder and CEO. Amir, please go ahead."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Thanks, Alan, and welcome everyone to our first quarter 2026 earnings call. Having just celebrated yesterday the fifth anniversary of Globally going public, we had a great Q1 as the Globally team continued to execute against our growth plans. We beat the midpoint across all guidance metrics and are raising our outlook for GMV, revenue, and adjusted EBITDA for the remainder of the year. We achieved this strong performance despite some headwind from the ongoing conflict with Iran and its impact on trading into the Middle East and the GCC region. During the quarter, we continue to execute against our multi-year strategic plan, growing with our existing merchants, launching with new merchants, and expanding with our strategic partners. Our updated guidance for the full year 2026 further solidifies our journey to reach the long-term targets we presented last year at our Investor Day. We believe that our Q1 results help illustrate the fact that we remain slightly ahead of plan in our progress towards reaching these targets. With that, I'll turn to the quarterly results. Compared with Q1 2025, GMV increased by 40% to $1.74 billion, and revenues grew at 33% to $252 million. We were able to achieve this growth while realizing efficiency gains across the organization, and at the same time, investing in our sales efforts to drive additional pipeline expansion. Our non-GAAP gross profit margin for the quarter was 47%, up 150 basis points from the same quarter of last year. And Q1 adjusted EBITDA was $50.2 million, up 59% year-on-year, to a margin of nearly 20%, a 330 basis point increase compared to the same quarter last year. Before I go through our recent merchant launches and expansions, I would like to spend a few minutes on some of the drivers of our impressive performance in Q1 and provide a few key updates regarding our business and our offerings. Activity across geographies was strong in the first quarter, with both new and existing merchants showing solid trading patterns. As expected, same-store sales growth came in well above historical trends. Volume growth with both larger and mid-sized merchants was a significant driver of that, as was the quick ramp and strong performance from merchants that we onboarded in the back half of 2025. AOV increased. as consumer activity remained strong, while merchants priced in some of the impact from the increased tariffs. We also saw the impact of FX tailwinds given currency volatility stemming from global economic factors, albeit slightly less than our expectations as of the Q4 earnings release. We continue to reinvest our cash, aiming to drive growth in the quarter, and plan to keep doing so moving forward, both organically and through strategic acquisitions. At the same time, we also returned access cash to shareholders via our share buyback program. As of the end of Q1, 2026, we have repurchased $131 million worth of stock out of a $200 million 2025 share repurchase plan. Let me move on to an update on our business and offering. First, On our Q4 call, we provided an overview regarding the launch of Shopify Managed Markets version 2.0, the new iteration of our white label self-service merchant of record solution on Shopify. As I mentioned last quarter, the new Managed Markets offering is on track, and both us and Shopify are pleased with the progress to date. Over the past several months, We have worked with Shopify to expand the offering and we continue to make progress towards making managed markets more widely available for merchants, including in additional countries such as Canada and the UK in the near term. We're also on track to bring a number of new features and enhancements to the platform over the next quarters. As we have mentioned in the past, we believe the trading volumes on managed markets will pick up steam in the back half of the year. as we begin to realize the immense potential of this innovative new offering. Second, we made further progress in Q1 on our duty drawback offering. As a reminder, this is an important value-added service designed to enable merchants to potentially reclaim import duties and goods that are exported outside their home base, as well as reclaim certain tariffs paid on return goods, depending on the sale parameters. During the quarter, we added new markets in which we are now able to reclaim duties and taxes, and we extended the programs for drawbacks in some markets to allow duty reclaim also with economy shipping partners. Next, both the number of merchants and volume of referrals expended on borderfree.com in Q1. The share of merchant sales attributable to the borderfree.com channel is now over 6% for merchants that are utilizing the platform. Moreover, we began monetizing this offering, and while still small, we are pleased to see the progress to date. I also want to provide a quick update on our use and implementation of AI as both a lever for growth and a driver of service-level enhancements and efficiencies across globally. We have implemented an AI-first approach across the organization, from R&D to data analysis to ongoing operational monitoring and controls. By embedding AI deep within our R&D processes, we believe we've already been able to meaningfully increase our capacity to ship features without adding more resources. And we plan to continue reaping efficiency and velocity gains as we continue to move forward towards a more agentic product development lifecycle over the next few quarters. Simply put, the huge advancements in the capabilities of agentic and generative AI platforms combined with our infrastructure and deep topical know-how are enabling us to do much more and much quicker with less. We believe this acceleration does not come at the expense of the quality of our service to merchants and consumers. On the contrary, our internally developed LLM-based support tools are enabling us to provide fast, detailed, and accurate answers to customers through our customer service chatbot. In parallel, Through the development and deployment of proprietary LLM-based internal tools, we have already seen a meaningful reduction in the time it takes our teams to investigate and resolve tech support and merchant support tickets. We're also using AI to help navigate an increasingly complex environment from a regulatory and compliance perspective, as well as in terms of commerce flows and logistics. This increased complexity around duties and taxes or fulfillment coupled with our unique scale, data, and know-how, provide an opportunity for us to further solidify our differentiation in the market by providing a best-in-class, coherent combination of tech and services to meet the evolving needs of our market. Lastly on AI, on the Q4 call, I spoke about the increase in traffic originating from AI-based chats. As we anticipated, this trend has continued. While still small in absolute volumes, As product discovery and referral traffic continues to expand within AI chats, we are beginning to see this as a potential incremental referral channel for our merchants. We are fortunate to work with some of the hottest and most forward-thinking brands on the planet. These are the types of brands that leverage AI in the globalization of their marketing efforts and position themselves well in a world of agentic commerce referrals. and we are there to provide them with the best-in-class end-to-end service so that their hard-earned global shoppers will get a fully localized, convenient, and intuitive online experience. As we have previously discussed, we view these developments as incremental to our other growth opportunities, with the potential to contribute to our competitive moat against both existing competition and potential new entrants. Our strong results and forward outlook and the activity in our pipeline further cement that in an increasingly complex global environment, our merchant of record and fulfillment services become even more valuable for merchants. Coupled with our robust worldwide trading and compliance infrastructure, our vast and proprietary data asset, and our unique know-how. Finally, before I move on to some of the exciting new brands that have joined our platform in Q1, I want to spend a minute on the implications of the conflict with Iran. I'll start by saying that we are hopeful that the ceasefire will continue to hold and that peaceful resolution can be reached for the benefits of all parties involved. In terms of the direct business impact, approximately 5% of our inbound GMV is to countries that have been directly impacted by the current conflict. And we saw a temporary and partial reduction in volumes to these countries in the second half of Q1. While this had a certain impact on our Q1 results, based on recent trends, demand volumes appear to have mostly recovered in the past few weeks. In terms of the increased cost of fuel and how this is addressed within the fulfillment part of our P&L, we have mechanisms that allow us to pass through significant changes in pricing or surcharge costs, which we have already utilized to update fuel surcharges. We are monitoring the ongoing developments in the market and employ a balanced approach towards the situation, at times making strategic decisions to support our merchants in navigating these challenging times to the best of our abilities. Let's move on to some of the exciting new brands that joined the platform and went live across our various geographies during Q1. In North America, we launched with prominent brands, such as Gallery Department, the Los Angeles-based art-inspired streetwear label, Andy Swim, the fast-growing direct-to-consumer swimwear brand, and FemBytes, a women's wellness gummy supplement brand. Q1 also saw the go-live of Fresh, the LVMH-owned premium skincare brand from New York, further extending the scope of our partnership with the LVMH group of brands, which now includes more than 20 live maisons. We expanded our business also with the Richemont Luxury Group, as we went live in Q1 with two more of their U.S.-based brands, G4 and Peter Miller, both offering luxury golfwear. In Europe, we launched several leading French brands, Coperni, the Paris-based luxury house known for its futuristic women's wear and viral runway moments, Paraboot, the family-run handcrafted leather footwear maker, the menswear brand La Fourie Paris, and the online store of the Roland Garros Grand Slam tennis tournament. We also launched with the Double F, the curated luxury designer fashion e-tailer, and Poeve, the handcrafted women's footwear brand, both out of Italy, and with Capiche, the Danish ski clothing brand. In Germany, we launched with Perplex, the luxury-inspired streetwear label, and with the new Audi Revolut Formula One team. In addition, during Q1, we began offering managed services for Canada's core EU and UK regional network. In the UK, we also launched Stringting, the London-based viral phone strap and charm brand, and Quadrant, the motorsport lifestyle and streetwear brand by Lando Norris, the reigning Formula One world champion. In APAC, we launched with the first two brands out of the Tokyo-based brand Universal Music Japan, as well as with Asian Portal, the online exporter of Japanese fishing gear and outdoor equipment. We also launched with the Singaporean fashion brand Something to Hold, with Shanghai Tang, the Hong Kong-based luxury fashion brand, with Webber Workshops, the Taiwanese maker of high-end coffee grinders and tools, with Billie Jay, the women's clothing accessory retailer out of Australia, and with Hard Kerner, the South Korean consumer tech company behind the popular Odroid single-board computers. And this is just a partial list, as our professional services and onboarding teams have been very busy launching more and more brands onto our platform. In addition to new merchant launches, Q1 also saw the expansion of our business with a number of our existing brands. One notable example would be Alo Yoga, with which we expanded into several additional markets that have previously been served by a local distributor, and also enabled for them our BOPIS or buy online, pick up and store offering into Canada, the UK and several additional markets in Europe. We now service ALO in almost every country in our service footprint and are proud to be an important partner for them throughout their ongoing impressive international growth journey. Other notable brands with which we expanded the scope of our activities during Q1 are FIGS, where we launched throughout Eastern Europe and expanded in Asia, Bandai Namco, where we opened up markets in the Middle East, Africa, and Eastern Europe. Stella McCartney, where we expanded into more than a dozen additional markets. And Patu, another brand out of the LVMH group, which expanded its list of markets with us to cover the rest of the world. As we believe is evident from both our numbers and our business advancements, Q1 was a great start to 2026. which we expect to be yet another year of strong and durable growth and another year of steady progress along our multi-year strategic plans. As such, and as reflected in our updated full-year guidance, we believe that throughout 2026, we will achieve and potentially even overachieve on the path towards our long-term targets, even when faced with potential macro headwinds from the ongoing tensions in the Middle East. We feel good about the trends that we are seeing within the business and believe we are uniquely positioned to provide brands of all shapes and sizes with the end-to-end envelope of infrastructure and services they need to take full advantage of their true global direct-to-consumer potential. I will now head in over to Offer to take us through the quarterly numbers in more depth and lay out our Q2 and updated 2026 full-year guidance."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Thank you, Amir, and thanks everyone for joining us today for our earnings call. As Amir just highlighted, Q1 was another quarter of strong profitable growth for Global E. We started the year in strong momentum with Q1 results above the rule of 50 and continued executing against our strategic plan to deliver long-term, high-paced, and profitable growth across the business. Before I go into the details of the quarter, I'd like to remind everyone again that in addition to our GAAP results, I'll also be discussing certain non-GAAP results. Our GAAP financial results, along with the reconciliation between GAAP and non-GAAP results, can be found in our earnings release issued today. GMV in Q1 was $1.742 billion, up 40% year over year. Trading volumes were strong, driven by healthy consumption in most regions, aided by the benefit of FX tailwinds and the positive impact of recently launched merchants, which were slightly offset by certain disruption from the Iran war that impacted consumer demand in the Middle East and GCC regions and temporarily strengthened the U.S. dollar versus other currencies. Based on current trends, despite lower FX tailwinds, we expect Q2 to be a solid quarter supported by healthy consumer demand and successful large promotions by some of our top merchants. In Q1, we generated total revenue of $252.1 million, up 33% year-over-year. Service feed revenues for the quarter was $120.8 million, and fulfillment services revenue for the quarter was $131.3 million. Service feed stake rate remained fairly stable at 6.9%, while fulfillment take rate was similar to last quarter at 7.5%, and as expected, lower compared to the first quarter of 2025, given the shift of certain volumes to multi-local and our growth within verticals that are multi-local by nature. Progressing through the income statement, non-GAAP gross profit was $118.5 million, up 37% year-over-year, representing a non-GAAP gross margin of 47% compared to 45.4% in the same period last year. GAAP gross profit was $114.9 million, representing a margin of 45.6%. Moving on to operational expenses, R&D expense in Q1, excluding stock-based compensation, was $28.5 million, or 11.3% of revenue, compared to $24.5 million or 12.9% of revenue in the same period last year. Q1 benefited both from leveraging our scale and the utilization of AI tools and agents that are driving efficiencies into the business. Despite the continued investment in the enhancement of our platform to further expand our offering and add value for our merchants, R&D, excluding stock-based compensation, increased by only 16% on a GMV-based growing 40%. Total R&D spend in Q1 was $33 million. As Amir discussed, we are continuing to invest in sales and marketing to drive our future growth. Sales and marketing expense, excluding Shopify-related amortization expenses, stock-based compensation, and acquisition-related intangible amortization, was $26.3 million, or 10.4% of revenue, compared to $23.3 million, or 12.3% of revenue, in the same period last year. Shopify warrants-related amortization expense was $530,000, And this amortization expense is now fully gone from the P&L moving forward. Total sales and marketing expenses for the quarter were $34.4 million. General and administrative expenses, excluding stock-based compensation and acquisition-related contingent consideration, were $10.8 million, or 4.3% of revenue, compared to $8.3 of 4.4% of revenue in the same period last year. Total G&A spend in Q1 was $14.5 million. Our bottom line continued to grow even faster than our top line. Adjusted EBITDA for the quarter was $50.2 million, representing a 19.9% adjusted EBITDA margin. an increase of 59% from the $31.6 million or 16.6% margin in the same period last year. As we have discussed in the past, we aim to optimize the business to ultimately drive GMV and adjusted EBITDA growth, and we are very pleased with the levels of growth of trading volumes and bottom line dollars that we have been able to achieve in Q1. Non-GAAP net profit for the quarter was $46.9 million compared to $32.4 million in the same period last year. Non-GAAP net profit per share was 27 cents on a fully diluted basis compared to 18 cents in the same period last year. GAAP net profit for the quarter was $30.4 million compared to a net loss of $17.9 million last year. and fully diluted GAAP EPS was 17 cents. Turning to the balance sheet and cash flow statement, we ended Q1 with $553 million in cash and cash equivalents, including short-term deposits and marketable securities. Free cash flow used in the quarter was $72.9 million, as expected, driven primarily by seasonal working capital. This compares with $72.6 million of free cash flow used in Q1 of 2025. As a reminder, we typically see an outflow of cash in the first quarter, driven by post-peak working capital dynamics. Net cash used by operating activities was $72.6 million, compared to $72.1 million used a year ago. As Amir mentioned, in Q1, we continued to execute on our share repurchase program. We repurchased close to $60 million in stock in the quarter and have now repurchased a total of 3.6 million shares for a total of $131 million. As of the end of Q1, we had $69 million of capacity remaining on our 2025 repurchase plan. Moving to our financial outlook and guidance for Q2 and our updated outlook for the full year 2026. We continue to see 2026 as another year of very strong top and bottom line growth for globally. We have raised both the top and bottom line outlook for the year. For Q2, 2026, we are expecting GMV to be in the range of $1.945 billion to $1.985 billion. At the midpoint of the range, this represents a growth rate of 35.2% versus Q2 of 2025. We see strong GMV growth continuing in Q2, despite significantly less FX tailwinds compared to Q1. aided by successful large promotions of some of our top merchants in the quarter. We expect Q2 revenue to be in the range of $278.5 to $285.5 million, representing a growth rate of 31.2% versus Q2 of 2025. Lastly, for adjusted EBITDA, we are expecting a profit in the range of $55 to $58 million, or a 20% margin at the midpoint of the range. For the full year of 2026, we now anticipate GMV to be in the range of $8.53 to $8.88 billion, representing an annual growth rate of 32.5% at the midpoint of the range. Based on current trends, we expect GMV growth to remain strong throughout the year, As expected, Q1 same-store sales came in well above historical averages. We expect Q2 same-store sales to remain above historical ranges as well, although lower compared to Q1. Our guidance assumes that same-store sales growth rates will moderate to a more normalized level for the back half of 2026, closer to multi-year averages. Revenue for the full year is now expected to be in the range of $1.22 to $1.28 billion, representing an acceleration of the growth rate compared to last year to 29.9% at the midpoint of the range. Lastly, we expect adjusted EBITDA and adjusted EBITDA margins to continue expanding, supported by operational leverage. We now expect to achieve 2026 adjusted EBITDA in the range of $264.5 to $289.5 million, representing a 39.5% growth rate at the midpoint and a 22.2% margin. In conclusion, we are off to a strong start in 2026 and are looking forward to executing for the remainder of the year. Our pipeline of new logos is robust and we have exciting new services that are generating interest across the e-commerce universe. We believe we are well positioned to deliver another year of results above the rule of 50. And with that, Amir, Nir, Alan, and I are happy to answer questions you may have. Operator?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you. Ladies and gentlemen, we will now begin the question and answer session. Should you have a question, please press star followed by the number one on your touchtone phone. You will hear a prompt that your hand has been raised. Should you wish to decline from the polling process, please press star followed by the number two. If you are using a speakerphone, please leave the handset before pressing any keys. You would ask that you limit to one question and one follow-up. One moment please for your first question. And your first question comes from Billy Fitzsimmons of Piper Sandler. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Hey, thanks for taking my question. As we think about managed markets 2.0, you expanded early access mode to Canada. The UK is on deck. I guess first, how should we just think about the progression of that business to date relative to your initial expectations? Is the view still that we should see a more material ramp in the back half? And then second, just in terms of the customer migrations and adoptions for 2.0, any specific merchant segments either by customer size or vertical that are adopting faster than others? Thank you."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Hi, Billy. It's Amir. Thanks for your question. Generally speaking, as I noted in the prepared remarks, both Shopify and us are very happy with the progress that we're seeing in managed markets, and it's progressing according to our plans. We see a gradual uptick in the number of adoptions and a good increase in the conversion of leads to adoption. We are waiting for the additional marketing support that is expected later in the year. And we are waiting also for, as you noted, the opening up of the additional markets, which again should hopefully happen soon. And all in all, we remain optimistic about, as we indicated in the past, about managed markets starting to ramp up in a more meaningful way in the back half of the year and into next year. In terms of specific verticals or segments of merchants, we're not seeing, I would say, anything too particular to note. As we expected, this is... a very compelling offering for a very wide range of merchants of types and verticals. And that's part of why we are so excited by this new offering."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thanks, Amir. Appreciate it."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you. And your next question comes from Scott Berg of Needham. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Hi, everyone. Really nice quarter here. Lots of questions. I guess let's go with take rate. Take rate, I know for you, you mentioned stable versus last quarter. My model actually has it up a tenth of a point for both line service and fulfillment, but certainly stabilizing a trend downward last year because of multi-local. I guess, how are you thinking about take rate relative to multi-local this year? Will there be an incremental impact on take rates because more customers are using multi-local, or is the range that we saw in Q1 a range that we should generally expect here for the balance of the year?"
+    },
+    {
+      "speaker": "spk13",
+      "text": "As reflected from our guidance, we expect take rates in general to be much more stable this year. In terms of fulfillment take rates, we expect a much more balanced mix in 2026. So while there may be a certain limited decline, it shouldn't be anything material. In terms of service fee take rates, they have been fairly stable for the last, I think, six quarters, around 6.8, 6.9, and we do expect service fees for the enterprise business to remain very close to these levels. We do see a certain impact from managed markets moving to the V2, the migration of existing merchants, because as we mentioned in the past, there's a different P&L structure for the V2 merchants. where we recognize only our share of the revenue versus the entire service fee that was charged as it was in the previous model. However, the bottom line impact is very low as we don't have a revenue share in our OPEX line. So it's a different structure which will have some impact on managed market service fee take rates But other than that, we expect also a service fee take rate to be fairly stable."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Excellent. Understood. And then you all called out duty drawback a little bit. Sounds like you've had some initial success there and continue to roll out new markets. I guess any way to help us understand that? maybe the impact it had on the business in Q1 and how you're thinking about assumptions here in calendar 26, or is the data still maybe too early around what customer adoption and usage has been like?"
+    },
+    {
+      "speaker": "spk11",
+      "text": "Nice, Scott. As you said, we do see increasing importance for duty reclaim and duty management in general. as it's becoming more important to both our merchants and our shoppers. This year, we added a few markets that we are now able to reclaim duties and taxes within. We also extended the programs of drawback in some markets to allow a reclaim with more carriers, including some standard carriers. As for the USA import duty drawback, We have seen very strong interest from our merchants about it. However, it takes time for the merchants to gather the relevant data from the import into the USA, the wholesale import into the USA, to gather the relevant data to provide it to us and for us to reconcile it with the import documents in order to manage the claim process or This takes slightly longer than expected. However, we already initiated the process for a few of the early adopters, and we have quite a lot in the pipeline. So, yes, we do expect it to contribute more. It will start to be visible only later in the year."
+    },
+    {
+      "speaker": "spk03",
+      "text": "You're set. Thanks, Corey. Thanks, Ken. Thank you."
+    },
+    {
+      "speaker": "spk02",
+      "text": "And your next question comes from Andrew Bach of BMO Capital Markets. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Great. Thank you for taking the question. Nice set of results here. Anir, I wanted to touch on borderfree.com. It sounds like the number of merchants and volume referrals expanded in the quarter. How are you thinking about that trend line as we progress through the remainder of the year? I know you said the six percent for merchants that are using the platform but i'm just trying to get a sense of you know what you think the the upper bound is there on merchants within your base that could potentially leverage that that solution sure thanks for the questions and andrew we are very excited uh on the progress we've made with borderfree.com"
+    },
+    {
+      "speaker": "spk11",
+      "text": "If you recall, just I think a couple of quarters ago, three quarters ago, we mentioned we are at 4%. Now we crossed 6% contribution from border-free to participating brands. We believe we haven't hit the maximum yet, and we still have where to grow. We have initiatives around that. And as for adoption for many more merchants to join it, I think that it's a chicken and an egg because once you have much more success and for existing merchants, it's becoming very interesting at 6% and growing towards the 10% of the volume over time, many more would adopt it because merchants are looking for cost-effective way to promote their brand around the world, especially given all the changes with LLMs taking a share of the traffic and no one actually knows exactly how to monetize on that versus the usual channels of search and social networks that are becoming more expensive to get attribution from. So all in all, we see great excitement. We have additional initiatives in the backlog to grow it, and we are very optimistic about its contribution to our brands. And also over time, to our take rates, we started to charge for the service just from the beginning of this year."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Great. And then on my follow-up, I was wondering, the strength in gross margin in the quarter was particularly noticeable. I know you had some comps that were more favorable in there, and that likely continues into 2Q, but can you just unpack the gross margin strength that you saw in the quarter and how you kind of expect that to trend for the remainder of the year? Thank you."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Sure. So I think that we have seen some positive mixed impact in Q1 that contributed to gross margin. And in addition, the slightly higher service fee take rate also had a positive contribution. Going forward, I think we do not expect any sort of incremental gross margins. It might fluctuate a bit, but we believe that it will be close to the levels that we have seen in the previous quarters."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk02",
+      "text": "And your next question comes from Mark Gutowicz of Benchmark. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thank you. Hi, guys. Just a couple from me. And certainly an impressive list of global enterprise launches in one queue that you outline in your press release. I'm just curious, as you look across North America, Europe, and APAC, where you're most optimistic and where you can maybe talk about tangible pipeline build into the second half as well as into next year. And then a similar question on existing customer expansion. You highlighted a few tangibles as well in the press release. I'm just curious how much of your same-store sales growth today and over the next 12 months will come from just general, regional, or global expansion versus uh, product driven. And if there's any specific products that you might, uh, see leading here, either, either today or in the near future. Thanks guys."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Hi Mark. Um, it's Amir. So, um, yeah, we're, we're, we're definitely, um, excited by, by the growth that, uh, we have seen across the different, uh, uh, geographies and we've seen growth in both the, uh, The new merchants that have gone live in the back half of 2025 and are trading very well. And as we indicated in our remarks, also strong same-store sales that are driving momentum into the trading of our existing brands. And that is true pretty much across geographies in the U.S., in Europe, and in APAC. And we continue to see this also in Q2. It is important to note that this elevated kind of same-store sales, we actually have seen it already kicking in in the back half of 2025. So going forward, for the back half of 26, we are assuming in our guidance, kind of a normalization of the same store sales back to historical levels. But all in all, the strong trade and performance is happening all around, as is also reflected in our pipeline, as more and more merchants want to start using our our services to optimize the way they sell globally. In terms of expansion with existing merchants, yes, we expect to continue and see this trend for, I would say, three main vectors. Especially with larger merchants, we sometimes start working with them on a subset of markets and then later on, either as part of the original gradual rollout plan or down the line with them just seeing the success. and efficiency of working through globally, they decide to add additional markets. So that's kind of an embedded lend and expand motion. And we are also seeing, as we noted also on this call and on previous calls, we're also seeing brand groups kind of adding more and more brands to the rooster and just generally kind of word of mouth between associated brands. And on top of that, we keep adding additional value-added services. We mentioned borderfree.com on this call. We mentioned duty drawback. We are planning additional value-added services. All of these will contribute over the long term to increase the scope of our business with existing merchants."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Got it. Thanks so much."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you. And our next question comes from William Nance of Goldman Sachs. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Hey, guys. Thank you for taking the question. I wanted to maybe follow up on some of the prior points you've made on the strength in same-store sales because it sounds like there are a couple of different things that are driving that between better underlying same-store sales, outperformance as some of the merchants launched last year, FX tailwinds in 1Q and to a lesser degree throughout the year. and then obviously some of the disruptions in the Middle East maybe going the other direction. So wondering if you could maybe pick apart and help us isolate how much of this is truly just better macro and same-store sales versus some of the implementations of larger merchants last year that seemed to outperform quite nicely."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Hey, Will. It's Neil. So if we are trying to break out the same store sales for the key contributors, I think by far we see better macro trading for most of our merchants. So if you look on a broad-based basis across our 1,500 enterprise solution clients, So growth rate versus last year on the same stores is actually much better than our historical averages. So this is by far the single largest contributor for the same store sales. The second is indeed, as you indicated, our back half of last year launches that were super successful and those merchants are trading super well into 2026 above our expectation and actually contributing to our overall growth in net dollar retention in Q1."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Got it. That's helpful. And if I could follow up just on a different topic, it was nice to see some of the expansions with existing merchants this quarter. new markets, things like taking over for some of the local distributors in certain markets. I was wondering if you could provide some high-level thoughts on what the embedded opportunity is in your existing base of customers. And as we think about the strong net dollar expansion that you guys tend to see from year to year, How do you think about the runway for things like adding new corridors and value-added services within the existing merchant base? Thank you for taking the questions, and great to see the strong results."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Thank you, Will. So, generally speaking, we continue to see opportunities for We call it land and expense. Some of them clients that have been with us for a few years, so land is a bit weird, but expense is still right. We just had it with a very large merchant of ours that has been with us for now almost five years on the platform and just recently ended up distribution agreements in several markets, moving those to globally to be supported globally. from the global website. So now e-commerce was taken from the local distribution into the home base of the merchant, giving us a significant increase with that brand. It's a behavior we've seen repeatedly happening with others as well. Not at that scale, but we have seen it happening with others as well. And we do see still potential to have it with other merchants. So all in all, on that, we do believe there's still an upside that will support same-store sales growth in the coming quarters and years. In terms of new products, there was a question earlier about border-free. We do see an increased adoption of border-free. We started to see some contribution, some dollar contribution coming coming into our top line also from border free. We expect it to continue to grow, still at small scale, but we do believe that it will be adopted much more over time. We spoke also in previous questions about duty drawback, where despite the huge service that it gives the client, it also generates additional revenue and fees for globally, and we believe that the adoption there will continue to grow as the complexity of trading global tariffs becoming even harder. Europe, just as a reminder, is moving. European Union, EU, is removing the de minimis, the same as the U.S. has done last year. So as of July, which is just around the corner, duties would apply. So managing it correctly and the reclaim would become even stronger as an offering. The duty reclaim in the U.S., despite that demand, The actual adoption is slightly slower than expected in terms of getting the merchants to be able to deliver the relevant data for the reclaim. The opportunity is high and we believe it will contribute again incrementally into our back half of the year and for sure into 2027. So a lot of things in motion and we are quite optimistic about the growth ahead of us with existing merchants and, of course, the opportunity to continue and win many more brands in the open market."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you. And your next question comes from Craig Maurer of FT Partners. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Yeah, hi. Thanks for taking the question. Just a quick bottling question. Can you discuss what degree of FX you have embedded in the guide considering uh, that we saw some Euro and British pound rates recovering, um, quarter to date. So just what you're building in. Thanks."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Sure. Uh, thank you for that. Uh, basically we, we, we always, uh, sort of, um, when we model, we take the last known spot rate. Uh, so, uh, you should look at, uh, sort of the last week spot rate. I think that, uh, The major currencies have sort of bounced back versus the USD in recent weeks. And I think that FX rates were quite stable in the last 10 to 14 days. And basically, since we cannot guess what FX rates will be at, we use the latest known spot rates, and that is embedded in our guidance. And as a result of that, we expect to see lower FX tailwinds in Q2 compared to Q1, which sort of was a peak water in that sense, and very low FX tailwinds for the back half of the year. Okay, thanks."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk02",
+      "text": "And your next question comes from Matt Bullock of Bank of America. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk19",
+      "text": "Great. Good morning. Thanks for taking the questions. I wanted to ask about the guidance because clearly the underlying strength of the business is strong, really nice guidance increase for the full year. As I look at 1Q results, obviously there's some noise in there from the conflict in the Middle East, maybe some softer than expected FX tailwinds in the quarter. So I was hoping you could put a finer point on the impact of the Middle East conflict and the slightly softer FX tailwinds in 1Q, and then help us think about what's embedded in the full year guide regarding the Middle East conflict. Thanks."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Thank you for the question. In terms of Q1, we estimate the impact of the conflict in the Middle East on Middle Eastern markets and GCC markets, probably including the ethics fluctuations at just above 1%. That's the impact we've seen in Q1. Since then, it's mostly recovered. At least for now, it looks fairly stable, and the trading is almost at the previous level. So at least for now, we don't see any additional impact in Q2. In terms of... Regardless of the conflict, when we look at Q1, we assume that FX tailwinds contributed probably 3% to 3.5%. And going forward in terms of our guidance, we haven't sort of assumed any improvement or any crisis, big crisis, in terms of the conflict in the Middle East. And as I mentioned, in terms of FX rates, we assume that we will continue to see the current spot rates."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thank you very much."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you. And your next question comes from Samad Samana of Jefferies. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Hi, good morning. Thanks for taking my questions. So maybe first, just in terms of the pipeline, you guys have mentioned a couple of times that it's fairly robust. Can you help us think through what the composition of that looks like versus this time last year? Are there larger, chunkier potential candidates in there versus just kind of more breadth and depth? And then the second question related to that is, how are you seeing pipeline conversion, any change given? You know, businesses are navigating a lot of different macro challenges. What have you seen on pipeline conversion? Thank you."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Hi, Samad. It's Nir. Our new merchant launches for 2026 are progressing in line or even slightly above our plan. We had a very busy Q1 of onboarding multiple merchants, some of them are mere named. And we have an exciting brand lined up for Q2 as well. In terms of the funnel itself, we are happy with what we see with both the level of engagement and the number of quality leads that are coming in. And in terms of your questions about mix, we see 2026 looking closer to what we had in 2025 in terms of the average size of merchants, which is much more distributed across mid-sized merchants and not a few giants. But the pipeline itself, part of it is less concentrated than we have in 2024, much more similar to 2025. This is an advantage both from the margin perspective of new merchants and their contribution, and also lower risk from delays in the onboarding process that can actually affect our guidance in the coming quarters. All in all, we aim to have another record year of launches based on the current funnel. We are also very happy with the initial success of our AI prospecting tool. we see much better discovery of new potential brands for globally. And as we rebuild the capabilities and the processes to convert those into deals, we believe there is an upside in the funnel in the coming quarters."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Great. Then maybe just one follow-up. In terms of the modernization on border-free, Ofer, have you seen what – kind of cohort behavior looks like out of the customers now that you're monetizing it? Is retention holding? Are you seeing volumes pick up? Just help us understand how the impact of turning that monetization on has changed volumes on border-free."
+    },
+    {
+      "speaker": "spk13",
+      "text": "So thank you, Samad. As for border-free monetization, I think that we've previously mentioned a few times that while we started to monetize, we didn't expect... a significant contribution this year. We are seeing it growing nicely, but the numbers are still not very significant. At the end of the day, at the beginning, we are very careful with the attribution and we want the merchants to be happy and to see that this is actually driving business their way. So the momentum is positive and the trends are positive, but we don't expect it to contribute materially in 2026."
+    },
+    {
+      "speaker": "spk11",
+      "text": "I think one thing to note on the positives that you asked is that despite starting to charge, we haven't seen any churn of the platform that is higher than previous quarters. So merchants are happy with the service they get, for the fees that is now being charged, we haven't seen any negative dynamics."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk02",
+      "text": "And your next question comes from Patrick Walravens of Citizens. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Oh, great. Thank you, and congratulations, you guys. Amir or maybe Nir, I was hoping you could help us, this is a question I get from investors, understand a little bit the differentiation between where managed markets, you know, starts and stops versus what Shopify is doing natively and where that comes from is, you know, on this last earnings call, Shopify talked about international and they said it's, I'm sure you heard this comment about this example of massive but almost invisible complexity. And they said, we're consistently rolling out new updates and products to grow our international footprint. In Q1, we quietly shipped updates that individually may not make the headlines, but together are steadily making Shopify more native to more places. And then they go on and they give examples of things that they were rolling out natively. So if you could just help us understand sort of, you know, the differentiation, the dividing line, that would be really helpful."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Sure, thanks, Pat. It's Amir. Generally, first, I would say we fully agree with Shopify. We think every merchant should think about international basically from the get-go. And I think, first and foremost, the fact that Shopify themselves are putting international on a pedestal is great for the market in general, and it drives... interest and focus from merchants. I think the divide is actually pretty clear. Shopify, and by the way, other platforms as well, have been developing and adding specific features that have to do with international, like multi-currency, like some alternative payments, etc., to their kind of self-service parts of the platform. And that is important. It is important for merchants that just want to start and dip their toe in the international waters and may want to enable one or even several of these features on their website. And that's on the Shopify. In the Shopify world, that is what is called Shopify markets. and we believe they will keep on developing these features, but at some point when the merchants, wants to get serious about international and it starts to be a meaningful part of their business and strategy going forward, that's when they need to switch to manage markets basically because as you noted and as Shopify noted correctly on their call as well, there's a huge complexity when it comes to international when you factor in all the different elements And that's where kind of the merchant of record approach of managed markets and later on also as they grow of our enterprise offering kicks into play because it's not feasible for merchants to do it by themselves. There's a lot of kind of white gloves element to it, service elements to it, and know-how that only comes from having the proprietary data asset and years and years of experience and know-how that we have that enables us to do it in an optimized manner. So that's kind of the divide, and we think all three are going to continue to develop in parallel."
+    },
+    {
+      "speaker": "spk03",
+      "text": "That's great. Thank you. Thanks, Pat."
+    },
+    {
+      "speaker": "spk02",
+      "text": "And your next question comes from Brian Peterson of Raymond James. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thanks, guys, and congrats on a solid quarter. I'll keep it to one. You mentioned some really successful promotional activity from some of your merchants. I'm curious what you're seeing broadly on the pricing environment. I know that's been some debate, and maybe how we should be thinking about that as energy prices rise. Just curious any context there. Thanks, guys."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Hey, Brian. It's Neil. First, we do see even a stronger reaction of consumers to promotional activity. We've seen it through a few of our large brands going into promotion and the effect it had on the reaction of consumers and the increase in sales, which was even stronger than what we've seen previous quarters and years. So this is one thing that we've seen. The other that we have seen is that especially prices into the U.S. with the rationalization of tariffs and the Supreme Court ruling, some of our merchants actually took a step back on the price increases into the U.S. and were able to reduce some of it back. So this was another happy note that we've seen. We don't see merchants running towards price increases, as merchants are much more concerned now with gaining the traffic and preserving unit economics, less increasing of profitability. There are some challenges to it, especially given the fuel prices that affect transportation in cross-border. But for now, we see most merchants standing still as they expect and hope that it's only a periodic impact of the crisis in the Middle East. And this we hope to rationalize soon."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you. Thank you. And lastly? Your question comes from James Fawcett of Morgan Family. Please go ahead. Your line is open."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Hey, thanks very much, everybody. I wanted to just quickly circle back, just one question for me. I wanted to quickly circle back to the de minimis exemption in the EU. And with that being implemented from non-EU countries in 2026, and just wondering how we should think about level setting the impact? Should we expect similar dynamics to what we saw in the U.S. where parcel volumes or corridors were pressured but pricing AOV moved higher? And is that enough to impact the GMV so it's largely protected? And just what kind of mitigation and impact on your business? Just trying to get a better handle on that issue."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Thanks, guys. Sure. Then it's Neil. Think of other questions, James. What we expect to see is not the same effect that we had in the U.S. as we expect the average increase on our average merchant order value to be significantly lower than the removal of the de minimis in the U.S. Just to set the record on it, the U.S., the minimum rate was at 800 USD versus 150 euros, which are approximately around 180 USD. So less orders are affected. There is a significant chunk that anyway is being taxed today already. And for those that are affected, the impact of the duties that are going to be levied as of July 2026 is significantly lower as well. We estimated for an average merchant at around 5% versus 15, 20 to 25% that we have seen in the U.S. So to embed it into the price or to absorb it by the merchant, is something that we believe would be the strategy that most merchants would follow. So we don't expect much of an impact on the trading."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you, and there are no further questions at this time. I'd now like to turn the call back over to Alan Katz for closing comments."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Great. Thank you, everyone, for joining the call today. We look forward to speaking with many of you during the quarter and providing our next update on our Q2 call in August. Hope everyone has a great day."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Ladies and gentlemen, this concludes today's conference. We thank you for participating and ask that you please disconnect your lines. Thank you."
+    }
+  ]
+}

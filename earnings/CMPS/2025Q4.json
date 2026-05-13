@@ -1,0 +1,387 @@
+{
+  "event": {
+    "ticker": "CMPS",
+    "year": 2025,
+    "quarter": 4
+  },
+  "speaker_name_map_v2": {
+    "spk01": {
+      "name": "Steve Schultz",
+      "title": "Senior Vice President of Investor Relations"
+    },
+    "spk16": {
+      "name": "Kabir Nath",
+      "title": "Chief Executive Officer"
+    },
+    "spk07": {
+      "name": "Terry Luxem",
+      "title": "Chief Financial Officer"
+    },
+    "spk03": {
+      "name": "Gavin Clark Gardner",
+      "title": "Analyst, Evercore ISI"
+    },
+    "spk10": {
+      "name": "Vikram Prohurit",
+      "title": "Analyst, Morgan Stanley"
+    },
+    "spk15": {
+      "name": "Dr. Guy Goodwin",
+      "title": "Chief Medical Officer"
+    },
+    "spk04": {
+      "name": "Michael Chinovich",
+      "title": "Analyst, Maximum Group"
+    },
+    "spk02": {
+      "name": "Charles Duncan",
+      "title": "Analyst, Cantor"
+    },
+    "spk08": {
+      "name": "Unknown",
+      "title": "Unidentified Analyst"
+    },
+    "spk06": {
+      "name": "Leonard Temeshev",
+      "title": "Analyst, RBC"
+    },
+    "spk00": {
+      "name": "Patrick Trebois",
+      "title": "Analyst, HC Rain White"
+    },
+    "spk13": {
+      "name": "Laurie Engelbert",
+      "title": "Chief Commercial Officer"
+    },
+    "spk14": {
+      "name": "Dr. Steve Levine",
+      "title": "Chief Patient Officer"
+    },
+    "spk17": {
+      "name": "Frank Bisbois",
+      "title": "Analyst, Oppenheimer"
+    },
+    "spk12": {
+      "name": "Sumat Kulkarni",
+      "title": "Analyst, Canaccord Genuity"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk11",
+      "text": "Ladies and gentlemen, thank you for standing by and welcome to the Compass Pathfinders Limited fourth quarter 2024 investor call. All lines have been placed on mute to prevent any background noise. After the speaker's remarks, there will be a question and answer session. If you'd like to ask a question during this time, press star followed by the number one on your telephone keypad. If you'd like to withdraw your question, press star followed by the number one. I will now hand today's call over to Steve Schultz. Senior Vice President of Investor Relations. Please go ahead, sir."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Welcome, all of you, and thank you for joining us today for our fourth quarter 2024 results conference call. Again, my name is Steve Schultz, Senior Vice President of Investor Relations at Compass Pathways. Today, I'm joined by Kabir Nath, our Chief Executive Officer, and Terry Luxem, our Chief Financial Officer, who will have prepared remarks. In addition, Dr. Guy Goodwin, our chief medical officer, Laurie Engelbert, our chief commercial officer, and Dr. Steve Levine, our chief patient officer, will be available for the Q&A. The call is being recorded and will be available on the Compass Pathways Investor Relations website shortly after the conclusion of the call and will be available for a period of 30 days. Before we begin, let me remind everyone that during the call today, the team will be making forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 as amended. You should not place undue reliance on these forward-looking statements. Actual events or results could differ materially from those expressed or implied by any forward-looking statements as a result of various risks, uncertainties, and other factors, including those risks and uncertainties described under the heading risk factors. in our most recent annual report on Form 10-K filed with the U.S. Securities and Exchange Commission and in subsequent filings made by Compass with the SEC. Additionally, these forward-looking statements represent our views only as of today and should not be relied upon as representing our views as of any subsequent date. We specifically disclaim any obligation to update or revise any forward-looking statement, even if our estimates or assumptions change. I'll now hand the call over to Kabir Nath."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thank you, Steve. Good day, everyone, and thank you for joining us. Let me begin by thanking our existing and new investors who participated in our financing last month. This not only positions us to complete the Comp360 program in TRD, but also importantly allows us to progress a PTSD development program beyond the encouraging results from our open-label phase 2A study that we received last May. This will be an exciting couple of years for Compass with multiple upcoming data readouts and the January financing positions us well for success. As we've guided to on the third quarter earnings call, we eagerly await the top line results from the six-week primary endpoint from the 005 trial in the second quarter of this year. We've recruited over 90% of patients in the trial, so we're within sight of the end of recruitment, which we'll announce once enrollment is complete. As a reminder, when the top line results become available in the second quarter, we'll be disclosing three key efficacy measures for the six-week primary endpoint. The mattress affects difference between the arms, the associated p-value, and confidence intervals. We believe that these data should provide investors with a clear understanding of the treatment effect, and if positive, together with our Phase 2b results, provide a strong validation for the treatment potential for Comp360 in TRD. From a safety standpoint, given that the trial is continuing blinded through 26 weeks, we'll provide a high-level assessment from the independent DSMB, which reviews unblinded safety data on a regular basis. For the 006 trial, which is the second phase three trial, enrollment is going well. And the high throughput 005 sites will convert over to 006 sites upon completing enrollment in 005. So we're gaining momentum and we're excited for the 26-week results of 006 to read out in the second half of 2026. As mentioned earlier, given the recent financing, we're now able to resume the development of Comp360 for PTSD, and we're in the process of refining our plans for a late-stage clinical program. We're working through the various questions to address, as well as potential clinical designs, the scope of which is under discussion both internally and with external advisors. Our primary goals are to maximize the probability of success and to get COM360 to those who suffer from PTSD as quickly as possible. We look forward to updating you on our plans as they progress. Finally, on the commercial front, our strategic collaborations with select healthcare delivery organizations, including interventional psychiatry networks, are providing important insights into the various care settings. Insights which we're using to inform our strategy for launch and post-launch scalings. Many of these organizations are delivering Spravato now, which is particularly helpful as we identify Comp360 opportunities to scale within their operating models. While our phase three data will give us full clarity on the Comp360 profile, based on our data to date, we believe we will have a clinically differentiated treatment that is rapid acting with meaningful durability. Let me now hand the call over to Terry for the financial update."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thank you Kabir. I'll now step through the full year financial results. Cash used in operations for the full year was 119.2M dollars within the guidance range that we provided last year of 114 to 120M dollars. For the year ended December 31st, 2024, net loss was $155.1 million or $2.30 per share, compared with a net loss of $118.5 million or $2.32 per share during the same period in 2023. These results include non-cash share-based compensation of $19.5 million in 2024 and $17.3 million in 2023. R&D expenses were $119 million in 2024, compared with $87.5 million in the prior year. G&A expenses were $59.2 million in 2024, compared with $49.4 million in the prior year. Debt under the Hercules loan facility was $30.2 million at the end of the fourth quarter. At December 31st, 2024, we had cash and cash equivalents of $165.1 million. As Kabir mentioned, in January of this year, we completed a financing which resulted in net proceeds of approximately $140 million, which together with the $165 million of cash that we had at the end of the year, provides us runway to fund our operations at least through the planned 26-week data readout from our Comp 006 study, which is expected in the second half of 2026. Regarding 2025 financial guidance, we expect net cash used in operations for the full year of 2025 to be within the range of $120 to $145 million. Thank you, and I'll now turn the call back over to Kabir."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thank you, Teri. We have an exciting couple of years ahead with multiple data readouts from our pivotal phase three program. For 005, we expect to report the top-line six-week primary endpoint data towards the end of next quarter, and then the 26-week data once all 006 participants have completed Part A of that trial. For that 006 trial, we expect to disclose the 26-week results in the second half of 2026. In parallel, we're continuing to prepare for the launch of this potentially paradigm-changing treatment Given the high unmet need and limited current treatment options, we see significant commercial opportunities in TRD and PTSD. As mentioned at the beginning of the call, Dr. Guy Goodwin, Laurie Engelbert, and Dr. Steve Levine will also be available for Q&A. Thank you, and I will now turn the call back to the operator for Q&A."
+    },
+    {
+      "speaker": "spk11",
+      "text": "At this time, if you'd like to ask a question, press star followed by the number one on your telephone keypad. If your question has been answered and you would like to remove yourself from the queue, press star followed by the number one. Your first question is from the line of Gavin Clark Gardner with Evercore ISI."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Hey guys, thanks for taking the question. So I believe the six-week madras delta in the phase 2b was a bit above five points. Do you think that should be a reasonable bar for the 005 initial top line?"
+    },
+    {
+      "speaker": "spk16",
+      "text": "Hi, Gavin. It's Kabir. And just to check, you can hear us clearly?"
+    },
+    {
+      "speaker": "spk10",
+      "text": "Yes, we can."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Great. Thank you. Yeah, so as we've, I think, consistently said, we have used the Phase 2b and that six-week data from the Phase 2b as the benchmark for, you know, how we plan the powering for the Phase 3 studies. So I think what you said is reasonable. Again, a reminder that clinically meaningful is a significantly lower number in terms of effect size. But yeah, that is the guide that we have used in planning the Phase 3."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Okay, great. And just on the PTSD side, maybe you could just frame for the upcoming advisory committee meeting, if there's anything you're looking to learn that'll inform your development. Thank you."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thanks. So the upcoming BREX ADCOM meeting you mean, yes?"
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yes, correct."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Yes. Guy? Well, we'll be interested in basically how they view the patient population. That's something that requires a certain amount of thought with PTSD because of the spread of different kinds of trauma that result in PTSD and also the complexity of some of the lives, the early lives of patients who develop PTSD. So I think that's one of the key things. Obviously, we will be interested in how they view the issue of the actual difference in the scores, the CAHPS 5, which is still a relatively new endpoint for use both clinically and in research and indeed in regulatory trials. So how they interpret changes in that in terms of remission response, I think that will be informative for us and will guide us in how we think about our studies. I don't think beyond that, given the fact that the placebo arm here will be daily placebo, it doesn't really offer us a great deal of guidance as to what our placebo response might look like so there are limitations but we'll of course be we'll be tuning in great thank you thanks kevin your next question it's from the line of palm maddie's with staples hey there this is julian i'm for paul thanks a lot for taking our question um"
+    },
+    {
+      "speaker": "spk05",
+      "text": "I guess, can you just talk a little bit about what's actually going to be disclosed in the top line for the upcoming COMP-005 readout? I know you talked about some high-level safety as well as potential commentary from a DSMB on suicidal ideation. So just any commentary on that would be helpful. And then also just any color on enrollment. Are these studies still enrolling and are you on track? Thank you."
+    },
+    {
+      "speaker": "spk16",
+      "text": "No, thanks. Happy to take both of those. So, yeah, in terms of what we will be disclosing, as we've said consistently from an efficacy perspective with the six-week data, it is going to be the madras effect size. the difference between the arms, the P value, and confidence interval that's associated with that effect size difference. From a safety perspective, as you've said, it will be a statement from the DSMB, including specifically as to whether they see anything clinically concerning in terms of imbalance on suicidal ideation. And just a reminder, the DSMB is seeing unblinded safety data on a regular basis, most recently this month, in fact, and have just preceded us to direct without change, without amendment. And in terms of recruitment, as I said on the call, for 005, we are now over 90% recruited for that trial. So we're very much within sight at the end of that. 006 is continuing to recruit well. One of the factors there is, as we've said, high-performing 005 sites will roll over into 006. And that's a process that, again, we now can start planning with exquisite detail. And so we continue to be on track now for 26-week data for 006 in the second half of 2026."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Your next question comes from the line of Charles Duncan with Cantor. Charles, your line is open. There's no response from Mr. Duncan's line. We'll go to the next question. Your next question is from the line over to Burrell with TD Cowan."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Hi, guys. Thanks for taking the question. Kabir, what else will we get with top line as far as additional analysis? Will we still get remissions, responses, and how will that play? How do you think the relative importance will play both to regulators and clinicians in relation to sort of the top line? Madras means? And will we be getting any secondary scales as well?"
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thanks, Richie. So no, to be clear with the six-week data, we are not going to be getting any secondaries. We're not actually going to be getting remission response or anything else. It is literally just going to be the effect size difference on Madras with the six-week data."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Got it. And then as you are at 90% enrolled, how has the patient's disposition and demographic shaped up to your expectations. Can you talk about what percentage has finally come in on background SSRIs and how that may or may not impact the final efficacy and tolerability data that comes out?"
+    },
+    {
+      "speaker": "spk15",
+      "text": "Thanks. We aren't seeing that broken down in detail as it goes. My impression is just from the numbers of patients in washout that we're seeing a similar kind of number to what we saw in the phase two. But I can't give you the precise statistic on that. In other respects, we aren't looking, again, as we go at details of the, you know, for example, comorbidities, the you know, the drugs actually used, the numbers of exposures. We're just not looking at that as we go. That's not been part of our protocol."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Got it. And will you release with Topline what the powering of the study was designed to be?"
+    },
+    {
+      "speaker": "spk15",
+      "text": "Yes, I guess if you're interested, we'd be happy to share that. Once we have the data, yeah."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Okay. Thank you. Thanks for taking the questions."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thanks, Richa."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Your next question is from the line of Charles Duncan with Kantor."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Hopefully you can hear me, Kabir team. Thanks for taking the question. Congrats on the progress. Appreciate the added color. Wanted to follow up on a previous question with regard to top line 405. And the recent DSMB meeting, I guess I'm wondering if you could provide a little bit of color on what you would anticipate in terms of suicidal ideation. We've talked about that in the past. I know it happens in this patient population, but provide a little more information on what you would have expected out of this patient population."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Hi, Charles. Guy here. I mean, we do expect to see suicidal ideation. And as you know, we're collecting it on a systematic basis using the Columbia rating scale. In due course, we'll be able to summarize for the whole population the extent to which we saw suicidality using that scale. Obviously, the serious adverse events that we collect have to be contextualized. And that is what the DSMB is able to do because it's unblinded. We can't do that from our own perspective. So we rely on their clinical judgment to decide that there is no clear reason to think that what is happening in the trial represents a signal of danger. So that essentially we rely on their clinical judgment to look at all of the information and we have to trust what they feed back to us."
+    },
+    {
+      "speaker": "spk08",
+      "text": "And Guy, it's probably worth you adding that the reason we might see suicidal ideation is because of the patient population. So you may want to expand on that. And it's not necessarily part of our drug."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Yeah, no, I mean, I was sort of taking that as read, but perhaps that needs to be restated that depression has inherently carries with it suicidality. And suicidality carries with it the risk of attempted or completed suicide. So any study that enrolls a large number of patients with treatment-resistant depression in particular is running that risk. Obviously, we are trying to ensure that that risk is minimal for the individuals who enter the study. But there is no doubt that the condition carries the risk."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thanks. Yeah, that makes sense. I get that. But with regard to the DSMB review, they have been looking at if there are any events and tracking that, and you would know that if there were, correct?"
+    },
+    {
+      "speaker": "spk15",
+      "text": "We would know if they were concerned about the events that have occurred and that they have full information about, yeah."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Okay, very good. Thanks for taking the questions."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Your next question is from the line of Leonard Temeshev with RBC."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Hey, guys. Thanks for taking my question. I just want to talk a little bit about the durability aspect again. Can you remind us, first of all, how you're measuring durability if patients start other medication after receiving their COM360 dose? And then I guess maybe the second part is, on the more practical and real-world side, is it still a win if a patient starts like an SSRI or something after receiving their dose? I mean, how does the FDA think about that? And I guess, how are you guys thinking, you know, in the future if someone chooses to start a different medication, maybe to, you know, retain their response rather than coming back to get another dose of COM360?"
+    },
+    {
+      "speaker": "spk15",
+      "text": "Thanks. Okay. Well, I guess the most obvious way in which we see durability is that we know that we see a very early response and that we see in many cases in the phase two study that that response was maintained as a change in the madras from baseline over many weeks, up to 12 weeks, as you know, we followed patients. There is another sense, of course, in which one can look at durability, and you've implied it, the time to an intervention for a new treatment, and we will be capturing that, and indeed we captured that in our phase two, and that data will soon be publicly available in a publication. But that is one of the ways we will also be capturing the time to new treatment. That new treatment in our study doesn't affect the conduct of the study. The patients remain with us and are followed up within our 52-week protocol. What the FDA's attitude to that is not obviously something I can comment on. We will deliver the data to them and they'll reach a judgment. But I think I can speak from a clinical perspective that I wouldn't be surprised if patients who make a good symptomatic response may actually want to go on to maintenance antidepressants. I think that would be very unsurprising if that happened. And therefore, it may very well be that that is one of the ways in which durability can be attained."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Your next question is from the line of Francois Richbois with Oppenheimer. Francois, your line is open. Please make sure you do not have yourself on mute. There is no response from Francoise Lyne. We'll go to the next question. Patrick Trebois with HC Rain White."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thanks. Good morning. A couple of follow-up questions from me. I guess the first one would just be on the COMP-005 readout, what would be considered a clinically meaningful improvement in the Madras total score at six weeks? and how should we contextualize the results in relation to prior trials with psilocybin and other TRD treatments? And secondly, I was just wondering if you could provide some details on the psychological support model and the implementation and how this sort of is different from what we saw with the Lycos experience and just in terms of how we should think about the psychological support model from a regulatory perspective, but then also in terms of a, you know, scale up and commercialization perspective."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thanks, Patrick. So a couple of questions in there and I'll hand to Guy. But just before that, just just a reminder, you're not going to see the madras effect difference on the active arm. We're going to see the difference between the arms, just to be clear on that. So, again, just a reminder that. But then let me ask Guy to comment on that on and initially on the psychological support side and then to Laurie to talk about that from a scaling perspective."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Yeah, I mean, I can't really add much more to what Kabir has said on the difference because we won't really be reporting that. As you've seen in our phase two study, the immediate change was of the order of 13 points on the Madras. And of course, we'd be very happy if we saw that again. I think on the psychological support model, I think what it's important to understand is that what we're trying to do is to make it easy for the FDA to understand the drug's effects in isolation. from any potential efficacy from psychotherapy. And so for that reason, we have simplified the support we offer to patients so that it essentially gives them the information they need for the experience, it supports them on the day, and it gives a chance for them to talk about it afterwards. We are systematizing our approach to a considerable degree and we're monitoring all of the sessions so that we will be able to ensure that the people sitting with the patients do follow exactly what we have trained them to do. And what we have trained them to do is essentially to follow a protocol that is really unlike clinical practice. And it's very much more about following a trial protocol. And that has required a certain amount of retraining, frankly, for patients who come in with more assumptions about psychotherapy. So that's our approach to the trials. I'll pass to Laurie, who may want to comment on the implications for clinically."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Yeah, I think, you know, What Guy said in terms of the purpose of the support model is that we are making sure that patients have support through the drug administration, as well as prior to drug administration and after drug administration. And at launch, and hopefully to end up to scale up as well, we don't expect that to be very different than what the REMS requirements are for Spravato right now, and that that will only be limited to a licensed healthcare provider. And we will not be constrained to therapists at the time."
+    },
+    {
+      "speaker": "spk14",
+      "text": "And just one thing to add, this is Steve Levine. It's also worth saying that to be trained in a new treatment or a new protocol is common across medicine, not just in psychiatry. And so this is also one of the areas where we're able to focus in learning from our strategic collaboration partners, which encompass a handful of organizations, but hundreds of sites to understand who is being trained within the organization right now, how they're being trained, how they allocate budgets for that training. So we'll be very informed in terms of real-world training as we think about how this moves into real-world care settings."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Your next question is from the line of Frank Bisbois with Oppenheimer."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Can you guys hear me now?"
+    },
+    {
+      "speaker": "spk16",
+      "text": "We can, Frank, yes."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Oh, okay. Wow. Okay. Sorry, I've had some IT issues. And sorry if this was mentioned as well. But I was just wondering if you can, you know, with Steve making a comment there, just a little more on this role of chief patient officer and what led to that and what exactly that implies. Thank you."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Thank you for asking that question. I'm very happy to answer that. You know, as a psychiatrist by background, I'm really happy to see that Compass has placed such an emphasis on ensuring that both the patient, particularly the patient, but both the patient and healthcare providers' perspectives are incorporated into everything that we think about and plan, whether it's the design of our trials or thinking ahead to a post-approval environment where this actually is delivered to patients by licensed healthcare providers. And so that's really broadly where I'm focused is involved widely across the organization and ensuring that those voices are reflected And that there's a realistic perspective on what may be needed outside of the relatively rarefied environment of clinical trials as this moves into real world patient settings and actually gets to patients."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yeah. And I think, Frank, I mean, I think it's it's self-evident that a psilocybin experience is a very difficult. We talk about a paradigm changing. and it absolutely is a paradigm-changing approach, specifically from the point of view of the patient and that we're supporting some pretty vulnerable patient populations through what can be a challenging experience. So having somebody of Steve's caliber and experience really advocate for that and stand for that within the company, we felt was really important. And who better to have than Steve to do it?"
+    },
+    {
+      "speaker": "spk17",
+      "text": "Okay, great. And then just on the 005, in terms of timing of 26-week data, can you just help us understand you know, just remind us what you're sharing here about Part A and enrollment and, you know, when 06, 26-week comes out, just how should we best guess 005 and six-week data for timing? Thank you."
+    },
+    {
+      "speaker": "spk16",
+      "text": "So, I'm happy to invite you to continue to guess, Frank. I mean, what we have said clearly is the 26 weeks of 005 will be gated at a minimum on Part A completion of 006. As you know, for 006, we've given a fairly wide range for guidance for the 26 weeks for now and the second half of 2026. But obviously, as we get clearer on 006 enrollment and timelines, we're in a position to give more specific guidance also around the 26 weeks of 005. But for now, we're not giving specific timing guidance around that."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Okay, I'll keep guessing. Thank you."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Your next question is from the line of Vikram Prohurit with Morgan Stanley. Vikram, your line is open. There's no response. We'll go to the next question. Hello. We'll go to the next question. Sumat Kulkarni with Canaccord Genuity."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Hi, thanks for taking our questions. I actually have three. So there was an earlier question on point separation on the meter scale. But do you think that Comp360 might need to hit some higher bar relative to what is considered conventionally clinically relevant and made us to be successful in the real world? Or would the non-chronic dosing paradigm more than outweigh that scenario?"
+    },
+    {
+      "speaker": "spk16",
+      "text": "so i'll hand the guy but i'm just just as a reminder i mean this is trd suman not mdd and you know there's precisely two approved trucks in drd i mean this is the guy well i think i think that's the honest answer actually that the land that the the yardstick doesn't really exist to anything like the extent that it exists in mdd um is there anything else we should say on that i mean i i"
+    },
+    {
+      "speaker": "spk08",
+      "text": "No, so it's a lower bar."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yes. If anything, it will be a lower bar for TRD versus MDD."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Understood. So now with the understanding that Comp360 is relatively far ahead in terms of your potential ability to get to the market, how is your thinking involved on how the product might be able to compete with other psychedelic compounds that require shorter times in the clinic, given that we've seen some phase two data from 5-MeO DMT, for example?"
+    },
+    {
+      "speaker": "spk14",
+      "text": "Hi, this is Steve. I'll take that one. Thank you. I think in terms of considering what drives decision-making from healthcare providers, amongst many considerations, key amongst them are the economics, whether this is an economically viable and hopefully attractive proposition for them. And so with that, it really highlights the work that we did on procuring new Category 3 CPT codes, which are specific for the administration day and the support provided on that day. And as a reminder, those codes can be used across a range of psychedelic treatments if approved, and they're reported on an hour-by-hour basis. And so regardless of the length of the treatment, we anticipate that healthcare providers will be reimbursed for the services provided."
+    },
+    {
+      "speaker": "spk13",
+      "text": "I also just want to add, if you don't mind, Samant, that we need to think about the indications that some of these will be approved for. And right now, TRD, our indication will be the only TRD on the product for quite some time, regardless as a psychedelic."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Got it. And my last question, there seems to be some enthusiasm around support for psychedelic medicines at very high levels in the current political environment. But how would you say that any changes, either in terms of personnel or morale at the FDA, have affected the tone of your recent interactions with the agency, if any, or any predictions you might have there on what that might mean as you head into a potential regulatory process here?"
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thank you, Samantha. It is a great question. And I mean, the straight answer is we don't yet know, to be clear, but obviously we are tracking things very closely. I think our overall perspective is at worst, some of these changes are neutral and potentially there's some positive tailwinds in this. And if you think about an area we haven't really focused on, for instance, PTSD, the combination of that, the influence of veterans organizations and so on, you can see that clearly in that space, that could be a tailwind."
+    },
+    {
+      "speaker": "spk04",
+      "text": "so far in terms of fda interaction there is no change for us to comment on thank you that's very helpful your next question is from the line of jason mccarthy with maximum group hey guys this is michael chinovich on the line thank you so much for taking my questions today um I guess just to start off, I'd like to see if you could talk a little bit more about your pipeline plan. You did mention you're designing a late-stage study in PTSD. Can you talk about some of the other indications that you're working on? I know anorexia has been a target for a while."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Sure, so the anorexia study, we have completed that closed enrollment and we will expect to see data sometime in 2025 on that. We have a number of IISs that we've conducted in the past that have given us interesting signals and other indications. But right now from, you know, a full steam development ahead, our focus is on TRD and PTSD."
+    },
+    {
+      "speaker": "spk04",
+      "text": "All right, thank you. And then just, I want to see if you could comment on, you know, just given the recent Rise, we've seen an adoption on Spravato. It did more than a billion dollars this year. Do you think that having another interventional psychiatric therapeutic in TRD could help prepare the market for something like Comp360?"
+    },
+    {
+      "speaker": "spk13",
+      "text": "We absolutely do. So J&J has done a great job of really preparing and educating HGPs on what TRD actually is. And as a reminder, TRD is broadly referred to as the failure of two prior antidepressants. And what we are seeing and, you know, what we're thinking about with Spravato is if you think about the addressable patient population, which is probably around about 3 million MDD patients right now, Spravato has less than 2% of patients in that TRD patient population. So any, you know, additional, you know, success on the Spravato side only, you know, bodes well for us coming to market."
+    },
+    {
+      "speaker": "spk04",
+      "text": "All right. Thank you very much for taking my questions and congrats on the progress. Thanks, Mike."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Your next question is from the line of Vikram Puhit with Morgan Stanley. Hi, everyone."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Can you hear me?"
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yes."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Great. This is Morgan on for Vikram. So two from us for PTSD. one could you walk us through how you prioritize ptsd over the other indications like bipolar disorder that you're exploring in different iis's and then on the path to filing for ptsd what do you imagine that looking like in terms of studies patients number of patients and what level of follow-up data do you think is needed thank you yes thanks morgan so i mean i think"
+    },
+    {
+      "speaker": "spk16",
+      "text": "PTSD, as you'll be aware, nothing has been approved for more than 20 years in PTSD. So it's in terms of true unmet need, the scale of the problem and kind of the intensity of the focus around the problem. it was clear to us that particularly having seen the signal in our phase 2A, this was an area that both from a medical and therefore from a commercial perspective rose absolutely to the top of the priority list. So that's hence the focus on PTSD ahead of any other indication. I'll hand to Guy to talk a little more around the development regulatory side."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Yes, I mean, we are obviously in the process of thinking carefully about that. I can't say that we're yet fixed on one way to go. I mean, we expect to have a meeting with the FDA to thrash that out at some point. And we've obviously developed a number of scenarios with the way we could actually develop the treatment in PTSD. I mean, the patient population, you know, we're also going to have a little bit of guidance from the FDA's attitude from the adcom that's going to take place for brexpiprazole, which we'll obviously be following, and that will maybe give us some insight into the way the patient population in particular is observed. Yeah, we're looking forward to an exciting year with this. I mean, the other indications that you mentioned, for example, bipolar two disorder, a little more difficult simply because of co-medication and the complexity of the condition. PTSD, as Kabir has indicated, has this massive unmet need. There are very little, very little available We have this really very encouraging data that say so durability after a single administration. So I think that's clearly the first place to go. We have no doubt in our minds about that."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Yeah, Morgan. Hey, it's Laurie. If you don't mind, I'll just add a little bit of additional color. It is a very highly prevalent population as well. There are about 13 million patients out there. And as Guy mentioned, very limited options. There are actually only two FDA approved products for PTSD right now. And as Kabir mentioned, it's been a very long time since innovation has happened in the market."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Thank you. Your next question is from the line of Frank Grisboys with Oppenheimer."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Hey, sorry, just an extra one here. On the DSMB side, the comment you made that you just had recently, you remind us what exactly you said of how recent that interaction was. Being 90% enrolled, is it fair to assume that there are no more DSMB looks at this until readout, or could there be one more?"
+    },
+    {
+      "speaker": "spk16",
+      "text": "So as in recent, it's this month, as it was in February. So that's how recent the last is. I guess, you know, as to the kind of the quarterly cadence versus when we actually have top line in hand, that we will see what happens in the course of next quarter. But I mean, the regular cadence is quarterly."
+    },
+    {
+      "speaker": "spk11",
+      "text": "At this time, there are no further questions. I will now hand the call back over to management for closing remarks."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Thanks very much. So thanks, everyone, for your time and attention today. As we said, we're at the start of a very exciting couple of years for Compass with multiple data readouts between now and the latter part of 2026. And in particular, we're excited about the 005 top line that we expect to see towards the end of next quarter. So thanks, everyone. Thanks for your time."
+    },
+    {
+      "speaker": "spk11",
+      "text": "This concludes today's call. Thank you for joining. You may now disconnect your lines."
+    }
+  ]
+}

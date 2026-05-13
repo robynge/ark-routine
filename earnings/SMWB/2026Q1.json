@@ -1,0 +1,223 @@
+{
+  "event": {
+    "ticker": "SMWB",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk06": {
+      "name": "Operator",
+      "title": ""
+    },
+    "spk01": {
+      "name": "Rami Meyerson",
+      "title": "Vice President, Investor Relations"
+    },
+    "spk03": {
+      "name": "Or Offer",
+      "title": "CEO & Co-Founder"
+    },
+    "spk00": {
+      "name": "Miles Zakowski",
+      "title": "Chief Business Officer"
+    },
+    "spk02": {
+      "name": "Ran Vared",
+      "title": "Chief Financial Officer"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk06",
+      "text": "Greetings and welcome to the SimilarWeb first quarter fiscal year 2026 earnings call. At this time, all participants are in a listen-only mode. A question and answer session will follow the formal presentation. If anyone should require operator assistance, please press star zero on your telephone keypad. As a reminder, this conference is being recorded. It is now my pleasure to introduce Rami Meyerson, Vice President, Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thank you, operator. Welcome, everyone, to our first quarter 2026 earnings conference call. Joining me today are our CEO and co-founder or author, our Chief Financial Officer, Ran Vared, and Miles Zakowski, our Chief Business Officer. This morning, we released our results for the first quarter and published an investor presentation with a strategic overview of the business, as well as a summary presentation of first quarter results on our investor relations website at ir.similarweb.com. Certain statements made on the call today constitute forward-looking statements which reflect management's best judgment based on the currently available information. These statements involve risks and uncertainties that may cause actual results to differ from our expectations. Please refer to our earnings release and our most recent annual report filed on Form 20F for more information on the risk factors that could cause actual results to differ from our forward-looking statements. Additionally, certain non-GAAP financial measures will be discussed on the call today. Reconciliations, the most directly comparable GAAP financial measures, are available in the earnings release and the earnings presentation. We will begin with Orr and Ran's highlights of the quarter, and then we will open up the call to questions from sell-side analysts. With that, I'll turn the call over to Orr. Orr, please go ahead."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you, Rami, and welcome everyone joining the call today. Just before I start reviewing Q1 results, I want to address the announcement we made this morning. Today is a symbolic date for me. Today is exactly five years since our IPO and running SimilarWeb as a public CEO. This is also my 19th year of service since I started working on SimilarWeb in June 2007. My promise to myself and to my wife was always that when I reach 20 years of service, I will realign my priorities and spend more time with my family. This moment is about to be reached as I enter my 20th year leading SimilarWeb next month. SimilarWeb has been my life work. I founded this company nearly 20 years ago and as I approached that milestone, I believe this is the right moment to begin identifying the leader who will take the company forward. The board and I are fully aligned on the timing and the process, and we have intentioned a search with a leading executive search firm. I will continue to serve as the CEO through the conclusion of the search and the transition period with my successor, with the leadership transition expected to be completed by mid-2027. I remain fully focused on the execution of our strategy for our shareholders, our customers, and our employees. We came out with a great Q1 result, and I have a very strong confidence for this year's performance. There's no change in our strategy, our operation, or our financial outlook."
+    },
+    {
+      "speaker": "spk00",
+      "text": "I'm proud of the business we have."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Once again, we demonstrated our ability to deliver and the resilience of our business. Turning to the highlights of the first quarter. Revenue and operating profits came in the top end of the guidance range. We delivered a 10th quarters of positive normalized free cash flow. Our NLR has stabilized and we expected this metrics to improve in 2026, driven by execution of our customer pension playbook, growth retention trends in the quarter were excellent. The pipeline of the commercial opportunities is very strong, growing and providing confidence for the remaining of the year and beyond. AI-related revenues continue to expand and adoption of our AI solution is growing. First quarter performance provides a solid base for 2026, and we have decided to raise the lower end of our guidance for 2026 to reflect increased confidence. Turning to our results, revenue grew 10% year-over-year to $73.9 million at the top end of our guidance range. We are starting to see tangible returns on the investments we made in the sales force and product portfolio in 2025, sales productivity increased for the third quarter in a row, and this is contributed to the best Q1 increase in ARR since 2022. We reported non-GAAP operating profit at the top end of our guidance range. We generated $6.6 million in normalized free cash flow in the first quarter, reinforcing our commitment to profitable and durable growth. Net revenue retention for all customers was 98% and 103% for customers above $100,000. We are very encouraged that those metrics have stabilized in the first quarter and that growth retention continues to improve. We are focused on driving an improvement in NRR, specifically in the upsell motion in 2026 by executing our customer expansion playbook and leveraging our diverse product portfolio. Demand for our GenAI data and solution is truly amazing. Our AI revenues continue to expand and we are engaging with more AI native companies as well as companies of all sizes that have realized that they need to understand what's happening in the new digital world. During the quarter, we signed one of the large LLM contracts that were pushed back from the fourth quarter of 2025. We continue to progress on the second, the third deal as well as on multiple deals for our unique digital data and view of the digital world. We believe we are well positioned to be an AI winner with multiple commercial opportunities across data, product, and distribution partners, and we are excited about the potential. Let me run through our AI data and product strategy, how we power the ecosystem, build our AI-first solution, and expand distribution at scale. First, we are powering LLM and AI agents. We are seeing strong traction in licensing our data directly to leading LLM companies for both pre- and post-training use case. At the same time, autonomous agents require trusted, structured digital intelligence to operate efficiently. That's exactly what we provide. Our data is built for both humans and agents, and we see accelerating demand for both. Second, we are building our own AI native solution. With GenAI Intelligent, we are helping brands to improve their GenAI visibility and sentiment. We are seeing strong market validation on this front, including recognition of our leadership by G2. We believe our data provides an important competitive advantage in this new market, and we are on a journey to become a market leader in this category as well. Last quarter, we launched SimilarWeb AI Studio and the response from the customers has been truly amazing. AI Studio is an AI powered interface that allow users to ask business question in plain language and multiple languages and instantly receive actionable insights. What used to take time and specialized skills can now happen quickly and easily across all of our data sets. AI Studio expands the number of users who can leverage SimilarWeb, increases engagement, enables faster and smoother insight generation, and unlock a new consumption-based monetization model. We are seeing strong adoption and utilization across our customer base. AI Studio represents a huge shift in how users interact with SimilarWeb data. Third, we are expanding distribution at scale. Through partnership with leading LLM and agent platforms, such as Manos, and through MCP integration, we are embedding SimilarWeb directly into AI ecosystem. We want to meet our users where they are, and increasingly, research and decision-making is happening inside the new AI platform. Last quarter, we shared that our MCP was available in cloud, and today, I'm super proud to share that we have launched MCP integration with ChatGPT This integration is the same as our MCP Cloud Connector, providing seamless access to our data and tools. Cloud and ChatGPT are two of the largest AI platforms in the market, and today hundreds of our customers can plug in similar web data directly into them, building automation, powering agents, and asking complex questions on the fly, and receive insight, recommendation, and action wherever they choose to work. Yesterday, we announced an expansion of our partnership with Manos, which we told you about last quarter. This partnership has been a big success, and we are glad to expand the data Manos users can access and also enable our customers to connect to Manos via an MCP to generate even more valuable seamlessly combining our data and Manos tools and capabilities. This ecosystem partnership unlocks new customers, expands our time, and position our digital data as critical ingredients for AI-driven research and decision making. Our AI pipeline is expanding rapidly with a healthy combination of large deals and continued expansion across our enterprise customers."
+    },
+    {
+      "speaker": "spk00",
+      "text": "We're excited about the potential As part of this mission,"
+    },
+    {
+      "speaker": "spk03",
+      "text": "we continue to develop and launch innovative products that empower our customers with the tools and capabilities to win in their markets. In Merch, we launch SimilarWeb Retail Intelligence, a new product that combines Amazon data and cross-retail coverage of more than 650 online stores and marketplaces. Retail Intelligence gives brands, sellers, and retailers a unified view of shopper behavior digital sales performance, product mix, availability and pricing across fragment e-commerce channels. It also adds keyword optimization, competitive benchmarking, and digital shelf automation. As AI reshapes product discovery and retails expand marketplace and retail media networks, retail intelligence helps Customers understand where demand is forming, how brands are winning, and which action can improve sales performance so that they can win in a highly competitive e-commerce market. Also during March, we also launched similar web ad intelligence, leveraging the synergies with the ad metric, which we acquired in 2024. Ad intelligence delivers a unified view of paid media across search, social, and display, and soon, LLM ads, revealing who investing, what's bringing more traffic, and who gaining share across every channel and region and help brands understand paid marketing ROI. The solution addresses the most severe pain points advertising face today. knowing what competitors are spending and where, if ad spending is generating the decent return, and helping advertisers identify where they are overspending, underspending, or missing opportunities across channels. Until now, advertisers had to rely on fragment data that leads to inefficient ad spend and wasted budgets. With this product, we empower brand agencies and publishers to work smarter helping them to spot growth opportunities, benchmark performance, and optimize spend across every channel and market. To summarize, during the first quarter, we have taken action to improve our performance. We are sharpening our go-to market strategy, refining processes, and building scalable playbook to drive cross-sell and expansion. We are seeing encouraging signs of improvement across the business, and this has increased our conviction in 2026. We believe that we are well positioned to capture long-term AI driven opportunities. Our AI first portfolio is scaling, ecosystem partnership are expanding, and we are targeting high growth segments like LLM companies, large big tech players, and OEM with our own dedicated go-to-market teams and focus. We remain focused on discipline execution and acceleration, And with that, I will hand it over to Juan."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thanks, O. I'll provide highlights of our financial performance and guidance for the second quarter and full year of 2026. Turning to our quarterly results, we generated $73.9 million of revenue in Q1, a 10% increase relative to Q1 2025 at the top end of our guidance range. Revenue growth was driven by good performance across the book of business, including new sales and upsells, as well as growth in AI-related revenues. Non-GAAP operating profit for the quarter was $2.4 million, reflecting a 3% margin compared to loss of $1.3 million in the first quarter of 2025. Non-GAAP operating profit was also at the top end of our guidance range, thanks to top-line growth and disciplined cost control. Non-GAAP interest expense was $3,000, and the non-GAAP tax expense was $1.3 million in the quarter, compared to $0.1 million and $1.2 million, respectively, in the first quarter of 2025. To help with your modeling, we expect these items to remain at approximately these levels on a quarterly basis for the rest of the year. Non-GAAP diluted earnings per share was 1 cent, compared to a loss per share of 3 cents in Q1 2025. We are proud that 64% of our ARR is contracted under multi-year contracts, up from 52% last year. We believe that this metric, coupled with strong ARR, demonstrates the durability of our revenues. It also provides us with confidence in the value we provide to our customers. Good cash generation and a strong balance sheet are critical for business at any stage of lifecycle. We generated $6.6 million of normalized free cash flow, reflecting seasonal strength. We believe we will generate positive normalized free cash flow on a quarterly basis going forward, although we are aware of seasonal fluctuations. We ended the quarter with approximately $65 million of cash and cash equivalents and no debt. We also have an available and the financial flexibility to weather market headwinds while staying focused on our long-term goals to maximize shareholder value. Our remaining performance obligation totaled $298 million at the end of Q1, up 18% year-over-year. We expect to recognize approximately 70% of total RPO as revenue over the next 12 months. The growth in RPO provides us with confidence in our full year guidance. In Q1, overall NRR was 98% across all customers, and 103% for customers with over 100K of ARR. We are encouraged by the stabilization in NRR in the quarter, which reflects an improvement in GRR and quarterly NRR. We expect an improvement in NRR over 2026. The trends in GRR continue to improve, and in the first quarter, we reached a new two-year peak. Customer count increased by 5% to 6,038, but declined sequentially by 1% from 6,128 in the first quarter. The decline was mainly due to self-service customers that have not renewed their annual subscriptions or have moved to monthly subscriptions. We have reviewed this KPI and compared it to the sales head customer count that are above 25K ARR. This accounts for 86% of our ARR. At the end of Q1, customer count of this cohort was 1,840, increasing by 2% year-over-year. Average account value for this cohort was 132,000, up 9% compared to 2025. We believe that the number of accounts generating more than 25K and 100K of ARR demonstrates that SimilarWeb is an enterprise-focused company and provides a more meaningful representation of the underlying trends of the business. Accordingly, we plan to disclose this cohort going forward and will no longer disclose total logo count. Moving to guidance. For the full year of 2026, we are raising the lower end of our revenue guidance and expect total revenue in the range of $307 million to $315 million, representing 10% year-over-year growth at the midpoint of the range. In Q2 2026, we expect total revenue in the range of $74.5 million to $76.5 million, representing 6% year-over-year growth at the midpoint. I would like to remind you that strong revenue growth in the second quarter of 2025 benefited from a pull forward of one time revenue from the third quarter of 2025 and provides a tough comparison for this quarter. As all mentioned, the solid pipeline provide us with confidence in the revenue growth acceleration during the second half of the year. For the full year, We are raising our guidance for non-GAAP operating profits to be between $17 million and $19 million. Non-GAAP operating profits for the second quarter of 2026 is expected to be in the range of $3 million to $5 million. We continue our efforts to offset the headwinds to profit presented by the strengthening of the Israeli shekel versus the US dollar. Approximately half of our employees are based in Israel. The expansion of our R&D center in Prague, which provides an excellent source of high-quality talent, is helping diversify our cost base. With that, Or and I are ready to answer your question. Follow in Q&A, or we'll share some closing remarks. Operator, please open the line for questions."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thank you. We'll now be conducting a question and answer session. If you would like to ask a question, please press star one on your telephone keypad. A confirmation tone will indicate your line is in the question queue. You may press star two if you'd like to remove your question from the queue. For participants using speaker equipment, it may be necessary to pick up the handset before pressing the star keys. One moment, please, while we poll for questions."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thank you. Our first question is from Arjun Badia,"
+    },
+    {
+      "speaker": "spk05",
+      "text": "the IPO milestone and the run as CEO. I know it's not, you're not leaving yet, but it's been great working together. Maybe one question on just the guidance and the LLM contract that you closed. I assume that's in the numbers yet, but as I'm looking at sort of the back half ramp in implied and revenue, it still seems quite steep. So I would love to hear just your confidence in the ramp in the second half of the year, how much of that is still dependent on the second LLM contract closing and just maybe where we are in sort of, you know, that process at this point. Thank you."
+    },
+    {
+      "speaker": "spk03",
+      "text": "And of course, thank you, Arjun, for the kind words. And yes, we're seeing a very strong pipeline and over this quarter, this Q2. We are already in the middle of the quarter and we have very strong confidence with the second part of the year and the team did an excellent job in the past few months. Not only closing the one deal that's left, also continue to have in the pipeline the second deal and open the pipeline with many other deals. So we're seeing a very strong traction. We started the year with a dedicated team only focusing on this LLM and OEM opportunities and they really executing very well. So we have a very strong confidence for the year and for the second part of the year."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Okay, perfect. And then you sounded quite bullish just on NRR trajectory going forward. How much in that increase and when you're looking at the upsell, What are the main sort of changes that you're seeing that are giving you confidence that you can drive more upsell and cross-sell with your existing customer base? Because, you know, I think generally that metric has been sort of flattened down over the last several quarters. So I'm curious on the inflection there."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yes, of course. I think it's an excellent question. The NLR we're reporting to the street is the average last four quarters. of NRL. And we're already seeing an improvement with our NRL and GRR in the past two quarters that is not fully seen yet in the average. So we already know that the NRL is going to be better going forward. And we also see the great pipeline being built on the current customer want to buy more and more of our data. So we think and are bullish on the NRL going upward, going forward."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Just to compliment on that, Arjun, The GRR that we saw in Q1 was the strongest in the last two years. And we also, we didn't of course share Q2 yet, but we also see the strength of the GRR continuing to be very strong in Q2. So we are quite confident that along the year the NRR matrix is going to improve."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Very helpful. Thank you so much."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Our next question is from Scott Berg with Needham & Company."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Good morning. Lucas on for Scott here. Thanks for taking the questions. Maybe to start, could you just talk about the sales productivity during the quarter? There's obviously been a lot of GTM changes over the last year plus. So just curious if productivity is beginning to normalize kind of where you guys would like to see it at."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yeah, we track this metric closely and overall in the past three quarters we're seeing a nice increase. Every quarter is getting better and we're very happy. There's two commercial teams, one driving new cell and the other one driving expansion and we're very happy with the expansion progress in the past quarter and And also the new expansion was remarkably well and hopefully continue to get better productivity going forward."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Any thoughts on a potential share buyback, just given kind of where the current stock is trading at?"
+    },
+    {
+      "speaker": "spk03",
+      "text": "I think it's a good question. We did discuss about it. We don't have a specific decision yet. It's a good stuff to think about going and seeing how the year is progressed, but it's definitely something that can be on the table."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Understood."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you. Just to complete. Just to complete on that, I think we're very focused on the operational areas of our business, and generating a normalized free cash flow is one of the top priorities. So we focus on that. Once we see also this trend picking up, we'll consider all available options for capital allocation."
+    },
+    {
+      "speaker": "spk11",
+      "text": "All right. Thank you."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Our next question is from Adam Hotskiss with Goldman Sachs."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Great. Thanks so much for taking the question. I guess, or to start, on the AI front and MCP front in particular, I'm wondering if that is playing a role at all in your new customer conversations and AI expansions at Renewal, thinking lowering the barrier to agents. Does that actually improve your win rates, bring more RFPs to the table? I'm just curious how that's sort of played out in your customer conversation so far."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yeah, it's a good question. I think it's mostly improving our GRL retention. You know, we're going to our existing customers and present them the opportunity to use our data for MCP. and connection if it's through cloud integration or open AI and then suddenly they're getting much more ROI from our data and much more users From the new cell, I think our new solution for Gen-AI visibility that help Brad understand and measure the visibility on chatbots, this is driving the win rate more, this specific solution."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Okay, great. That's really helpful. And then as we think about customer growth, Ron, and I fully understand the sort of 100K customer cohort seems to be continuing quite strongly. Just anything to call out on Q1 and marrying the high gross retention comments with sort of that lower end sub 25K ARR customer cohort and some of the churn we saw there?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yes, because first of all, we are introducing a new metric that we are going to share. It is about the customers that are above 25K, which means that this cohort is a cohort that only our go-to-market can sell. Below 25K, we have a motion of the no-touch or the self-serve. So we decided this does not really resonate with our focus of enterprise. In terms of the GRR, we see very good traction, and you can see it also on the average account value that we shared on our presentation in terms of the 100K. So you can see that those customers, the 100K plus or 25K plus, are generating better average account value, and this is why the GRR returns of the dollar value is much better."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Okay, great. Thank you both."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thanks. Our next question is from Austin Cole with Citizens."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Great. Thanks for taking the question, and or my congratulations to you on announcing your next chapter here. It's been great to work with you. I did want to ask you a more high-level question around pricing because it seems that SimilarWeb is changing a lot just with the LLM deals and MCP connectors, new partnerships, and even your own tools like AI Studio that are based in natural language. And actually, one of your competitors earlier this week announced that they're shifting to more of a platform fee plus consumption structure. I'm just wondering, what your thoughts are on all this and whether a seat-based model or more shifting more towards consumption over time is going to be the better way to leverage."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Overall trend in the industry is AI taking more place and more agent to agent. I think it makes sense. To move to more consumption-based, you can really charge per outcome. And we're selling data about online, and the more data we give and more usage they have, they get more ROI. And for us, it's much better to price like that. So it's overall trend, and we follow with that, and we see good success. And I think that over the next few quarters, this will become bigger and bigger, and maybe more if you want anything to add on top of that."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Yes, maybe just to add, I mean, we don't price by six even today, so we made this transformation actually a while ago, and the way we monetize is by data access, so you can buy different data that you want to use and then consumption on top of it. Some of our products are more data-oriented, less platform-oriented, and are definitely leveraging this already. I think we're also seeing... kind of big potential with the distribution channels, with the AI, chatbots, and how users can use us within this kind of environment. And it's definitely a consumption play. And it's very evident also from NRL improvements. So we have the right infrastructure from a data access and consumption, and we are definitely"
+    },
+    {
+      "speaker": "spk08",
+      "text": "today, where are maybe some of those gaps if they exist and where do you see the most opportunity to kind of widen that moat in 2026 and what maybe opportunities are you evaluating in the market?"
+    },
+    {
+      "speaker": "spk03",
+      "text": "I think all of the new solutions have great coverage, but as long as we continue to increase our data coverage, we can be able to monetize more if it is on our app intelligent and to add more countries The two new products I discussed in the earning, the retail intelligent, we are covering 650 different retail. The more we have, the more retail in different countries we can sell to more customers. And then from ad intelligent that we just launched. And it's very exciting. And it's mostly web advertisement. And now we're adding the new LLM advertisement, you know, chat GPT announced that they're gonna include ads in their free products, and they are scaling it. And I think we are the first company in the world now to bring this data into the market. And this quarter, we're gonna start selling and bring it in front of customers. So it's very exciting."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Great. That's helpful. Thank you, guys."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Just wanted to go back to kind of it looks like total customer count, that growth decelerated quite a bit in the quarter. But I guess would you say that's more of a function of focusing more on growing with the existing accounts that you have? Or would there be anything to call out with paying points with adding net new customers?"
+    },
+    {
+      "speaker": "spk03",
+      "text": "No, not exactly. The number we provide to the street is a combination of touch customers and self-sell customers that come into the website and buy with credit cards. If they decide to pay yearly, so they've been counted in this 6,000-plus number, And because this number that we're reporting from 2021 is yearly paying customer. And over the years, we started adding yearly self-serve customers, so it starts increasing this number. But as we go and marketing starts to do a lot of A-B testing to see if they want to charge the self-serve on monthly or yearly. You know, you can offer the customer what is the default. And then it's changing those numbers, and every time they do a test, they do tests around that. It changes those numbers. So realize it's not a good indication, and it's not going to help you understand the performance of the business. So it's just better for us to focus on the enterprise, the sales motion customers. And so we're going to start reporting to 25K, $1,000 customers and above to remove this noise."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Okay, I got it. And then Um, also just wanted to ask on the, the search process for a new CEO, um, congrats by the way, or for almost 20 years here and getting similar web to where it is. But I guess specifically, are you guys looking internally, um, for a potential new CEO, or would this be an external, um, higher, or I guess just any more details around the process that you could give?"
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yes, so it's in the external search, and now that we announced to the street, we can probably start the search. We already have a top executive search firm that starts working today, and we will report to the street as it will get progress."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Okay, great. Well, thanks for taking the questions, and congrats on the quarter."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thanks. Our next question is from Tyler Racy with Citi."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Hey, thanks for taking the question. This is Andrew Gerard on for Tyler Radke. So just a couple quick ones. So on the customers above 100K, saw the net ads kind of stabilize here from So just kind of wanted your puts and takes on kind of what it will take and what sort of products will help kind of re-accelerate this net ad number going through the rest of the year. And then just a really quick follow-up on MCP and kind of your consumption-based revenue, just understanding that it's early. Any kind of details on the margin structure there for those revenue streams compared to kind of some of your core seats would be great. Thanks so much."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yeah, I would start with the second question about the margin. I think the margins are the same or even better in this consumption model because there's no UI. So every time, historically, when customers used to buy our data from us, our API, first they become more sticky and retention was better. But also they're much more profitable because it's more integrated into the workflow. So you need less customer success people to support those customers and be more sticky. And there's no UI on top of that. I think margin will be better. And regarding the 100K accounts, this year we have good momentum there. I think the team is focusing to get the bigger account to get bigger, like the top account to get bigger because... And those giant customers, we are barely penetrated as we should be. And so we focus on increasing those. But I think it will continue to grow nicely over the year. We start seeing more and more new lands at six figures with a very strong quarter of landing a lot of six figures."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thank you. There are no further questions at this time. I would like to pass the floor back over to management for any closing remarks."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Before we conclude, I would like to highlight four key takeaways. The first quarter was a solid start to the year and came in better than expected, and we are raising the low end of our guidance for both revenue and non-GAAP operating profits for the full year to reflect the improving and the fundamentals. Second, we are witnessing improving fundamentals and growth drivers. NRR has stabilized, growth retention is strong, and sales productivity continues to improve. Multi-year ARR increased, and we extended our track record of profitability and free cash flow. Third, our leadership in digital data has become even more valuable as AI adoption accelerates. And fourth, We're remaining focused on discipline execution and scaling what we have built. AI is a magnificent tailwind for data companies like us. Thank you, everyone, on the call for your continued support. We look forward to speaking to you again over the coming weeks."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thank you. Thank you. Thank you. This does conclude today's conference. A recording of the webcast will be available on the IR website following the call. We thank you again for your participation. You may disconnect your lines at this time."
+    }
+  ]
+}

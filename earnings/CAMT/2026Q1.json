@@ -1,0 +1,223 @@
+{
+  "event": {
+    "ticker": "CAMT",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk05": {
+      "name": "Kenny Green",
+      "title": "Investor Relations"
+    },
+    "spk03": {
+      "name": "Rafi Amit",
+      "title": "CEO"
+    },
+    "spk01": {
+      "name": "Moshe Eisenberg",
+      "title": "CFO"
+    },
+    "spk07": {
+      "name": "Charles Shee",
+      "title": "Analyst, Needham"
+    },
+    "spk02": {
+      "name": "Rami Langer",
+      "title": "COO"
+    },
+    "spk06": {
+      "name": "Brian Shin",
+      "title": "Analyst, Steeple"
+    },
+    "spk09": {
+      "name": "Michael Manning",
+      "title": "Analyst, Bank of America"
+    },
+    "spk04": {
+      "name": "Shane Brett",
+      "title": "Analyst, Morgan Stanley"
+    },
+    "spk08": {
+      "name": "Edward Yang",
+      "title": "Analyst, Oppenheimer"
+    },
+    "spk00": {
+      "name": "Vipassi Shrotra",
+      "title": "Analyst, Evercore"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk05",
+      "text": "Ladies and gentlemen, thank you for standing by. I would like to welcome all of you to Camtech's result Zoom webinar. My name is Kenny Green and I'm part of the investor relations team at Camtech. All participants other than the presenters are currently muted. Following the formal presentation, I will provide some instructions for participating in the live question and answer session. I would like to remind everyone that this conference call is being recorded and the recording will be available from the link in the earnings press release and on Camtech's website from tomorrow. You should have all received by now the company's press release. If not, please view it on the company's website. With me today on the call, we have Mr. Rafi Amit, CEO, Mr. Moshe Eisenberg, CFO, and Mr. Rami Langer, COO. Before we begin, I'd like to remind you that the statements made by management on this call will contain forward-looking statements within the meaning of the Federal Security's laws. Those statements are subject to a range of changes, risks, and uncertainties, that can cause actual results to vary materially. For more information regarding the risk factors that may impact Camtex results, please review Camtex earnings release and SEC filings and specifically the forward looking statements and risk factors identified in the results press release issued earlier today and such other factors discussed in Camtex most recent annual report on SEC Form 20F. Camtech does not undertake the obligation to update these forward-looking statements in light of new information or future events. Today's discussion of the financial results will be presented on a non-GAAP financial basis unless otherwise specified. As a reminder, a detailed reconciliation between GAAP and non-GAAP financial results can be found in today's earnings release. And now, I'd like to hand the call over to Mr. Rafi Amit, Camtech CEO. Rafi, please go ahead."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thanks, Kenny. Hello, everyone. I will open with a review of the quarterly financial results. First quarter revenue reached $121.7 million, slightly ahead of our guidance. The gross margin was 51% and operating income totaled $31 million. Approximately 50% of revenue was driven by AI-related products, while an additional 20% came from other advanced packaging applications. The remaining revenue was generated across a broad range of applications, with a mix similar to previous quarter. We are excited to report that we have experienced an unprecedented start to the year in terms of incoming orders, and provides a strong foundation as we look ahead of 2027. To provide additional color, we have already received order and forecast from two HBA manufacturers for our 3D metrology and 2D inspection steps, representing expected revenue exceeding the amount of as well as from other HPC players later this year and into 2027, further reinforcing our growth outlook. We see a compelling opportunity in the OSAT domain, which is currently undergoing a significant wave of investment in advanced packages, particularly for AI-related capacity expansion. As the leading provider in this domain for both 2D inspection and 3D methodology, we expect to be a major beneficiary of this trend. Based on our backlog and pipeline, Our revenue guidance for the second quarter is between $129 million to $131 million. In accordance with our new incoming business I mentioned earlier, we can already say that we expect a surge in revenue in the second half of 2026, with over 25% higher revenues compared with the first half. with the potential to see additional upside based on timing of orders and deliveries between Q4 2026 and early 2027. Our goal has been and we have been highly successful in achieving it to maintain our leadership in market share in 3D bump methodology while continuing to gain share in this 2D inspection market. Our recent order wins clearly demonstrate the success of this objective and we are extremely proud of this achievement. Last year we introduced two new systems Eagle 5G and Oak built on state-of-the-art technologies. These products are designed to support the industry's evolving roadmap in both inspection and metrology. As the industry faces increasing complexity, tighter performance requirements, including sub-6 micron bulb height, metrology, and inspection capability down to 100 nanometer, Along with growing demand for higher throughput, CapTest has continued to invest heavily in platform innovation, advanced AI-based algorithms, and software capabilities. Market adoption of these two products has been exceptionally strong. Together, they account for 30% of our revenue last year, and we expect revenue from this platform to double in 2026. Leveraging our dedicated AI expert team and strategic collaboration with VideoLayer, we have developed cutting-edge capabilities in detection, metrology and classification. These two new capabilities are already delivering breakthrough performance, including significantly higher throughput, improved detection sensitivity, reduced force alarm and enhanced measurement accuracy. further strengthening our competitive edge. We have demonstrated these capabilities to strategic customers and received very enthusiastic feedback. The innovations we have developed are expected to enable us to expand our 2D market share, win additional process steps across the manufacturing flow, including the front-end, This is expected to significantly increase our total addressable market to over 2 billion in 2027. Over the coming months, we plan to complete integrating all these new AI features into our system. A few weeks ago, we announced the acquisition of Video Adriers. I am now happy to recall that couple of weeks ago, we have managed to close this production and have already started to fully integrate their technology and capabilities into ComTech products. I would like to provide additional color on the rationale behind this acquisition. Over the past year, we collaborated with Visual Layer on an AI-focused project and integrated its technology into our products. The success of this partnership led us to acquire the company, enabling the full integration of its technology, AI research capabilities and engineering team into ComTech groundbreaking AI initiatives. Through Visual Layer, we plan to further expand our offering by developing a dedicated AI-based software product line. To summarize my script, we entered 2026 with record order intake, significantly strengthening our confidence in strong outlook Demand remains robust across AI, HPM, and advanced packaging, while our continued investment in AI-based inspection and methodology is further reinforcing our technology leadership, expanding our market opportunity, and positioning us as sustained growth. And now Moshe will review the financial statements. Ushe."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thanks, Rafi. In my financial summary ahead, I will provide the results on a non-GAAP basis. The reconciliation between the GAAP results and the non-GAAP results appears in the table at the end of the press release issued earlier today. First quarter revenues came in at $121.7 million, slightly above the first quarter of 2025. Gross profit for the quarter was $62 million. The gross margin for the quarter was 51%, similar to the previous quarter. I expect the gross margin to improve in the second half of the year, in line with our strong revenue forecast and the contribution of the HOC and the Gen5, which are expected to double in revenues versus last year. Operating expenses in the quarter were $30.9 million, compared to $24.4 million in the first quarter of last year, and $28.7 million in the previous quarter. Operating profit in the quarter was $31.1 million compared to the $37.3 million reported in the first quarter of last year and $36.7 million in the fourth quarter. Operating expenses have been increasing mainly in the R&D and server marketing areas to support the expected strong growth in business volume. In addition, Operating expenses went up due to the weaker US dollar against the shekel. As a result, operating margin was 25.5% compared to 31.5% and 28.6% respectively. We expect operating margin to return to around 30% level in the second half of the year. Financial income for the quarter was $8.1 million, compared to $5.4 million reported last year and $8.2 million in the previous quarter. Net income for the first quarter of 2026 was $35.3 million, or $0.70 per diluted share. This is compared to a net income of $38.7 million, or $0.79 per share in the first quarter of last year. Total diluted number of shares as of the end of Q1 was 51.4 million. Turning to some high-level balance sheet and cash flow metrics, cash and cash equivalents, including short and long-term deposits and marketable securities, as of March 31, 2026, were $850 million, at a similar level as of year-end. With respect to inventory, In the last few months, we have been working to optimize the level of inventory to the point that it is now $816.7 million. As we are heading into a strong growth period, we expect to see an increase from this level in the coming quarter. Due to timing of collections, Account receivables went up to $131.7 million, compared with $90.8 million in the previous quarter, which resulted in a lower cash generation this quarter. As Rafi said before, we expect revenues of $129 to $131 million in the second quarter. And with that, Rafi, Rami, and I will be open to take your questions. Any questions?"
+    },
+    {
+      "speaker": "spk05",
+      "text": "At this time, we'll begin the analyst question and answer session. If you have a question, please raise your hand by the Zoom platform. I will introduce you and ask you to unmute, after which you may ask your question. Okay, so poll for questions. Our first question will be from Charles Shee of Needham. Charles, please go ahead."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Hi, thanks for taking my questions. Maybe the first one, I want to ask you about the visual layer acquisition. And when it comes to AI algorithm, there's obviously a decision between either make by yourself or buy it from somebody else. So the question is this, why? the Camtech team decided to buy Visual Layer and why making this very specific acquisition now? I'm more asking about the timing of this. And I think you provided some color in the prepared remarks. I did hear that. But what unique capability does Visual Layer provide that provides previously Chemtech in-house capability did not have. I want to ask you about this first. Thank you."
+    },
+    {
+      "speaker": "spk02",
+      "text": "So, thank you for the question, Charles. So, Visual Layer have been working with us, as Rafi noted, in the prepared notes, and for over a year we've been working with them. We know them actually longer, and they developed a very unique technology for annotation and classification. We started to work with them. We realized technology is excellent, and we started to implement it in our products. In parallel, it's not only by on the AI. We have a very large team here at Comtech that is working on the development of all the algorithms. So this is a know-how that we've been developing for the past few years. So really what you are seeing here is a combination of visual layer technology plus the capabilities that we have in-house. Together, I think this is a very good combination. We have their guys, their researchers that are building up our current team. So it's a win-win. It's technology, it's more researchers, more capabilities, and the total ownership of their technology. This is the reason for the acquisition. And I think moving forward, it will give us a lot of capabilities so we can really implement very fast our AI technology that we believe has a lot of advantages compared with our competitors."
+    },
+    {
+      "speaker": "spk07",
+      "text": "I think you mentioned about maybe offering AI-based software to customers I want to get some thoughts on what that means. Do you plan to offer software as a standalone product or it has to be attached to the Chemtech inspection metrology hardware? Either way, when do you think software can start generate some revenue stream that becomes reportable?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you. Okay, so first of all, I think what we mentioned is definitely very clear. We are going to introduce in the very next few months, we are going to introduce to our customers our AI capabilities in inspection and metrology. And as Rafi mentioned earlier, the capabilities of this technology is breakthrough, both in terms of throughput, in terms of accuracies, in terms of our ability to detect very small defects and achieve high level of measurements on our metrology side. These capabilities will be implemented in the very near future. Our key customers have already been approached with and we have shown them the capabilities and we received enthusiastic feedback from them. When shall we see this? It's too early to talk when we should see it as products and revenues. I do believe that we will see the contribution revenues from these capabilities in the second half of this year."
+    },
+    {
+      "speaker": "spk03",
+      "text": "I'm sorry, I would like to add a few sentences about it. As we mentioned in the script, in the notes, there are two stages. Number one, there are a lot of potential to add software package to customer that already use CapTech install base. There are thousands of systems installed based. Many of them, we can give them a software package, including the AI capability, and it improves their performance. So this is what we can sell, only software package to this customer. This is one income or additional income for software. On top of that, on top of all, besides the ComTech software, this team, Visual Layer, have the experience for the industry. So, giving some solution for the semiconductor industry, this will be the second phase. After, first of all, we complete the package for all the customer that use Coptic system."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thanks for the comment. Maybe a last question from me. Any updated thoughts on the China revenue growth this year? Previously, I believe you talked about it will be very strong in revenue dollars, but probably not going to repeat last year's very, very strong double-digit young year growth this year, and the growth for the overall business this year seems to be more driven by the non-China market. Can you provide any updates there?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you. So, Charles, in general, I agree with your comment. China continues to be in a positive trend, and our business from there is healthy. But as you mentioned, the overall, the major contribution will come out of China. This is the situation, so I think your comment is correct."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thanks, Charles. Our next question is going to be from Brian Shin of Steeple. Brian, you may go ahead and ask your questions."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Hi there. Good afternoon. Thanks for letting us ask a few questions, maybe. Firstly, on lead times, with the amount of growth that you're seeing in the business and order pickup, where are they roughly for Eagle and for Hawk, respectively, and I guess relative to that 25%, half-and-half growth, and I think that would equate to something like 10% to 15% quarterly sequentials, do you have a lot of flexibility to drive incremental growth in the current year, or does some of that demand maybe have to shift into next year?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "So, thank you for the question. All in all, Brian, we have all the capabilities, and as we mentioned in the prepared notes, we have enough inventory And we are ramping the inventory in such a way that we will be able to respond to any number that comes. We talked about the forecast, about the very important order of 260 million for 26 and 27, order and forecast. But definitely, from supply chain capabilities, we have no issues. We feel very comfortable with our capabilities. From Leadtime's point of view, the EAGLE Usually the lead times are around three months, and we've been doing it for quite a few years, and the system is built in such a way that we will be able to respond even if we get additional requirements from our customers. On the hook, our lead times are anywhere between three to six months. That's close enough, and again, there we have enough flexibility to respond to any additional orders if they will come."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Great. I appreciate that, Kalarami. Thank you. And of the $2 billion SAM that you discussed for 2027, for reference, what do you think your SAM was or will be this year? And can you maybe outline a few of the major new areas, applications, or adjacencies you plan to address in 2027?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "So, first of all, we said above $2 billion, and we think that the additional market available to us will be additional half a billion So if we're today anywhere above 1.5, 1.7 billion, we will go by about additional half a billion. I think the main applications that we are seeing are primarily in inspection. You know, today, our inspection business is about two-thirds of our overall business. And no doubt, it's a market that we can still expand, and we have on target a number of applications. starting from the back end line of the front end, compound semiconductors, CMOS image sensors, so there are quite a few applications where we can expand our current business. We've been doing it for a while, and we're very confident that in the next year, with the capabilities that we'll be introducing with our AI technology, definitely we have an opportunity to leapfrog our capabilities in inspection, and that's the area that I believe we can grow our business."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Great. Thank you. Thanks, Brian. Our next question will be from Michael Manning of Bank of America. Michael, please go ahead."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Hi, thanks so much for taking the question. I was hoping you could talk more about the incremental 25% half-on-half growth you're seeing in the second half relative to 90 days ago or so. Where is that strength really coming from versus the HBM side, chiplet side, or even on a product basis between Eagle and Hawk? How is that kind of visibility and order strength change? Thank you."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you. So, thank you, Michael. Let me explain to you how I see the market. And, you know, in our experience, the segment of the advanced packaging, our segment, tend to lag behind the front end by, I would say, one or two quarters. This you see to our experience both at the beginning of the cycle and the end of the cycle. And I think what we're seeing today, we're seeing our market in general. Of course, the AI is the engine, is the fuel that's fueling the entire industry and our business as well. So this, if we were hesitant a quarter ago and a couple of quarters ago, exactly how 26 is going to look like, we're seeing and we talked about the order flow that is unprecedented to this time. And we definitely see the surge in the business in the second half and 27 billion. So yes, of course, the AI is in the middle of it, but we see our other businesses, our applications growing in parallel. It's a lot of ones and twos. It's the OSAT business, and it's across all the applications that we're seeing. So all in all, the market is starting to ramp. We're seeing it very clearly. We're seeing it in the different regions as well. It's not just for one specific region. So, all in all, we are in a positive note. We're very excited about the growth that we will see in the second half. Actually, we'll start to see it already in the second quarter. And we expect that this growth will continue into 2017."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Very clear. Thank you. For my follow-up, I just wanted to ask about the chiplet business. Your U.S. chiplet IDM customer seems to be on a better footing right now. In particular, they're talking about strengthening their advanced packaging franchise with potentially billions of sales in the pipeline, I think they mentioned. I know it was even just like a year or a year and a half ago, revenue from that particular customer was next to zero, but what is your visibility for that particular account look like over the next few years? And is your share position, which I know your chip business today is mainly your other customer, Taiwan, but is your share position there meaningfully different? And if I could squeeze like one quick random related question, but are you seeing any strengths from the photonics and optics trend we're seeing, right? Because I think there's some incremental hybrid bonding applications too. Some of your peers have talked about an incremental inspection strength there. So if you could address that too, that would be great. Thank you."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Okay. So definitely our position and the customers that you're referring, and I assume that I understand who you are talking about. So definitely there our share is meaningful. And I think that definitely we will start to see business towards the latter part of this year and into 2027. and we have a very good and close relationship there. So I think that our position there is strong, and I don't want to compare between, you know, different players. We have a strong position in both customers. Regarding the photonics, definitely we are involved there. There are opportunities in the photonics area. I think the magnitude of the business is smaller compared with the larger applications. If you refer to HBM chiplets, It's not in the size of this business, but definitely we're getting applications, and I think this will be a business. The magnitude is still early to talk about."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Great. Thank you so much."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thanks a lot. Our next question is going to be from Shane Brett of Morgan Stanley. Shane, please go ahead."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thank you for letting me ask a question. My first question is on China. So regarding the China business, just how should I think about the competitive environment and your ability to continue winning there? It would be great to receive some color on how you see domestic and international competition there play out. Thank you."
+    },
+    {
+      "speaker": "spk02",
+      "text": "So I think in general, there is obviously the international competition that exists there. Definitely some of the players, some of the bigger players. We see in parallel... And I think it's across all the different, I would say, equipment manufacturers. We are seeing local players, and there are many local players that are trying to compete with us. I think, in general, the disadvantage of the local players is that there are many of them, and each of them are smaller. I would say there is only one meaningful player that really competes with us in China. assume that we will be pressured at the lower end applications, but only because we have been very successful from the beginning of the semiconductor industry growth. In China, we have a very large install base that really enables us to continue and expand the business there. So I think, and there is a lot of offsets build up in China, that's where we ascend, that's our market, they look at other places, they see that we are very dominant in this market, and definitely they would give us an opportunity. So yes, there is pressure, and I would say the main pressure is coming from the local players, however, there is also pressure from foreign players, but I think all in all we have a very strong position, and I expect that we will see a positive trend in the foreseeable future in China."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Got it. Thank you. And for my follow-up, so your process control peers, as well as the more front-end edge debt companies, all seem to be seeing advanced packaging growth of 50% or higher this year. I understand there can be differences in definition of advanced packaging, but if we just take your second half guidance, it does imply your HPC revenue should grow closer to 20% year-over-year. you guys did outperform in 2025. And throughout this call, the sense that I'm getting is you see a lot of strength into 2027. But just can you help me understand this discrepancy in the 2026 growth profiles between what you're seeing and maybe what the broader SP peer set is seeing? Thank you."
+    },
+    {
+      "speaker": "spk02",
+      "text": "So thank you, Shane, for this question. So if the question suggests that we are losing market share, the answer is absolutely no. Our 2026 growth is, first of all, like you said, is measured against record revenues in 2025, which may not be true for other competitors. So, first of all, we're not comparing exactly the same thing. And as noted in our prepared remarks, we plan to increase our market share, both in 2D inspection and 3D, in the advanced packaging area. So, I think here we're not comparing the right numbers, you know, with the right numbers. But, so, and we talked about some of the lag in the business. But if we look at the shift of the business, and you take the business, we will see in the second half, and what we estimate into the second half of 27, the first half, thank you, Moshe, for the first half of 27, definitely the growth will be very, very significant, closer to the numbers that you just mentioned. So I think this is the right way to compare us with our competitors."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Great. Thank you very much."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thanks. Thanks, Shane. Our next question will be from Edward Yang of Oppenheimer. Edward, please go ahead."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Hey, thank you for the time. Hope you and your families are well. I guess first question would just be on the difficult situation in the Middle East. How are you managing through that? Have you seen any impact so far? And just a reminder of your manufacturing footprint. I believe most of it is in northern Israel, but Germany is about 10% and expanding. So if you could expand on those issues, it would be great."
+    },
+    {
+      "speaker": "spk02",
+      "text": "All right, thank you, Edward. So first of all, and I think we said it in previous call, and we've discussed it with investors and analysts all the time, our facility is working as usual. I think we have a phenomenal team in Israel. The team is committed, understands the responsibility it has and the commitments to customers. We have not missed even one shipment throughout the entire few months, and previously this situation definitely is something that is difficult, but we are able to execute and operate both in the manufacturing area, but not less important also on the R&D side. Most of the people are coming to work, very few work from home, and that is also just a few days a week, usually it's one day a week. And from a capacity point of view, we are able to ramp, and we really are seeing 100% performance as if the situation did not exist at all. As you said, we are going to add capacity. In Germany, this is something that is ongoing. But definitely, I think we've been able to overcome the situation, and I'm sure that we'll continue to operate and execute the same way that we've done in the past months and years."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Okay. And just thank you for that, Rami. And for my follow-up, I mean, could you expand more just on your competitive differentiation? Sounds like you're very confident about Hawk and Eagle G5. But other than technology, you know, what is Camtech's advantage? I think in the past you've talked about customization at scale. Is it pricing, servants? Some color around that would be great."
+    },
+    {
+      "speaker": "spk02",
+      "text": "So I think we mentioned it in the prepared notes. You know, we, in the first year of introducing our Eagle G5 and the Hulk, 30% of our revenues came from these two new machines, and we plan to at least double in revenues the sales of these two products. So, I think from the acceptance and adoption of these two products, I think, say something, the confidence on one side of our customers, but also the performance of the machines. I think in general, we want to talk about the competitive just from, I would say, 30,000 feet, there are two things. First of all, it's the mechanical capabilities that are state-of-the-art. We're using the most precise platform with all the capabilities from the optical and all the other hardware on the machine. But I think what we coupled with that, looking into the future, is what we have discussed in the prepared notes, and this is our AI capabilities, which are absolutely breakthrough, coupled with the visual layer acquisition. So moving into the year, we will start to implement it and create another differentiation from our competitors. But I want to mention two things more. I think the OSAT and our customers in China require a lot of flexibility. And I think built into our machines and also built into our manufacturing capabilities, there is a lot of flexibility. If it's from customization, if it's very quick deliveries, it's their abilities to respond to any new requirements the customer wants. We take this one step further and I think we have absolutely the best customer support organization. So I think this whole thing from the relationships to the customer, down to our flexibility, ability, and the quality of our products, I think all together create what content is today."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thank you. Thanks, Ed. As a reminder, if you want to ask a question, please raise your hand on the platform. Our next question is going to be from Vipassi Shrotra of Evercore. Vipassi, please go ahead."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thanks for taking my question. The first one I had is, you know, we're seeing a lot of, you know, component pricing increases at the same time DRAM prices going up. Is that a potential headwind to cross margins? Are you seeing that impact your margins at all?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "Hi, Vipati. So, obviously, there is some pressure from the supply chain, but from the same time, we continue to implement cost reduction projects. in our machine. So I think all in all, what we are going to see in the second half of the year is an improvement to the gross margin."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Understood. And then on the orders that you talked about for HBM, how does that split into 26 and 27?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "We've not included this in our prepared notes, and I don't want just to... Not to be very accurate, there is a significant number already for 26 shipments, and the rest will come in 2027, but there is a big number coming this year."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Understood. That's all for me."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you. Thank you."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thanks, Vassi. So that will end our question and answer sessions. Within the coming few hours, we'll upload the recording of this call to the CanTech website. And with that, I'd like to hand the call back to Rafi for any concluding remarks. Rafi, please go ahead."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Okay. I want to express my gratitude to all of you for your ongoing interest in our business. A special thanks goes to our employees and management team for their outstanding performance. To our investor, I appreciate your long-term support. I look forward to our next conversation in the upcoming quarter. Thank you and goodbye."
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "event": {
+    "ticker": "ALLT",
+    "year": 2025,
+    "quarter": 4
+  },
+  "speaker_name_map_v2": {
+    "spk01": {
+      "name": "Kenny",
+      "title": "Conference Call Operator"
+    },
+    "spk09": {
+      "name": "Eyal Harari",
+      "title": "Chief Executive Officer"
+    },
+    "spk07": {
+      "name": "Liat Nahum",
+      "title": "Chief Financial Officer"
+    },
+    "spk08": {
+      "name": "Operator",
+      "title": "Conference Call Operator"
+    },
+    "spk03": {
+      "name": "Jonathan Ho",
+      "title": "Analyst, William Blair"
+    },
+    "spk04": {
+      "name": "Nihal Chokshi",
+      "title": "Analyst, Northland Securities"
+    },
+    "spk02": {
+      "name": "Shaul Eyal",
+      "title": "Analyst, TD Cowen"
+    },
+    "spk06": {
+      "name": "Jonathan Rycover",
+      "title": "Analyst, Cantor Fitzgerald"
+    },
+    "spk05": {
+      "name": "Matt Colletree",
+      "title": "Analyst, Needham & Company"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk01",
+      "text": "Good day to all of you and welcome to Allot's conference call to discuss its results for the fourth quarter and full year 2025. I would like to thank Allot's management for hosting this conference call. All participants are present in testimony mode. Following the formal presentation, instructions will be given for the question and answer session. As a reminder, this conference call is being recorded. If you have not received the company's press release, please check the company's website at www.allot.com. With me today on the line are Mr. Eyal Harari, CEO, and Ms. Liat Nahum, CFO. Following Eyal's prepared remarks, we will open the call for the question and answer session. Both Eyal and Liat will be available to answer those questions. You can all find the highlights of the quarter, including the financial highlights and metrics, including those we typically discuss in the conference call, in today's earnings press release. Before we start, I'd like to point out the following safe harbour statements. This conference call may contain projections or other forward listening statements regarding future events or the future performance of the company. Those statements are early predictions and Allot cannot guarantee that they will in fact occur. Allot does not assume any obligation to update that information. Actual events or results may differ materially from those projected, including as a result of changing market trends, delays in the launch of services by Allot customers, reduced demands and the competitive nature of the security services industry, as well as other risks identified in the documents filed by the company, the Security and Exchange Commission. Also, the financial results in this score will be presented mainly on a non-GAAP basis. A lot believes that these non-GAAP financial measures... performance in the quarter. For all the data, please refer to the financial tables published in the results press release issued earlier today, which also include the gap to non-gap reconciliation table. And with that, I would now like to hand the call over to Eyal Harari, CEO of AL. Eyal, please go ahead."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you, Kenny. We delivered a strong fourth quarter, concluding a year of accelerated revenue growth significant expansion in cybersecurity ARR and solid improvements in profitability and operating cash flow. In 2025, we returned to double-digit year-over-year revenue growth, reaching 102 million, up 11% versus 2024. We reported our highest level of profit and cash flow in over a decade, reflecting a significant step up in operating leverage and demonstrating the scalability of our business model. Our primary driver of growth, our cybersecurity as a service offering, continues to scale rapidly and is increasingly driving the quality and predictability of our revenue base. As of year-end 2025, the ARR was up 69% year-over-year, and we continue to experience very strong traction. Recurring revenue continued to grow as a share of total revenue and increased to 28 of revenues for the fourth quarter, underlying our transition towards a structurally recurring and more resilient revenue model. For the full year, recurring revenue representing 62% of total revenue, significantly enhancing our revenue visibility. We ended the year with a strong and balanced sheet in many years, with over $88 million in cash and no debt, providing strategic flexibility to invest in growth initiatives while maintaining financial discipline. Overall, our results illustrate the success of our go-to-market focus and the power of our cybersecurity first strategy. At the start of 2025, I laid out a lot of strategy for renewed growth. We are focused on being the cybersecurity-first company operating globally under a unified business unit with the proven synergetic capabilities of cybersecurity and network intelligence. Our success in 2025 demonstrates that this strategy is working. We believe our integrated cybersecurity and network intelligence solutions uniquely position us within the service provider's ecosystem. Our subscription-based cybersecurity offering as a service generates recurring monthly revenue and provides us with good visibility. The pipeline of new potential business continues to be strong, and our offering is gaining bond traction. The growth from cybersecurity as a service offering is built on four pillars. First, we constantly are working to expand the number of CSPs and telcos that we work with to launch cybersecurity protection. Every new CSP we partner with immediately expands our addressable market as it brings us a large new customer base. We recently reported the Compax Venture selected us as its cybersecurity partner, enabling its brands and community-based MVNO customers to differentiate their services with built-in cybersecurity powered by our solution. This partnership significantly enhanced the value proposition that these MVNOs offer to their customers and opens for us another scalable avenue of recurring revenue extending our reach into new customer segments and use cases. The second pillar, after launch, we expand our services to new end user segments at the CSP or Telco, for example, from broadband to mobile customers. Third, we focus on growing penetration of our cybersecurity protection services among our end users by partnering with the customer to market a solution and ensure those subscribers understand the significant added protection they will get at the marginal increase to the monthly bill. And finally, four, we look to upsell new applications and products to customers. As part of this strategy, we recently released our off-net solution, an example of a product with significant value added because it ensures that the end user can remain connected and protected to the CSPs or telcos even when the end user is not on their network. These innovations enable our customer to introduce high-tier security plans to their subscribers, increasing output and driving incremental recurring revenue for both the operator and a lot. We have already upsold this product to both existing and new customers. Looking ahead to 2026, as cybersecurity threats continue to intensify, we remain focused in protecting the consumer and SMB markets, segments that we believe remain underserved by traditional security solutions. Our ambition is to evolve from providing 360 degrees protection of data to delivering 360 degrees protection of the digital life of the consumer. This expands security beyond networks and devices to the individual, encompassing identity protection, scam prevention, and AI-driven security services. This vision reflects how we see consumer cybersecurity evolving over time. and is supported by a pipeline of new AI-enabled products that we have been developing for over a year, strengthening our competitiveness and long-term differentiation. AI is fundamentally reshaping the cybersecurity landscape. Attackers are increasingly using AI to operate at greater scale, speed, precision, and personalization. At the same time, enterprises and consumers are rapidly adopting the AI-driven application, introducing new and often unmanaged tech services. This shift requires rethinking of traditional security approach. The AI-enabled world must be proactive, seamless, embedded into the everyday digital usage, and require minimal to no end-user configuration. Our cybersecurity as a service platform already delivers real-time zero-effort protection, providing scalable, always-on security that evolves in step with rapidly advancing AI-driven threats. In parallel, we are actively leveraging the latest AI technology to further enhance our solutions, addressing current risk while anticipating emerging AI power threats. The significant global investment in AI infrastructure is creating an ongoing need for advanced cybersecurity protections and it is a meaningful opportunity for a lot. Within the SMB segment, we are executing aggressively to deliver more competitive end-to-end security solutions. We believe the small and mid-sized business market remains underserved in the cybersecurity landscape, and that delivering protection via the network is the most effective approach. We now offer immense protection beyond the business network with the off-net secure, have launched firewall as a service, which is already live and deployed, and we introduced DDoS protection for SMBs, enabling protection of inbound traffic, not just outbound. In addition, we expanded into identity with domain-level identity test monitoring, helping SMP protect the digital identity of all the users across the organization. Together, these capabilities bring enterprise-grade security to SMB through a simple cloud-delivered model. Today, our smart product is sold as part of our unified cybersecurity-first platform. With its best-in-class technology, continue to drive strong demand. We are executing on recently won projects, including SGTerra's redeployments and upgrades, while continue to invest to maintain our technology leadership. Interest in the SGTerrain3 platform remains strong, supported by the healthy pipeline from both existing customers upgrading and new customer wins. We were recently selected by a Tier 1 telecom provider in Asia in a multi-year deal worth high single-digit millions to deploy our network intelligence solution. This deployment will enable the operator to gain detailed application-level visibility into network traffic and extract actionable insights. This follows our largest customer win in over five years, a tens of millions of dollar agreement signed last year with a Tier 1 operator in the EMEA region. The deal includes a long-term recurring maintenance and support component, underscoring the strength of our cybersecurity first strategy. Together, these two deals provide increased revenue visibility with smart product revenues expected to be recognized in 2026 and 2027. Looking ahead, we have a pipeline of solid opportunities for smart. While SICAS is our primary goals engine, these recent multi-million dollar project wins reinforce smart's role in providing multi-year revenue visibility and supporting the overall profitability with potential upside, depending on the project conversion timing. We continue to invest in marketing and sales. These investments are focused on strengthening our go-to-market capabilities, supporting new product launches and driving demand across both service providers and enterprise segments. As part of this effort, we will be participating in major industry events in the coming months. In a few weeks, we will attend Mobile World Congress in Barcelona, where we plan to meet with many of our existing and new potential customers and partners and showcase our latest products and services. We will also participate in the RSA conference in March, one of the leading global cybersecurity conferences. At RSA, we will demonstrate our cybersecurity solution and capabilities. Our goal is to generate increased traction with new potential customers interested in our cybersecurity as a service offering. In summary, we are pleased with our 2025 performance, highlighted by the strong fourth quarter, double-digit revenue growth, improved profitability and cash flow, and it significantly strengthens balance sheet. We believe 2025 marks for a lot a structural transition to a more scalable and profitable growth model, driven by our differentiated security first strategy and expanding the current revenue base. During the continued growth in our cybersecurity business, strong visibility and solid backlog, our momentum is set to continue in 2026. We expect SICAS to continue delivering strong double-digit ARR growth, increasing its contribution to the total revenue and driving overall revenue growth in 2026 to between $113 and $117 million, alongside continued profitability improvements. Overall, I'm increasingly optimistic about Salot's future and excited to continue executing on our cybersecurity first strategy. And now, I would like to hand it over to our CFO, Liat Nakhon, for the financial summary."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thanks, Eyal. Revenue in the fourth quarter were $28.4 million, up 14% year-over-year. Revenue from our GOS engine cybersecurity as a service were 8.1 million in the quarter, up 70% year-over-year, and comprising 28% of our revenue in the quarter. Cybersecurity as a service ARR as of December 2025 was 30.8 million, up 69% year-over-year. For the year, total revenue was 102 million, up 11%, versus 92.2 million last year, with cybersecurity as a service up to 26.8 million, representing 26% of our overall revenue. We finished 2025 with more than 60% of our total revenue being recurring revenue. I will now discuss the non-GAAP financial measures. For all our financial results, including the GAAP financial measures, and the other various breakdowns of our revenue, please refer to the table in our results press release. Non-GAAP gross margin in the quarter was 71.9% compared with 69.7% in the fourth quarter of last year. Non-GAAP gross margin for the full year 2025 was 72% compared with 70.6% for the full year of 2024. Non-GAAP operating expenses were 16.8 million compared with the 15.6 million in the fourth quarter of last year. Non-GAAP operating expense for the full year of 2025 were 64.5 million, similar to 64.4 million for the full year of 2024. We reported Q4 non-GAAP operating income of 3.6 million, up 101% compared with 1.8 million in Q4 2024. Non-GAAP operating income for the full year 2025 were 8.9 million, a significant improvement compared with the 0.6 million for the full year of 2024. Allotted 490 full-time employees as of December 31st, 2025. Non-GAAP net income was $4.1 million in the quarter or a profit of $0.08 per diluted share up 105% compared with $2 million in Q4 2024 or a profit of $0.05 per diluted share. Non-GAAP net income for the full year 2025 was $10.9 million or a profit of $0.23 per diluted share compared with the 1.6 million in 2024 or 4 cents per diluted share. We reported 8.1 million in positive operating cash flow in the fourth quarter and 17.8 million positive operating cash flow for the fully of 2025, significantly improving our liquidity position and demonstrating the cash-generating nature and potential of our business model. Cash, bank deposits, and investments as of December 31, 2025, totaled $88 million versus $59 million as of December 31, 2024. As of year-end 2025, a lot has no debt. Looking ahead to 2026. As mentioned in previous quarters, our non-GAAP gross margin depends on the specific product mix sold in the quarter. Our expectations for gross margin in the coming year is in the range of 70%, as it has been in the previous years. Significant spending on AI data centers has created a sharp increase in demand and supply constraints for key components such as memory and servers. While we are actively managing our supply chain and cost structure, we expect this industry-wide trend to contribute to cost of good pressure in the near term. As for operating expenses, we expect an increase in our sales and marketing expenses as we invest in sales and building our pipeline for the next three years. We also expect a modest increase in R&D expenses as we continue to invest in developing our products In addition, since the beginning of Q3, the U.S. dollar weakened significantly versus the Israeli shekel. Given the fact that our headquarters are in Israel, we have significant operating expenses in shekels. Although we are hedging part of that expense exposure for 2026, the negative effect of this weaker dollar has been included in our profitability projections for 2026. Despite these effects and cost of hardware challenges, as Eyal noted, we are seeing strong traction with our security-first strategy that integrates cybersecurity and network intelligence. And we are forecasting double-digit revenue growth in 2026, driving revenues to between $113 and $117 million. We also expect to drive continued profitability improvement, That ends my summary. Eyal and I are now happy to take your questions."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Thank you, ladies and gentlemen. At this time, we will begin the question and answer session. If you have a question, please press star 1. If you wish to cancel your request, please press star 2. If you are using speaker equipment, kindly lift the handset before pressing the numbers. Your questions will be polled in the order they are received. Please stand by while we poll for your questions. The first question is from Jonathan Ho from William and Blair. Please go ahead."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Hi. Congratulations on the strong results and guidance. I just wanted to see if you could give us a little bit of additional detail on maybe, you know, what drove the strength in the CCAS business this quarter as well as, you know, any additional detail on your comments about robust double-digit AR growth in 2026. Is there any way you can maybe triangulate that for us in terms of what that ARR growth could look like? Thank you."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you, Jonathan. The result in the quarter for the FICA CRR was definitely strong and above our expectations. This was based on the very good adoption rates we see for the security services we already have launched with our customers. We announced in the last four quarters multiple wins between Verizon and Vodafone and adding new wins in MassMobile in Panama and additional services that were launched with new and existing customers. This expanded our addressable market and we see that attraction for the security service continues to be strong. and therefore deliver this increased ARR number and revenue. As for next year, we are just in the beginning of the year. We are still seeing that the demand is very high for our security services, and we are expecting, as we said, robust double-digit growth, which means while our revenue for the total company is double-digit in about, to 14% in the midpoint, we are expecting the CCAS ARR to be much higher than that. While we don't have exact number to share in this stage, we believe it will be significantly strong, and this is why most of the growth for the year will come from the CCAS ARR. The CCAS ARR, just as a last comment, as you saw, just past a quarter of our total revenue. So it starts to be affecting our total revenue with that increase."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Excellent. And then just in terms of your opportunity with the MVNOs, you know, can you talk a little bit about what that could mean in terms of unlocking additional to the addressable market, you know, how long it takes for that partnership to maybe translate into revenue and bookings. Yeah, just help us with a little bit more detail there. Thank you."
+    },
+    {
+      "speaker": "spk09",
+      "text": "So I will start with a general comment about the MVNO market. We identified that our cybersecurity as an add-on is a unique value proposition. While we started focusing on MNOs, the network providers, we identified that if we target MVNOs that are coming with a unique business proposition, this might make a lot of sense because they are typically looking for a differentiator. And we are working to offer different MVNOs to add cyber to the base package. and by that come with a more secure network proposition. They are typically not differentiating by the network quality or the big network provider brand like the Verizon or the and we believe cyber security could be a nice differentiator. The partnership with Compass, which is an enabler to an MVNO launch, embedded our security infrastructure which makes it easier to the MVNOs to launch new services. We are currently targeting two new MVNOs that are about to launch during Q2 that the cybersecurity will be embedded in their offering. It's hard to know the exact influence because it's our success is relied on their success. We know they are targeting into going to millions of new subscribers and therefore it could be significant but we really are dependent on their success in the market and it's very hard for us to assess it internally at a lot. So overall we believe it's a new seed we plant that might evolve into something bigger over time. It's not going to influence in the next couple of quarters. But over time, with their subscriber growth and their new network launch, this is another addition to the mix. And we are hoping that following these successful two new MVNOs, we will be able to continue to market to additional MVNOs across the world. Thank you."
+    },
+    {
+      "speaker": "spk08",
+      "text": "The next question is from Nihal Chokshi of Northland. Please go ahead."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Yes, thank you and congrats on the great results. Fantastic cash from operations. On the CCAS AR, you've already given a lot of color here on the qualitative drivers. Could you remind us a year ago, You, I believe, described also in a somewhat nebulous way your CCAS ARR expectations of double digit. And I guess this is additional characterization from robust ARR, CCAS ARR growth. So the first question here is that is the wording intentionally more positive than a year ago?"
+    },
+    {
+      "speaker": "spk09",
+      "text": "So I don't want anyone to speculate. We do see good demand for the solution. We are giving the visibility we have as we shared before. We are dependent on when we will bring the new customer wins, when the new wins will be launched and go to market. And the timing of those launches are not always in our control. and also different marketing campaigns that our customers are having. We believe that the overall strong growth will continue, and this is reflected in our overall top-line growth, and we will share more visibility as the quarter progresses and we have more certainty and clarity on service launches. I would say that a significant part of our growth is coming from that are already launched and already in the market. And we don't see any reason why this should not continue to drive strongly."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Okay. Thank you."
+    },
+    {
+      "speaker": "spk04",
+      "text": "And as far as the sequencing of incremental error are as we go through calendar 26 by quarter, what are your initial thoughts on what that profile would most likely look like?"
+    },
+    {
+      "speaker": "spk09",
+      "text": "So again, we are looking for strong double digits. If you compare to where we are and you see the incremental goals quarter by quarter, you can see that we are progressing very well. And even if you just take Q4 number compared to where we were in Q1, you see an increase We believe that the incremental revenue and also incremental ARR should be in the same range. But as mentioned, this all depends on the go-to-market campaigns of our customers, which can bring us to even higher numbers as we see some strong campaigns going on in the market for the beginning of the year. and we will know more once we see the results coming in from the campaigns that are undergoing now and to see how they are successful. On the first quarter we are not, we are building mostly on what we already have launched and this is the shorter term process we described in the different growth pillars and when we go down into the year we are relied additional service launches that will drive additional goals to the second part of the year. So overall, we are very confident about our biggest opportunity this year."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Okay, great. Last question for me is that in the beginning part of your prepared remarks, you talked about a new SKU already being adopted by existing customers. Can you just give a little bit more detail around that?"
+    },
+    {
+      "speaker": "spk09",
+      "text": "I mentioned the off-net product that last quarter we announced the first customer win. Since we are continuing to work with both our existing and new customers, we have this off-net security component. While our key differentiator is that our security is embedded with the network, we identified additional demand for customers that they want to keep the same best-in-class protection even when they are not on the home network of the customer, of the carrier. So if I am now moving from my cellular connectivity to a Wi-Fi, I want to make sure that I don't lose the same high level of protection, and this is where the off-net protection step in. This is an increased value that helps our customer to increase their revenue from the security package. It's like a higher deal of security, and by that is a another revenue generator for a lot. As I also added, we are adding additional new products that are being launched as we speak. We're going to share more information as part of the product launch campaign to further increase and add more cybersecurity protections and capabilities that will add into our upsell, cross-sell, and gross opportunity and drive the shorter and midterm goals for the company."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Great. Thank you for taking my questions. Thank you, Liat."
+    },
+    {
+      "speaker": "spk08",
+      "text": "The next question is from Shaul Eyal of TD Cowen. Please go ahead."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you. Good afternoon or good morning, Eyal, Liat. Congrats on completing a very solid year. Eyal, one of the topics du jour in recent weeks is whether AI is eating software. And in that context, the more resilient cyber arena was not immune to sharp stock declines, although a lot shared showed great stability. Talk to us about what your customers are telling you in that context as you drive a different model than other pure security companies. And I have a follow-up."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you, Joel. So we do see that AI is increasing the awareness of the cyber security threats. I remind we are focusing on the lower tier customers, the consumer and the SMBs that are typically more an open market for cyber security. So most of us as consumers and small business owners are still very much unprotected the awareness is much lower compared to where other enterprise customers are. We see that it's easier to explain consumers that cyber threat is real, and the old buzz around AI and with all the good that it brings, but also the cybersecurity hazards that are created by it, This is something that we believe overall increase the demand and helps carriers to sell more cybersecurity protection easier. We see some commercial ads that are targeting for this audience, and this is why we believe that this will drive our demand for our product. And the beauty is that it comes from the network, and therefore it's always on, embedded in the solution, and provides you a more secure service. Thank you for that."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Eyal, maybe talk to us about progress at Verizon, maybe as an example. And how do you envision any potential upsells you haven't seen previously? In other words, how long does it take you to penetrate one of those CPSs and then start and upsell new capabilities that, for example, were not under the master agreement? Just curious."
+    },
+    {
+      "speaker": "spk09",
+      "text": "So obviously working with CSP is a long sales cycle. The beauty is that once you are working with the CSP and once you show you are a trusted partner and you already have the contractual framework, the sales cycle is typically shorter. And we definitely demonstrate that in past extensions, even with Verizon that we in the past, in the middle of last year, looking now to the expansion from moving from protecting the fixed wireless access to protecting the mobile business customers. Without getting into specific opportunities with specific customers, I would say that definitely those new additions of the off-net, as mentioned, and the other new cyber protection engines that I shared on the prepared remarks, these are a great opportunity with our install base to further enhance our revenue and ARR from those customers. Thank you so much. Well done."
+    },
+    {
+      "speaker": "spk08",
+      "text": "The next question is from Jonathan Rycover from Cantor Fitzgerald. Please go ahead."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah. Can you hear me? Good morning. Good afternoon. So the question I have, the first question I have is just around the opportunity you're seeing from Sandvine. You know, from what I've read, it seems like Sandvine has emerged as a new entity. It seems like the focus might be more enterprise cloud and MSP relative to tier one carriers. So I'm just curious if you're seeing any incremental change as it relates to share gains vis-a-vis standby?"
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you and good morning. In general, we are not commenting on competition. I would say that most of our focus, as you see in our plans and results, is around the cybersecurity. So this is where we are mainly putting most of our R&D efforts and our strategic investments. We do see, as mentioned before, that our smart product line is performing very well. As mentioned in my prepared remark, we added another high seven-digit new agreement during the last few months that is adding to our backlog of opportunities around the smart that give us good visibility into 26 and 27 to continue the smart product line as a important contributor to our revenue goals and profitability and we continue while executing well and capturing the opportunity in the network intelligence space, we continue to go and invest strong into the cyber and continue to grow strongly in this space."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, no, I understand that completely. You know, it seems to me obviously the smart business is still pretty meaningful overall. And as it relates to AI as a potential disruptor, I am just curious when you look at resources and where you're going to invest in the future and just, you know, how does that coincide with the potential potential increase in network traffic that could be driven by AI. It seems that that could be a benefit for the ESG Terra 3 platform."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Yes, definitely AI adds some network traffic in the AI data centers and we are looking on ways how this adds more demand for traffic intelligence like giving more visibility on the AI use cases that are implemented getting the right priority to make sure AI-critical workloads are getting the right quality of service. And this is why we believe part of the smart product line should have more capabilities that are in this space."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, okay. That makes sense. And then the final question, and you've alluded to this, But, you know, from where I stand, it seems like being deployed across the telco infrastructure really has a lot of advantages as it relates to, you know, the traditional endpoint deployment for most consumer cyber vendors today. And I know you've talked about new capabilities on the cyber side coming out. Give us any more color on timing and specific products. It seems like AI-driven malware, phishing scams, identity theft. It's all a network-native problem that you seem to be well-addressed to, well-positioned to address. So any other details on that?"
+    },
+    {
+      "speaker": "spk09",
+      "text": "Yes. So one of the things I mentioned before that we see consumers are looking for a higher level of protection, not only from the network threats, but more from, as you indicated, fraud-related concerns. And part of our innovation and where we are going to add more value is how we can further enhance our protection around identity, how we can use the network data to identify fraud. For example, if you are trying to go into your bank account and Suddenly you get a fraudulent domain like phishing attempts that becomes today much easier to create. And we see that with AI, you create a new domain instantaneously. And this is something we want to add the additional level of protection to our customers."
+    },
+    {
+      "speaker": "spk06",
+      "text": "So from a timing perspective, are these opportunities that become – monetizable as we look into 2027?"
+    },
+    {
+      "speaker": "spk09",
+      "text": "Yes, we are going to launch those capabilities during 2026, the first batch of capabilities, and therefore we believe this will start to contribute to our revenue, some of them even in 2026 and some of them into 2027."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Perfect. Thank you. That's good for me. Thank you."
+    },
+    {
+      "speaker": "spk08",
+      "text": "The next question is from Matt Colletree of Needham & Co. Please go ahead."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Hey, team. This is Matt Colletree over at Needham. Thanks for taking our question. I wanted to stick on the fraud point for a second here, and I was wondering if you guys have any anecdotes you can share on fraud. what end users are seeing in regards to the rapid evolution and increased occurrence of AI-generated fraud attempts and how a lot of technology is keeping pace with these more sophisticated attacks."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Yes."
+    },
+    {
+      "speaker": "spk09",
+      "text": "So I don't know if there is, again, specific anecdotes, but as pointed before, we see an increased sophistication and celerity in how often – you are encountered with sophisticated impersonation. When it's so easy to create new application and it's so easy to create new website, it's easier for attackers now to go and target you with those fraudulent activities. While in the past, maybe it was done for larger enterprise because it required a lot of efforts to implement. We see that today, It's so easy that also all of us as consumers and small businesses are under attack. What we are trying to do is leverage the unique visibility we have to the network, the fact we see the whole network traffic, we see new network patterns that are happening, and by that we are well positioned to identify those frauds in a faster and more accurate way and give this level of protection to our customers."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Got it. Very helpful. Thank you there. And then are you seeing any acceleration in pipeline progression? And specifically, I'm wondering if you're hearing from CSPs that they've either lost deals because they don't have a security offering or they've had customers get breached and and need more protection there. Anything in that regard would be helpful."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Yes, we definitely see around the globe different occasions of cybersecurity events that affect dramatically the carriers around the globe. This usually gets front page on the country. And we all see that the risk on the consumer is higher and we see a different trend. use cases and events that are populated. Now we are seeing that cybersecurity services are becoming more and more popular but still a lot of, there are still a lot of CSPs in different countries that are not yet offering that. So we do see some countries which we start to work with and then some other carriers also want to add this service. We see regions that in a certain country there is no spring and they are looking to now get also this as cyber security becomes more important. So overall the awareness for cyber security for consumer market is getting higher and SMBs are, if weren't so concerned years ago, now are being more and more concerned with this and asking for higher level of protection. For example, we launched a new firewall as a service. Firewall is very well known and commoditized in the space, and we see that now also small businesses want to get the same level of protection from the incoming traffic, not only making sure their outbound is protected, Adding to that, we are also looking to add DDoS protection based on the assets we have from the smart product line that we are introducing as part of the CCAS. So small businesses could get higher care of protection with the higher risk evolves. Great. Thank you so much. Thank you."
+    },
+    {
+      "speaker": "spk08",
+      "text": "The next question is from Rory Wallace of Outer Bridge. Please go ahead."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Hi, y'all. I was wondering if you could comment on book-to-bill in the smart business in 2025. I know you mentioned securing the additional high single-digit millions order from an APAC customer in Q4 on top of the tens of millions order earlier in the year. So is it safe to assume that the book-to-bill was fairly positive and if so maybe you could contextualize the guidance for 2026 and what you're baking in as far as how much of the pipeline converts to revenue and backlog."
+    },
+    {
+      "speaker": "spk09",
+      "text": "So the book to bill we have is way over one as we announced during the year. Starting the year we announced multiple new accounts of multi-million dollar then further updating about these tens of millions of dollars, and then another new opportunity that we talked about with high seven digits. All of that is accumulated to many millions of dollars that are still not recognized, and our backlog is in very good shape. And as we start 2016, we have very good visibility with a mix of those new wins that adds to the backlog adding to the recurring revenue that we ended the year of north of 60 percent so we are very well positioned to the year and this is why we guided for continued accelerated double duty goals on the total revenue for the company got it and with the new product launches for example the firewall as a service and even identity protection at the domain level which you"
+    },
+    {
+      "speaker": "spk04",
+      "text": "mentioned I believe for the first time today. How is a lot specifically well positioned to sort of modularly add on these additional products for SMBs and consumers and is this something that's, you know, allowing you to stand out in current RFPs or bids with new carriers that see that you can offer more than just a simple anti-malware product but you can actually bring this one stop shop solution"
+    },
+    {
+      "speaker": "spk09",
+      "text": "First of all, when we are now going into new customers, our offering in cybersecurity engines is more enhanced and we can meet more and more requirements and demands. Part of our strategy was always to bring this 360 degrees protection. So in the years of product innovation, we build protection from the network, from the Wi-Fi routers and from the DNS. We added the off-net protection and we added more capabilities on those different touch points. So firewall, DDoS, identity are different additions that make our portfolio more robust and more attractive when we enhance with new customers. But as you pointed, it's super critical for our existing customers. We have more than a dozen of customers that contribute significantly into our AMR today, large tier one customers that are offering our current services and all of those additions are an easier, quicker win to add on top of the service because we already have the relationship, we already have the agreement, we already have the success in the market with the current service and they like us looking to see how we can make more money together And all of those additions are going to support the growth in the coming year."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Got it. And then with the vision on the consumer side and how you plan to sort of extend capabilities beyond just data protection to digital lifecycle, could you maybe elaborate a little bit on how you see that unfolding?"
+    },
+    {
+      "speaker": "spk09",
+      "text": "Yes, so if we take the value of the networking as the anchor and the base of our protection, but once we are already offering a solution to the customer, and with AI coming and creating those additional worries and threats, we want to have a wider and more robust protection to all of these capabilities or requirements. And identity is one example. So even if you are a Your identity is, you know, transversed in the network and exposed from different websites and different applications. While this is not a network security that we are providing, we believe that for the same customers that have already sold from the PSP new service, they want to see and hear how we can protect from identity thefts and how we can help them with frauds, how we can help them with increased... phishing attempts. We all get those messages and with the current technology there are still a lot of concerns from customers and we are trying to get and answer this demand and create this absolute opportunity for us. So networking is our anchor. This is our secret sauce. This is where we see a lot of the data and we are taking this not only to protect the data part of the customer but the whole the whole experience and try to minimize all the stress that he has in the digital environment."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Got it. And then with the near-term environment, you mentioned kind of the incremental CTAS ARR that we saw in Q4 of around 3.3 million. That's sort of a good level to use in Q1 and you mentioned promotional. activity in CODA markets that are going on. It seems like Verizon in particular is really leaning into the FWA business internet security product and is that something that you think could bode well, I guess, for the CCaaS business this year?"
+    },
+    {
+      "speaker": "spk09",
+      "text": "Yes, we see a lot of potential and demand for the CCaaS. As mentioned, our existing customers are promoting the services in different campaigns. without specifying which customer is doing what. And as you saw, the incremental revenue and incremental IRR this quarter was very strong. We don't have any reason to assume it's going to be softer in the coming quarters. We still see a lot of potential demand coming from our base. And on top of that, we want to add more upsells and courses with new customer launches that we are working, our sales team are working to add new CSPs to the mix and upsell into existing CSPs those new cyber protections. So we have all the reasons to believe that the SICAS course will continue to be very strong this year and we are working to continue to assure that it's going to be a multi-year opportunity and some of our investment is already to secure additional very strong growth into following years."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Got it. And sorry I'm running on here, but one more question just on the cost side. We have mentioned the DRAM shortages impacting margins, which I think is no surprise for people in the networking space. With the smart gross margins at around 70%, is it safe to assume that the – I guess the percent of the BOM of the product that's DRAM is likely, you know, not too material and so this is maybe a few hundred basis points of margin headwind or is there any way that you could help us think a little bit more about gross margin and the DRAM impact in 2026?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, sure. So in general, as we said, We factored some of the cost constraints that we see around the hardware due to the demand and the constraints that we see with AI and specific, you know, tips and related items. We are still forecasting the 70% gross margin, and as we also stated, because it's becoming more and more material in percentage of our revenue, so of course it also compensates. So we don't expect, you know, to be on the lower ranges like previous years, still in the range of 70% factors in those constraints, as we currently know, accordingly."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Got it, yes."
+    },
+    {
+      "speaker": "spk09",
+      "text": "And just to add to that, Rory, just to add to this, Rory, we still look on, as you saw in the prepared remarks, that our profitability will continue to improve. We are seeing that while this external pressure is there, there is an opportunity for some of it will be to increase the price with the customers because we cannot... control the whole price of the supply chain and some of it is going to continue to improve because of the that is coming with higher margin and this goes into a higher portion of our total revenue. So with all this pressure we are still looking for expansion of our profitability and with the growth that is expected both top line and bottom line will improve very positively."
+    },
+    {
+      "speaker": "spk04",
+      "text": "So it's more of an acknowledgement of the DRAM cost but not a warning that it's going to significantly hinder the progress. Well, I think you, you know, great job with the results and the call. You know, I think you really, you laid out the vision here for why a lot is, you know, both the traffic management and security capabilities really play into the current environment and how AI is a force multiplier for the hacking side. and requires that protection on the SMB and consumer side. I think also talked a lot about how smart is benefiting. In light of the volatility in the stock today, we just encourage you and the board to think about having a share buyback authorization to take advantage of days like today. I think with 88 million of net cash and 18 million of cash flow in 2025, you're more than adequately capitalized. You know, as we know, markets can be volatile and irrational in the short term. So just two spins from a long-term committed shareholder. Thank you, Holly. Noted."
+    },
+    {
+      "speaker": "spk08",
+      "text": "There are no further questions at this time. Allot's replay will be available on Allot's website in the next day. Thank you for your participation. You can go ahead and disconnect."
+    }
+  ]
+}

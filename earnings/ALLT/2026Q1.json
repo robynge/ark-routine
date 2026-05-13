@@ -1,0 +1,215 @@
+{
+  "event": {
+    "ticker": "ALLT",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk06": {
+      "name": "Kenny",
+      "title": "Conference Call Operator"
+    },
+    "spk08": {
+      "name": "Eyal Harari",
+      "title": "CEO"
+    },
+    "spk02": {
+      "name": "Liat Nahum",
+      "title": "CFO"
+    },
+    "spk01": {
+      "name": "Operator",
+      "title": "Conference Call Operator"
+    },
+    "spk03": {
+      "name": "Jonathan Ho",
+      "title": "Analyst, William Blair"
+    },
+    "spk00": {
+      "name": "Unknown",
+      "title": "Unknown"
+    },
+    "spk07": {
+      "name": "Nehal Chokshi",
+      "title": "Analyst, Northland Capital Markets"
+    },
+    "spk04": {
+      "name": "Jonathan Reukhager",
+      "title": "Analyst"
+    },
+    "spk05": {
+      "name": "Shaul",
+      "title": "Analyst"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk06",
+      "text": "Welcome to Allot's conference call to discuss its financial results for the quarter. I would like to thank Allot's management for hosting this conference call. All participants are present in this and in remote. Following the formal presentation, instructions will be given for the question and answer session. As a reminder, this conference call is being recorded. If you have not received the company's press release, please check the company's website at www.allot.com. With me today on the line are Mr. Eyal Harari, CEO, and Mr. Yat Nahum, CFO. Following Eyal's prepared remarks, we will open the call for the question and answer session. Both Eyal and Mia will be available to answer those questions. You can also find the highlights of the quarter, including the financial highlights and metrics, including those we typically discuss in the conference call, in today's earnings press release. Before we start, I'd like to point out the following State Harbour Statement. This conference call may contain projections or other forward-looking statements regarding future events or the future performance of the company. Those statements are early predictions and Allot cannot guarantee that they will in fact occur. Allot does not assume any obligation to update that information. Actual events or results may differ materially from those projected, including as a result of changing market trends, delays in the launch of services by Allot customers, reduced demand and the competitive nature of the security services industry, as well as other risks identified from the documents filed by the company itself. securities and exchange commissions. Also, the financial results in this call will be presented mainly on a non-GAAP basis. Allot believes that these non-GAAP financial measures provide more consistent and comparable measures to help investors understand Allot's operating performance in the quarter. For all the data, please refer to the financial tables published in the results press release issued earlier today, which also include the GAAP to non-GAAP reconciliation tables. And with that, I'd now like to hand the call over to Eyal Harari, CEO of Allot. Eyal, please go ahead."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Thank you, Kenny. We are pleased to report a very strong start to 2026. Our first quarter revenues were up 14% year-over-year, representing a meaningful acceleration over last year, and marking our third consecutive quarter of double-digit year-over-year growth. Our results reflect the continued successful execution of our cybersecurity first strategy. with CCAS ARR growing nearly 60% year-over-year in the quarter. CCAS revenue rose to approximately one-third of the total revenues in the quarter, up from approximately a fifth a year ago. CCAS growth is driving the continuous scaling up of our recurring revenue base, which now represents 67% of total revenue, and provide us with strong visibility into the quarters ahead. We clearly have transformed a lot into a profitable growth company. These solid results combined with the strong visibility gives us increased confidence that we are well positioned to continue our revenue growth trajectory at a mid-teens rate over the coming year. In terms of profitability, we are benefiting from the significant operating leverage inheriting Allot's business model. Improving gross margin along with significant operating leverage led to substantial improvement in profitability. This operating leverage and enhanced profitability contributed to Allot generating its strongest ever quarterly operating cash flow. Other contributors of this strong cash flow generation of over 10 million in the quarter include the large multi-million dollar smart project we have won in the recent quarters as we began to execute on the backlog and the increased contribution from our success business. This strong cash flow enabled us to end the quarter with almost 100 million in cash and no debt, further strengthening our increasingly healthy balance sheet. This gives us significant flexibility to continue investing in our long-term business growth. The Board regularly reviews its capital allocation strategy. Our three main considerations are investment in organic growth, pursuing strategic compelling acquisitions, and returning capital to shareholders. The goal of our capital allocation strategy is to maximize long-term shareholder value. We are very pleased with the continued growth in the Sikos business. Given the significant long-term potential we continue to see in this market, we have increased our investment in R&D, where we are innovating and bringing new products, services and capabilities to the market. We have also invested in increased sales and marketing efforts, where we are expanding our reach further into existing customers and reaching new potential customers. These investments are translating into the strongly growing pipeline we see today. The pipeline expands across all of our regions, and we are gaining more prospects all the time. At the same time, we are supporting our existing customers to successfully market more of the cyber security services we power, to strong end-user adoption while upselling new potential services which would be attractive to their user base. Our smart product line remains an important and highly complementary part of the unified Cybersecurity First platform. These products are built on decades of a lot innovation and deliver best-in-class network intelligence. We are executing well On the multi-million dollar projects we have won in the recent quarters, including the deployment and upgrades of our TerraSleep platform with Tier 1 operators. As a reminder, the TerraSleep platform is our highly strategic, next-generation, ultra-high-capacity multi-service gateway, offering deep visibility and control over network traffic, and providing a scalable foundation for our advanced cybersecurity and value-added services. During the quarter, we secured a significant Terra 3 win, a multi-million dollar upgrade deal with an existing Tier 1 customer. This win further underscores the strong customer interest and growing demand we are seeing for the Terra 3. Looking beyond this last win, our smart pipeline remains very healthy, with strong opportunities at multiple stages, both from existing customers planning their upgrades to Terra 3 and for new customer engagements that are advancing well through our sales process. Our multi-year smart projects continue to provide good revenue visibility into 2026, 2027 and beyond, and add an additional layer of long-term revenue stability. During March, we participated in Mobile World Congress in Barcelona, where we held a large number of meetings with both existing and potential customers and partners, and showcased our latest cybersecurity and network intelligence offering. The feedback was very positive. particularly around the converged cybersecurity and network intelligence positioning and our roadmap for AI-enabled security. At the end of March, we also attended the RSA conference in San Francisco, one of the leading global cybersecurity events. RSA was again a highly productive event for us with strong interest in our offering. Both events helped us further build our pipeline of opportunities for the rest of the year. It is clear that our broad suite of products and services driven by our cybersecurity strategy is increasingly resonate with the operators globally, leading to new revenue streams for new customers and from upselling and co-selling to existing customers. As I discussed last quarter, but I think it's important to stress again, the cyber threat landscape continues to evolve quickly, particularly with the PKI, which together are dramatically expanding the cybernet service for consumers, small businesses, and enterprises. A lot plays an important role in protecting businesses and consumers from ever-increasing cyber threats, and we strongly believe that today's environment has never been more conductive to our embedded network-native, always-on cybersecurity offerings. Allot solution offer a highly differentiated and convenient experience for end consumers who cannot easily protect themselves. Our SICAS platform delivers real-time zero-effort protection that scales seamlessly with the operator-subscriber base with no end-user configuration required. Exactly what is needed to defend against fast-moving AI-powered cyber threats. We continue to invest in expanding our platform with new capabilities, many of them significantly enhanced by AI, both to address current risks and to anticipate the next generation of threats. These investments reinforce our competitive position and support our long-term differentiation in the consumer and SMB segments, segments which are underserved by traditional security solutions. In summary, we are proud of our first quarter performance. Our success was driven by strong growth in our cybersecurity revenues, following strong uptake by end users adopting the telco-provided cybersecurity services that we power. This trend led directly to substantial improvement in revenue, margins, profitability, and cash flow generation for the third consecutive quarter. With 67% of total revenues recurring, we have strong visibility. We believe that we can maintain and build on our positive momentum in the quarters ahead. Looking ahead, we are reiterating our 2026 revenue guidance of between $113 million and $117 million with continued profitability improvements for the year. Following the strong first quarter, we feel increasingly confident toward the upper end of that range. And furthermore, we now have the strong visibility ahead to predict 40% or more CCAS revenue growth in 2026. And now, I would like to hand it over to our CFO, Liat Nahum, for the financial summary. Liat, please go ahead."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thanks, Eyal. We reported revenue of $26.4 million in the quarter. Up 14% year-over-year. Revenue from our gross engine security as a service were 8.7 million in the quarter, up 71% year-over-year, comprising 33% of our total revenue. Our security as a service annual recurring revenue as of March 31, 2026, were 33.7 million, up 59% year-over-year. 67% of our overall revenue this quarter were recurring revenue. I will now discuss the non-GAAP financial measures. For all our financial results, including the GAAP financial measure and the other various breakdowns of our revenue, please refer to the table in our results press release. Our non-GAAP gross margin in the quarter was 71.3%. compared with the 70.4% in the first quarter of last year. The improvement reflects the high contribution of SICA to our overall revenue mix. As mentioned in previous quarters, our non-GAAP gross margin depends on the specific product mix sold in the quarter. Our expectation for gross margin in 2026 remains in the range of 70%, as it has been in previous years. As CICA's revenue continues growing as a percentage of overall revenue, we expect our gross margin to continue trending higher over time. Non-GAAP operating expenses for the quarter were $16.2 million, compared with the $15.9 million in the first quarter of last year. The slight increase in OPEX reflects our increased investment in sales and marketing to support our pipeline build. as well as investment in R&D to support our product development roadmap and innovation, in particular our cybersecurity offering, which we discussed last quarter. While we are making select investment in sales and marketing and R&D, we remain disciplined and working at a high operational efficiency. We reported a non-GAAP operating income of 2.6 million, with an operating margin of 9.9%, compared with the non-gas operating income of 0.4 million or an operating margin of 1.8% in the first quarter of last year. Allot had 499 full-time employees as of March 2026. In terms of non-gas net profit, we reported 3.1 million in the quarter or a profit of 6 cents per diluted share compared with a non-GAP net income of 0.8 million or a profit of 2 cents per diluted share in the first quarter of last year. We generated record operating cash flow in the first quarter of 10.6 million, reflecting robust profitability and strong cash collection. The strong operating cash flow was partially attributable to one-time advance payments after reaching milestones from a few of our major smart deals that we reported in recent quarters. This is also reflected in our increase in deferred revenue. This is a positive sign that we progress executing those projects, and related revenue will materialize this year. Allotted a robust balance sheet with no debt, cash, short and band deposits, restricted deposits, and investments, as of March 31st, 2026, totaled 98 million versus 88 million as of December 31st, 2025. Looking ahead to the rest of 2026, we are reaffirming our full year 2026 revenue guidelines of between 113 to 117 million. Following a strong first quarter, we feel increasingly confident toward the upper end of that range, and furthermore, we now have the strong visibility ahead to predict 40% or more CCAS revenue growth in 2026. Our gross margin expectation for the year remains in the range of 70%, with a specific gross margin in any given quarter depending on our product mix. On the operating expense side, we expect to increase our sales and marketing as we continue to build our pipeline for the next several years. We also expect modest increase in R&D expenses as we continue to invest in developing our products. Overall, we continue to expect profitability improvement for 2026 as the operating leverage inherent in a lot financial model shines through. That ends my summary. Eyal and I are now happy to take your questions."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thank you. Ladies and gentlemen, at this time we will begin the question and answer session. If you have a question, please press star 1. If you wish to cancel your request, please press star 2. If you are using speaker equipment, kindly leave the answer before pressing the numbers. Your questions will be pulled in the order they are received. Please stand by while we pull for your questions. The first question is from Jonathan Ho of William Blair. Please go ahead."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Hi. Good morning. I wanted to better understand what opportunities you see ahead particularly with your pipeline commentary and also, you know, just a broader question in terms of how you think about the adoption of AI within your customer bases and, you know, particularly the autonomous agents What could that also bring in terms of opportunities for a lot ahead?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "Good morning, Jonathan. So as for the pipeline, we see a solid improvement both in the SMART and CCAS opportunities. I would start with the CCAS. As we pointed out in previous quarters, we expanded our set efforts into reaching more CSPs and trying to build new partnerships. as well as working closely with our existing CSP base in order to continue and evolve the current partnerships. We see an increased number of opportunities, different stages, both with you and existing customers, and we believe this will continue and evolve and mature along the year. On the smart side, as I pointed out earlier, we see a good, demand for our newly released platform, the Terra 3, which we launched last year, which is coming both from existing customers looking to upgrade their current solution as they need more capacity as their network grows, as well as interest from new customers looking to, on this platform with its advanced capabilities with a mix of network and cyber security protection as a platform of choice. So overall, we see good demand and we expect this to materialize over the next quarters. And for AI, as we focus on consumer and SMBs, we mainly see a lot of initial adoption of, like we all hear, and like, you know, the CGPT is the plot. We are not focusing on, when we are talking about our end customers, we are not focusing focusing on the enterprise customers but more on the lower end and there the current usage is really unprotected. Many people are experiencing those tools without the awareness in many cases of the risk that it's encountered. We are looking in our product roadmap and our innovation to see how we can add using our uniquely positioned network protection how we can also protect them from the new threats that are arising due to those new tools. And what I can definitely say when we talk to our PSP partners and also when we do some surveys with customers, the awareness of the risk that is coming due to the AI agent is increasing and people are worried of fraud and impersonation that might come from those very powerful tools."
+    },
+    {
+      "speaker": "spk03",
+      "text": "And then just in terms of a follow-up, you know, where do you see the most opportunities to continue investing in sales and R&D? Can you provide a little bit more specific color, you know, around, you know, where those dollars are going? And how do you think about balancing that with showing operating leverage? Thank you."
+    },
+    {
+      "speaker": "spk08",
+      "text": "So as described last quarter when we laid out the plan for 2026, Our main R&D focus is to see how we can continue and add more cybersecurity engines to our portfolio. This allows us to have better protection for consumer and SMBs, but it also provides us an upsell and cross-sell opportunity to our existing base. So we discussed last quarter about solutions like network firewall and DDoS protection, and also part of the coming innovation is how we protect from the AI threats, how we add identity protection as people are worried of their credentials being stolen and shared in the dark web. Geographically we see that most of the advanced market, mature market are already aware of the need for cyber security but we are starting to see that the demand for cyber protection is also starting to mature also in developing market. As we have global partners and a lot with its decades of presence in the CSP space, we have a very global presence and we try to leverage our good relationships with carriers around the globe. But definitely the biggest worry today is in the developed market and we believe over time this will continue globally. In terms of operation leverage, The fact we have the install base of smart customers, which we have hundreds of customers around the globe, that we can have the same sales team also upselling them the security solution and cross-selling them other tools improve our operational efficiency over time. We see that as we continue to grow the revenue, our gross margin strengthens and our profitability expands."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk01",
+      "text": "The next question is from Nehal Chokshi of Northland Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, thank you. We got some good results. I got two sets of questions. First one is on the cash from operations, very strong. Is that a result of some outside bookings that you experienced within the March quarter?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "So the cash expense is overall the profitability expense, and we saw this trend in the last few quarters. As pointed out in the preparer's remark, some of it is coming from new orders that we got through the Q1 quarter, but some of it is also milestones we reached from orders we received during 2025 as we start to progress with the project milestone of some of our projects large customers, we start to get repayments available as we progress well with the project."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Okay. Could you describe backlog levels relative to a quarter ago and a year ago? Can you repeat the question, sorry? Could you give some characterization as to the backlog levels relative to a quarter ago and a year ago?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "So we don't share on the quarterly level our backlog and this is something that we focus on the revenues. Overall we are seeing good demand for our products and this reflects by our increased visibility and our comment on our increased confidence that we can meet our highest range of the guidance and also our higher for the revenue for the year."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Okay, great. And then the other question is around the CCAS. Glad to see the formal raise from double digit to at least 40% year-over-year growth, which then you could say roughly equates to about $12 million of the incremental ARR for calendar 26. We did almost 3 million in the first quarter. how should we think about the linearity of that incremental ARR as we go through calendar 26 and, you know, is this being driven by incremental carriers being layered in, incremental skews from carriers or just the ongoing expansion within existing carriers?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "Okay, so overall we see that the SNCCAS revenue is growing sequentially and it's quite stable growth. So I think it's a safe assumption to assume it will grow about linearly over the year. We have strong growth coming from our base customers. This is what we call the organic growth of customers that already launched services. As we proceed along the year and mainly towards the end of the year, The growth is going to be supported by new wins within our existing customers and mostly new customers that we will win during the year will support our growth into 2027 if there is some time between the win, the implementation of the solution and the ramp up of the services. So majority is coming from the services that we see and we see a higher tax rates and traction for the service. This is the majority of the revenue in the growth, and then it goes with some upselling and new customers that come mostly support our longer-term growth. Great. Thank you very much. Thank you, Nihal."
+    },
+    {
+      "speaker": "spk01",
+      "text": "The next question is from Matt Kalitri of Middleman Company. Please go ahead."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Good morning, this is Matt Colucci from Needham here. Thank you for taking our questions. To follow up on the strong CCAS strength seen here, is there any color you can provide on any progress made with new business wins or rollouts that occur during the quarter?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "The quarter is based on the customer we won last year like Mass Mobile in Panama and our good success with other tier one customers around the globe that continue to promote their services with a customer base. I think what we see is that CSP finds cybersecurity as a very important service and they give more attention in order to promote the service with their customers. We see some customers doing promotions and offer our cybersecurity services in higher priority, I would say, and use it in some of their promos, which support grows from our existing base. We do see good progress with our pipeline, as asked before, and we see more areas in different stages of our pipeline. This goes with both our new models as we mentioned like the DDoS, the network firewall, the identity monitoring that are added capabilities that have more value to potential existing customers as well as customers that we reach with our extended sales effort as we continue to have more sales people on the ground working with more PSPs to build new partnerships."
+    },
+    {
+      "speaker": "spk07",
+      "text": "That's great to hear. And so then as it relates specifically to the updated guidance for the 40% plus CCAS revenue growth compared to the commentary for robust double-digit growth given last quarter, how did that change relative to your internal expectations and what did you see over the quarter that informed this update to the outlook?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "We are overall aligned with what we plan. We are, let's say, somewhat more optimistic. And maybe once Q1 passed, our visibility is higher. We are relying on our customers to do their promotions and go to market. So a lot of the growth is dependent on the CSP marketing activities. As we see that Q1 ARR growth was very high. This means that we have the visibility to sustain growth of 40% or more in our for the year. So we are one quarter further into the year and we are more confident that this high robust double digits that we targeted for the year, we can give more color and we also heard our investor want to see a more accurate estimate so we try to give more exact number and they are now feeling more comfortable to commit on this 40% expectation."
+    },
+    {
+      "speaker": "spk07",
+      "text": "That makes sense. Thank you for that. Just one last one for me. Can you help walk us through the mechanics of the smart deal that you called out? I think you said you saw some prepayments this quarter that led to the free cash flow strength. Will there be any more of those pre-payments coming through and how exactly is that expected to flush through the revenue line?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "So as we pointed, the high cash flow was generated from a few one-time advance payments related to smart deals that we started executing. The model of the smart deals can be fluctuate over quarters so payments are not necessarily related to revenue and this is why we also remark that you see also the increase in deferred revenue and this deferred revenue will be materialized over the year. Basically the way that those deals are structured is that we are getting a lot of times prepayments that are related to executing milestones, and this is what happened this quarter."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Awesome. Thank you so much."
+    },
+    {
+      "speaker": "spk01",
+      "text": "The next question is from Jonathan Reukhager of . Please go ahead."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Yes. Thank you. Good morning and good afternoon, Leah. So, Al, your prepared remarks, you know, I thought were quite constructive just around everything you're doing, right? The investments in R&D, sales and marketing. You commented on strong pipeline broadly for new customers. Also, you know, the expansion opportunity for CCAS. And, you know, I appreciate the heightened confidence just given what we're seeing in the increased guidance for CCAS revenue growth. I'm just curious, you know, philosophically, what keeps you from providing a formal CCAS ARR guidance? It does seem like that is the leading indicator in terms of, you know, where you're focused strategically."
+    },
+    {
+      "speaker": "spk08",
+      "text": "So again, as I mentioned, our growth in CCAS is dependent on our CSP customers, launch time of new services, their service adoption and their marketing campaigns and therefore the, you know, we are relying on their efforts and their success and their success becomes our success. Our ARR in the quarter gives us the visibility to grow the revenue for the year as we proceed over the year and we see more and better visibility to the new wins and new launches then we continue to evolve our SICAS goals over the ETC and the next. We continue to see the cybersecurity strategy as our main focus and we are focusing both on the short-term goals and long-term goals in order to sustain this high double-digit SICAS as the main goal driver for the company. And I think that this is working well for us as you see in the numbers. And we hope to continue to do well as we proceed along the year with the further adoption of the cybersecurity services by our existing customers as well as new services that are going to be offered. Yeah. Okay."
+    },
+    {
+      "speaker": "spk04",
+      "text": "So I'm just curious, you know, product revenue seems to drive more upside than services. And that's the dynamic we saw last quarter as well. Can you just talk about that outperformance? Obviously, the smart portfolio is doing well, but how do you see that playing out as we go through the rest of the year? You know, CCAS adoption seems like it could reverse that trend. Maybe some clarity on how we should think about that going forward."
+    },
+    {
+      "speaker": "spk08",
+      "text": "So, again, most of our growth is coming from the CCAS. What we see, the SMART is giving us good support with good stability in revenues and with some modest growth so far. As mentioned also in the previous quarter, in SMART we have, because this is less recurring, it's more, it might fluctuate between the quarters, but it also gives us the potential upside as it depends on project maturity and execution milestones. As we have some of our customers in the millions of dollars and this depends on meeting the milestone. It can move sometimes between quarters and this includes potential to go even higher on the product if we execute faster and if we continue to see the good demand that we are seeing. Overall, most of the goals, as you saw in the quarter and this is the plan for the year, should be supported by the very high growth we are seeing from the CCAS. And the total revenue is supported in giving us, the smart is giving us the scale, as well as it's giving us the upside opportunity working with existing smart customers to upset our security solutions. So this was the model, this is the model, and we see it working well, and we continue to go in this approach."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Yeah, fair enough. And then the last question I have is can you talk about the adoption trends you're seeing around the introduction of the new security capabilities you've been making available? And just also just the strategy between monetization to get higher tier price packages relative to, you know, a goal of improving subscriber expansion and retention. How do you balance those two when you look at those new products?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "So overall, we got a very good market feedback about our new capabilities. Obviously, as we have some strategic partners, we work closely with them to share and adjust our roadmap and development to their strategy and direction. I would say that our customer really liked the fact that they could offer very easily or relatively easily additional capabilities. as they see this monetization opportunity both directly as increased revenue. Some of them are looking to increase the cybersecurity package. For example, if I'm offering a package for a dollar, I can uplift it to $1.50 by adding more capabilities. Some are looking for those capabilities as a way to attract more users and increase their attach rates. And some are also using it as a defensive mode as they see competition from their other CSPs They believe they want to stay more competitive in order to retain their growth rate. Overall, the market understands that the consumer and SMBs are under-served and under-protected, and they really like the concept that we provide. It's turning a lot to a wider and more extensive platform with more cyber engines. It's really well received by our customers."
+    },
+    {
+      "speaker": "spk04",
+      "text": "And just on those CSPs looking at that, looking at the monetization aspect of those new capabilities, what is the lag before you would begin to see an uptick in ARPU?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "So it really depends on the go-to market. If they are to go and update the price for an existing package, it could be... If they are going to launch it as a new package for new customers, therefore it takes more time. So it's very hard to give color in this stage, and it's varied between different customers. What we do see is that, and again, back to the previous remark, we already have this visibility that we can grow at 40% or more in our CCAS revenue. I think this gives you the most important part of the answer. Yes."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Understood. Thank you very much."
+    },
+    {
+      "speaker": "spk01",
+      "text": "The next question is from . Please go ahead."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thank you. Hi, . Congrats on a strong start to the year. I wanted to ask about how you are using AI internally within a lot on sales and marketing, on R&D. Can you share some thoughts with us and also how do you think about hiring into 2026? And I have a follow-up for you."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Thank you, Shaul. So AI is something that keeps us busy. I'm sure like any management in any company these days, we are looking on three dimensions. One is, first of all, what is the cyber threats? for our customers that require us to enhance our product and roadmap. And our product team is busy now to identify the new threats and create new innovation to help consumer and SMP be more protected with the newly introduced threats coming from AI. For example, if we are able today to protect from fraud and sites, we see new categories of sites that are purely AI. adult content that is purely generated by AI or malicious phishing attempts that are generated by AI. So all of these is changes in the tech surface that we prioritize our product team, by our product team to see how we address. Second, of course, we are trying to see where AI can help us in the development cycle. We are looking on the most advanced tools that are integrated into our R&D cycles. in order to see how we can get more efficiency. We are in this stage mainly focused as we want to create more innovation and to expand our portfolio. We are mainly trying to see how we can accelerate R&D and accelerate time to market and introduce more capabilities with our current teams. And third, we are looking how to create more operational efficiency across the organization We are working on different initiatives trying to create automated processes that will make our team stronger. I would say that in general what you could see that while our top line continue to grow, we are managing to keep the same operational expense and again it stays in similar level which eventually increase our profitability. If we use AI smartly, we can continue to create more product differentiation and unique value proposition in one end, but also overall organization efficiency that continue to expand our profitability. So this is very much across the organization."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Got it. And how should we be thinking about hedging the U.S. dollar versus the shekel or vice versa? Elias, can you help us in that respect?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yeah, sure. So as we mentioned also last quarter, we continue to see the shekels strengthening and we have expenses in Israel since we have headquarters in Israel. However, we are edged for 2026 and therefore when we modeled our expectations for 2026, this is already taken into consideration. and we expect to drive continuous profitability improvement, and we feel very comfortable doing so with our edging approach for 2023."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thank you very much."
+    },
+    {
+      "speaker": "spk01",
+      "text": "There are no further questions at this time. I will now hand back the call to Eyal Harari, Allot's CEO, for concluding statements. Mr. Harari, please go ahead."
+    },
+    {
+      "speaker": "spk08",
+      "text": "So thank you everyone for joining us on the call and hope to see you all in our next quarter results. Thank you."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "event": {
+    "ticker": "BWAY",
+    "year": 2025,
+    "quarter": 4
+  },
+  "speaker_name_map_v2": {
+    "spk06": {
+      "name": "Operator",
+      "title": "Conference Operator"
+    },
+    "spk05": {
+      "name": "Brian Ritchie",
+      "title": "Conference Moderator, LifeSci Advisors"
+    },
+    "spk01": {
+      "name": "Brian Ritchie",
+      "title": "Conference Moderator, LifeSci Advisors"
+    },
+    "spk04": {
+      "name": "Hadar Levy",
+      "title": "Chief Executive Officer"
+    },
+    "spk03": {
+      "name": "Ido Marom",
+      "title": "Chief Financial Officer"
+    },
+    "spk07": {
+      "name": "Jeffrey Cohen",
+      "title": "Analyst, Ladenburg-Thalman"
+    },
+    "spk02": {
+      "name": "Carl Burns",
+      "title": "Analyst, Northland Capital Markets"
+    },
+    "spk00": {
+      "name": "Katie",
+      "title": "Analyst, H.T. Wainwright"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk06",
+      "text": "Good day and welcome to the Branch Way fourth quarter and full year 2025 earnings conference call. All participants will be in listen-only mode. Should you need assistance, please signal a conference specialist by pressing the star key followed by zero. After today's presentation, there will be an opportunity to ask questions. To ask a question, you may press star then one on your telephone keypad, and to withdraw your question, please press star then two. Please note, today's event is being recorded. I'd now like to turn the conference over to Brian Ritchie with LifeSci Advisors. Please go ahead."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk01",
+      "text": "And thank you for joining today's BrainsWay fourth quarter and full year 2025 earnings conference call. With us today are BrainsWay's Chief Executive Officer, Hadar Levy, and Chief Financial Officer, Ido Marom. The format for today's call will be discussion of recent trends and business updates from Hadar, followed by a detailed discussion of the financials. Then we will open up the call for your questions. Earlier today, Brainsway released financial results for the three months and full year ended December 31st, 2025. A copy of the press release is available on the company's investor relations website. Before I turn the call over to Hadar, I would like to remind you that this conference call, including both management's prepared remarks and the question and answer sessions, may contain projections or other forward-looking statements regarding, among other topics, Brainsway's anticipated future operating and financial performance, business plans, and prospects, and expectations for its products and pipeline, which are all subject to risks and uncertainties, including shifting market conditions resulting from geopolitical supply chain and other factors, as well as the use of non-GAAP financial information. Additional information regarding these and other risks are available in the company's earnings release and in its other filings with the SEC, including the risk factors section contained in brain choice form 20F. I would now like to turn the call over to Hadar. Please go ahead, Hadar."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thank you, Brian. Welcome, everyone, and thank you for joining us today. We close 2025 with strong momentum. reporting a 27% increase in revenue to $14.5 million for the fourth quarter. Revenue for the full year also grew 27% to $52.2 million compared to 2024. I am pleased to report that this puts us slightly above the high end of our guidance for 2025, with a steady wind at our back as we head into 2026. In addition, We delivered 10 consecutive quarters of profitability supported by expanding margins and the implementation of our reoccurring model. Taking a deeper dive into our performance, 95 deep TMS systems were shipped during the fourth quarter and our install base reached approximately 1700 deep TMS systems worldwide. As a result, we exited the fourth quarter with a book to bid ratio of 1.4x up from 1.2x last quarter. In addition, our remaining performance obligation reached $70 million representing approximately 43 percent growth from $49 million a year ago. Overall, our expanding backlog reflect not only strong demand, but also our ability to efficiently monetize long-term commitment through recurring lease and contract. As we have discussed previously, a major driver of our ongoing success is the decision we made a little more than two years ago to focus our efforts to grow by targeting large enterprise customers who value our technology and the high level of service we provide to support their deep CMS systems. During this transition, we also observed that these customers increasingly were interested in our leasing program, which better support the rapid extension and ongoing maintenance needs. This shift has enabled us to build highly attractive recurring revenue model. Today, the majority of our enterprise customers are signed on a long-term leasing agreement with a high rate of customer renewals. Overall, this model provides meaningful stability and visibility into our revenue and growth potential that extends for years into the future. It is worth mentioning that this recurring revenue model has also allowed us to scale revenue significantly faster than operating expenses, demonstrating the operational discipline that continue to expand our margins and increase profitability. Importantly, we are still in the early stage of building awareness adoption of deep TMS. I estimate we have penetrated less than 10% of the market, and we continue to see strong demand from both new facilities and patients seeking access to our systems. As part of our long-term growth strategy to take additional market share, we have targeted extended reimbursement coverage with PERS across the US. I am pleased by the progress our team has made on multiple fronts, driving by broader adoption of DTMS our clinical research, which has produced positive results across multiple new indications and patient segments, and our development of the accelerated SWIFT deep TMS protocol. These initiatives are delivering positive market reaction, and I cannot praise the BrainSuite team enough for the work they are doing behind each of these programs. A central reason we stand apart in the market is our innovative platform. supported by extensive peer-reviewed published clinical evidence demonstrating efficacy across a broad range of conditions, including major depressive disorder, anxious depression, late-life depression, OCD, and smoking addiction. We continue to advance the clinical and regulatory pathway for deep TMS by expanding our potential indication pipeline, including ongoing work in alcohol use disorder, which I will touch on shortly. In parallel, we are supporting the evaluation of accelerated treatment protocol for a certain indication with the goal of further improving patient access and treatment efficiency. In the fourth quarter, the FDA granted a label expansion for the deep TMS system, allowing the treatment to be used as an adjunct therapy for adolescents age 15 to 21 suffering from major depressive disorder. This clearance expand the addressable patient population and position deep TMS therapy with the broadest age range for treatment of depression spanning patients from 15 to 86 years old. It is worth noting that an estimated five million adolescents in the U.S. have experienced a major depressive episode with the past year. As such, we believe this represents a large potential patient population that can now benefit from access to this treatment option. We recently received market clearance for an accelerated deep TMS protocol for the treatment of MDD. In addition, several pairs have begun providing coverage for this new protocol, an important step that supports broader clinical adoption and improved patient access. This includes Primera Blucose, which was the first to issue coverage for accelerated deep TMS for adolescents and adult NDD patients, and Highmark Blue Cross Blue Shields, which released a draft coverage policy for accelerated deep TMS across its covered population. We believe these milestones will support broader adoption of deep TMS and reinforce the clinical leadership of our platform. Access to treatment goes beyond pairs and approved indications. For many patients, considering deep TMS, one of the major hurdles has been time, specifically the number of required office visits. This is why we are so excited to have announced just last week landmark data featured in two peer-reviewed manuscripts published by Brain Stimulation, the premier journal of neuromodulations. This data further validate that our SWIFT deep TMS protocol for the treatment of MDD provide a significantly faster, non-invasive way to treat patient without compromising the efficacy of our existing protocol. We believe widespread adoption of SWIFT approach, which reduced the number of clinic visit in the acute phase of deep TMS treatment by 70%, could alter how interventional psychiatry is delivered, improving patient retention and expanding clinical option at the time when demand for non-drug depression therapies is rising. We believe the SWIFT protocol will result in as a win for the patient, the provider, and the PERS. We are also seeing PERS making meaningful changes that improve patient success, access, by reducing administrative barriers. This includes Evernorth Behavioral Health's recent decision to eliminate prior authorization requirements for TMS for contracted providers treating patients covered under Evernorth and Cigna health care plans. We view this as an important step forward in expanding access to this effective and well accepted therapy. as it empowers providers to deliver timely care to patients who meet Evernote's TMS policy selection criteria. We hope this progress helped pave the way for similar actions by other peers. Moving to an update on clinical activities for deep TMS. In the fourth quarter, we announced that an NIH grant for $2.5 million was awarded for Stanford Study on Deep TMS for Alcohol Use Disorder, or AUD. This represents a major economic and health burden affecting about 29 million Americans, and despite available treatment, up to 60% of patients relapse within three to six months. This study, which is posted on clinicaltrial.gov for any of you that would like to review the details, will utilize our novel DeepTMS360 system, which has been designed to provide more comprehensive and uniform stimulation of the neurons in the targeted brain regions. We look forward to supporting this study. We are also preparing a submission to the FDA for clearance based on the data from US depression patients with comorbid PTSD symptoms primarily treated within the VA system. As a reminder, deep TMS offers several meaningful advantage compared to other treatment options. It is an outpatient procedure that does not require hospitalization or anesthesia. It's generally well tolerated and it's associated with minimal side effects. In Israel, the concern surrounding PTSD has risen dramatically. following the October 7 attack. In response to the growing clinical need, the Israeli Ministry of Defense Rehabilitation Department has approved reimbursement for deep TMS therapy for qualifying PTSD patients treated in Israeli public hospitals. This decision represents an important step in expanding access to care for those affected. Changing gears slightly, let me provide an update on our strategic initiative focused on securing minority equity investment in high-performing mental health providers, operating 5 to 50 centralized sites. As a reminder, this investment provides capital to providers, which in turn enables them to support growth initiatives and launch new locations. Our investments are designed to facilitate their ability to scale more rapidly, allowing for faster access by their patients to interventional psychiatry modalities. We believe their success truly validate our capital efficient enterprise partnership strategy. In addition, positioning these providers to grow and invest in the services will further support the broader ecosystem and help expand innovation which is also a part of our strategy that I will touch on more in a moment. To date, we have announced minority investment in five mental health networks, including BrainSteam Health, which we completed just last month. I am excited to report that the providers that we invested in are already performing strongly, with growth reported in the patient demand for interventional psychiatry therapies. including deep TMS in just two to three quarters. This macro growth also translate into micro growth for our core business in addition to the increased value of our equity stake. Looking ahead, we have already identified more than 200 other qualified clinics as a potential candidate for participation in this program. We look forward to providing updates on additional investment throughout 2026. We see meaningful opportunities to broaden our impact in mental health treatment. While DeepTMS remains our core strength, we believe we can leverage this market position to develop a portfolio of data-driven technology and able normalization solution that can serve more patient in more setting and with more treatment options. Our long-term vision is to become the only company mental health offering database integration of multiple treatment modalities across multiple care settings. It was under this strategy that we executed an initial strategic investment in NeuroLive, a developer of ProLive RX, the world's first wearable, non-invasive, multi-channel brain neuromodulation platform that is designed for use at home. In January, FDA granted Class III PMA labeling for Polyvarex as an adjunct treatment for adult patients suffering from major depressive disorder. This approval represents a significant regulatory milestone, making Polyvarex the first and only atom neuromodulation treatment with FDA labeling applicable to treatment refractory MDD patients. We are excited. to be working with the Neuralift team on meaningful synergetic approaches that include the commercial and research infrastructure of both companies. As a reminder, our agreement with Neuralift includes milestone-based funding for up to an additional $11 million of convertible loan over two tranches, along with an option to fully acquire the company. With that, I will now turn the call over to Ido for his review of our fourth quarter 2025 financial results."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Ido. Thank you, Adar. As Adar mentioned, we had another very strong quarter with revenue of $14.5 million, representing a 27% increase compared with $11.4 million reported for the same period last year. During the quarter, we placed 95 deep TMS systems, bringing our total install base to approximately 1,700 systems as of December 31st, 2025, a 26% increase compared to the same point in the prior year. As a result of our strong performance in the fourth quarter, we beat the top end of our guidance with $52.2 million of revenue recorded for the full year 2025. This represents a 27% increase compared to the $41 million reported for 2024. Gross profit for the quarter was $11.1 million, up $2.6 million from $8.5 million in the prior year period, while increasing gross margin to 76% compared with 75% for the same period last year. Gross profit for the full year 2025 was $39.4 million, or a 75% gross margin, This is compared to $30.6 million during 2024, which reflected the same gross margin. Turning to operating expenses, sales and marketing totaled $5.1 million compared to $4.5 million in Q4 2024, an increase of approximately $0.6 million driven by targeted investment in commercial expansions and marketing programs. For the full year 2025, sales and marketing expenses were $18.9 million compared to $16.2 million for 2024. Research and development expenses were $2.5 million compared to $2 million last year, an increase of $0.5 million primarily from our ongoing clinical trials and development activities, which represent investment in our future. R&D expenses for the full year 2025 were $9.6 million compared to $7.2 million in 2024. General and administrative expenses were $1.6 million, flat with the prior year period. General and administrative expenses for 2025 were $6.5 million compared to $5.8 million for 2024. Operating income was approximately $1.9 million, which is a $1.5 million increase compared with the $0.4 million reported for the same period last year. Operating income for the full year 2025 was approximately $4.3 million compared to $1.4 million in 2024. This performance reflects the scaling of our operation, strength of our recurring revenue model, and discipline cost management. Adjusted EBITDA increased to $2.3 million from $1.5 million in the prior year period. For the full year 2025, we reported adjusted EBITDA of $7 million, representing 13% of revenue, which is at the top end of our guidance. This is compared to adjusted EBITDA of $4.5 million for 2024, or 11% of revenue for the previous year. Net income for the quarter was $2.9 million for 2025 compared to $1.5 million in the same period of 2024. For the full year, we recorded net income of approximately $7.6 million compared to $2.9 million in 2024. Turning to the balance sheet, we have maintained a strong cash position with $68 million in cash and cash equivalents. as of December 31st, 2025. We believe this capital will support the continued growth of our core scientific and technology operation, as well as our strategic investment program, which aims to increase patient access to innovative treatments, while also building long-term value for our shareholders. Remaining performance obligation grew to $70 million, a 43% year-over-year increase. We believe this further proves the strength of our long-term growth strategy and provides strong visibility into future revenues. Cash flow from operation in 2025 was positive, further reinforcing the strength of our recurring model and high collection efficiency. Our capital structure remained debt-free, giving us significant flexibility to pursue strategic growth initiatives, including the investment program Adaro outlined earlier. Looking ahead, we are excited by the momentum in our business and the opportunities ahead. Based on our strong backlog, sales pipeline, and new growth opportunities following recent FDA clearances, we expect revenue in the range of $66 to $68 million for the full year 2026. This guidance represents a year-over-year growth rate of 27 to 30%. Also, we expect operating income in the range of 13 to 14% of revenue, and adjusted EBITDA of $12 to $14 million, representing anticipated growth of 86 to 100% over 2025. This concludes my prepared remarks, and I will now turn the call back to the operator to please open up the call for questions. Operator? Thank you."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yes, sir. Thank you. We'll now begin the question-and-answer session. To ask a question, you may press star then one on your telephone keypad. If your question has already been addressed and you'd like to remove yourself from queue, please press star then two. Today's first question comes from Jeffrey Cohen at Ladenburg-Thalman. Please go ahead."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Good morning and thank you for taking our questions. So I guess firstly, can you give us a little better sense of the fourth quarter placements as far as units? sold, units leased, and also any color regarding OCD placements."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yes, so as we mentioned, we shipped 95 systems during Q4, and more than 50% out of this number were also included the H7 calls."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Okay, got it. That's helpful. Can you talk about the DTMS360 trial that's going on, the study that's going on, how many centers have the unit and how many patients would you anticipate in the study over what time period?"
+    },
+    {
+      "speaker": "spk04",
+      "text": "Yeah, so the TMS360 is designed for two new markets for us. The first one is the addiction one that we're already actively recruiting patients for the alcohol user trial in 10 centers across The goal is to recruit 200, a little bit more than 200 patients overall. So we just launched this recruitment. My hope is to recruit at least 50% of the patients before the end of the year. The demand and the participation in this trial looking very, very good as far as we see today. And we'll try to accelerate this a recruitment for this very, very important clinical trial. The other segment for the TMS360 is neurology, specifically for Alzheimer and dementia. So we are now actively working on three leading neurology centers to launch a study, a small study in all these three centers for Alzheimer disease to track if we can slow down the disease with this rotational field, the 360 machine. So overall, 10 centers for alcohol use disorder plus three feasibility study for this new neurology feasibility study."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Perfect. And one more quick one, if I may. As far as pricing, was there any pricing that you took in 2025 or would you anticipate any pricing for 26 as far as sales or leases?"
+    },
+    {
+      "speaker": "spk04",
+      "text": "Look, we are different. You know, we are the only company in this segment in TMS that has a different product. So not only that we're reducing the pricing, I think that customers are willing even to pay premium price for our product, for our value, for all the support that we are providing. So I do not anticipate any kind of a decrease for ASP. On the contrary, I would like even just to try and optimize the pricing of our value."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Perfect. Thanks for taking our questions. Nice readout."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thank you very much, Jeff. Thank you. And our next question today comes from Carl Burns at Northland Capital Markets. Please go ahead."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thanks for the question and congratulations on the quarter and the 10th consecutive profitable quarter as well. So of the 70 million obligations that you mentioned in the release and on the call, what percent, if you can quant this, relates to commitments from your existing strategic partners? Thanks."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Yeah. You know, we launched this minority investment program I think the first one was on the second half of 2025. And as I mentioned on my script earlier, we are very happy with what we're seeing. We're seeing a very, very nice increase in utilization using the devices and also the demand for our systems as well. The expectation from each one of those centers is to deliver a new backlog or booking of between three to $5 million on a yearly basis. I can share with you that based on the increase in utilization, we are very, very happy. And we are even exceeding the sum of the pace of what we expected to see when we just launched the program. So I think that across the board, all these minority investment are delivering and increasingly in utilizing of our deep TMS assistance. And as a result, we see a very strong demand of backlog and new orders."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Great. Thank you. Again, congratulations. Thank you, Carl."
+    },
+    {
+      "speaker": "spk06",
+      "text": "And as a reminder, if you'd like to ask a question, please press star then 1. Our next question comes from Ram Soboraju with H.T. Wainwright. Please go ahead."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Hi, good morning. This is Katie on for Ram. Do you anticipate significant utilization of the SWIFT protocol for deep TMS in conjunction with deployment of ketamine or psychedelics-based pharmacotherapy in MDD, please?"
+    },
+    {
+      "speaker": "spk04",
+      "text": "Yeah, for sure. First of all, we do see a very strong demand for TMS, and I think the main reason for that is the SWIFT protocol. We do see more and more use of the SWIFT protocol in conjunction with some other modalities. It could be psychedelic. It could be med management. or some other forms of therapy. But this is definitely one of the top acceleration of the demand. We do see some additional acceleration of the demand also coming from OCD and the last FDA clearance for adolescents. I think all of them together with our last investment also together with NeuroLeaf really given us whatever way we desire to see in our vision. A combination of treatments and modalities that will help us to optimize the revenue per location."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Great. Thank you so much."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thank you. And that concludes our question and answer session. I'd like to turn the conference back over to the company for any closing remarks."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Yeah, great. I would like to thank all of the investors, analysts, and other participants for their interest in BrainSuite. And with that, please enjoy the rest of your day. Goodbye."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thank you, sir. That concludes today's conference call. We thank you all for attending today's presentation. You may now disconnect your lines and have a wonderful day."
+    }
+  ]
+}

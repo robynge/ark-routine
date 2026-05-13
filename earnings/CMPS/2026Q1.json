@@ -1,0 +1,407 @@
+{
+  "event": {
+    "ticker": "CMPS",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk11": {
+      "name": "Operator",
+      "title": "Conference Operator"
+    },
+    "spk14": {
+      "name": "Steve Schultz",
+      "title": "Senior Vice President, Investor Relations"
+    },
+    "spk07": {
+      "name": "Kabir Nath",
+      "title": "Chief Executive Officer"
+    },
+    "spk13": {
+      "name": "Laurie Engelbert",
+      "title": "Chief Commercial Officer"
+    },
+    "spk17": {
+      "name": "Dr. Steve Levine",
+      "title": "Chief Patient Officer"
+    },
+    "spk09": {
+      "name": "Terry Luxem",
+      "title": "Chief Financial Officer"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk11",
+      "text": "Good day, ladies and gentlemen, and welcome to the Compass Pathways first quarter results conference call. At this time, all participants are in listen-only mode. As a reminder, this call is being recorded. When I'd like to introduce to you your host for today's call, Stephen Schultz, you may begin."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Welcome, all of you, and thank you for joining us today for this conference call. I'm Steve Schultz, Senior Vice President, Investor Relations at Compass Pathways. And today I'm joined by Kabir Nat, our Chief Executive Officer, and Laurie Engelbert, our Chief Commercial Officer. Terry Luxem, our Chief Financial Officer, and Dr. Steve Levine, our Chief Patient Officer, will be available for the Q&A. The call is being recorded and will be available on the Compass Pathways Investor Relations website shortly after the conclusion of the call and will be available for a period of 30 days. Before we begin, let me remind everyone that during the call today, we will be making statements about our future plans and prospects that constitute forward-looking statements. Each forward-looking statement is subject to risks and uncertainties that could cause actual results and events to differ materially from those projected in that statement, including those risks and uncertainties described under the heading risk factors in our most recent filings with the U.S. Securities and Exchange Commission. These forward-looking statements represent our views only as of today, and we specifically disclaim any obligation to update or revise any forward-looking statement, even if our estimates or assumptions change. I'll now hand the call to Kabir Nath."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thank you, Steve, and thank you all for joining us today. It has been a very exciting and productive quarter for Compass. The company continues to lead the way in psychedelic science, validated by the confirmation of a rolling NDA submission and review, and the award of a Commissioner's National Priority Voucher, or CNPV. With our 005 and 006 data announcement in February, we have delivered positive data from both our Phase III studies. Comp 360 has therefore demonstrated what no approved drug for TRD offers, clinically meaningful efficacy with both rapid onset and extended durability. In fact, these extraordinary results redefine rapidity and durability for TRD patients. With only one drug approved and actually used for TRD today, we are confident that Comp360, with its differentiated and compelling profile, will be an important option for the millions of patients that have been failed by the many approved treatments for MDD. After we announced results of our first positive phase three trial last year, and based on discussions with the FDA, we began preparing for a potential accelerated launch. As we've said before, we will be launch ready by the end of this year. We've aligned with the FDA on our rolling submission and review plan and have begun submitting modules for the Comp360 NDA. We will continue to submit additional modules on a rolling basis over the coming months. Part B data from 006, which we continue to expect in early Q3, will be the final data set to complete the submission. Given the award of the CMPV, we are already working closely with the FDA to enable as much efficiency and acceleration as possible. In addition, based on the executive order, we are accelerating our engagement with the DEA, since there is the potential for federal rescheduling to be completed sooner than the current statutory 90 days post-FDA approval. Our two large Phase III trials, blinded to an unprecedented 26 weeks for psychiatry trials, supported by our large Phase IIb trial, has resulted in over 1,000 patients in the program. With comprehensive and strong preclinical, toxicology, safety, and CMC data, we are confident that we will have a robust NDA submission that supports a Comp360 approval. We've also continued to make great progress in our commercial preparedness, which Laurie will cover in detail. Our strategic collaborations across diverse settings of care, including the interventional psychiatry infrastructure, have provided significant learnings. Together with our foresight in establishing CPT-3 codes, specifically for providers to get fully reimbursed for psychedelic monitoring, this has set us up well for a potential near-term launch. We are ramping up rapidly, building out the commercial team with outstanding, highly motivated talent and initiating all activities in anticipation of approval. In addition to TRD, we are also progressing our program in PTSD, which affects 13 million Americans. PTSD is another significant area of unmet need and an opportunity to expand Comp360 to individuals that have few medical options. We believe Comp360 can be an important new treatment for PTSD and it is a very logical next target indication for Compass. Our work with the CRO and sites for our late-stage PTSD trial is underway, and we look forward to updating you as it progresses. With both the successful financing and warrant exercises in the first quarter, we have a strong balance sheet with cash that carries us well beyond launch and into 2028. Let me now hand the call to Lori for more on our commercial preparations."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Thank you, Kabir. Hi, everyone, and thank you for joining. Today, there are 4 million patients with MDD who are considered treatment-resistant. Spravato, the only drug indicated in use for TRD, is expected to reach $3 billion in revenue by 2027, and as of 2025, was treating less than 2% of the TRD patient population. We believe that if approved, Comp360 will reach blockbuster potential by offering a transformative new treatment for the millions of patients who deserve more options. As Kabir noted, we are pleased to have been selected for the Commissioner's Priority Review Voucher. One benefit of being selected for the voucher includes the potential for an ultra-accelerated review timeline of one to two months after final NDA submission. This provides helpful clarity on timing expectations and allows for more thoughtful and focused planning efforts. Based on the current timelines for data and submission, we remain focused on being launch ready by the end of the year. Last month, the White House also issued an executive order recognizing the profound urgency of the mental health crisis facing millions of Americans and the potential impact FDA approved psychedelics could have. In that executive order, timely rescheduling of approved treatments was stated as a priority. As a Schedule 1 product, Comp 360 will need to be rescheduled at both the federal and state level after approval in order to be prescribed. We are accelerating work with the DEA to ensure rescheduling at the federal level goes as rapidly and smoothly as possible. We have also been working at the state level for the past two years to ensure that the states follow the federal rescheduling decision in a timely manner. Over the past two years, we have made significant progress, and today, almost 90% of the U.S. population live in a state that intends to reschedule Comp360 within 30 days after FDA approval and DEA rescheduling. Through this work, we have markedly reduced the timeline to launch and for patients to access Comp360 after approval. Enabling broad and equitable access includes ensuring that both Comp360 and provider monitoring time are adequately reimbursed. Kabir mentioned earlier the work we did a few years ago on securing psychedelic-specific CPT-3 codes, which will ensure that sites are reimbursed fully for the time required for psychedelic treatment monitoring. These codes are billable by the hour and were designed to cover clinical work and practice expenses incurred with multi-hour psychedelic treatments. We are also accelerating reimbursement and formulary discussions for Comp360 with payers. TRD has a significantly greater impact on individuals' lives and accounts for a disproportionate share of healthcare costs versus MPD. TRD patients accrue 62% more mental healthcare costs and experience 41% higher work-related costs than MPD patients. COMP360 has consistently demonstrated through three late-stage trials, clinical effects, and a well-tolerated safety profile in a TRD patient population And we expect payers to respond favorably to the emerging clinical profile and potential value that Comp360 can bring to the healthcare system. Along with enabling access to Comp360, we want to ensure that the clinical experience for the patient in the site of care is positive. This requires thoughtful consideration of how we deploy the field force and how we educate, train, and prepare patients in the sites that will be administering Comp360. Through the insights generated through our growing medical science liaison team, through market research, and through continued close work with our strategic collaborations, we have a deep understanding of what is required to enable a well-prepared and well-supported COP360 experience. Lastly, but notably, we have been rapidly building the commercial organization in preparation for launch. This includes bringing an extremely experienced commercial leadership team that has collectively launched over 50 products. This level of experience is remarkable, and we are privileged to have such an impressive team leading launch preparation for Comp360. Comp360 has the potential to fundamentally change the way that patients living with depression are cared for, and Compass is committed to helping as many patients as possible. With Comp360 expected to be first to market in a highly anticipated new class for mental health, Compass is at the forefront of shaping the future of psychiatric patient care. we are strongly positioned to successfully launch Comp360, and I look forward to updating you more on our progress. Thank you, and let me hand the call back to Kabir for closing remarks."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thank you, Laurie. This is an incredibly exciting and defining time for patients and Compass. We are confident in the rigor and robustness of our development program to demonstrate the benefit of Comp360. We have conducted our program to the highest standards, which we believe must be paramount in this new field of psychedelic science. We now have data from three robust, well-controlled clinical trials that enrolled over a thousand participants, including over 800 from two successful pivotal phase three trials. I do want to underscore the difficulty of establishing efficacy in TRD with only two medicines ever having been approved despite multiple efforts. That Comp360 has consistently demonstrated a clinically meaningful, rapid, and durable effect and a generally safe and well-tolerated profile is a remarkable achievement and one that promises to be a transformative new offering for those living with TRD. I want to sincerely thank our investigators, trial site teams, and most importantly, the participants whose commitment and trust has made this progress possible. Thank you, and let me now pass the call to the operator for Q&A."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Thank you. The floor is now open for questions. If you have dialed in and would like to ask a question, please press star 1 on your telephone keypad to raise your hand and join the queue. If you would like to withdraw your question, simply press star 1 again. If you are called upon to ask a question and are listening via loudspeaker on your device, please pick up your handset and ensure that your phone is not on mute when asking your question. Your first question comes from the line of Andrew Tsai of Jefferies. Your line is open."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Hi. Good morning. Congrats on the great progress and the great news. I have two questions. The first one is based on your guys' ongoing FDA discussions. Has the FDA given you any inclination whether there will be an adcom or not for Comp360, because on one hand, the review timelines could be really accelerated, and FDA does, but then FDA does seem to be doing away adcoms, and then I can't help but think that Lycos got one, and maybe it could be prudent for the FDA to hold one. So I'd be curious to know what you guys, where you guys lean here. Thank you."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thank you, Andrew. It's Kabir. I'm just checking that you can hear us clearly. I can hear you, yeah. Great, thanks. So thank you. So it is the FDA's decision and the FDA's only decision around whether or not to hold an advisory committee. They will only make that determination once they see the totality of the data we've submitted. We will be prepared for one, and that is in our planning if necessary. But at the moment, we do not have an indication of whether or not that's likely to happen."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Got it. And then secondly, when you share the 26-week Part B data from Comp 006 study, the second one in early Q3, would you consider sharing a cut of the additional 26-week long Part C portion of the 005 study, your first study, in conjunction with that top line release? If not in early Q3, then can we expect maybe a cut before you're possibly approved? I figure it's open label. and then sharing additional long-term data could be helpful or important for pricing or labeling discussions. Thanks."
+    },
+    {
+      "speaker": "spk07",
+      "text": "So, thanks, Andrew. Yes, so, I mean, from a timing perspective, you're right that the 52 weeks of 005 clearly run in parallel with that. We haven't made a final determination of what we'll share or what point, but I hear you loud and clear in terms of the value potentially for payers and for commercial purposes, so that's a decision we will come to in due course."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Great. Thank you."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thanks."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Your next question comes from the line of Francois Brisebois of LifeSci Capital LLC. Your line is open."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Yep. Thank you. Very well said on the Francois. Yeah, that was great. So, just quickly here, in terms of the third quarter data for implications, can you just help us understand maybe what the expectations are? You know, why is it still a gating factor to complete the filing based on the developments that have happened recently? I just want to kind of better understand what that data is and how important it is for a for launch here."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thanks. Francois, may I call you Frank, please? Frank is totally fine. Thanks. Thanks for the question, Frank. So, yeah, clearly, just for complete clarity, We had already aligned on our rolling submission plan with the FDA before the executive order and the award of the CMPV. So we had already fully aligned with the psychiatry division on what we were going to do and the time frames in which we were going to do it. That hasn't changed. I think it's really important to note that the CMPV potentially accelerates the end part of this process, the final review. it's been very clear in our discussions with the agency that in no way does it change the evidentiary basis that's needed for an approval so from our perspective we remain on track with the filing strategy we laid out with a rolling submission and that does indeed include the 26 weeks of osx which we see as significant in terms of you know really finalizing the profile and again for commercial purposes"
+    },
+    {
+      "speaker": "spk16",
+      "text": "Okay, great. Thank you. And then can you give us a little more color on the reimbursement and maybe the CPT codes where maybe the evolution of it? Is there anything else that we need from the CPT angle, you know, between now and approval and after? And then just a little more color on, there's a lot of discussions about the support, the psychological support and kind of the prep. And then, you know, maybe the amount of people that you would expect to be in a room and their qualifications just on the commercial side, you know, thoughts around those ideas. Thank you."
+    },
+    {
+      "speaker": "spk17",
+      "text": "I'll hand that question to Steve. Thanks, Kabir. Hi, Frank. On the CPT portion of the question, in terms of the work remaining for the CPT-3 codes, they are in a Category 3 form at the moment, which is their tracking form As those codes are reported more, and they have started to be reported in a limited number of cases, it really will require our approval and launch for them to be reported in greater quantity. But as they're reported, that will enable the American Medical Association with their RUC committee, which is an acronym for the RVU Update Committee, with representation from APA to do their work to understand the work involved in delivering this treatment and the practice expenses in order for them to make a recommendation to CMS on evaluation for the code. This is not entirely a black box. It's formulaic. There are analogous treatments to look at in terms of having some expectations coming in for where this valuation may land. But again, ultimately, the codes will need to be reported so the codes can be progressed to the Category 1 valued form. Ahead of that, there will be the opportunities for negotiations directly with payers by providers for reimbursement of treatment. On the staffing related question with how patients will be prepared and what delivery will look like as far as treatment models, ultimately those treatment models will be up to sites of care as part of the practice of medicine. Staffing ratios, descriptions of the roles of people involved, the language that will ultimately end up in our REMS will be a result of discussion with FDA in due course during the review period. We have been guided to expect to this point that the RIMS will be consistent with the one that exists for Spravato today, as well as what FDA had prepared in their briefing materials for Lycosis Adcom, which used language to the effect of a prescriber available, a licensed healthcare provider on site. And these, of course, are the important elements in terms of having the sufficient experience and training of providers necessary to ensure safeguarding patients."
+    },
+    {
+      "speaker": "spk16",
+      "text": "Great, thank you very much."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Your next question comes from the line of Paul Matase of Stifel. Your line is open."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Hey, thanks so much. This is Julian on for Paul. I appreciate you taking our questions, and congrats on all the great progress. Just two from us. What are your expectations for rates of retreatment after two initial doses versus one initial dose, thinking about the 06-26 week data? coming out and how you think that will be assessed by FDA with respect to implications for labeling. And then our second question is, from your commercial work, have you been able to identify what proportion of patients being prescribed Spravato are at large academic medical centers versus private practice clinics? I'm curious how that may or may not influence your commercial strategy. Thank you."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thanks, Julian. So yeah, on the first question, as you know, from what we've already shown, we saw that there was a 25% of patients had a clinically meaningful response in 005 from that single administration of COM360. And we saw that that was 40% in 006 with the addition of the second fixed dose. So clearly we are expecting that higher level of response to be sustained through 26 weeks, but we really do need to see the data to understand what the potential impact of a third dose for those who have it may be, and indeed what the second dose after week three does for sustained response without necessarily a third dose. So turning to what that means on our start, but Laurie and Steve may want to jump on here. We are seeking a label that essentially says from one or two doses, And then with further episodic dosing at provider discretion. So that gives discretion because clearly if somebody responds very well to a first dose, there may not be a need for something within three weeks or a short time period. But equally, we clearly saw so far that there are patients who do benefit from having that second dose three weeks apart. So that's how we're thinking about it. And then I'll hand to Laurie and Steve to talk about first that and then the percentage of patients."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Yeah, I agree with Kabir's. Hi, Jillian, by the way. This is Lori. I agree with Kabir's assessment on what we're seeking for the label. The 26-week data that we're getting from 06 combined with the 05 data is really going to be used to help guide clinical decision-making from the field force as we're out educating providers. So, Steve, anything you want to add on that?"
+    },
+    {
+      "speaker": "spk09",
+      "text": "No, that couldn't be."
+    },
+    {
+      "speaker": "spk13",
+      "text": "In terms of the Spravato patients being treated in academic centers versus the more what everyone calls the interventional psychiatry treatment centers, the academic centers are treating very, very small portion. It is, I think, less than 5% of patients are actually being treated at academic centers. And so the primary focus of ours will be at launch on the interventional psychiatry treatment centers that are currently prescribing Spravato, which is at about 7,500 already."
+    },
+    {
+      "speaker": "spk17",
+      "text": "And I'll just add to that, that we do engage with many academic centers. We hear a lot of excitement for them about the potential of implementing Comp 360. So we do expect academic sites to deliver Comp 360. The nuance is that they are typically not built to have high volume operations. They tend not to treat high volumes of patients. They don't have the kind of throughput that the interventional clinics have. So they will deliver the treatment. But the reflective of the breakdowns that we see with Spravato prescriptions, we expect that to be similar with those centers having a higher capacity to treat more patients."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Super helpful. Thanks for the color."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Your next question comes from the line of Joshua Shimmer of Kantor. Your line is open."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Thanks for taking the questions. How are you thinking about the incremental capacity for Comp 360 administration at the 7,300 or so interventional site pathways? And is there any way to quantify that? And then what percent of the centers do you expect will be adopting the model for Comp 360 early on? And how do you expect that to evolve over time? Thank you."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thanks, Josh."
+    },
+    {
+      "speaker": "spk17",
+      "text": "I'll pass those to Steve. Hi, Josh. Good to hear from you. Thanks for the question. So on the capacity side, we know that these centers have existing capacity today. And it's an important consideration when we often get questions about how these sites will make decisions about which treatment to deliver and whether they're making trade-offs based upon reimbursement that they may receive for delivering various treatments. First of all, these sites know that there are huge unmet needs for the treatment-resistant depression population. They are excited to have more tools available and to have the opportunity to make decisions of which treatment to deliver. But in the meantime, given especially that a Spravato room and the Spravato staffing model are the same as what we anticipate to be required to deliver Comp 360, they don't need to make any adjustments in their centers today in order to have capacity to deliver the new treatment. They'll be able to use the rooms interchangeably. It is likely that within the same day, they may treat a patient with Comp360 and one with Spravato later in the day, or that over the course of the week, these rooms may be used for either treatment. So there's plenty of existing capacity that they will first fill prior to adding additional states. Should they have the good problem from their perspective of treating lots of patients and running out of capacity, the economics are very favorable for them to add space or add new locations. On the buy and build part of the question, what we've seen with Spravato is that the penetration of buy and build relative to specialty pharmacy reimbursement has increased over time. We don't know the exact numbers. We believe it's somewhere between 35 to 45 percent of Spravato prescriptions at this point are by and bill. This is something that the psychiatry model has not been used to prior to the advent of Spravato, but they are beginning to recognize the economic value of processing claims in this way. So we would, and I'll hand it to Lori to augment this, but I think we would expect that In the earliest days of launch, more sites may, as they get used to delivering our treatment, initially work with the specialty pharmacy channels, but we would quickly expect them to adopt by and bill and for that to increase over time."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Yeah, the only thing I'll add there, Josh, is that we will enable both at launch. And so that is just an important nuance to add is that it will be enabled, but we do, from a realistic expectation standpoint, expect there to be a little bit of a a ramp to have your buy-in bill."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Great. Thanks very much."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Your next question comes from the line of Judah Fromer of MS. Your line is open."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yeah. Hi, guys. Thanks for taking the question, and congrats on all the progress. Maybe just a follow-up on, you know, kind of how providers are thinking about potential administration. I think there's, you know, a little bit of discussion about whether you know, psychedelic treatments should fit into that Spravato dosing window versus maybe something longer that Comp360 would take. Can you just remind us, from the provider's perspective, the economics of turning over a room maybe two or three times for multiple Spravato applications versus, you know, maybe a single administration of Comp360 and what the economics look like relative to each other? Thank you."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thanks, Judah. This is Steve's favorite question."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Yes, thank you for the opportunity to talk about this, Judah. So exactly as you said, there are inefficiencies with shorter treatments and needing to turn a room over multiple times in a day because this is, I guess, self-evident. But when you have time in between patients where you need to turn the room over to clean it, the administrative work of an additional patient, etc., that is a gap that is unreimbursed time. Therefore, if you are able to fill that room with one patient and you are reimbursed for the entire time that the patient is in that room, then that is much more efficient for these sites. To put some numbers to it, if you consider that a site operating at full capacity, which as I've just said earlier, doesn't exist. These sites have plenty of capacity. But to be conservative, let's say they're at full capacity. And then let's say they're maximally efficient, which most sites also are not. That would mean they could get three Spravato patients in a room in a day. With average reimbursement for a Spravato session somewhere south of $300, but using $300 as round numbers, then that means they're potentially being reimbursed for the room at $900 per day. That works for these sites. That is not ideal necessarily in their minds. And so that's really kind of the target that would be the minimum that they would need if they were just purely making these trade-offs. That makes us very confident that this will make sense for them. But in addition, if we consider that the observation time for Comp360 will probably be about six hours, within a typical operating day for these sites, it means they could also most likely get a Spravato patient in that room too. And since most of these sites aren't having more than one Spravato patient in that room in a day anyway, this is all upside. This is all additive for them."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Your next question comes from the line of Ritu Baral of TD Cowan. Your line is open."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thanks for squeezing me in, guys. Steve, you mentioned the rep committee of the AMA. So our understanding is that this committee meets once a year and unfortunately has only one psychiatry rep and it's very sort of surgeon dominated. Is there anything that you guys can do? First of all, do you know when this rep committee is scheduled for the year? And second, is there anything you can do as far as prep for this committee to sort of optimally communicate the value proposition of Comp 360? And then I've got a follow up on the DEA discussions. Have you been in communication with the DEA proper? And do you have an idea at this point if communications and review of the FDA will start even before the NDA is complete, or would you expect that this would still be sort of expedited review on the tail end of approval? And then if I can just ask a quick follow-up after that, what are your expectations for the REMS insofar as the requirements for administration, as well as either preparation and consolidation afterwards, like what will actually be required by the REMS, because we've heard from doctors that that will be absolutely the most important thing."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thanks, Rishi. So I'll ask Steve to comment on the RUC. I'll take the DEA question with Laurie, and then Steve will take the REMS question."
+    },
+    {
+      "speaker": "spk17",
+      "text": "It'll be a sandwich."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Okay."
+    },
+    {
+      "speaker": "spk17",
+      "text": "So starting with the RUC portion, uh you asked about the date of the next ruck meeting i don't have the schedule on the top of my head we can follow up on that but to the rest of it you're correct that historically there has been any over representation let's say on the ruck of surgeons and other procedurally focused committee members that has been shifting fortunately I don't know exactly how many psychiatrists are currently sitting on the committee, but there has been an effort to correct the historical imbalance in the representation on the committee. When we did the initial work on the Category 3 code a few years ago, we took advice from a number of people, including those who had served on the RUC in the past. So we were very well informed heading into the initial application for the Category 3 code. We will continue to work with experienced consultants as the code progresses to category one and make sure that this goes in a direction that is very favorable to ensuring that there is adequate reimbursement to ensure patient access. I will hand over for the second part of the question and be back with you on that."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yes. So, Richard, on the DEA, I mean, as you know, the executive order mentions the fact that the analysis could potentially start as soon as phase three is completed. After further conversation with those responsible for that, it's clear that the intent is that the DEA and the FDA can arrive at that conclusion simultaneously. However, it would still be a sequential process. So essentially, we will provide an eight-factor analysis. The controlled substance staff within the FDA will then review that. Historically, they have submitted their findings at the end of the review period because that's just been the way the FDA has worked. That could potentially be accelerated with the DEA then doing their sequential review, but all of this coming together in time, you know, on the same day or a day apart at the end of it. That's the intent. Where we will actually get to in practice, we will have to see."
+    },
+    {
+      "speaker": "spk13",
+      "text": "The only thing I'll add, the only thing I'll add is that, you know, we are working with DEA consultants as well as, you know, accelerating our timelines to when you would traditionally communicate with the DEA. so that we can reach a further understanding. But for planning purposes, as of right now, we are not planning for, we will be ready if there's anything that happens before, but we see no indication that these timelines have shifted forward."
+    },
+    {
+      "speaker": "spk17",
+      "text": "And then back to me for Rem, Steve again. So you're referencing in our clinical trials that we had spent time preparing patients ahead of administration, supported them on the day of administration, and then followed them up for safety after. Within a clinical trial context, it was important that everyone had the same conditions, the same experience, that everything was highly standardized. And so in that context, we specified a number of preparatory sessions as an example, as well as a standardized length of those visits. As this translates into real-world care delivery and how this will be guided by the REMS, what becomes most important is not a certain number of sessions or a length of those sessions, just that patients are adequately prepared and they are properly followed up for safety. And so anything that would be in a REMS would be very typical of REMS language and not get down to the granular level of detail of dictating the practice of medicine. The reality is that with any treatment, there is some preparation and safety follow up anyway, so much as any necessary language that just gives a little bit of guidance on what activities are important in terms of preparing patients. And that would include being enrolled in the REMS, having informed consent and so on, and then ensuring that patients are followed up afterwards as a safety check."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Your next question comes from the line of Madison El-Sadi of B Riley Securities. Your line is open."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Hi, thanks for taking your question. A couple from us. Maybe what have you learned about the CMPV mechanics since receiving the award a couple of weeks ago? Should we think of this one to two month CMPV review clock as not really starting until that final module is submitted or has it, I guess, to some degree already started? which would imply the FDA response closer to one month versus two months, and then afterwards, an unrelated follow-up."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yes. Thank you for the question. So our understanding is certainly that that formal one- to two-month goal is following the completion of the NDA submission. However, what it also does imply, clearly, is an even more flexible and responsive way of working with the agencies. As we've said before, we already have an excellent relationship with the psychiatry division. It's collaborative, it's constructive, it's focused on solving problems. And what we've already seen in the last couple of weeks is that that is even more so. And in particular, some of the standard timelines of 30 days to request a meeting and X days for a response and so on, those have gone away entirely. So this really is about, first, a much more flexible approach day-to-day interaction with the agency but no the actual formal clock of that one to two months as we understand it will only start with the submission and again to be clear that's a goal yes it's a goal that they can complete it within a couple of months understood that that's great to hear and then uh secondly so many of these sites offer tms"
+    },
+    {
+      "speaker": "spk05",
+      "text": "Based on what we know or what we believe we know about how psilocybin works, about how TMS works, do you think there may be an additive or even a synergistic effect from combining these treatments? Thanks."
+    },
+    {
+      "speaker": "spk07",
+      "text": "That's definitely a Steve question."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Thanks, Madison. Yeah, that's an intriguing one. It's something that has been raised to date. It's really a matter of speculation. You can concoct theoretical reasons why there may be synergies. Be good to see some data. I know that there's at least one small academic study already looking at the concurrent use of these two modalities. uh i'm sure that the sites that deliver both treatments both tms and uh comp 360 may be interested in that question and uh if they do i hope they track outcomes and we gather data and you know have some guidance on uh on whether that may be an effective approach ultimately you know these sites are ecosystems of care they offer multiple treatments they're trying to offer as many tools as possible for these patients and maximize their outcomes Treatment-resistant depression is, for many patients, a chronic condition. They will receive many treatments over a lifetime. And so whether these treatments are combined in some way or whether over time they wind up having multiple of them, we would expect that somebody receiving their care in one of these sites may have more than one of these treatments over the course of their care."
+    },
+    {
+      "speaker": "spk13",
+      "text": "And Madison, if you don't mind, I'll chime in as well. You know, part of, you know, the benefit of us producing the data in treatment resistant depression is that we believe that there's a huge unmet need. Spravato is the only indicated drug product being used right now in this patient population. And given the frequency of treatment that spravato requires, it is often patient prohibitive. And so in order for patients to want to receive these type of treatments, It has to fit into their schedule. And we believe COM360 brings a very complimentary patient profile, patient-friendly profile to these patients. So we expect COM360 to be earlier line than where TMS is currently being used right now, which is traditionally one of your later to last lines of treatment."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Understood. That's very helpful. Thanks."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Your next question comes from the line of Patrick Trucchio of HC Renright. Your line is open."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thanks. Good morning. A few questions. The first is regarding the Phase III trial, the COMP-006, for the Part B 26-week data that's expected in the third quarter. Can you tell us first just which measures will be released at that time? Is it sort of maintenance of greater than 25 percent mattress reduction? remission, durability, time to relapse, treatment, frequency, patient reported outcomes, and as well as safety. And which parts of those data matter most for the NDA, as well as the label and payer discussions?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yeah, so Patrick, we haven't yet determined what we would release publicly from a simple perspective, all of that data will be necessary from an NDA perspective. So clearly everything, all those endpoints, primary, secondary, all the safety data will clearly go to the FDA. And I'll hand to Laurie to talk about the commercial piece."
+    },
+    {
+      "speaker": "spk13",
+      "text": "All of that data will also be important for payer and clinical decision making, which we will all have in due course to help inform all of those decisions. But in immediate discussions with payers, it will be the redosing in the durability piece that we are really looking for so that we can inform payers on how many doses to expect our patients."
+    },
+    {
+      "speaker": "spk17",
+      "text": "And Steve? Sorry, Patrick, just one thing to add to that, which is similar to what we guided prior to the release of Part B of 005. Just to be clear, there isn't a particular bar. There isn't some number that's a measure of success there. It is important data, but it's data to really round out the profile of the drug. And as Laurie said, to have discussions with payers, to guide expectations clinically with providers. So there's nothing that we're rooting for necessarily. We just need to understand the longer term trajectories of these patients."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Great. And then just on the commercial side, more specifically, I'm just wondering if you can talk more about just your launch readiness and being ready by the end of the year and to what extent you've begun that process of hiring a field force and building out a REMS infrastructure and You know, sort of discussed, you know, just sort of the structure with payers and distribution contracts. And as well, related to that, you know, of the 7,300 centers that, you know, could offer the treatment or greater than 7,300 centers, how many have you actively engaged with and what proportion do you think are ready or will be ready to administer Comp 360 within the first three to six months after approval?"
+    },
+    {
+      "speaker": "spk13",
+      "text": "So given the work with the strategic collaborations that we've been doing for several years now, which really sets us up for success and also enabled us, you know, largely to be able to say that we would be launch ready under such short timelines, I'm going to let Steve answer that last question, and then I'll answer your original question at the end."
+    },
+    {
+      "speaker": "spk17",
+      "text": "We're flipping it around."
+    },
+    {
+      "speaker": "spk13",
+      "text": "We're in reverse order."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Okay. Yes. So in terms of the sites that we've engaged with and will be ready, As Lori said, we've been working with sites like this for quite some time now, whether it's formally within our strategic collaborations, whether it's engagement by our field medical team as they've been out for the past couple of years meeting with healthcare providers around the country, or other relationships we already have with the leadership of these organizations, I think it's fair to say that we've engaged with the vast majority and we know really many of them quite well. It is that level of engagement and knowing them that well that gives me a lot of confidence to say, we don't need to encourage these sites to get ready. They're almost more excited than we are. This is really why they built the infrastructure in the first place. It wasn't to deliver one treatment. It wasn't to deliver Spravato. It was an anticipation of having more treatments, particularly ones with a profile like Comp360. The feedback we've been getting since the last data release is that they are just so excited for their patients to have a treatment that has this rapidity of effect, this durability of effect, which is on a scale far different from anything they've had available to them to this point. The ability to recruit patients from a much larger radius, to the point that Lori made earlier about the burden on patients of the frequency of treatment with Spravato, but particularly with TMS needing to come every day, is really hyper-local patient recruitment. With Comp360, with just one or two treatments, they're able to have patients travel for a much further area. So they are excited. They are really bombarding us every day with questions of, you know, when are you going to be approved? You know, what do we need to know? So they will be ready."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Yeah, and Patrick, so will we. And so hopefully you can hear through mine and Steve's excitement, collective excitement here about this particular topic, just how confident we are in the fact that we are not only building out a pretty remarkable team, this team, this leadership team, getting them on board first, was fairly important so that they could start to build out their teams. And all of that is underway right now. So every single aspect and function within a commercial organization has a remarkable leader at the helm, and they are currently in the process of building out and have already expanded the team. The team has already doubled in the past two months. And so we are well on our way of making sure that we are adequately prepared All that everything you mentioned is underway. So, you know, compliance payer discussions are beginning right now. The negotiating piece, I just want to set expectations on the negotiating piece with payers. We won't start negotiations until we understand the clinical profile better of Com360, as we mentioned before. But we certainly are engaging with payers to start those initial discussions right now. Trading distribution is well on its way. We are working there to understand what our distribution strategy is. And again, with some really, really remarkable leaders and very, very experienced at the helm."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Terrific. Thanks so much."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Thanks, Patrick."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Your next question comes from the line of Leonid Timishev of RBC Capital Markets. Your line is open."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Hey, guys. Thanks for taking my question. I wanted to ask on PTSD. Obviously, another part of the executive order was significant underlying excitement for treating PTSD. So I guess I'm curious how you're thinking about your program specifically, whether there's any changes you're envisioning to the trial, whether you think the evidentiary standards may be lower and"
+    },
+    {
+      "speaker": "spk07",
+      "text": "can move ahead with just one phase three registrationally and you know given the focus on veterans from the administration whether there's plans you know explore that subpopulation more deeply thanks thanks Leo and I'll start on that so first yeah we agree PTSD is a very significant on that need yeah as we have said we are planning that as a single late stage trial obviously we will have to see what the data says and so on, because ultimately it will be a FDA decision around that. Within that trial, we will have VA sites. More broadly, though, we are already heavily engaged with the VA, and I'm going to hand to Steve to talk a little bit about what that is. Just before I do, we should also note that it is now publicly available. We are supporting A study within the VA, which is a very robust clinical study, which is a TRD population with heavy PTSD. So that study we're also supporting. But I'll hand to Steve to talk more broadly about the work we're doing."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Thanks, Kabir. Yeah, PTSD is an area where we are really excited. This is 13 million U.S. adults who currently have very few options, terribly underserved. So really excited to be moving this program forward. As a reminder, the design of this study was from the beginning intended to support registration with a single trial. And so that still remains the aim. As Kabir said, we already are engaged with the VA in various ways. He mentioned the study that we are supporting. We are supplying the drug as well as the training of the initial cohort of trainers for a large multi-site VA study looking at people living with both treatment-resistant depression and PTSD, in addition to a second study as well within the VA. Beyond that, we have had active engagement for quite some time now been working for for multiple years now on their preparations to be able to implement psychedelic treatments as they're approved so that engagement is robust and ongoing and it certainly is a priority for us to ensure that as we bring new treatments to market that these are available for our veterans"
+    },
+    {
+      "speaker": "spk11",
+      "text": "Your next question comes from the line of Sumanth Kulkarni of Canaccord Genuity. Your line is open."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Hi, team. Thanks for taking our questions. I have a few here. First, how do you expect competitive and legal dynamics on psilocybin to play out, given Usona Institute also has a national priority voucher for its product and could already have its phase 3 data in-house for major depressive disorders?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "So I can only comment on the fact that we, Sumanta Compass, have two very large phase three trials where we've already declared the primary endpoint. And we've agreed on a rolling submission and review plan. And that's what we're focused on right now."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Thank you. And do you expect a label limit on the number of treatments per year for Comp360? And how soon after a patient needs re-treatment would they be able to get it in the real world?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "No, but I'll hand from a kind of commercial payer perspective to either Laurie or Steve."
+    },
+    {
+      "speaker": "spk13",
+      "text": "I'll speak to it from the payer standpoint. Steve can speak to it from a clinician standpoint. So I agree with Kabir completely. We expect no limit in the label. We will, through negotiations, be discussing with payers what that looks like and if there would be limits from a prior authorization re-approval process that is, you know, not only standard practice, especially with these type of treatments, but also should be expected. But it is, again, not going to be overly onerous for the sites, nor, again, is this outside of the norm of what happens in clinical practice right now."
+    },
+    {
+      "speaker": "spk17",
+      "text": "Got it. Well, to answer the last part of your question, Samant, about the treatment frequency or the intervals involved, uh you know what we've seen so far is that some patients have some benefit from a second administration whether it's on the fixed interval three weeks after the first or on a more variable basis as we saw in part b of zero zero five because the minimum interval we studied is three weeks i would expect that there likely would not be dosing uh closer than three weeks apart there really clinically would likely not be a reason to Otherwise, I think the upcoming data from Part B of the longer-term progress in 006 put together with Part B of 005 will help give some guidance to clinicians on how they would think about re-treatment. And then otherwise, as Laurie said, that would be further guided by payer policy."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Got it. And then the last one on PTSD. Other than less frequent dosing, what are the key reasons that would make patients want to take Comp360 versus Otsuka Transcend's TSNB201 non-methylone?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "So they are likely to be, first, we need to see data in terms of efficacy and safety on both of them, clearly. They are likely to be very different experiences from a patient perspective. These are very different medicines with different MOAs. To your point, they certainly... transcend protocol hitherto has been more burdensome from a patient perspective as well but I think you know we will need to see how those are fully characterized through the clinical trials we be both in terms of patient experience provider experience and in frequency of administration there's clear differentiation between and to be clear there hasn't been an approved drug in PTSD this century"
+    },
+    {
+      "speaker": "spk17",
+      "text": "There are only two approved options right now. Both are old generic SSRIs that are only modestly efficacious. More options, more options, right? There's 13 million people with PTSD. It is not one or the other. There's not going to be one winner here. We are excited for any new option that is safe and efficacious in this population. The patients living with PTSD deserve to have more treatment options. Thanks."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Your next question comes from the line of Tom Schrader of BTIG. Your line is open."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Good morning. This is Ginny Kim on for Tom Schrader. Thank you for taking your questions, and congrats on all the progress. A couple of PTSD questions. What's the primary endpoint for the PTSD Phase IIb III trial, and has the FDA aligned on that endpoint in a special protocol assessment? And in the TRD program, the two doses of COMP006 were administered three weeks apart, but in COMP202 for PTSD, you've landed on a four-week interval. Could you walk us through the clinical rationale for that difference?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "Sure. So the primary endpoint is the CAHPS5, which is very well validated as the normal primary endpoint in PTSD. So we are using the standard primary endpoint. And because the CAHPS5 requires a four-week look-back, Practically speaking, the second dose has to be at four weeks. It can't be at three weeks. That's the reason for that. So it's tied to that endpoint. But as I say, this is the standard endpoint that has been used in PTSD trials. And no, there is no SPA on this. There doesn't need to be."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Okay, thank you."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Your next question comes from the line of Jay Olson of Oppenheimer. Your line is open."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Well, hey, congrats on the progress, and thanks for taking our questions. Maybe we'll just follow up on PTSD. Could you talk about any synergies that you expect to capture from the infrastructure that you're building for TRD? And also, what are some of the differentiating benefits to psilocybin versus other compounds being used or studied for PTSD? And then maybe just any other indications you're planning to pursue for psilocybin beyond TRD and PTSD. Thank you."
+    },
+    {
+      "speaker": "spk07",
+      "text": "So we'll go backwards through these. So, you know, I'll leave Steve and Laurie to talk both about synergies and some of the reasons to believe. So we're clearly very focused on some of these broader neuropsychiatric conditions that do indeed share synergies in terms of patterns of prescribing, locations of treatment and so on. And while we haven't made any determination on other areas, you can imagine there are some such as bipolar 2, OCD, in all of which we have seen signals based on IISs and studies we've supported, but we don't, not yet in a position to lay out formally where else we might go. So let me hand it to Laurie to talk about kind of the commercial synergies and then maybe Steve to touch on reasons to believe this."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Given the high overlap in comorbidities between TRD and PTSD, the infrastructure that currently treats will be the same infrastructure that that treats for TRD patients. So the synergies are exceptionally high. Steve mentioned earlier the work we're doing at the VA. Obviously, there's a large focus on PTSD patients at the VA. So we fully anticipate that the VA will be will be well equipped and ready to to treat patients once it becomes available. And from a Salesforce standpoint, there would be very minimal change to the Salesforce to add on PTSD."
+    },
+    {
+      "speaker": "spk17",
+      "text": "And then the last part, nice to talk to you, Jay. One of the things that we saw in our phase two study in PTSD, one of the reasons, along with the opportunity to meet the unmet needs for these patients, was the experience that our patients had in that study. We were able to do qualitative interviews with the participants and we heard some really important feedback that seems highly differentiated from other options that are available for patients living with PTSD or are currently being investigated. And that is that one of the reasons why people often avoid PTSD care is that they're forced to confront exactly the source of their trauma. which is a very frightening prospect. It can make treatment itself very distressing. It's something that we're aware comes up with some of the pathogenic treatments like MDMA, where these are very intensive sessions. It's the reason why many cases, these are studied with psychotherapy, with trained psychotherapists actively engaging with them as traumatic material comes up. What we saw in our phase two study, which was largely focused on safety, feasibility, acceptability, was that this is a very acceptable treatment, one that was very pleasant for patients, where the trauma itself didn't even necessarily come up during the experience. And that was something that surprised and was gratifying to them afterwards that, you know, despite the fact that they weren't forced to go through such a traumatic experience in getting treatment, that they had profound shifts in the emotional relationship to that trauma. And so we think that bodes really well for this, the further development of this as a potential treatment because of that really positive patient experience."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Super helpful."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Thank you. With no further questions, that concludes our Q&A session. I'm going to turn the conference back over to management for closing remarks."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thanks everyone for your participation today. As you've heard, we are excited by the fact that we are aligned on a rolling submission review with the FDA. We were already aligned on that before the award of the CMPV, but that clearly validates and is a recognition of the really great work we've done, the robust data that we have generated. So as you've heard, we are working with the FDA and DEA to see if there are other further opportunities for acceleration. Most importantly, though, you've heard how excited we are about the opportunity to launch a first-in-class psychedelic. As we talk to providers, patients, current employees, prospective employees, everyone truly sees this as the opportunity of a lifetime. And we are delighted to be in the forefront of that and leading the way in establishing psychedelics as a transformative new option for patients in need of new treatments. So thanks for your attention. look forward to updating on our continued progress during the remainder of the year. Thank you."
+    },
+    {
+      "speaker": "spk11",
+      "text": "This concludes today's conference call. You may now disconnect."
+    }
+  ]
+}

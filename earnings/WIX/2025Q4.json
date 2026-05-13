@@ -1,0 +1,263 @@
+{
+  "event": {
+    "ticker": "WIX",
+    "year": 2025,
+    "quarter": 4
+  },
+  "speaker_name_map_v2": {
+    "spk08": {
+      "name": "Operator",
+      "title": "Conference Operator"
+    },
+    "spk09": {
+      "name": "Emily Liu",
+      "title": "Investor Relations"
+    },
+    "spk13": {
+      "name": "Avishai Abrahami",
+      "title": "CEO and Co-founder"
+    },
+    "spk14": {
+      "name": "Nir Zohar",
+      "title": "President and Co-founder"
+    },
+    "spk11": {
+      "name": "Lior Shemesh",
+      "title": "CFO"
+    },
+    "spk07": {
+      "name": "Brad Erickson",
+      "title": "Analyst, RBC Capital Markets"
+    },
+    "spk10": {
+      "name": "Lior Shemesh",
+      "title": "CFO"
+    },
+    "spk12": {
+      "name": "Maur",
+      "title": "Founder, Base44"
+    },
+    "spk03": {
+      "name": "Josh Beck",
+      "title": "Analyst, Raymond James"
+    },
+    "spk02": {
+      "name": "Ken Wong",
+      "title": "Analyst, Oppenheimer & Company"
+    },
+    "spk04": {
+      "name": "Andrew Boone",
+      "title": "Analyst, Citizens"
+    },
+    "spk06": {
+      "name": "Deepak Mathimnan",
+      "title": "Analyst, Cantor Fitzgerald"
+    },
+    "spk05": {
+      "name": "Trevor Young",
+      "title": "Analyst, Barclays"
+    },
+    "spk15": {
+      "name": "Mark Segutovic",
+      "title": "Analyst, Benchmark"
+    },
+    "spk01": {
+      "name": "Mike McGovern",
+      "title": "Analyst, Bank of America"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk08",
+      "text": "Good day, and thank you for standing by. Welcome to the WIC's fourth quarter 2025 earnings conference call. At this time, all participants are in listen-only mode. After the speaker's presentation, there will be a question and answer session. To ask a question during the session, you will need to press star 11 on your telephone. You will then hear an automated message advising your hand is raised. To withdraw your question, please press star 11 again. Please be advised that today's conference is being recorded. I would now like to hand the conference over to your speaker today, Emily Liu, Investor Relations. Please go ahead."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thanks, and good morning, everyone. Welcome to WIX's fourth quarter and full year 2025 earnings call. Joining me today to discuss the results are Avishai Abrahami, CEO and co-founder, Mir Zohar, President and co-founder, and Mir Shemesh, our CFO. During this call, we may make forward-looking statements, and these statements are based on current expectations and assumptions. Please consider the risk factors included in our press release and most recent Form 20F that could cause our actual results to differ materially from these forward-looking statements. We do not undertake any obligation to update these forward-looking statements. In addition, we will comment on non-GAAP financial results and key operating metrics. You can find all reconciliations between our GAAP and non-GAAP results in the earnings materials and in our interactive analyst center on the investor relations section of our website, investors.wix.com. With that, I'll turn the call over to Abhishek."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Thanks, Emily. 2026 is shaping up to be a defining year and the start of a new chapter shape, not just by the continued shift toward AI, but by AI. beginning to prove its real-world value and utility more broadly. At Wix, we expect to begin to see the bold bets we've made over the past few years translate into measurable impact. When we founded Wix 20 years ago, our vision was straightforward. Make Wix the go-to platform for anyone, anywhere to create online. Over the years, we've delivered on that ambition. What started as a simple do-it-yourself website builder has grown exponentially. into the leading online presence creation platform serving not just self-creators, but also businesses of all sizes, as well as professional designers and developers. In recent years, the web has undoubtedly become much more AI-first, and that shift is redefining how and what people build online. AI has dramatically expanded the world of what's possible and created new dimensions that hadn't existed before. As a result, Wix's market opportunity today is exponentially larger than that of 2006 or even 2025, primarily driven by our expansion into the application space facilitated by our acquisition of Base44. This total addressable market expansion has advanced us leaps and bounds towards achieving that long-term vision of being the go-to place for anyone to build whatever they can imagine online. With the addition of Base44 to our platform, users can now build tailored software applications, smart mobile applications, pro-level visual content, and of course, websites, but so much more powerful and sophisticated than ever before. These are all things you can create on Wix today, which is incredible, but the possibilities ahead are much, much bigger. Importantly, as our business and time have evolved over the past 20 years and will continue to evolve over the next 20, We remain focused on simplifying very complex technologies and making them accessible to anyone and everyone. Today, there are two new cornerstone offerings to advance our vision. The first is Wix Harmony. Wix Harmony is the first of its kind website creation platform that blends intuitive visual editing with the flexibility and power of vibe coding. Wix Harmony provides a unified AI layer that spans across the full Wix experience allowing for a real AI partner to be with you every step of the way as you create, manage, and grow an online presence or business. After launching in English in January, we are now expanding Wix Harmony globally in other languages. I'm very pleased with the early performance we're seeing, particularly across conversion and monetization metrics. We believe Wix Harmony has the potential to fundamentally reshape how individuals and small businesses build and scale online not just on wix but across the internet as it becomes increasingly ai driven over time we plan to gradually make harmony the default experience for new and existing users and evolution we anticipate will drive meaningful long-term impact across conversion engagement retention and monetization the second new pillar of our strategy is base44 our leading vibe coding platform that expands our reach into the vast world of software creation and significantly grows our TAM. We are equally ambitious in this new world as we are in the world of website creation. Through innovation and strong marketing execution, Base44's user base is scaling rapidly. Today, the number of new users joining Base44 is nearly two-thirds of the number of new users joining Wix. This is an indicator of the platform's accelerating momentum and highlights the opportunity ahead to empower a massive and compounding cohort of users to build whatever they want online. Just one year after Maur founded the company and nine months after our acquisition, Base44 recently reached approximately $100 million of ARR, placing it among the fastest growing software platforms in history. While Base44 is already emerging as a top platform to build lightweight personal projects, we're seeing adoption from a growing community of businesses and enterprise-sized organizations, too. Companies in the tech, banking, and healthcare industries, as well as government organizations and nonprofits, are using Base44 to build customized software solutions. We are seeing users develop their own CRM capabilities, product and project management tools, ERP systems, workflow automation frameworks, and financial reporting applications. Importantly, this momentum and growth is completely organic. With no sales team at base 44 today, self-propelled adoption by enterprise size organizations demonstrates the strength of the platform as well as our successful marketing execution. As much as we are pleased by the success so far, I believe the real potential still lies ahead as vibe coding permeates beyond early tech forward adopters to the broad online population. I haven't been this excited to kick off a new year in a long time. In just the first two months, we've made bold moves across both our product roadmap and capital strategy, which Nir will speak about shortly. We are confident in our strategy, our ability to execute and the opportunity in front of us as the internet shifts further towards AI, which is reshaping how people create in this AI era and significantly expanding what's possible to build online. With that, I'll turn it over to Nir."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Thanks, Avishai. I'd like to start with Q4 user cohort trends and what we're seeing there today before discussing our capital strategy and the announcement made today. As we closed out 2025, our new user cohorts exited the year with strong momentum. In the core Wix business, new cohort bookings maintain double-digit growth in the fourth quarter, fueled by a healthy top-of-funnel, higher conversion from free to paid subscriptions in key markets, and increased monetization per user. When we include base 44, new cohort bookings growth accelerated very meaningfully quarter over quarter, driven by particularly robust demand for vibe coding capabilities. This strength we saw in our new cohorts also extended to existing Core Wix users. Our users are more active, engaged, and impactful than ever, demonstrated by resilient revenue retention in 2025. With net revenue retention of 105% in 2025, we nearly matched the strong retention we saw in 2024, despite the persistent GPV headwinds throughout 2025, This demonstrates that the inherent stickiness and creation power of our user base continues to improve. The strength of this user base, supported by high retention and growing user value, is also reflected in the projected 10-year value of existing cohorts, which grew 14% year over year. For the first time ever, we now project over $20 billion in future bookings over the next decade from current Wix users. This opportunity exists within just our core Wix business and doesn't yet include Base44, where the potential is both new and much larger. Throughout the year, we continued to increase user value as both new and existing users demonstrated better monetization. This was a result of a steady shift toward higher-tier subscriptions. greater adoption of business solutions, and GPV growth. Paid subscription volume in our key markets, particularly in the US, where we generate a majority of our revenue, increased year-over-year in 2025. Additionally, business subscriptions made up a significantly larger share of our total subscription mix in 2025 compared to 2024. Looking into 2026, these positive cohort dynamics are gaining more momentum. In these early months of the year, new cohort bookings growth in the core Wix business has accelerated compared to last year's already very strong cohort growth. This is a direct result of Wix Harmony, which is helping both new and existing cohorts convert more effectively, build more, and capture greater value. Finally, Before I turn it over to Lior to walk through our financials and 2026 expectations, I would like to make a few comments on our repurchase plans for this year and the equity investment we announced this morning. As you heard from Avishai, we have a bold and ambitious strategy centered around reshaping the possibilities of online creation over the next few years. We believe the products we're building today will drive accelerating growth in the core Wix business over time as we extend our leadership as the go-to AI powered online presence creation platform globally, notably with Wix Harmony. In tandem, we are seeing explosive growth at base 44, which we expect will become a profitable and meaningful long-term growth engine. Accordingly, we believe that our current stock performance greatly undervalues these opportunities as well as the fundamental strength of our business. So, taking full advantage of this and demonstrating our immense conviction in our strategic plan, we expect to complete the large majority of our $2 billion repurchase program this year. We plan to do this as quickly and aggressively as we can. Sharing in our conviction, Durable Capital Partners has led a $250 million equity investment in the form of a private placement of our ordinary shares and warrants. In addition to being highly respected equity investors, Henry, Anouk, and the team have been longtime supporters of Wix and developed a deep understanding of our business. Their investment is a powerful endorsement of our long-term vision and ability to execute as we build the next era of the Internet. We are thrilled to partner with them as we pursue our strategy, accelerate growth, and create lasting value for our users and shareholders. With that, I'll hand it over to Lior."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Thanks, Nir. We exited 2025 with strong cohort momentum, a clear strategic plan, and poised for continued growth in 2026. We're delivering on our ambitious product roadmap. At the same time, our cohorts are strengthening, as Nir discussed, driven by positive early behavior from Wix Harmony and continued outperformance of Base44 as we expand our reach across the entire online creation journey. We expect 2026 to be a pivotal year as we make category-defining innovations and expand our leadership across the broader online ecosystem as AI tech increasingly makes the impossible now possible, setting the foundation for long-term growth acceleration. Before I get into our expectations for 2026, I want to quickly recap our Q4 and full-year 2025 results. Bookings and revenue growth were healthy in the fourth quarter, building on the incredibly strong growth we saw in the same quarter last year. Total bookings in Q4 was $535 million, up 15% year-over-year, while total revenue was $524 million, up 14% year-over-year. Top-line growth was driven by strong new cohort behavior and solid retention of our existing user base in our core Wix business, as well as base 44 outperformance. Base44 finished the year with approximately $59 million of ARR, above our expectations at the time of acquisition. Excitingly, Base44 recently reached approximately $100 million in ARR, a major milestone that underscores our rapid growth and growing market leadership. Strong ARR growth was driven by product innovation that has resonated, a rapidly expanding user base, improving conversion and consistent upgrade and renewal trends. Overall strength in Q4 was tempered by continued GPV headwinds, as SMBs on the platform saw macro pressure, resulting in seasonally softer than anticipated GPV on the platform. Encouragingly, higher selling and larger businesses increasingly come to Wix to build and operate their storefronts. GPV grew 11% year-over-year to $3.7 billion in the fourth quarter and 11% year-over-year to $14.3 billion for the full year. GPV growth coupled with a steady increase in take rates throughout the year drove year-over-year transaction revenue growth of 18% in Q4 and 19% in the full year. Partners' revenue grew 21% year-over-year to $203 million in Q4, driven by solid studio performance as well as strong adoption of Google Workspace and marketing solutions. This was partially offset by the GPV headwinds I just mentioned. Turning to margins, fourth quarter total non-gap gross margin ticked down slightly sequentially and year-over-year to 68%, as expected. and total non-gap operating income came in at 15% of revenue. Lower total non-gap gross margin was driven by investments in Base44 to support its rapid growth. We continue to incur elevated AI compute costs as we scale to meet stronger than expected Base44 demand and maximize gross profit dollars. We believe these AI costs to be front-loaded as new users consume more AI inference bandwidth during their initial build phase. We anticipate non-GAAP gross margin for Base44 to improve sequentially throughout 2026 as we proactively optimize AI model usage and costs, primarily through enhancing prompt caching, batching requests, focused model routing, and more favorable pricing from LLM providers. Approximately one-third of Base44's AI inference cost today is attributed to token consumption of free users, and included under S&M expenses in the fourth quarter to align with industry standards. We believe AI costs incurred by free users as a percentage of total AI costs will decline over time as conversion improves. Even after incorporating AI-related costs associated with free users into cost of revenue, Base44's non-gap gross margin is already positive today, reflecting healthy underlying unit economics that we believe will continue to improve. we expect base 44 gross margin to increase as the year progresses. Higher operating expenses in the quarter were driven by accelerated advertising and branding investments into base 44 against our TROI target, which currently stands at less than 12 months. These increased investments were anticipated as we captured elevated top of funnel traffic exiting the year. Non-GAAP growth margin and operating profit margin in our core WIX business improved sequentially and year-over-year, driven by healthy top-line growth paired with a stable and disciplined operating cost base. We exited the year with free cash flow of $156 million in Q4, or 30% of revenue. Fourth quarter free cash flow in the core WIX business was stable compared to the previous quarter. Moving on to 2025 full-year results, total bookings in 2025 grew to $2.07 billion, up 13% year-over-year. Total revenue in 2025 was $1.993 billion, an increase of 13% year-over-year. Total consolidated ARR was $1.836 billion at the end of the year, up 14% year-over-year. Total non-GAAP gross margin was stable for the full year, while non-GAAP operating margin declined modestly as investments in base 44 offset non-GAAP growth and operating margin expansion in the core WIX business. We generated free cash flow, excluding acquisition-related expenses of $605 million, or a milestone 30% of revenue in 2025. Turning now to what we expect in 2026, With new cohort momentum driven by Wix Harmony and the continued outperformance of Base44, we anticipate bookings and revenue growth to accelerate this year. Before I get into the numbers, I want to comment quickly on our updated guidance philosophy. As innovation evolves our opportunity set and expands Wix's time into new areas, we are refining our guidance approach to reflect a broader range of potential outcomes. So for the full year 2026, we expect bookings and revenue for the consolidated business to grow at mid-teens percentage year-over-year. For the first quarter of 2026, we expect revenue for the consolidated business to grow at a mid-teens percentage on a year-over-year basis. We expect innovation-driven growth to be accompanied by high-impact but disciplined investments to fully unlock the market opportunity ahead for both WICs and BASE44. For the full year 2026, we expect free cash flow margin in the low to mid 20% range, assuming current capital structure and excluding acquisition expenses. This wider than normal guidance range reflects the dynamic hypergrowth trajectory of Base44 and the inherent variability that accompanies this level of rapid growth. We are playing to win and are willing to make the necessary investments in order to scale Base44 into the market leader. So if base 44 top line growth outperforms more meaningfully, we may experience further pressure on near-term free cash flow margins. In our core WIX business, we expect solid bookings and revenue performance with flat to expanding free cash flow margin for full year 2026. In addition to accounting for our current capital structure and the exclusion of acquisition costs, this expectation also takes into account, one, a material currency headwind on our total payroll expense base net of our hedging activity as the U.S. dollar continues to significantly weaken against the Israeli shekel. Two, negligible AI inference costs associated with Wix Harmony as a result of proactive infrastructure optimization completed last year. 2026 is shaping up to be a foundational year as we drive forward innovations that we believe will cement Wix's leadership and expand our role across an evolving online creation ecosystem. Operator, we are now ready for questions."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Thank you. As a reminder, to ask a question, please press star 11 on your telephone and wait for your name to be announced. To withdraw your question, please press star 11 again. Please stand by while we compile the Q&A roster. Our first question comes from the line of Brad Erickson with RBC Capital Markets. Your line is now open."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Hey, guys. Thanks for taking my question. I have a couple. First, I guess if we look at the organic growth you're embedding into the full year bookings guide, can you lay out maybe and maybe rank some of the contributors there between thinking about things like payment volumes or subscriber mix shift or pricing? So start there."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Hey, this is Lior. So we don't assume a significant change. We don't assume any increase in pricing or change in pricing. I believe that the entire guidance that we provided for 2026 actually reflects the growth that we see within the Wix core business and Base44. But besides of that, I cannot indicate about something that is kind of extraordinary, the same goal for GPV payments and so on."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Understood. That's helpful. Thanks. And then just stepping back, what types of businesses or applications are you seeing users set up with Base44? and kind of how much crossover is there with what you see on Wix's core platform? Like are they, would you say they're kind of a decidedly different customer profile or do you see some of those folks making a choice between the two? Thanks."
+    },
+    {
+      "speaker": "spk12",
+      "text": "We see many different kind of applications. This is outside. People building trees for themselves, for their family, and then personal growth applications. all the way for applications for their business, for their enterprise application machine, CRM replacement in companies, SPR automations, a lot of different things. Really, it's a huge variety. I think that's one of the things that makes us so excited about Base44. it looks like people are so creative and the time for that because of that is essentially infinite we don't see any kind of a competition and and you can see that there are very mostly different usage also as we see now clearly harmonies accelerating and base 44 is accelerating this obviously we don't think from each other. Thank you."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Thank you. Our next question comes from the line of Josh Beck with Raymond James. Your line is now open."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you for taking the question. You know, one kind of higher-level question with base 44, it seems like it's feeling upmarket, and then obviously Harmony is kind of more geared towards the self-creator. So do you see those trends persisting in terms of the segmentation, and how far upmarket do you expect, you know, base 44 to go? And then a financial question related to base 44. Lior, I believe you said about a third of the inference costs are coming from the free users. I think that's kind of a snapshot for today. Is that happening maybe quicker than you had anticipated, meaning the conversion of free to paid is happening at a pace maybe above your expectations. Would love some comments there. Thank you."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Hey, it's me. I'll take the first one in terms of the self-creators question and the more upmarket. So I think definitely on the Harmony side, Harmony is a product we built for the self-creators. So I think, you know, the association you're making between the association you're making between self-careers and harmony is the right one. For base 44, as Adishai just said before, The range of opportunities in terms of the kind of usage is still extremely wide. And it makes sense. It's really a very vast town in the making, and it's expanding all the time. So we are seeing all kinds of usages. By the way, I think we're definitely also seeing a lot of personal use as well in base 44. And there, I think it's too early to say whether it's more of one or the other. And to be honest, I think we're going to work very hard to help it segment it over time to try and win on both ends for Base44."
+    },
+    {
+      "speaker": "spk10",
+      "text": "I will take the second question. Yes, about one-third as of now related to free users. Look, I believe that when we started it was higher than that. I think that we are keep on increasing conversion and it's a really, really good sign. And we also become much more efficient in terms of how we use the model between the different type of users. So I do believe that the portion related to that will decrease in the future as the overall cost will decrease."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Very helpful. Thanks, guys."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Thank you. Our next question comes from the line of Ken Wong with Oppenheimer and Company. Your line is now open."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Fantastic. Thanks for taking my question. Great to see the amazing base 44 outcome. Can you give us a sense for kind of what accelerated that growth sequentially? And I realize, you know, kind of you're still working through some of the details, but would love to get a sense for, you know, what the base ARR bookings looks like in fiscal 26 that is reflected in the free cash flow margin guide of low to mid 20s. Great."
+    },
+    {
+      "speaker": "spk10",
+      "text": "So, yeah, I mean, we do see acceleration and, you know, in a way also better than what we expected. I think that the fact that we've already gotten to our $100 million offer actually reflect that. With regard to the assumptions about the booking, we do not break it down between weeks and base. We believe that it's already an organic product internally. We are not relating it separately. A big part of BASE44 growth is actually based on the synergy with WICs, and it's super important to understand it. Therefore, we are not going to provide separately between BASE and WICs. We did mention the ARR, which I think that can, and also the growth of the ARR, that should give you a very good indication of what we assume with regard to that. We are very optimistic about it."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Fantastic. And then if I could have just a quick follow-up. I think the early guide was that you would see second half acceleration of the core, specifically partners. It does seem like it maybe down-ticked a little bit. We'd just love to get any color from you in terms of what you saw in Q4 on the core legacy-based business. I mean, Wix business, sorry."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Yeah, sure. Well, we actually saw acceleration in Q4 Compera. I mean, we said that, you know, from the very beginning of the year that we will see acceleration of core weeks in the second half of the year, and this is exactly what happened. The only thing that kind of was not expected is some kind of modest softness in GPV. That partially was also compensated by the fact that we see a better growth in terms of subscriptions. So I think that, you know, if you look at the second half of the year for weeks, we actually did see some acceleration. Also in the fourth quarter, mostly coming from creative subscriptions."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Fantastic. Thank you very much."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Thank you. Our next question comes from the line of Andrew Boone with Citizens. Your line is now open."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thanks a lot for taking my questions. I'm sorry, I'm at the airport, so there's a little bit of a conversation going on. Can I ask in terms of base 44 and LTV, if I think about the payback period of one year, how do we think about that now that you're just having customers that are hitting that one-year mark? How are you guys estimating the LTV or the payback period using that framework as you guys define CAC for base 44? And then I'd love to ask just it looks like about $30 million of acquisition cost in 2025. Can you guys what that would look like for 2026 and how we should think about that within the free cash flow guide? Thank you so much."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Sure. So you're right. I mean, BASE is a very young company, very young product. And by the way, this is why we are very also conservative about the guidance. But right now, based on the information that we have, based on the history that we already have, We are looking at less than one year of TRY, and this is how we manage the acquisition cost. I think that it's very important to mention right now that we're investing for growth. We are not necessarily trying to optimize growth margin. We are optimizing dollar profits. Right now, definitely, we intend to invest in growth. By the way, you can see that also reflected in part of our free cash flow guidance. This is with regard to the TRY. By the way, it's the same week's methodology that we used for many, many years, and we are very good at it. With regard to the $30 million of acquisition costs in 2025, definitely it's going to be higher in 2026 because we see the demand in the market. And as I mentioned before, we plan to pursue that. We plan to go and make sure that we will continue to get a lot of market share and, you know, and expand this business. We see a great potential about this business."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Thank you. Our next question comes from the line of Deepak Mathimnan with Cantor Fitzgerald. Your line is now open."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Hey, guys. Thanks for taking the question. So one on Harmony and then one on OpenAI Partnership. First, you noted that the early region Harmony, you're seeing improving conversion. What type of users are you seeing initially? Are you seeing perhaps more sophisticated tech users you know, adding advanced capabilities to their websites with some of the, you know, more traditional SMBs. Is Harmony helping the capabilities of the websites become more sophisticated at all in the early days? Can you talk a little bit about that? And then on the partnership with OpenAI for Apps SDK, in addition to just integrating, you know, for new website creation when Wix is invoked as an app. What are some of the other benefits in terms of how ChatGPT is navigating the website created by Wix that you're potentially seeing any color you can add on how deeper this partnership can evolve over time? Thank you so much."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Of course. So for the first part, we're pretty much seeing everybody using Harmony that was using Wix before. So everything from to the personal website, to the hair salon website, to large company and enterprises, so pretty much everybody. At this stage, Harmony does not support a database, but that will be added soon, so a bit less sophisticated website, but nothing major. And for your other question, Can you repeat it, please? It was breaking for me in the end."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Yeah, I was curious, you know, in addition to partnership on apps with OpenAI, you know, do you see potential opportunities in terms of how Wix websites or perhaps, you know, navigated and searched by OpenAI in the future, particularly ChatGPT?"
+    },
+    {
+      "speaker": "spk12",
+      "text": "Well, yeah, of course. I think that it's a very big subject. I think that we are seeing and if you remember a year ago i spoke about the fact that it's very unlikely that the lln companies will start building back for the various services and so they're probably not going to be the whole e-commerce staff they're not going to build databases for businesses they're going to bring the layer of intelligence on top of that and and this is just one example where we allow a weak users to build and with the intelligence that openai provides their website right it's even more interesting because it's an intelligence in wakes talking to the intelligence in openai i think that this creates tremendous opportunities for the future there's so much more we can do there and because it's not apis in the standard way it's true you know essentially it's two intelligences that are discussing and working together to build a website And that is a fantastic pattern that can be grown a lot. As for how OpenAI or any other airline can view the website, we support pretty much everything. We support, of course, making the text. If our customers choose so, we can make the text visible and easy to crawl and built in a way that is very easy for the airlines to process. We also have a way to enrich so we can give LLM more than just the content that we normally have on the website. Because LLM likes to read a lot of content when humans tend to want to read less. So this is one option. We, of course, support MCP on every week's website and pretty much every other time. I think that this is not a small step in a long roadmap of how we collaborate and create the new internet. An agent internet, but for humans, so still need the visuals are still in there. Little justice, you need to buy products. However, you want to create the ability for us to work together for humans to have a better experience. Thanks, sir."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Thank you. Our next question comes from the line of Trevor young with Barclays. You're allowed to smell open."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Great. Thanks. First question, just on premium subs, declines persisting there even when layering in base 44. I appreciate the commentary that growth in key markets like the U.S. was positive. That metric is still negative for the second year in a row. Why is that and how much more churn is there among these lower value subs?"
+    },
+    {
+      "speaker": "spk14",
+      "text": "Hey, Trevor, it's Nir. So I think, you know, this is, as a reminder, this is very much aligned with our strategy around around bringing value to the cohorts and prioritizing cohort value over the subs. And this is something we've been pursuing for a few years now and have been talking about. And again, throughout the year, we've seen more opportunities around geographies and areas where we can go after higher value subscriptions. which is why we prefer to go after those. Obviously, you see the lower net subs, but you're seeing the higher value that comes into the cohorts over time."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Thanks for that, Nir. And just a follow-up question. How should we think about the composition of growth between self-creator and partner in 26? Is partner now kind of like a low-20s grower, or could that slow further? And then on self-creator, Clearly, that'll pick up from the contribution from base 44. But should we assume that the core self-creator business remains stable, given that Harmony is coming in at the same price points as the older editor product? Thank you."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Yes, I think that enough for self-creator. I think that you should assume that it is stable. We actually, when you think about it, we do see some acceleration in terms of the new cohorts. I think that we already indicated that for the performance of Harmony. So it mostly has an impact, a very positive impact on self-creators, especially for the new cohorts. Remember that you know, most of the cohorts already performing, meaning that most of the effect of Harmony is a new cohort, so we are going to see that over time. With regard to partners, we have a lot of innovation that we are going to do in the future, in the new future, but also, Trevor, remember that Base44 has a ton of interesting, you know, thing for our partners that they can actually use for their customers, and it's more revenue stream for them. So we believe that all the right now, most of it, we believe that it's a great opportunity also for partners to use Base44 in the future. Thanks, Lior."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Thank you. Our next question comes from the line of Mark Segutovic with Benchmark. Your line is now open."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Mark, your line is open. Thank you. Question on Harmony, then I had a follow-up on your LLM partnerships. But on Harmony, just curious what the early cohort KPIs that you're seeing there in terms of conversion, ARPU, attach rate, churn, relative to the traditional cohorts and how durable Do you see these KPIs across your geomix?"
+    },
+    {
+      "speaker": "spk10",
+      "text": "Thanks. So I'll start with Harmony. As we mentioned, we see a very good performance of the new code. We actually see a better conversion, faster monetization, and also higher ARPU. So we believe, we hope that this trend will continue. Again, I think that it's too early, but we feel very positive about the first reaction and performance of this product, which in a way we expected that, but it's always nice to see that."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Got it. And in terms of the LLM partnerships you have, OpenAI with Harmony and Anthropic via Base44, Curious how the economics work here and specifically the revenue split with these partners. And then within Wix and ChatGPT, that framework there, what percent of new Harmony signups do you expect to come here over time? And how do you manage a theoretically lower platform or take rate if these AI interfaces become your major distribution partners? Thank you."
+    },
+    {
+      "speaker": "spk14",
+      "text": "First of all, obviously, we can't go into economics. We have different deals and agreements we have with the LLM partnerships. I think it is worthwhile mentioning that we actually have quite a few different kinds of corporations and partnerships and joint ventures with each and every one of them in completely different areas. of the wide range of infrastructure that Wix has and supports. On the Wix side, on the Base44 side, we've been doing research with them for many, many years now, so also the research teams are very tightly connected on the Anthropic side, on the Google side, on the OpenAI side, and others. I don't think, and currently we're not assuming any kind of impact specifically on the weeks inside GPT thing. So I cannot actually comment on changes that are being incurred because of it. If it becomes, over time, for some reason, a much more significant stream, then obviously we can address that. But for the time being, we don't accept that to be significant."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Got it. Thank you."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Thank you. Our last question comes from the line of Mike McGovern with Bank of America. Your line is now open."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Hey, thanks for taking my question. For Base44, when you think about going from I think about 60 million in ARR exiting the year to now over 100 million or close to 100 million in such a brief period of time. Can you just double click on kind of what was able to accelerate that growth? I know they've added a couple key features like payments. Is there anything else in there?"
+    },
+    {
+      "speaker": "spk14",
+      "text": "So I don't think we can call to one specific product release or change. Also, you have to remember that the cadence of improvement and innovation there is massive. There's much more that's happening all the time. It's a combination of the ability to increase the user base. The increase is coming, first and foremost, because there's more and more brand awareness. We did a Super Bowl campaign, which definitely did not hurt. It was very beneficial. And as the brand awareness grows, and also I would say as the awareness to the category grows for more and more people, then obviously the demand is increasing. And then we match that demand with our stellar marketing team that has been working very diligently to ignite and push the base 44 growth over time. And then I would say definitely the product is improving, and also we keep on optimizing many, many parts of both the funnel, the product, the business model. We're basically taking so many things out of the week's playbook and everything we learned over the past, two decades in how to run a successful subscription business, and we applied to Base44 in the right, relevant way. And I think you're seeing the results."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Got it. And then when we think about the kind of tokens and free tokens for trial users within Base44, how much of that, you know, and we think longer term is somewhat self-inflicted in that S&M expense increase, and you could just lower that over time as base 44 scales and just awareness grows."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Well, I think it's a great question, and we'll keep on testing and understanding where the threshold should be. It can definitely, you know, definitely can find ways to move the threshold as time progresses. We do think that having the free tokens there and having a free new model is great because you want to give people the opportunity to test drive, to pilot the product and try it out. And we think, you know, that obviously the people who are gaining value from it will continue, and those are the people we will monetize immediately. The ones who don't may come back later on. And we've seen the same thing when we were building the Wix removal model, whereas, you know, again, Base44 is a very young product. On the week's cohorts, we're seeing people who are converting who joined us 10 or 15 years ago. That's amazing. So, you know, over time, building a big cohort base where people can experience your product, love your product, but if they don't necessarily need it right now, we'll come back to it later is a big benefit. That being said, we definitely think there's more things we can do to hone the model, the business model over time, and we'll align that as we go forward."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Thank you. This concludes the question and answer session. Thank you all for your participation on today's call. This does conclude the conference. You may now disconnect."
+    }
+  ]
+}
