@@ -1,6 +1,60 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-14T11:17:54Z",
-  "n_calls": 0,
-  "calls": []
+  "generated_at": "2026-05-14T15:25:22Z",
+  "n_calls": 5,
+  "calls": [
+    {
+      "ticker": "KLAR",
+      "company": "Klarna Group plc Ordinary Shares",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-14T08:30:00-04:00",
+      "ark_funds": {
+        "ARKF": "1.93%"
+      }
+    },
+    {
+      "ticker": "CLBT",
+      "company": "Cellebrite DI Ltd.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-14T08:30:00-04:00",
+      "ark_funds": {
+        "IZRL": "1.54%"
+      }
+    },
+    {
+      "ticker": "LUNR",
+      "company": "Intuitive Machines, Inc.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-14T08:30:00-04:00",
+      "ark_funds": {
+        "ARKQ": "2.53%",
+        "ARKX": "1.76%"
+      }
+    },
+    {
+      "ticker": "NVMI",
+      "company": "Nova Ltd.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-14T08:30:00-04:00",
+      "ark_funds": {
+        "IZRL": "1.48%"
+      }
+    },
+    {
+      "ticker": "BLSH",
+      "company": "Bullish Ordinary Shares",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-14T08:30:00-04:00",
+      "ark_funds": {
+        "ARKF": "1.75%",
+        "ARKK": "2.55%",
+        "ARKW": "2.12%"
+      }
+    }
+  ]
 }
