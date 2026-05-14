@@ -1,7 +1,7 @@
 {
   "date": "2026-05-13",
-  "generated_at": "2026-05-13T22:18:28Z",
-  "n_calls": 11,
+  "generated_at": "2026-05-14T00:07:31Z",
+  "n_calls": 12,
   "calls": [
     {
       "ticker": "BABA",
@@ -103,6 +103,16 @@
       "conference_date": "2026-05-13T08:30:00-04:00",
       "ark_funds": {
         "IZRL": "1.57%"
+      }
+    },
+    {
+      "ticker": "GILT",
+      "company": "Gilat Satellite Networks Ltd.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-13T09:30:00-04:00",
+      "ark_funds": {
+        "IZRL": "1.67%"
       }
     },
     {

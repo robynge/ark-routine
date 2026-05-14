@@ -1,0 +1,259 @@
+{
+  "event": {
+    "ticker": "GILT",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk07": {
+      "name": "Hila",
+      "title": "Operator"
+    },
+    "spk02": {
+      "name": "Sanjay Hari",
+      "title": "Investor Relations, Alliance Advisors IR"
+    },
+    "spk01": {
+      "name": "Adi Svadia",
+      "title": "Chief Executive Officer"
+    },
+    "spk00": {
+      "name": "Gil Beniamini",
+      "title": "Chief Financial Officer"
+    },
+    "spk05": {
+      "name": "Ryan Coons",
+      "title": "Analyst, Miniman Company"
+    },
+    "spk04": {
+      "name": "Chris Quilty",
+      "title": "Analyst, Quilty Analytics"
+    },
+    "spk06": {
+      "name": "Sergei",
+      "title": "Analyst, Freedom Workers"
+    },
+    "spk03": {
+      "name": "Louis de Palma",
+      "title": "Analyst, William Bloom"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk07",
+      "text": "Ladies and gentlemen, thank you for standing by. The conference will begin shortly. Ladies and gentlemen, thank you for standing by. Welcome to GILAT's first quarter 2026 results conference call. All participants are at present in listen-only mode. Following the management formal presentation, instructions will be given for the question and answer session. For operator assistance during the conference, please press star zero. As a reminder, this conference is being recorded May 13, 2026. By now, you should have all received the company's press release. If you have not received it, please view it in the new section of the company's website, www.gilott.com. I would now like to hand over the call to Mr. Sanjay Hari of Alliance Advisors IR. Mr. Hari, would you like to begin, please?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you, Hila. Good morning, everyone. Thank you for joining us for Gilott Satellite Network's earnings conference call for the first quarter of 2026. With us on the call today are Mr. Adi Svadia, Gillette's CEO, and Mr. Gail Beniamini, Gillette's Chief Financial Officer. Before turning the call over to management, I'd like to remind everyone that some statements made during this conference call contain forward-looking statements based on current expectations. Actual results could differ materially from those projected as a result of various risks and uncertainties. The potential risks and uncertainty that could cause actual results to differ materially include uncertain global economic conditions, reductions in revenues from key customers, delays or reductions in U.S. and foreign military spending, acceptance of the company's new products on a global basis, and disruptions or delays in its supply of raw materials and components due to business conditions, global conflicts, weather, or other factors not under the company's control. The company cautions investors to not place undue reliance on forward-looking statements, which reflect the company's analysis as of today's date. The company undertakes no obligation to publicly update forward-looking statements to reflect subsequent events or circumstances. Further information on these factors and other factors that could affect Gillette's financial results is included in the company's filings with the Securities and Exchange Commission, including its latest quarterly report. In addition, on today's call, management will refer to certain non-GAAP financial measures that management considers to be useful and differ from GAAP. These non-GAAP measures should be considered supplemental to corresponding GAAP figures. With that, I'd like to turn the call now to Gilad's CEO, Adi Satya. Please go ahead, Adi."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thank you, Sanjay, and good day, everyone. Thank you for joining us today to discuss Gilad's first quarter results. I am pleased to report that we opened the year with solid execution across the business, reflecting strong performance. Our results underscore the competitiveness of our portfolio across the satellite communication landscape and strong year-over-year revenue growth and profitability. As satellite operators and government customers advance next-generation programs, From VHDS satellites to NGSO constellations, we are seeing our capabilities translate into new orders, expanding customer engagement, and growing opportunities. This momentum is closely tied to the progress we continue to make in technology development as we invest in advanced and interoperable systems designed to support the evolving requirements of next-generation satellite communication networks. During the quarter, Gilad Defense conducted a live demonstration of its virtualized Satcom Gateway modem architecture at Satellite 2026 in Washington, D.C., in collaboration with Amazon AWS, SCS Space and Defense, and the Wave Consortium. The demonstration showcased a flexible cloud-based and software-defined gateway architecture designed to improve scalability, resiliency, and agility for defense and government networks, and represent a significant step forward in how future SATCOM gateways will be deployed and operated. In parallel, we successfully conducted a 5G non-terrestrial network demonstration, highlighting how satellite systems can integrate with future 5G-based architectures. Together, this milestone reflects our continued investment in technology solutions that will support next-generation satellite and hybrid networks across both commercial and defense markets. First quarter revenues reached $110.5 million, 20% year-over-year revenue growth, and first quarter adjusted EBITDA reached $15.1 million, almost double the same quarter last year. Overall, the first quarter reflects continued traction and position as well for the remainder of the year. Now on to the business review. I will start with the defense business. we are seeing significant increase in interest for transportable and portable Satcom solutions driven by the growing importance of mobility, rapid deployment, and operational flexibility. As militaries and government users increasingly operate in dynamic and contested environments, the value proposition of highly mobile, resilient Satcom solutions continue to strengthen. This demand translates into meaningful order during the quarter. In February, we announced a $16 million order from the European Ministry of Defense for our DK transportable solutions, reinforcing our leadership in high-performance, rapidly deployed systems. These orders also reflect increased penetration into the European market, driven in part by the evolving geopolitical environment and higher defense readiness requirements across the region. In Israel, we continue to strengthen our relationship with the Ministry of Defense. During the quarter, we announced an order of $9 million, further expanding the deployment of our solution and reinforcing our long-term strategic partnerships. The order includes next-generation defense modems built for mission-critical operations to ensure reliable connectivity across a wide range of operational scenarios. During the quarter, we received an order for over $7 million for our new EnduroStream solid-state power amplifiers, to support the U.S. defense program. EndureStream delivers reliability and operational resilience required for mission-critical environments as defense customers transition away from legacy technologies. Also in the United States, we continue our longstanding support of the U.S. Army. During the quarter, we received an order of approximately $6 million for field and technical services, reflecting the continued reliance on Gilad Defense to support mission-critical SATCOM operations and ensure system availability in the field. Our defense pipeline remains strong, supported by sustained global demand, and our continuing investment in R&D, advanced system architectures, and customer engagement. Turning to our commercial business. In the first quarter, our commercial business continued to show solid performance, supported by ongoing customer engagement and steady execution across our programs. As satellite operators and service providers move forward with next-generation network, they are increasingly focused on platforms that offer scalability, flexibility, and multi-orbit support for our mobility applications. Gilad remains well positioned within this evolving landscape. In-flight connectivity remains one of our key growth engines. Demand for IFC continues to increase, driven by our airline expectations for consistent, high-performance connectivity growing passenger usage, and the industry's transition towards NGSO and multi-orbit networks. These environments strongly align with Gilad's technology roadmap and product portfolio. As of today, we have delivered approximately 750 Sidewinder ISA terminals, of which more than 570 are already installed and in service. During the quarter, Boeing and Gilad reached an important key in-cabin milestone to offer Sidewind ERISA Terminal as a line-fit solution available to airlines and IFC service providers. Certification is on track and deliveries of the first units are expected in Q4 this year. In addition, we are starting a process to achieve a line-fit availability with Airbus. During the quarter, we announced $39 million in orders for our Sidewind ERISA Terminal. reinforce the market's confidence in its performance, low-profile design, and multi-orbit capability. We have also expanded our ISA portfolio with the ESR 2030, which is now commercially available. ESR 2030 is designed to support commercial and defense applications over the OneWeb LEO constellation, complementing our side-window offering and broadening our addressable market. With growing interest in LEO services, We believe INSTAR 2030 position as well to support new programs as operators move from network deployment towards commercial service. We also received a multimillion-dollar order from a leading IFC integrator for solid-state power amplifiers to support connectivity solutions on commercial aviation aircrafts. Across the industry, operators are operating grounded infrastructure to support a wider range of services across multiple orbits. SkyH4 is built for this shift, providing a scalable software-defined platform that enables efficient management of complex multi-service satellite networks. A recent example is our strategic multi-million dollar partnership with Nelco in India to deploy SkyH4 in support of India's first KA-band service deployment using the JSAT-N2 HDS satellite. India represents an important growth market for Gilad, and a central part of our expectation expansion strategy in the Asia-Pacific region. The deployment will enable scalable, high-performance connectivity across multiple services, including IFC, and enterprise connectivity, delivering the performance and flexibility required for K8 deployments. Overall, the commercial pipeline remains healthy, supported by continued IFC demand alongside longer-term investments in advanced satellite network architectures. Our Peru business continues to execute very well, with strong operational progress across our national connectivity programs. We expect to complete an upgrade project that was announced a few quarters ago ahead of schedule in the second quarter of 2026, demonstrating Gilad Peru's ability to deliver large-scale complex infrastructure projects reliably and on time. These results strengthen our position as a trusted partner for national digital inclusion initiative and provide a solid foundation for continued activity in the region. We expect additional large RFPs and follow-on orders during the year. I am pleased to say that we continue to have a strong backlog and a healthy pipeline. Therefore, we feel comfortable reiterating our 2026 annual guidance. We expect 2026 revenues of between 500 and 520 million dollars and adjusted EBITDA of between $61 to $66 million. Technology development remained a core pillar of our strategy across defense and commercial markets. During the quarter, we advanced software-defined system capabilities that enabled more scalable and resilient satellite networks, while also continuing our work on integrating satellite networks with future 5G NPN frameworks. Together, these efforts support next-generation satellite systems serving defense, mobility, and commercial applications. Demand across our core markets continues to develop favorably, and our strategic focus on mobility, multi-orbit architectures, and next-generation systems is translating into tangible momentum across our business. Gilad Defense continues to see strong customer interest as defense and government organizations extend investment in mobile resilience outcome capabilities. We continue to see growing engagement across the United States, Europe, and Israel, supported by a robust pipeline and ongoing investment in advanced architectures that address evolving defense requirements. ISC remains one of our key growth engines, supported by increasing airline demand and continued adoption of ISA-based solutions. We continue to maintain a strong balance sheet and financial flexibility while remaining disciplined in our capital allocation. Mergers and acquisitions continue to be a key element of our defense and long-term growth strategy, with a focus on opportunities that complement our core technologies, strengthen our defense portfolio, and support sustainable value creation. Overall, we delivered a solid start to 2026, validating the strengths of our diversified portfolio across our business. With growing backlog, a healthy pipeline, and a continued investment in technology leadership, Gilad is well positioned to sustain growth and create long-term value. And with that, I will hand over the call to Gil Biniamini of CFO. Gil, please go ahead."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Thank you, Adil. Good morning and good afternoon to everyone. Before I dive into the numbers, I would like to remind everyone that our financial results are presented on both GAAP and non-GAAP basis. I will now walk through our financial highlights for the first quarter of 2026. Daddy mentioned we delivered a strong first quarter with 20% revenue growth, margin expansion, and a significant increase in profitability, reflecting continued execution across all three segments and continued momentum into 2026. Revenues for the first quarter were 110.5 million, representing a 20% growth compared with $92 million in Q125. The growth was driven by all three segments. The revenues for the commercial segments in Q126 were $72.8 million compared with $64.2 million in the same quarter last year. The 13% growth year-over-year was primarily driven by the in-flight connectivity vertical. Revenues for the defense segment in the first quarter of 26 were $25.4 million, 10% higher than $23 million in the same quarter last year. and Q126 revenues for Peru segments were 12.3 million compared with 4.8 million in Q125. The increase was mainly driven by the higher revenues related to the new upgrade project in four of the six regions in which we operate, reflecting the continued expansion of our long-term Peru programs, which provide multi-year recurring revenue streams. Our GAAP gross margin in Q126 was 34% compared with 31% in Q125. The increase is primarily attributable to a favorable deal mix as well as better margins . GAAP operating expenses in Q126 were 33.3 million compared with 31.1 million in Q125. As a result, we delivered a significant improvement in profitability with gap operating income of $4.4 million compared to a loss of $2.7 million in Q125, representing a year-over-year swing of $7.1 million. Gap net income in Q126 was $5.2 million, or a diluted income per share of $0.07, compared with gap net loss of $6 million, or a diluted loss per share of $0.11 in Q125. The improvement was driven by the higher operating income as well as higher financial income associated with our stronger net cash position and lower tax expense. Turning to non-GAAP results, our non-GAAP gross margin in Q126 was 36% compared with 32% in Q125. Non-GAAP operating expenses for the quarter was $26.8 million compared with $24.1 million in Q125. and non-GAAP operating income in Q126 was $12.5 million compared with $5.2 million in Q125. The non-GAAP net income in Q126 was $13.6 million for a diluted income per share of $0.18 compared with net income of $1.8 million or income per share of $0.03 in Q125. The adjusted EBITDA reached $15.1 million, nearly doubling year-over-year, reflecting strong operating leverage on higher revenues. Moving to our balance sheet and cash flow, over the past several quarters, we significantly strengthened our balance sheet and liquidity positions. During the quarter, we used approximately $12.2 million in operating cash, primarily driven by working capital timing, while generating approximately $15 million over the trailing 12 months. We ended the quarter with strong liquidity position of $171 million on price of cash, cash equivalents, restricted cash, and short-term deposits. DSOs were 112 days, excluding Peru construction activity, and remained within our expected range. During the quarter, we reached an agreement with the former shareholders of Datapath to satisfy the share link component of the earnings associated with our 2023 acquisitions of the company before the end of 2026. Under the original terms, this component called for Gila to issue up to 3.1 million shares tied to Datapath's performance from 2024 through 2026. Under the agreement with the former shareholders of Datapath, we issued a total of 2.5 million shares in full satisfaction of the portion of the earn-out at an average price of $15.45 per share. The remaining bonus earn-out component, capped at $9 million in cash or shares per Gilad discretion, is unchanged and continues to be evaluated each quarter based on the performance against agreed targets through its settlement by the end of 2026. Our shareholders' equity as of March 31, 2026, totalled $536 million, compared with $500 million on December 31, 2025, resulting mainly from issuance of shares for data path earnout and net earnings. Looking ahead, based on our strong backlog and visibility, we are reiterating our full year 26 guidance. Revenues are expected to be between $500 to $520 million, representing 13% growth year-over-year at the midpoint. We expect an adjusted EBITDA of between $61 to $66 million, 19% growth at the midpoint. That concludes my financial review. I would now like to open the call for questions. Operator, please go ahead."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thank you. Ladies and gentlemen, at this time, we will begin the question and answer session. If you have a question, please press star 1. If you wish to cancel your request, please press star 2. If you are using speaker equipment, kindly leave the answer before pressing the number. Your questions will be forwarded in the order they are received. Please stand by for the full flow of questions. The first question is from Ryan Coons of Miniman Company. Please go ahead."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Great. Thanks for the question. Maybe start with the commercial segment here. Sounds like Stellar Blue is executing pretty well. You talked about better margin improvements. How are you seeing the overall demand environment for the Stellar Blue product? What's behind some of the gross margin improvements and How do you think about this business kind of over the medium term into next year? How's the visibility looking relative to backlog, et cetera? Thank you."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Hi, Ryan. StellarBlue is performing well. We, you know, we're not providing explicit guidance on StellarBlue, but we can say that we see nicely over here growth. We expect them to do better performance this year. They reached the threshold of EBITDA, so now they are profitable. Gross margin is a bit better, and mainly because of sharpening the supply chain, we replaced one of the units with internal units, which provides better margins. And we do expect margins to be much better towards the end of the year once we start delivering line fit units."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Great. And those line fits, is that starting initially with Boeing here?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "Correct. With Boeing, we passed in-cabinet certification waiting to the full certification date. Probably, if not by the end of the quarter, early Q3, and we expect to deliver first units during Q4, if not earlier than that."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Great, Adi. Thank you. And then maybe I'll continue on commercial. Relative to SkyEdge 4, you know, nice win in India here, as well as, you know, the demo for the virtualize with AWS. How are you thinking about that? transition from hardware to a software-based platform. Any updates you can share with us about how you think that business evolves over the next year or two?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "I think year or two, it's a short term, so I'm not sure we'll see significant involvement in the year or two. Skyh4 is a software-defined platform, meaning at day one, you get give or take all the hardware unit for the gateway and all the upgrades and expansion is done through software licenses. Moving to commercial of the shelf hardware and running on virtualized platform, I guess it's three to four years now, and it's combined together with the plans of shifting the waveform from DVB-S2X to 5G and TN."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Perfect, makes sense on that. And then maybe shifting to defense, any other color you can provide? You talked about some traction with other countries. Is this for the mobility products you talked about, or is that more of a U.S. need for your mobility defense products?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "I think it's a combination of the two. I think that everyone understands, especially now after the pandemic, war with Iran that mobility solutions, portable and transportable solutions are crucial. We saw that some of the U.S. gateways over the Middle East got hit and they will need to replace them and we believe that the replacement will be done with a mobility solution so you can move the gateway on a daily basis to another place and give you some kind of advantage. DataPass is the leader with such a product portfolio. We're already starting to see significant order for our transportable solution, $16 million in Europe, which is also a very big market that is growing, and our presence over there is very important, and this penetration to a new MOD is crucial for our future growth. And also we see a lot of traction in Israel. So all in all, we believe that the defense, the strong pipeline will drive at the end a significant booking year. It's important to remember that there is a time between booking to revenues. In the defense, it's typically projects and it takes six to nine months from the order until you deliver the product, and in some cases, if it's a big project, it can take much more than that. So we are very optimistic about our growth in defense in 26 and more in 27."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Helpful, Adi. Thanks very much."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thank you, Ryan."
+    },
+    {
+      "speaker": "spk07",
+      "text": "The next question is from Chris Quilty of Quilty Analytics. Please go ahead."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thanks, Adi. Just to follow up, you were saying six to nine months from booking to ship. Are you seeing any changes or any indications, you know, here in the U.S. where the administration is really pushing hard on moving quickly? Do you see any possibility of that order to ship gap closing over time?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "It really depends on its lead time and inventory. If we will understand that there is a big demand for quicker turnaround, we can do that. We do hold the inventory, but those units are highly expensive and sometimes are made to build based on a unique requirement. So it's not that easy, but definitely if we... with the negotiation with the customers, if we understand that, we have the ability to expedite."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Great. And when you talk about the uptick in portable solutions, is it fair to assume that that's all coming out of the Datapath portfolio of products?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "The portable and portable solutions are mainly from Datapath products, but we do see also very nice... business to our modems solutions. And we do hope to be able to penetrate to the DOW and the U.S. Army with our modem, the SkyH4 modems and our highly resilient defense modem."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Gotcha. And staying on defense, I mean, you mentioned demos with Amazon AWS and SES. I know on the Amazon side, you do some hardware into Amazon Leo, but what is the connection with Amazon AWS?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "The main idea is to run our gateway on AWS platform, and this is the demonstration that we showcased in a satellite in D.C. that we can do that. And, of course, we need to tailor the solution based on AWS and customer requirements. But I think that the demo reflects our ability to cooperate with the AWS cloud."
+    },
+    {
+      "speaker": "spk04",
+      "text": "And is it fair to assume this is a virtualized platform?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "Correct. It's a virtual platform. We are running our gateway modem on the AWS platform, which connects to a standard modem at the end user side."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Very good. You know, I guess back on the traditional geo side of the business, it appears that both Airbus and California Space have now kind of gotten their act together with regard to the next-gen software-defined satellites. I think the first ones are going up next year. So at what point do you start to see an uptake in equipment to support those systems?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "Typically, we are getting orders, give or take, six to 12 months before the satellite launch. And the deployment really depends on the customer readiness to get the equipment and to deploy it in the gateways. We believe we will start getting... a large part of those orders this year. I'm not sure we'll need to deliver everything this year, but some of it is factored within our guidance already."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Great. Gil, the gross margins were nice in the quarter. Obviously, that was a little bit mixed and a little bit stellar blue. On the stellar blue side, it's profitable, but you were shooting for 10% EBITDA exiting you know, 25 didn't happen, you know, do you have a sense of where in 26 you expect to hit that milestone?"
+    },
+    {
+      "speaker": "spk00",
+      "text": "So, as Adi mentioned, Stellar Blue is now fully integrated into VLAT with operations team and R&D team and so on. I guess that if we would, you know, go back and measure it, as a standalone company would be very close to that. But we don't do it anymore, so it's less relevant. But we definitely see this improvement a long time. Of course, with the line fit deliveries that, as Adi mentioned, expected to start at the last quarter of this year, it will also give another improvement to the growth margins and to the EBITDA margins. of this activity?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "Chris, I think it's important to mention that we do, we start investing in next generation ISA technology and terminals. So R&D expenses is shifting towards StellarView, which is now part of the antenna and terminal subdivision. correlation and the integration between the commercial business and Stellar Blue is tightening on a daily basis. Another positive news, I think, is Stellar Blue is starting to sell their solutions also to defense applications. It's not big yet, but we do expect them to have more than $10 million business with defense this year."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Oh, that's great. You know, and I know you did have, you know, in the original purchase agreement and earn-out agreement, you know, some large strategic wins that were part of that. How is that stuff shaping up? Is it still on the horizon here, maybe not on the time zone, the timeline that you were targeting? Yeah."
+    },
+    {
+      "speaker": "spk01",
+      "text": "So we do have significant progress with one of the strategic projects deal that initially we thought we would be able to close faster. It's progressing slower than expected. We do expect to close it within the coming year, in 2026. I'm not sure we'll be able to close it before the end of June. And I'm not sure that the first order will be more than $35 million, but definitely the potential Can be notes of 100 million."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Very good. All right. Well, thank you, gentlemen."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thank you, Chris. Thank you."
+    },
+    {
+      "speaker": "spk07",
+      "text": "The next question is from Sergei of Freedom Workers. Please go ahead."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Good day, gentlemen, and my congratulations. You provided really great work on your gross margin side. So my question is, recently you talked on NTN solution and I'm wondering, do you see any surge in demand on your 5G NTN solution? Have these trends got better visibility?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "We do see a lot of traction in the market on 5G NTN. OneWebGen2 and Gen1.5 is talking about 5G modems. Iris Square is talking about 5G modems. And also other small Leo startups are talking on 5G modems. And here and there, also GeoPlayers are talking about 5G modems. I think that the overall requirement in the market is not mature enough. So we already started the work on 5G network, mainly the main building blocks. But in order to launch it, we need to tightly work with one of our big customers. And we hope to close something within the coming year."
+    },
+    {
+      "speaker": "spk06",
+      "text": "What do you expect? When the market conditions would be ready for full deployment of these technologies?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "5G and TN, full deployment. I guess right now the first, the most advanced is Irish Square, so I guess it's four to five years from today."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Okay, got it. And a little bit about Peru. Your statement about this segment, should we think the most part of revenue leaning towards second half of 3G26?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "We do expect to get large awards in Peru. And once we get it, revenue will kick in. So I guess the second half of the year should have a higher revenue than the first one. But in general, Peru can be very, the revenue can be very volatile because of the nature of the business over there. It's usually implementation of network when you see relatively high revenues in short time and then recurring revenue over a period of three, five, and sometimes ten years."
+    },
+    {
+      "speaker": "spk00",
+      "text": "And I would add to that, I think that one of the most important things or takeaways about Peru is that the base level of the recurring revenues of Peru this year is higher than it used to be in previous years, and the construction and implementation are, you know, boosting it for the next years. So you can see that we're in a much better position over there."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Okay, thank you very much. Thank you for taking my questions."
+    },
+    {
+      "speaker": "spk07",
+      "text": "The next question is from Louis de Palma of William Bloom. Please go ahead."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Hi, Adi and Gil. I was wondering, what is the potential timing of the Airbus partnership with the Stellar Blue system? How long do you think that will take to materialize? Will it be similar to the timeline with Boeing?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "I think it will be slightly faster than the timeline with Boeing because we gained some knowledge. and some of the testing are equivalent, so we can use the qualification and tests that we have done. Of course, the documentation is totally different, and we need to rewrite some of them, but the knowledge we gain through the Boeing process definitely gives us a head start with Airbus."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Do you have any sense for the timing? Should it take Should we be thinking 2027, 2028? What is your thoughts there?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "I would say that we expect to finish the certification process early 2027 and ship first unit second half of 2027."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Great. And earlier in the call, did you mention that you should ship the first unit to Boeing in the fourth quarter of this year? Correct. Great. And my second question, also relating to the Stellar Blue development, I think for the past year you've been working on like multi-beam technology and it would also seem that like the broader in like connectivity industry is looking for multi-band technology so a terminal that can communicate both in ka band and ku band what is the the progress for these initiatives and how far away are we from having stellar blue multi-beam or for multi-band"
+    },
+    {
+      "speaker": "spk01",
+      "text": "So multi-BIM is mainly dependent on cheap availability and customer requirements. I think today with the Leo constellation, especially with Telesat in service hopefully within the coming 18 months, KUKA antenna, K-U-N-K-A, that will do LEO, has high potential. We are already looking to introduce technologies, either internally or with a third party, cooperation with third parties. I think availability for such antenna is between two to three years, including development cycle and certification cycle. And I think it will be in line with the future service launch of the AI and ISP service providers."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Great. Excellent. Thanks, everyone."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thank you."
+    },
+    {
+      "speaker": "spk07",
+      "text": "If there are any additional questions, please press R1. Please stand by. We'll be pulled for more questions. There are no further questions at this time. Mr. Benjamini, would you like to make a concluding statement?"
+    },
+    {
+      "speaker": "spk00",
+      "text": "I want to thank you all for joining us on this call and for your time and attention. We hope to see you soon or speak with you on our next call. Thank you very much and have a great day."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thank you. This concludes the last first quarter 2026 Rural Conference Call. Thank you for your participation. You may go ahead and disconnect."
+    }
+  ]
+}
