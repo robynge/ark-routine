@@ -1,6 +1,6 @@
 {
   "date": "2026-05-14",
-  "generated_at": "2026-05-14T15:25:22Z",
+  "generated_at": "2026-05-14T18:57:29Z",
   "n_calls": 5,
   "calls": [
     {
@@ -20,7 +20,7 @@
       "quarter": 1,
       "conference_date": "2026-05-14T08:30:00-04:00",
       "ark_funds": {
-        "IZRL": "1.54%"
+        "IZRL": "1.49%"
       }
     },
     {
@@ -30,7 +30,7 @@
       "quarter": 1,
       "conference_date": "2026-05-14T08:30:00-04:00",
       "ark_funds": {
-        "ARKQ": "2.53%",
+        "ARKQ": "2.79%",
         "ARKX": "1.76%"
       }
     },
@@ -41,7 +41,7 @@
       "quarter": 1,
       "conference_date": "2026-05-14T08:30:00-04:00",
       "ark_funds": {
-        "IZRL": "1.48%"
+        "IZRL": "1.53%"
       }
     },
     {
@@ -52,8 +52,8 @@
       "conference_date": "2026-05-14T08:30:00-04:00",
       "ark_funds": {
         "ARKF": "1.75%",
-        "ARKK": "2.55%",
-        "ARKW": "2.12%"
+        "ARKK": "2.51%",
+        "ARKW": "2.10%"
       }
     }
   ]
