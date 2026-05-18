@@ -1,0 +1,139 @@
+{
+  "event": {
+    "ticker": "CGEN",
+    "year": 2026,
+    "quarter": 1
+  },
+  "speaker_name_map_v2": {
+    "spk07": {
+      "name": "Operator",
+      "title": "Conference Operator"
+    },
+    "spk06": {
+      "name": "Lindsay Trickett",
+      "title": "Head of Investor Relations and Corporate Communications"
+    },
+    "spk01": {
+      "name": "Dr. Aaron Ophir",
+      "title": "President and Chief Executive Officer"
+    },
+    "spk03": {
+      "name": "David Silberman",
+      "title": "Chief Financial Officer"
+    },
+    "spk05": {
+      "name": "Diana Graybos",
+      "title": "Analyst, Leerink Partners"
+    },
+    "spk00": {
+      "name": "Stefan Wojcicki",
+      "title": "Analyst, Stifel"
+    },
+    "spk04": {
+      "name": "Leon",
+      "title": "Analyst"
+    },
+    "spk08": {
+      "name": "Dr. Michelle Mahler",
+      "title": "Chief Medical Officer"
+    },
+    "spk02": {
+      "name": "R.K.",
+      "title": "Analyst, A.C. Wainwright"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk07",
+      "text": "Ladies and gentlemen, thank you for joining us today. Welcome to CompliGen's first quarter 2026 results conference call. At this time, all participants are in listen-only mode. An audio webcast of this call is available in the Investors section of CompliGen's website at www.cgen.com. As a reminder, today's call is being recorded. I will now hand the call over to Lindsay Trickett, Head of Investor Relations and Corporate Communications, to begin. Lindsay, please go ahead."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Thank you, Operator. Good morning and good afternoon, everyone, and welcome to Compusion's first quarter 2026 Financial Results Conference call. With us today are Dr. Aaron Ophir, President and Chief Executive Officer, and David Silberman, Chief Financial Officer. Dr. Michelle Mahler, Chief Medical Officer, will join us for the Q&A portion of the call. Before we begin, I'd like to remind you that during this call, the company may make projections or forward-looking statements regarding future events, business outlook, development efforts and their potential outcome, the company's discovery platform, anticipated progress and plans, results and timelines for our programs, including disclosure of clinical data, financial and accounting-related matters, as well as statements regarding our cash position and cash runway. We wish to caution you that such statements reflect only the company's current beliefs, expectations, and assumptions, and that actual results, performance, or achievements of the company may differ materially. These statements are subject to known and unknown risks and uncertainties, and we refer you to our SEC filings for more details on these risks, including the company's most recent annual report on Form 20F. The company undertakes no obligation to update projections and forward-looking statements in the future. With that, I'll turn the call over to Dr. Aaron LaFleur, President and CEO."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thank you, Lindsay, and good morning and good afternoon, everyone. Before I turn to our business update, I want to take a moment to formally welcome Lindsay, our new Head of Investor Relations and Corporate Communications to CompuGem. Lindsay joined us with strong experience in investor relations, and we are thrilled to have her leading our communication with the investment community. Welcome, Lindsay, and we are glad to have you on board. Now, let's start with our business updates. 2026 is heading up to be a significant year for CompuGen, and I am pleased to share our progress in the first quarter of 2026 as we continue executing on our strategic priorities. with our fully-owned clinical program, COM701, a potential first-in-class antibody-targeting fever RG, which is an immune checkpoint with unique biology, much differentiated from other test checkpoints, including PD-1 and PIGIT. We believe this unique biology underlies the clinical activity demonstrated for COM701 in less different indications, such as ovarian cancer. As a reminder, ESMO last year represented a pooled analysis of clinical data showing that COM7-1 in monotherapy and combinations was well tolerated and showed consistent, durable responses in patients with heavily pre-treated platinum-resistant ovarian cancer. Based on these results, we decided to progress the development of COM7-1 and tested in earlier settings of ovarian cancer as a maintenance therapy in patients with relapsed platinum-sensitive ovarian cancer that responded to their most recent Lyme chemotherapy. The rationale is to allow POM7-1 to induce its anti-tumor activity in early-reliant patients with lower tumor burden, less compromised immune system, and by that, increase the likelihood of these patients to benefit from COM-701 unique modes of action. For this purpose, we initiated the Marioviren adaptive plasma trial. In such study 1 of this trial, COM-701 is randomized as maintenance monotherapy versus placebo in patients with relapsed platinum-sensitive ovarian cancer. We're actively enrolling patients in clinical sites across the United States, Israel, and France. Having all sites open and enrolling, spanning leading academic centers in the U.S. and Israel, as well as sites from the ATAGI Unifor French corporate group, gives us confidence in our ability to complete enrollment on schedule for having the myovarian median TFS data at interim analysis by Q1 2027. This patient population comprised of those progressing postpartum individuals and or them. All who are not candidates for such treatments will present a significant unmet medical need with no current standard of care. We believe that clear prolongation of TSS in these patients could inform a registration pack for COM701 and make it a potential backbone for drug combinations in this population while also enabling a potential broader clinical development plan across earlier and later life of ovarian cancer treatments, as well as in other indications for clinical signals previously seen for COM701. In addition, we are happy to see our partner AstraZeneca's progress on their broad real-vegotomy program. We are being confident in real-vegotomy potential based on its differentiated biospecific antibody format, in addition to its clinical and combination strategies. Last month, AstraZeneca presented multiple abstracts featuring RINVE at the ACR Annual Meeting in San Diego, reinforcing our confidence in its differentiated design and growing potential. This includes proclinical data demonstrating potential opportunities for RINVE as an IO backbone for combinations, And also, name-breaking data from the DESTINY GASTRIC O3-Phase II trial, evaluating RILVE in combination with the blockbuster ADC and HER2, and chemotherapy, and cell-type treatments for HER2-positive gastric cancers. This data showed promising antitumor activity, and also demonstrated combinability of RILVE from a safety perspective. Overall, these ACR publications continue to reinforce our confidence in RILVE as AZ continues to advance it along 11 phase 3 trials across multiple indications, including the recently opened trial in gastric in combination with the COVID-18.2 ADC. With that, we are looking forward to the release of additional clinical data on RILVE along the year, including at the next APSO meeting at the end of the month. As a reminder, AstraZeneca has previously estimated a non-risk-adjusted peak annual revenue potential of more than $5 billion per wheelbarrow, and we are eligible for additional rather than $95 billion in future regulatory and commercial milestone payments, plus mid-single-digit tiered royalties and sales. Moving to GF0321, formerly known as CO503, a potential first-in-class anti-IL-18 binding protein antibody licensed to Gilead. GS0321 represents a novel antibody approach to harness cytokine virology for the treatment of cancer, potentially overcoming the limitations of direct cytokine administration. The ongoing Phase 1 godescalation trial continues to progress as we planned. As a reminder, we received to date $90 million from Gilead for these assets, only eligible to receive up to $758 million in additional milestone payments, plus up to double-digit field royalties. Now, to the early-stage pipeline and Unigine Discovery Engine. Beyond our clinical assets, we continue to invest in our early-stage immune oncology pipeline. Unigine, our AI-powered computational survey discovery platform, has already discovered the targets of COM7-1, COM-NO2, and GS-0321. we remain committed to identifying and advancing the next wave of innovative programs grounded in novel mechanisms of action designed to activate the immune system against cancer. Importantly, we have a solid financial position, with the cash runway expected into 2029, following the December 2025 transaction with AZ, through which we received $65 million in non-diluted capital by monetizing only a small portion of our future real royalties. Our financial stability allows us to fully focus on advancing our pipeline and reaching key value-creating milestones with both our internal and partner programs. And throughout all of this, we'll continue to benefit from a deeply talented and highly committed Team Earth competition. I am proud of what we have built and energized both opportunities ahead. With that, let me go over to David for the financial update before we open the floor for Q&A."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Thank you, Eran, and I would like to add my own warm welcome to Lindsay as well. It is a pleasure to have you join the company and team, Lindsay, and we look forward to working together. I am pleased to say that we continue to advance into 2026 with a solid balance sheet and financial flexibility. Cash Runway, assuming no further cash inflows, is expected to fund our operating plans into 2029. We anticipate using this runway to continue advancing our COM701 platinum-sensitive ovarian cancer trial, MyaOvarian, and to support the progression of DS0321 in the clinic, together with continued investment in our early-stage pipeline. Now going into the details, I will start with our cash balance. As of March 31st, 2026, we had approximately $134.9 million in cash, cash equivalents sold in bank departments and investments in marketable securities. Revenues for the first quarter of 2026 were approximately $2.2 million, compared to approximately $2.3 million of revenue for the comparable period in 2025. The revenues in the first quarters of 2026 and 2025 retained the recognition of false ends of both the upfront payment and the IMDb milestone payments from the License Agreement with India. Expenses for the first quarter of 2026 were in line with our plans. R&D expenses for the first quarter of 2026 were approximately $6.9 million compared to approximately $5.8 million in the first quarter of 2025. The increase is mainly due to an increase in clinical expenses related to my ovarian trials as well as higher drug supply costs supported our trials. Our gain expenses for the first quarter of 2026 were approximately $2.3 million compared to approximately $2.4 million for the comparable period in 2025. For the first quarter of 2026, our net loss was approximately $7.7 million or $0.08 per basic and diluted share, compared to a net loss of approximately $7.2 million or $0.08 per basic and diluted share in the first quarter of 2025. With that, I will hand over to the operator to send the call for questions."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Thank you. Ladies and gentlemen, at this time we will begin the question and answer session. If you have a question, please press star 1. If you wish to decline from the polling process, please press star 2. If you are using speaker equipment, kindly leave the answer before pressing the number. Please stand by while we poll for your questions. The first question is from Diana Graybos of Learing Partners. Please go ahead."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Hi, thank you for the question. Lindsay, welcome. Nice to see you here. Going into ASCO, I wonder if you could talk about more specifically the data sets ASCA is going to present with Riva Gosimid and help set the context for, you know, what we should expect to see and, you know, are there benchmarks that we should be keeping in mind when we review the data sets?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "Sure. Thanks, Dana. So, we're talking about two data sets, clinical data. Obviously, the actual data is not released yet, and I would be cautious on setting expectations of the astrophysiogenica. But overall, we talk about the I-SPI trial in the testing with the GineoGervant settings with Sennheiser, which is by itself a blockbuster drug, which is very exciting to see these combinations. Again, I will be talking about certain expectations, but I think looking again, and this is a platform trial, so really trying to look across, not a randomized study, but trying to look about real versus other data sets. The combinability is again going to be very important and to show, again, how the XU-reduced format of riboglossomy is easier to combine with such ABCs. And then the second step is the Gemini hepatobiliary, which is in combination with chemotherapy, and here again, we'll get to see, I think it's a bit of a longer follow-up from what was reported before, so it will be interesting to see about the long-term effect, how the PSS, I'm not sure if there will be an OS data, but how the long-term effects are shaping, including the long-term safety, in combination with chemo, and having in mind that there is, for this trial, there's an ongoing phase three study ongoing, So, I guess the compression per cycle control should be with caution and still probably is going to be made."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Great, thank you. The next question is from Stefan Wojcicki of Stiple."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Please go ahead. Yeah, thanks for taking the questions. Maybe you can just talk a little bit about how you're thinking about disclosing future development candidates that are discovered off the Unigine platform. I think the IL-18 binding protein antibody wasn't announced until it was ready for clinical development. Is that kind of how we should expect incremental assets to emerge out of the pipeline once they're ready for the 90 submission? Thanks."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thanks, Steve. So I think it's really dependent. Eventually, definitely the biggest group in CompuGen is the one that continues to work to bring additional innovative assets like Comp 503, which is called today GS0321. Specifically for that asset, it was right for this asset and for competition at these times to out-license it in the clinical stage. So this also influenced the stage in which we disclosed it. It was relatively early. But it doesn't mean necessarily that we have any specific guidelines that we are quoting on early assets only when it's ready for R&D or only on the selection. It really depends on the actual assets. on the stage of the risking, and if you want to start comments and committing. So, again, I wouldn't learn too much from the story of IL-Ting-Banging-Crossing other than the fact that it was another demonstration how a computational platform can bring such innovative approaches, in that case, not only first-in-class asset, but the first-in-class approach to harness types of chronobiology for the treatment of cancer. And we are looking into different MOAs, not necessarily similar to that, to bring, again, another innovative option that could really make a difference to patients."
+    },
+    {
+      "speaker": "spk00",
+      "text": "All right, thanks."
+    },
+    {
+      "speaker": "spk07",
+      "text": "The next question is from . Please go ahead."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Good morning. Thanks for taking the questions. I'm wondering if, could you remind us if the myo-ovarian trial, is that stratifying for patients who are PD-L1 or PD-1 expression, you know, status? And also, as we see the insulin data in the first quarter, Well, given that this is an adaptive trial, would that mean that the interim data could inform some change to your design, or would you simply keep going as planned? Thank you."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thank you, Leon. I think Michelle can take this one."
+    },
+    {
+      "speaker": "spk08",
+      "text": "I'm happy to take this one, yeah. So the myogarine trial actually is not stratified according to PD-L1 subgroup. We are stratified by second-versus-third line of treatment. And in 1Q17, when it reads out, we have multiple options ahead of us in terms of adjustments to the trial. So we would consider adding additional arms, and a lot of it's going to depend on the totality of the data and also plans towards engaging with the regulators and steps towards the pivotal trials."
+    },
+    {
+      "speaker": "spk01",
+      "text": "One additional comment about the PD-L1 certification. I would like to remind you that PVRLG, probably because it's unique biology, we saw in other indications, specifically in ovarian cancer, we saw responses across PD-L1 positive and PD-L1 negative patients. So for now, we didn't see that necessarily, like for other checkpoints, that the PD-L1 subset is the one responding to COM7-1. And, again, I think this is because the unique biology very much differentiates it from PGIT or PD-L1. So, again, not necessarily PD-L1 certification is the typical certification use."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thanks so much, Ron. Thank you."
+    },
+    {
+      "speaker": "spk07",
+      "text": "The next question is from R.K. of A.C. Wainwright. Please go ahead."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you. Thank you, Rohan, for taking my questions. So a couple more questions on the ovarian cancer trial. So now that you have all the sites active, what is, any commentary on the enrollment status itself and also because this is an event-driven trial, any commentary on the required events that needs to happen for the interim analysis? And the third question is, what are you assuming, you know, for the control on PFS and what sort of an hazard ratio do you need to see to consider that as a gain?"
+    },
+    {
+      "speaker": "spk01",
+      "text": "Thanks, RK. Michel, do you want to take it?"
+    },
+    {
+      "speaker": "spk08",
+      "text": "Yeah, sure. So, firstly, with respect to our enrollment, we're not commenting at this point in time, but I will say to you that we are on track for our interim analysis as planned in the first quarter of 2027, and our participating investigators have a high level of engagement and are working really well with us. Regarding the events and the benchmarking, so the The trial is an exploratory trial, and so at this point in time, we don't know the full magnitude of benefits, but the benchmark for the control from prior clinical trials in the second line and third line of maintenance, in those trials where patients did not get treatment, The same case in population had a benchmark of approximately 5.5 months, although there was a range. So in some studies, it was as low as 3.8 months, and others as high as 5.8 months. So we're hoping to be able to show that there is need for single-agent clinical trials. activity of Comm701, and we've hypothesized that we would like to see a three-month or greater improvement of the benchmark PSS."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Perfect. Thank you. Thanks for taking my question."
+    },
+    {
+      "speaker": "spk07",
+      "text": "Sure. This concludes the Q&A session at CompuVents Investor Conference Call. Thanks for your participation. You may go ahead and disconnect."
+    }
+  ]
+}
