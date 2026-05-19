@@ -1,6 +1,17 @@
 {
   "date": "2026-05-19",
-  "generated_at": "2026-05-19T13:57:08Z",
-  "n_calls": 0,
-  "calls": []
+  "generated_at": "2026-05-19T17:40:58Z",
+  "n_calls": 1,
+  "calls": [
+    {
+      "ticker": "RDCM",
+      "company": "Radcom Ltd.",
+      "year": 2026,
+      "quarter": 1,
+      "conference_date": "2026-05-19T08:00:00-04:00",
+      "ark_funds": {
+        "IZRL": "1.93%"
+      }
+    }
+  ]
 }

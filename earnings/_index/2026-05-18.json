@@ -1,6 +1,6 @@
 {
   "date": "2026-05-18",
-  "generated_at": "2026-05-19T13:57:08Z",
+  "generated_at": "2026-05-19T17:40:48Z",
   "n_calls": 2,
   "calls": [
     {
@@ -10,9 +10,9 @@
       "quarter": 1,
       "conference_date": "2026-05-18T08:00:00-04:00",
       "ark_funds": {
-        "ARKK": "1.08%",
-        "ARKQ": "1.95%",
-        "ARKW": "1.01%"
+        "ARKK": "1.14%",
+        "ARKQ": "2.00%",
+        "ARKW": "1.06%"
       }
     },
     {
@@ -22,7 +22,7 @@
       "quarter": 1,
       "conference_date": "2026-05-18T08:30:00-04:00",
       "ark_funds": {
-        "IZRL": "1.72%"
+        "IZRL": "1.57%"
       }
     }
   ]
