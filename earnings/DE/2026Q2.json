@@ -1,0 +1,359 @@
+{
+  "event": {
+    "ticker": "DE",
+    "year": 2026,
+    "quarter": 2
+  },
+  "speaker_name_map_v2": {
+    "spk09": {
+      "name": "Operator",
+      "title": "Conference Operator"
+    },
+    "spk02": {
+      "name": "Josh Beal",
+      "title": "Director of Investor Relations"
+    },
+    "spk14": {
+      "name": "Chris Seibert",
+      "title": "Manager, Investor Communications"
+    },
+    "spk15": {
+      "name": "Brent Norwood",
+      "title": "Chief Financial Officer"
+    },
+    "spk07": {
+      "name": "Brent Norwood",
+      "title": "Chief Financial Officer"
+    },
+    "spk11": {
+      "name": "Patty Bogart",
+      "title": "Analyst, Millis Research"
+    },
+    "spk10": {
+      "name": "Chirag Patel",
+      "title": "Analyst, Jefferies"
+    },
+    "spk06": {
+      "name": "Randy",
+      "title": "Analyst, Citigroup"
+    },
+    "spk01": {
+      "name": "Esther",
+      "title": "Analyst, Morgan Stanley"
+    },
+    "spk08": {
+      "name": "Mason Manor",
+      "title": "Analyst, Oppenheimer"
+    },
+    "spk05": {
+      "name": "Jerry Revich",
+      "title": "Analyst, Wells Fargo"
+    },
+    "spk00": {
+      "name": "Raquel Bateesh",
+      "title": "Analyst, JP Morgan"
+    },
+    "spk13": {
+      "name": "Federico",
+      "title": "Analyst, Bernstein"
+    },
+    "spk03": {
+      "name": "Meg Dobry",
+      "title": "Analyst, Bayard"
+    },
+    "spk04": {
+      "name": "Tim Tyen",
+      "title": "Analyst, Raymond James"
+    },
+    "spk12": {
+      "name": "Avi Jaroslavsky",
+      "title": "Analyst, UBS"
+    }
+  },
+  "speakers": [
+    {
+      "speaker": "spk09",
+      "text": "Good morning and welcome to Deere and Company's second quarter earnings conference call. Your lines have been placed on listen only until the question and answer session of today's conference. I would now like to turn the call over to Mr. Josh Beal, Director of Investor Relations. Thank you. You may begin."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Hello. Welcome and thank you for joining us on today's call. Joining me on the call today are Brent Norwood, Chief Financial Officer, and Chris Seibert, Manager, Investor Communications. Today, we'll take a closer look at Deere's second quarter earnings, then spend some time talking about our markets and our current outlook for fiscal 2026. After that, we'll respond to your questions. Please note that slides are available to complement the call this morning. They can be accessed on our website at johndeere.com forward slash earnings. First, a reminder, this call is broadcast live on the internet and recorded for future transmission and use by Deere and Company. Any other use, recording, or transmission of any portion of this copyrighted broadcast without the expressed written consent of DEER is strictly prohibited. Participants in the call, including the Q&A session, agree that their likeness and remarks in all media may be stored and used as part of the earnings call. This call includes forward-looking statements concerning the company's plans and projections for the future that are subject to uncertainties, risks, changes in circumstances, and other factors that are difficult to predict. Additional information concerning factors that could cause actual results to differ materially contained in the company's most recent Form 8K risk factors in the annual Form 10-K, as updated by reports filed with the Securities and Exchange Commission. This call also may include financial measures that are not in conformance with accounting principles generally accepted in the United States of America, GAAP. Additional information concerning these measures, if any, including reconciliations to comparable GAAP measures, is included in the release and posted on our website at johndeer.com forward slash earnings under quarterly earnings and events. I will now turn the call over to Chris Seibert."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Good morning, and thank you for joining us today. In John Deere's second quarter, we delivered year-over-year net sales growth of 5% and an equipment operations margin of 16.9%, reflecting solid execution and a strong diversified portfolio of businesses spending multiple industries and geographies. The quarterly results also benefited from recording a recovery for refund claims relating to IEPA tariffs, which we'll discuss in more detail later in the call. Our construction and small ag and turf business units continue to benefit from supportive industry fundamentals. Notably, robust infrastructure spending and rental fleet replacement are driving increased demand for construction and road building equipment, while small ag and turf is benefiting from a recovery in turf end markets and healthy cash flow in the dairy and livestock sector. Our large ag business consumption of ag commodities continues to grow, supported in part by increased biofuel use and higher energy prices. And we see the potential for tighter air commodity supplies in upcoming crop years as higher fertilizer costs potentially impact production levels. However, customer sentiment remains muted, despite recent grain price increases as growers' margins face headwinds from elevated and volatile input costs and high interest rates. Amidst this backdrop, DEER continues to strengthen its position in advance of the large ag cycle recovery with low levels of new field inventory, continued improvement in used inventory, and robust introductions of new products and technology solutions that are driving market share gains and are expected to enable future growth as markets recover. As an enterprise, we remain confident in our ability to bring increased value to customers and deliver structurally higher performance for deer across the cycle. The diversification of our business segments evidenced in 2026 with all three operating at different points in the cycle, provides increased resilience and enhanced growth opportunities for the organization. As a result, this quarter, we maintain our overall net income outlook for fiscal 2026 while continuing to progress towards our 2030 LEAP ambitions. Slide three opens with our results for the second quarter. Net sales and revenues were up 5% to $13.369 billion while net sales for the equipment operations were up 5% to $11.778 billion. Net income attributable to Deeren Company was $1.773 billion, or $6.55 per diluted share. Turning to our individual segments, we begin with the production and precision ag business on slide four. Net sales of $4.503 billion were down 14% compared to the second quarter last year. primarily due to lower shipment volumes that were partially offset with favorable currency translation impacts. Price realization was positive by about a point. Currency translation was also positive by roughly three points. Operating profit was $706 million, resulting in a 15.7% operating margin for the segment. The year-over-year decrease was primarily due to the lower shipment volumes and higher production costs that were partially offset by the favorable effects of currency exchange. Moving now to small egg and turf on slide five. Net sales increased 16% to 3.485 billion in the second quarter, driven by higher shipment volumes and favorable currency translation. Price realization was positive by around one and a half points. Currency translation was also positive by roughly two and a half points. Operating profit of 719 million was also up for the quarter, resulting in a 20.6% operating margin. The improvement in operating profit was primarily a result of the higher shipment volumes and the effects of favorable price realization. Slide six gives our industry outlook for ag and turf markets globally. We continue to expect large ag equipment industry sales in the US and Canada to decline 15 to 20%, driven by elevated input costs and ongoing global market uncertainty. However, Robust commodity demand and projections for tightening supply have supported improvements in crop prices, while U.S. government programs continue to provide liquidity support for farmers. Recent biofuels policy support, including approval of the RVO and potential year-round E15, should help provide greater stability and support future demand for U.S. growers. For small ag and turf in the U.S. and Canada, industry demand is expected to remain steady ranging from flat to up 5%. We're projecting modest strengthening in the turf market, as demand has expanded following several years of industry decline. The dairy and livestock sector also continues to maintain strong margins, supporting ongoing product demand. In Europe, industry demand remains relatively stable and is expected to range from flat to up 5%. While elevated interest rates continue to affect purchasing decisions, customer profitability and replacement activity are relatively stable. Although the arable sector remains a bit muted, favorable dairy margins continue to support the broader industry outlook. Moving to South America, industry sales of tractors and combines are now expected to decline about 15%. While production and yield performance remain strong alongside improving crop prices, elevated interest rates, higher input costs, and a stronger Brazilian REI are pressuring customer profitability and reducing equipment demand in the near term. Industry sales in Asia are now projected to be roughly flat year over year, mainly driven by modest improvements within the India market. Next, our segment forecast begins on slide seven. For production and precision ag, our net sales forecast is unchanged and remains down between 5% to 10% for the full year. This forecast now reflects roughly a point of positive price realization for the full year, as well as just under three points of favorable currency translation. Our full year forecast for the segment's operating margin is also unchanged and remains between 11 and 13%. Slide eight shows our forecast for the small ag and turf segment. We continue to expect net sales to be up approximately 15% for the full year. This guide includes one and a half points of positive price realization, as well as roughly one point of favorable currency translation. The segment's operating margin guide remains between 13.5% and 15%. Shifting over to construction and forestry on slide 9. Net sales for the quarter increased by 29% year-over-year to 3.79 billion as a result of higher shipment volumes and favorable currency translation. Price realization was favorable by more than 2.5 points. Currency translation was also favorable by a little more than three points. Operating profit of 561 million was also up year over year, resulting in a 14.8% operating margin. This improvement was a result of higher shipment volumes and favorable price realization, which were partially offset by unfavorable production costs. Slide 10 describes our construction forestry industry outlook. Industry sales projections for earth-moving equipment in the US and Canada remain unchanged, with both construction equipment and compact construction equipment expected to be up around 5%. The fundamentals behind the construction industry remain favorable, with healthy customer backlogs being supported by infrastructure and large project spending that is more than offsetting softness in residential construction. Global forestry markets are expected to decline 5%. reflecting continued pressure from weak residential construction activity and low log and lumber prices. We now expect global road building markets to grow approximately 10% year-over-year, supported by elevated road construction spending across multiple geographies. Moving on to the CNF segment outlook on slide 11. The 2026 net sales are now forecasted to be up approximately 20% for the full year. This net sales guidance for the year includes 2.5 points of favorable price realization and approximately 2 points of favorable currency translation. The segment's operating margin has also been increased and is now projected to be between 10% and 12% for the full year. Now, transitioning to our financial service operations on slide 12. Worldwide financial services net income attributable to Deere & Company in the second quarter was $190 million. The year-over-year increase is a result of favorable financing spreads and favorable derivative valuation adjustments partially offset by the impact of a lower average portfolio. For fiscal year 26, we raised our full-year outlook to $860 million, primarily driven by favorable fair value adjustment and improved provision for credit losses. And finally, slide 13 outlines our guidance for net income effective tax rate, and operating cash flow. For fiscal year 26, our net income forecast remains unchanged between 4.5 and 5 billion. Next, our guidance now incorporates an effective tax rate between 24 and 26%. And lastly, cash flow from the equipment operations remains projected between 4.5 and 5.5 billion. This concludes our formal remarks. I will now turn the call over to Brent Norwood for opening comments before we cover a few quarter-specific topics."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Thanks, Chris. I spent several years on Deere earnings calls in my prior time in investor relations, but I've been away for a while working in our construction and forestry business, so it's great to be back, and I look forward to reengaging with our investors and analysts in my new role. As you noted earlier, we continue to operate in a highly dynamic business environment. However, the resilience of our team and the diversification of our business has enabled us to maintain our financial expectations for the current fiscal year while also setting us up well for the years to come. As mentioned, our business segments are performing at different points in the cycle. While large ag is operating below trough levels, small agriculture and turf is progressing towards mid-cycle and construction and forestry is slightly above mid-cycle. Even so, it's important to keep in mind that we are delivering double-digit margins across all segments. And we expect to grow our top line by more than 5% this year as we progress towards the 2030 growth targets outlined during our investor event at the New York Stock Exchange last December. In the near term, a lot has transpired over the past quarter in the global economy, most notably the conflict in Iran and the associated impacts. However, our baseline view remains that 2026 will represent the bottom of the ag cycle. We've managed field inventories tightly of new equipment and made significant progress on used, and all the while, machine hours continue to accrue, aging out the fleet and driving a base-level need for replacement. The pace of recovery from that point on will, of course, depend on several factors, including geopolitical developments, underlying ag fundamentals, and policy outcomes. At the same time, our customers continue to navigate persistent challenges, including labor scarcity, input cost pressure, and tight operating windows to get critical jobs done. Regardless of the cycle or macro environment, our focus remains steadfast, helping them to do more with less and supporting them efficiently and profitably to overcome these challenges. And what gets me really excited is the way we've structurally improved performance of our business from cycle to cycle. we are delivering structurally higher levels of profitability compared to the last time we were at a similar point in the cycle, despite the headwind that comes from tariffs. This enables us to sustain record investment across cycles to make these value-generating solutions a reality for our customers and the industries they serve. Thanks a lot, Brent."
+    },
+    {
+      "speaker": "spk14",
+      "text": "We're excited to have you back. Pivoting to a few thoughts about the business, let's begin with your quarterly performance. Net sales increased sequentially as expected given seasonality, and we are also up 5% year-over-year. Equipment operations margins came in just under 17% in Q2. So, Josh Beal, can you lead off with a breakdown of the quarter?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yeah, sure, Chris. First and foremost, it's important to mention the unexpected item for the quarter, which was IEPA tariff refunds. As you noted earlier, we recognize a recovery of $272 million related to refund claims associated with IEPA tariffs that were filed and accepted by U.S. Customs and Border Protection, which benefited our production costs this quarter and lifted margins by nearly two and a half points. Outside of tariff refunds, our second quarter came in largely in line with expectations for both top line and margin across all business segments, with the overall equipment operations achieving margins of 16.9%. Noting the diversification comment you made earlier, small ag and turf delivered margins over 20% in the quarter. And the relative strength in SATN markets is helping to offset some of the pressures being felt by large ag producers. Shifting to some of the larger year-over-year changes for the quarter, let's start with price. As you noted, Chris, price realization was positive for all three business segments in Q2. We saw particular strength in CNF price realization, which came in stronger than we had forecasted, particularly in the road-building business. Foreign currency was also a tailwind in the quarter versus last year, largely driven by a weaker U.S. dollar, which favorably impacts the margins on U.S. products exported to overseas markets. Regarding headwinds, we did see higher year-over-year production costs in the second quarter, excluding the impact from tariff refunds. Without accounting for tariff refunds, year-over-year direct tariff expense was approximately 200 million of the headwind, with the remainder largely driven by higher material and freight costs."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Thanks, Josh. That leads to my next question, which is likely top of mind for many given trade policy dynamics following our Q1 earnings call. As you noted, we benefited from a one-time tariff tailwind in the second quarter. So what should we expect from here, and how is that reflected in our guidance for the rest of the year?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "First, I'd start by reminding everyone of the timing of our Q1 earnings release, which occurred just prior to the Supreme Court ruling on IEPA. Since that decision, we've seen the invalidation of IEPA tariffs, the introduction of new Section 122 tariffs, and adjustments to Section 232 tariffs. The cumulative impact of these changes is that on a full year basis, our direct tariff exposure remains essentially unchanged at approximately $1.2 billion, which is approximately a 3% margin headwind. So net of the refunds are forecast now includes approximately $900 million of tariff costs for the year. Brent, anything additionally you'd like to add there?"
+    },
+    {
+      "speaker": "spk15",
+      "text": "Sure, Josh. I'd start by recognizing the tremendous effort across the organization to manage what continues to be a very dynamic trade environment. It's worth noting that we've been disciplined and measured regarding net price realization given this backdrop, keeping in mind the inflationary pressures that our customers are experiencing. Recall that last fiscal year, we did not take additional price actions or introduce surcharges following the tariff orders. For fiscal year 2026, Our implied net price realization for the equipment operations is between 1.5% and 2% for the year, which is consistent with general inflation levels that we are experiencing, excluding the impact of tariffs. To help manage the impact of tariffs, we continue to have teams across the organization working diligently to quantify exposures and identify mitigation opportunities. These actions include product certification and exemption submissions, as well as identifying cost reduction opportunities and sourcing adjustments where clear, no regret solutions exist. Overall, we believe we are executing well against these opportunities and remain confident in our ability to manage through the current tariff environment effectively. Lastly, as a reminder, approximately 80% of John Deere's U.S. complete good sales are produced at our U.S. manufacturing facilities. And roughly 75% of those components used at those facilities are sourced from U.S.-based suppliers. We remain deeply committed to U.S. manufacturing and continue to invest in and expand upon our domestic footprint. For example, this quarter, we recently started building deer-designed excavators in Kernersville, North Carolina, following a $70 million expansion investment to bring U.S.-designed and manufactured excavators to the markets. And we continue to stand behind our commitment towards 20 billion of investments in U.S. manufacturing over the next 10 years."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Thanks for that context, Josh and Brent. Let's turn to the current market environment. Since our last earnings call, we have seen the start of the conflict in Iran and the associated inflationary impact on products like oil and fertilizer. Considering that in your response, can you provide an update on broader ag market conditions and how they are reflected in our industry guidance, maybe starting with South America."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yeah, sure, Chris. As you mentioned earlier, we revised our South American ag industry outlook to down 15% from down 5%, primarily reflecting incremental softness in Brazil. Since the start of our fiscal year in November, deer retail sales in Brazil have declined less than the broader tractor and combine industry, which has declined about 15% in six months in the country, in line with our revised industry guide. Small and mid-sized tractors have been more resilient, while large tractors and combines have declined more than the industry overall. The situation in Iran is affecting Brazilian growers at a particularly sensitive point in their production cycle, as they prepare to plant a new crop in the September timeframe. While farmers in other parts of the world have largely locked in inputs for this growing season, Brazilians have more exposure to current spot prices. Interest rates in the country remain high, and despite recent easing, expectations for additional cuts later in the year have been reduced, given the anticipated inflationary environment. At the same time, the strength of the real against the U.S. dollar is adding incremental margin pressure for growers. Improved crop prices and strong production are positives, but overall the margin outlook for Brazilian growers has been pressured due to these headwinds. As a result, we expect the market to remain cautious through the remainder of the fiscal year."
+    },
+    {
+      "speaker": "spk15",
+      "text": "This is Brent. One comment. While the industry in Brazil is certainly challenged in the near term, I would like to add a few points about our performance in this market. Our team in the region continues to do an excellent job navigating volatility and improving the business. We continue to see year-over-year market share growth across all tractor categories, while also maintaining our strong position in combines. At the same time, we are delivering positive price realization, we are accelerating portfolio innovation, and we are generating double-digit margins in Brazil, even at trough levels. To be clear, We could not do this without the upstanding work of our dealers who have also managed the cycle and the high interest rate environment very well and very profitably, supported by strong owner equity. Machine hours are building and fleets are aging, which should support replacement demand once the market stabilizes. Collectively, these results highlight the strength of our team and the quality of our portfolio and channel, and they reinforce my confidence in the long-term opportunity in Brazil."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Thanks for the additional color, Brent. It is really exciting to think about the growth prospects for deer in South America. Josh Beal, could you share some thoughts on the ag markets in other geographies?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "Absolutely, Chris. First, input costs, particularly fuel and fertilizer, have increased globally and will contribute to higher inflation across the ag economy. As we noted earlier, our customers in North America and Europe largely purchased these inputs ahead of the spring planting season, when costs were lower. At the same time, commodity prices have moved higher over the past few months, which helps relieve some near-term pressure. We've also seen encouraging developments on the policy front in the U.S. Higher renewable volume obligations have been approved, which supports incremental consumption of soybeans. In addition, supplemental disaster relief program payment factors have been increased from 35% to 70%, and the House recently passed year-round E15, which we view as a positive step forward. Today, roughly one-third of U.S. corn production goes to ethanol, and broader E15 adoption could, over time, meaningfully expand corn demand as blending infrastructure comes into place. Overall, we don't expect these developments to meaningfully adjust demand levels this fiscal year, and as a result, our ag industry guides outside of South America remain largely unchanged. Brent, maybe moving beyond ag, any thoughts on construction markets?"
+    },
+    {
+      "speaker": "spk15",
+      "text": "Yeah, absolutely. Construction demand remains robust, supported by infrastructure spending, rental activity, and accelerating data center investments, reflecting that strength we've increased our year-over-year net sales guide to up about 20%. In the U.S. and Canada, our order book continues to strengthen, up more than 60% since November, now at its highest level since April of 2024, with over 80% of production slots filled for the year. At ConExpo in 2026, we generated a lot of buzz around the new John Deere excavator and a fully integrated job site vision with TENNA, virtual superintendent, and the operations center, enabling a smarter and safer job site. We had over 140,000 contractors in attendance, and I'm proud to report that nearly all of the production slots for the new John Deere excavator are spoken for at this point. During the second quarter, we visited with numerous customers who have confidence that incremental demand will extend into 2027. Data center construction is expected to top 100 billion in 2026 with additional double-digit growth into 2027. This is great for our customers in both large-scale site prep, but also water and utility contractors who also support these projects. Beyond data centers, we are also seeing infrastructure funded by IIJA, robust activity in oil and gas, and continued investment in warehousing. Lastly, road building performance also remains driven by higher year-over-year infrastructure spending. Notably, we increased our industry guide for the segment, given the strength that we've seen year-to-date."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Hey, thank you both. Maybe let's turn to inventory management. Can we talk about what we've seen this quarter for both new but also used ag inventory?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yeah, definitely, Chris. As you may recall, last quarter we discussed improving inventory trends across all regions, particularly in high-horsepower tractors. I'm pleased to share that those trends have continued this quarter with inventories remaining favorably positioned and order books healthy. Starting with large ag in North America, our new inventory levels remain favorable. Inventories for both high horsepower tractors and combines are down more than 50% from their mid-2024 peak, with inventory-to-sales ratios in line with historical averages. With these improvements, our plan for the year is to continue to manage production in line with retail demand. We've also made meaningful progress on North American used inventories. Combine inventories are now down by mid-teens from their March 2024 peak, reflecting the benefits of proactive inventory management throughout this industry cycle. Here's North American high-horsepower tractor-used inventories are similarly improving. Used tractor inventory is down mid-teens from this cycle's peak and down low single digits sequentially during the quarter, which is a period that we typically see seasonal inventory builds. Notably, model year 22 to model year 23 8R tractors are now down around 45% from their peak levels last year. Other North American product lines, including sprayers and planters, have also seen meaningful used inventory improvement, with sprayer inventories down approximately 30% and planter inventories down roughly 50% from recent peak levels. Shifting to our order books in North America, order velocity continues to track in line with our expectations. Model Year 26 production of seasonal products is largely set by our early order programs, which have been closed for several months now. We're just launching EOPs for Model Year 27 spring products, which will begin production in the last few months of the fiscal year. Regarding Waterloo large tractors, order books are well into the fourth quarter as we look to close out our model year 26 production. Overall, order books remain healthy and consistent with our retail-driven production plans. Within small ag and turf in North America, favorable inventory levels are being maintained following last year's underproduction, and we continue to execute against our plan to build in line with retail demand this fiscal year. Outside of North America, Inventory levels in Europe and South America are in good shape, following significant reductions in fiscal 24 and fiscal year 25. In Europe, 2026 production is largely aligned with retail demand, while in Brazil, we expect to underproduce retail demand, most notably in combines. Order visibility in both regions now extends through the third quarter and into the fourth."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Thank you, Josh. We've covered a lot of different aspects of the business, from quarterly results to tariffs to market conditions around the world. Can you help us to put this all together for us? in terms of what it means for adjustments to the sales, margin, and income guides for the fiscal year?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yeah, absolutely. While the outlook reflects a mix of tailwinds and headwinds, overall performance remains well-balanced, supporting an unchanged enterprise net income guide. All three business units benefited from a one-time lift from tariff refunds, which helped offset ongoing inflationary pressures on materials and freight. As discussed, within ag, the dynamics continue to vary by segment. Within large ag, the Brazilian market is navigating elevated uncertainty driven by higher input costs and political factors. At the same time, our small ag and turf business continues to show solid momentum with sustained strength in underlying demand and modest growth in turf. Both PPA and SAT modestly adjusted full-year price realization expectations by approximately half a point, primarily reflecting slightly lower expectations for overseas markets. Construction and forestry continues to perform well with increased strength in in-market demand resulting in an increase in both the net sales and margin expectations for that segment. Taken all together, these dynamics highlight the resilience and balance of our portfolio, supporting a stable and consistent overall net income outlook for the company. Thanks, Josh."
+    },
+    {
+      "speaker": "spk15",
+      "text": "One thing I would add is that as you consider the financial outlook for the year, for the rest of the year, I should say, we would expect slightly higher revenue in the back half, with the fourth quarter being higher than the third quarter. In addition, we would expect to see our most favorable cost comparisons in the fourth quarter as well. That's a good point, Brent."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Thank you. Hey, one final topic. Last quarter, we've highlighted innovation in our CNF business through the launch of our new excavators and the Tanner acquisition, but we didn't spend much time on ag innovation. Can you update us on the latest progress across our portfolio and precision ag solutions?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yeah, it's an exciting topic, Chris. We've continued to strongly invest in the ag business and we're delivering meaningful portfolio expansion, product enhancements, and the continued build out of our technology stack. As customers navigate a challenging market environment, it only further reinforces the importance of our commitment to through cycle investment, advancing innovation and delivering customer value when it matters most. Over the past year, we've launched multiple new products and solutions to strengthen our leadership across each major step of the ag production cycle. Just highlighting a few of these, Within tractors, we've launched six new 8R and 8RX tractor models, featuring additional high horsepower options. These were developed through a ground-up redesign focused on improving performance, maneuverability, and versatility for large-scale operations. The new lineup expands the 8 Series with 440, 490, and 540 horsepower offerings, each powered by a JD14 engine and enhanced intelligent power management. These tractors are autonomy-ready and fully integrated with advanced precision technologies and connectivity solutions, and are designed to help farmers cover more acres efficiently throughout the crop cycle. In planting, new offerings have enabled furrow optimization through our exact depth solution, which is designed to provide individual row unit depth calibration from the cab while on the go, and also through downforce automation, which is enabled by our recently released furrow vision technology. When these furrow optimization solutions are paired with our automated fertilizer placement solutions of exact shot and exact rate, farmers can be better positioned to maximize yield potential while reducing rising input costs within tight planting windows. For the application job step, our see and spray technology continues to advance. Recent software enhancements have expanded the targeted application capabilities across a broader range of crops for both new and existing systems, including the notable additions of wheat, barley, and canola. In addition, our recently announced see and scout capabilities leverage the same camera platform to capture field level data generate new agronomic insights for growers such as weed pressure and stand count maps as weed resistance continues to be a challenge across various crop production systems precision and flexibility are critical for farmers and we're excited to have the preeminent solution to help our customers manage these challenges cost effectively while also improving yield outcomes this expansion in portfolio and technology offerings is making a global impact as well earlier this quarter we held casa john deere in brazil This event brought together over 3,000 customers from over 25 countries and marked the largest product launch ever held by Deere in Brazil, with over 20 new product and technology solutions being released across both ag and construction. Recall that just a year ago in the spring, we were talking about our largest product launch in Brazil ever, and we've exceeded that product on our introduction this year. Importantly, all of these product enhancements are underpinned by our industry-leading precision guidance technologies with products such as Precision Essentials and Connectivity Solutions. To provide reliable data access in areas with limited or no cell coverage, we continue to leverage our partnership with Starlink for satellite-based connectivity across our global footprint. Since launching that solution in the second half of 2024, we've sold more than 12,500 JDLink Boost Kits and achieved 25% growth within the last quarter alone, expanding our connected fleet and increasing the value of our digital and SaaS offerings. Taken together, this combination of JobStep innovations, Integrated technology and expanding connectivity positions us well to continue driving productivity for our customers while supporting recurring high-value revenues across the ag cycle."
+    },
+    {
+      "speaker": "spk15",
+      "text": "I'd also note that while engaged acres in John Deere Operations Center increased about 10% year-over-year, highly engaged acres have grown at an even stronger pace. Additionally, the quantity of monthly active digital users continues to grow, now reaching nearly 440,000. Thank you both. Brent, before we open the line for questions, do you have any final comments?"
+    },
+    {
+      "speaker": "spk07",
+      "text": "Yes."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Thanks, Chris. In the second quarter, our organization demonstrated strong execution, resulting in nearly a 17% margin for our equipment operations division. For our large ag division, we made meaningful progress in improving used inventory levels while diligently managing new inventory across the business. For small ag and turf and construction and forestry, on the other hand, we've capitalized on favorable demand trends, driving growth for the enterprise. These results reflect the discipline of our operating teams and the focus they continue to bring each day. And I'm incredibly proud of what they've accomplished. Over the course of the fiscal year, we launched a significant number of new products and technologies, reinforcing our commitment to innovation and long-term customer success. Looking ahead, we will continue to invest across the portfolio and in technologies that matter the most to our customers. With sustained levels of R&D and capital investment through the cycle, we are positioning the business to help customers reduce inputs, improve productivity, and ultimately drive stronger outcomes in their operations. We also remain committed to disciplined capital allocation. During the quarter, we returned $635 million to shareholders through a combination of share repurchases and dividends reflecting both the strength of our financial performance and our confidence in the business. As I mentioned earlier, we expect our business to continue growing this year while delivering strong returns. More importantly, we believe we are building a stronger foundation for the future, one that positions us well, not only for the remainder of this year, but for the years ahead. Thank you, Brent. Now let's open the line to questions from our investors."
+    },
+    {
+      "speaker": "spk02",
+      "text": "We're ready to begin the Q&A portion of the call. The operator will instruct you on the polling procedure. In consideration of others, and to allow more of you to participate in the call, please limit yourself to one question. If you have additional questions, we ask that you rejoin the queue. Operator, ready for our first question?"
+    },
+    {
+      "speaker": "spk09",
+      "text": "Thank you. If you would like to join the queue, please press star 1. Our first question comes from Patty Bogart from Millis Research."
+    },
+    {
+      "speaker": "spk11",
+      "text": "Hi, guys. Thanks for the question. This year, obviously, construction has been starting out strong, and I know Deere has some tailwinds from past underproduction, but the industry forecast had up five compared to your sales growth thus far. It's a pretty big gap. Are you guys seeing healthy industry growth, and do you see Deere gaining a lot of share?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yeah, thanks for the question, Patty. You know, you're right, and you set up the question correctly. You know, we did some underproduction last year in our earth-moving segment, really in the front part of the year particularly. And as we build a line with retail demand this year, you do get that natural lift, you know, just from that change. On top of that, you know, we've talked about our industry guides, you know, up 5%, you know, in the earth moving segments, can you do strength, excuse me, in road building as well. So that industry is lifting us. Then on top of that, we have seen some pickup and share over the past 12 months, particularly in the last six or so as we made some pricing adjustments in the last year. we're seeing some share gains as well. Thanks, Patty. Thanks."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Our next question comes from Steve Volkman from Jefferies."
+    },
+    {
+      "speaker": "spk10",
+      "text": "Hey, thanks. It's actually Chirag Patel on for Steve this morning. I just wanted to kind of touch on the tariff piece of the pie here just quickly. wanted to get a better sense of the baseline kind of margin in each of the businesses. If you could break down that 272 a little bit between the segments, that'd be super helpful."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yeah, happy to. There's obviously a lot of moving pieces there, and I'll start with tariff expenses as we move through the course of the year. As we said in our comments, You know, there was some, some moving pieces, you know, over the course of the quarter with, with IEPA going away section one 22, coming back, coming in and then some adjustments to two, two 32. If you kind of net that our, our overall run rate, uh, for tariff expense really remains, um, you know, un unchanged at about, um, you know, a billion two for the full year. And those, those splits that we've provided in the past, you know, really haven't changed as well. So it's about 45%, um, from the construction and forestry division. about a third or so for small ag and turf and the remaining piece and kind of round numbers, about 20%, um, you know, for, for large ag. So full year, full year impact of that, the tariff expense is about three points. Um, then you can do the math, you know, for the individual business units. Yeah, we, we did recognize as we talked about, you know, the tariff refund in the quarter, 272 million, um, you know, on a full year impact, uh, that's about a point of tailwind. for the equipment operations, so you kind of net out the run rate on tariffs versus that one-time refund of a point. To give you some sense of splits, they're pretty close to the tariff exposure as well. About 50% of the refund went to the construction and forestry division, about 30% to small ag and turf, and then the remaining 20 went to the large ag business. Thanks for the question."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Our next question comes from Kyle Manches from Citigroup. Please go ahead."
+    },
+    {
+      "speaker": "spk06",
+      "text": "Hi, good morning. This is Randy for Kyle. Following up on that last question around tariffs, I know you mentioned that you haven't really taken any pricing to offset these tariffs. So I'd just be curious to hear more color on what some of the mitigation strategies you've been taking are. And I guess what kind of progress you've made on that front over the last 12 months or so since tariffs first came into the picture, and then what could be more to come? Thank you."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Yeah, hey, thanks for the question. This is Brent. You know, with respect to our price realization and then how we are thinking about treating tariff costs, you know, it's important to note that, you know, our price forecast for the year is ranging between about 1.5% and 2% for the equipment operations overall. I would say this compares to our general inflation rates excluding tariffs, also about 1.5% to 2%. So when you stack on tariffs, our incremental costs are a bit margin-dilutive relative to price. But as we've said before, we are not surcharging our customers on tariffs, I think, especially given the fact that tariff rates have been somewhat inconsistent and been very dynamic here in the recent months. So instead, we are focusing on reducing our tariff exposure through cost actions, So things like resourcing, reshoring, exemption submissions, ensuring USMCA compliance. And I have full confidence that we will largely counter the negative financial impact of tariffs over the coming periods, largely through cost measures without ever having to rely on any surcharges to our customers."
+    },
+    {
+      "speaker": "spk02",
+      "text": "And maybe, Randy, just kind of a knock on there, thinking about price cost. And there's some dynamics, first half, back half of 2026. As we get to the back half, of 26 and start to lap not only the tariff expense that came into the organization in the back half of last year, but also the associated inflation that we've seen towards the back half, you start to see more favorable comps from, again, both a tariff standpoint and a material cost standpoint in the back half. And actually, our price kind of works on the opposite side, where we took some incentives last year in the back half, in both construction and forestry and large ag that were lapping as well. So price gets more favorable in the back half, and then on the production cost side, including tariffs and material costs, that gets more favorable as well. So price costs will improve as we move through the balance of the fiscal year. Thanks for the question. Thank you."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Our next question comes from Angel Castillo from Morgan Stanley. Your line is open."
+    },
+    {
+      "speaker": "spk01",
+      "text": "Hi, this is Esther. I'm on for Angel. Thanks for taking my question. Can you talk a little bit more about the global ad cycle broadly? We're kind of bouncing along the bottom in most of the markets, but how would you frame the downside risk on risk to the regional outlooks given the abnormal geopolitical environment? Um, and also is there, you know, any periods we can look at just to have a point of reference to understand farmer behavior, um, during this time?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yeah. Thanks for the question, Esther. I think first and foremost, maybe, you know, stepping back as we think about this, the, the setup, you know, for where the large ag industry is, you know, we're a couple of years into the downturn. Um, we we've seen, you know, less replacement, um, and we're, we're seeing agent fleets continue to grow, you know, as we track this in North America. We're at very elevated levels for high-horsepower tractors, very elevated levels in terms of fleet age for combines as well. So you have that underlying replacement demand. And then on top of that, sort of structurally, we've seen the used inventory market, which has really been a governor slowing down replacement demand, get a lot healthier. And particularly that late model equipment, that was at a higher percentage in the system. I mean, we mentioned the statistics on the call, but, you know, high-horsepower tractors, model year 22 and 23-8, which were our peak years in the most recent cycle, you know, they're down like 45% from their peak a year ago. So some significant structural improvement just in terms of a setup for replacement. Now, that being said, obviously, our customers are experiencing pressure on their margins. You know, that was heightened a bit over the past quarter as we've seen, you know, fertilizer levels increase. And that's been particularly acute, you know, like we mentioned on our comments, in the Brazilian market where they're closer to the planting season, they're also facing headwinds from a currency standpoint. So we did make the adjustment in Brazil down this year. But as we look to the setup of recovery, you know, our expectation still as a baseline that Brent mentioned earlier is that we see recovery in 2027. That pace, and again, this gets your question on sort of indexing in the past, will depend on a number of factors. We've seen some policy improvements that will help support consumption. Obviously, we need to keep an eye on what's happening with ag fundamentals, the geopolitical situation. But as a base setup, our expectation is that we'll see some level of replacement come back in next year."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Hey, this is Chris. I would just add a few points here. If you think about, Josh talked about the global situation. I think it's very different between Europe, the US, and Brazil. We talked about Brazil where you know, farmers certainly will see that input cost coming in earlier because of their crop they plant in the fall. But, you know, for the U.S. farmer, if you think about commodity prices since August, you know, both for soybeans and corn, they've been up like 20%. And, you know, they secured their inputs ahead of the planting season. So actually this year probably for them is actually looking probably a little bit better compared to the peak uncertainty in August. So I think that's an important point to make here."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thanks, Esther."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Our next question comes from Kristen Owen from Oppenheimer."
+    },
+    {
+      "speaker": "spk08",
+      "text": "Good morning. This is Mason Manor on for Kristen. Thank you for taking my question. I just want to double click on the order trends you're seeing in large ags, specifically your seasonal products and maybe trends by regions that are standing out."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thank you. Yeah, you know, as on seasonal products, Mason, as you know, we manage that through our early order programs. Demand in that production plant for 2026 is set at this point. Our EOPs for this year have closed, and we know what we're going to build in combines, sprayers and planters. We're just on the threshold of getting an indication on that demand for next year. We opened up EOPs for sprayers just a couple weeks ago, so we're a couple weeks into that program. Just maybe giving you a sense of structure. It'll be a similar two-phase program that we've had in the past. We opened up at the beginning of May. It'll run through the end of August. Planters will be kind of a month lag of that, opening up at the beginning of June and running through the end of September. So again, we're very, very early in terms of some of the indications we're getting on trends for EOPs for next year. What I would tell you is what we've seen thus far, and you don't want to extrapolate too much into this just given it's early, but everything we've seen thus far would support our view that 2026 still marks the bottom of the ag cycle. Thanks, Mason."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Our next question comes from Jerry Revich from Wells Fargo. Your line is open."
+    },
+    {
+      "speaker": "spk05",
+      "text": "Yes, hi. Good morning, everyone. And Brent, congratulations again. I want to ask on precision ag, can you folks talk about your expected seed and spray acreage covered this year, how retrofit orders are tracking, and precision essential renewal rates for the 25 cohort, and any comments you can make on the list price increases for the advanced features that you're rolling out as part of EOP, please."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yeah, happy to, Jerry. Thanks for the question. You know, see and spray, we're encouraged by the progress that we're seeing this year. Again, just maybe starting with acres and how many we're going to cover. Recall, you know, year one, we covered a million acres. Last year, globally, it was 5 million acres. We're early in the spring season, but again, kind of similar to my comments on the EOP, as we look at those same customers, you know, from a year ago, Um, they are year to date spraying more acres with sea and spray, um, than we saw last year. So we're encouraged, uh, we're encouraged by that pace. And again, it, what we've given us a lot of confidence is the technology is working. We're seeing an actual demonstrated, you know, two, two years now, 50 to 60% savings on herbicide using the technology. And that is resulting in, um, you know, increased utilization, uh, for, for customers. So that's, that's been, that's been fantastic. And on top of that, there's a lot to talk about here. And talking about Brazil as an example, we introduced at Casa John Deere, you know, see and spray green on green for next year. So that'll continue to expand that growth as well. And I mentioned in my comments that on the technology itself, you know, where we're not able to cover more crop types, moving into wheat, barley, canola. So that continues to ramp. And maybe last point on see and spray. you know, again, early in the EOP, but take rates that we're seeing thus far and seeing spray for 27 would exceed what we saw for this year as well. So on that technology, some good growth. Chris, you hit some others?"
+    },
+    {
+      "speaker": "spk14",
+      "text": "Yeah, maybe, Jerry, you asked on precision ag essentials too, or precision essentials. I think auto is trending well here and what we see kind of year over year. But more importantly, I think a point I would like to make here is if you think about the The customer organizations we get as a result of that into our John Deere Operations Center, we have more than 4,000 new customer orgs as a result of that, actually closer to 5,000. I think that's another important point and a big benefit, quite frankly, for us."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Maybe one more thing I'd talk about in a couple of years. You asked about renewal rates on Precision Essentials. We're still in that 70% range overall for renewals. But I think what is really giving us encouragement is we're now getting those customers who are in their second year of renewal. And if you look at that cohort, their renewal rate is over 90%. So for those folks that have been in it now for two years, we think that's going to be a lot stickier and are encouraged about that. Maybe one last point on technology. You know, harvest settings automation, which you didn't ask about, but I just did want to mention utilization there. has continued to be very strong. Last quarter, we talked about over 60% utilization of harvest automation in the northern hemisphere harvest. As we've looked at Brazil and their utilization and their most recent harvest, it's over 80%. So given Brent talked about our excitement in the region, it's not only tech adoption, but utilization as well. It continues to scale and which gives us great excitement for growth prospects in South America. Thanks for the question."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Our next question comes from Tammy Zakaria from JP Morgan. Your line is open."
+    },
+    {
+      "speaker": "spk00",
+      "text": "Good morning. This is Raquel Batesh on for Tammy. I was wondering if you guys could talk us through the cadence for 3Q and 4Q on both sales and margins and whether there are any items by region or segment that could cause the second half to deviate from normal seasonality."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yeah, Brent mentioned that And overall that we expect back half, you know, to be higher than the front half. And Q4, you know, would be a little bit higher than Q3 overall. Maybe just stepping through the businesses, you know, as you look at large ag, you know, and looking at sort of rest of you, you can do the math on the margin given the guide. Q4 a bit stronger than Q3. We talked about at the beginning of the year some differences in normal seasonality. We've got more Waterloo large tractor shipments shipping to North America in the back half than the front half of the year. That's abnormal for us, but it reflected how the order book built for the course of the year. On the small ag side, it's pretty normal seasonality. You'll get a little bit of a step down in Q3 and another step down in Q4. just on a normal seasonal basis. And then construction and forestry, fairly balanced between the two, both top line and margin in the back half, maybe a little bit stronger in the fourth quarter than Q3, but overall pretty close. And I wouldn't call out anything specifically abnormal as we look at that cadence. Thanks for the question."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Our next question comes from Chad Dillard from Bernstein."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Hi, this is Federico. Thank you for taking my question. I'm trying to understand your pricing expectations that look more conservative than peers. Is that a reflection of higher discounting?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "Repeat the last part of that. Sorry, I didn't quite catch that. Expectations versus peers."
+    },
+    {
+      "speaker": "spk13",
+      "text": "Yeah, your pricing expectations look more conservative than peers. Is that a reflection of higher discounting?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "And just confirming, are you asking about the large ag business or which business? Yeah, exactly. Large ag. Yep. Yeah. You know, I think you did see us make an adjustment this quarter, you know, to our pricing. That was really driven by – we talked about what we've seen in Brazil. We took that price a bit down quarter over quarter. I think, importantly, I would call out, you know, that – you know, that all of our regions are expected to be price positive in the large ag business. You know, we had a 1% price guide, you know, for the full year. North America would be a bit better than that. The other two are a little bit lower, kind of the average out to that one. We're pretty close, you know, to one really across all the businesses."
+    },
+    {
+      "speaker": "spk14",
+      "text": "Hey, this is Chris. A point to add here. I mean, you've seen that in the second half specifically, you know, price will look a little better than the first half, you know, given the comments we made earlier around discounting. But if you think about the progress we have made on use to the incentives we put into play, I think that positions us very well. We see continued progress. Even in a quarter, we typically see a seasonal build. So I think we feel good about the pricing mechanics we have put in place."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Thanks for the question."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Our next question comes from Meg Dobry from Bayard. Your line is open."
+    },
+    {
+      "speaker": "spk03",
+      "text": "Yes, from Barrett. Good morning, everyone. And first, a quick clarification. So, on the IEPA $270 million that you kind of clawed back, are we to understand that you have incremental headwinds from other types of tariffs that bring you back to the 1.2? Or is this kind of a true benefit relative to the initial guide? And then related to all of this is I think about margins. I mean, you talk about improvement in price costs as the year progresses, but everything that I'm kind of seeing on a cost side, whether it's raw materials, whether it's components, energy prices, all suggest that things get tougher going forward rather than easier on that front."
+    },
+    {
+      "speaker": "spk02",
+      "text": "So can you maybe like square these two items for us? Thank you. Yeah, sure, Meg. Thanks for the question. Just clarifying on the tariffs, you know, so The $1.2 billion of tariff expense was our run rate last quarter. And not talking about refunds here, but just run rate on tariff expense, that's unchanged. So really $1.2 billion quarter over quarter against some puts and takes in terms of what's driving that. But the overall ongoing expense remains the same. The $272 million refund was new in the quarter. And so if you net that against $1.2 billion, it'll be more like $900 million This year, that will pay a net when you put the refund in. But again, that run rate, the run rate didn't change. You know, from a material standpoint, you know, we have seen some inflation come in. We saw some come in over the course of the quarter, as you mentioned, given what's happened, you know, around the globe over the last two or three months. As we talk about back half, though, you know, recall that, you know, we're and there's a lot happening in the production cost bucket that we show you in the waterfall. But, you know, we're lapping tariffs that we started to see come into business last year. And we're starting to lap the indirect inflation that we saw come in from tariffs in the back half of the last year as well. So the comps become more favorable, but I would agree with you that we are seeing some high levels of inflation over the last two or three months."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Hey, Meg, this is Brent. Just to add on to that, you know, I think Josh has covered this already, but, you know, our pricing is much more favorable in the back half as well. So as we think about price-cost ratios, those do improve meaningfully. And I think Josh has covered the commentary on inflation quite well. But the other thing that we'll see, particularly for our large act factories, is a little bit better absorption in the fourth quarter as production rates are significantly higher. And, you know, Josh noted that's just the way the order book built this year for a much heavier fourth quarter with respect to our large tractors that are going to be settled here in the U.S. And so that's going to help on the overhead absorption as we move a little bit later in the year. Thanks, Mick."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Our next question comes from Tim Tyen from Raymond James. Your line is open."
+    },
+    {
+      "speaker": "spk04",
+      "text": "Thank you. Good morning. My question is just on the kind of sentiment and the feedback that you and the dealer base is hearing in North America with respect to large ag. I guess you don't try and make it a habit to forecast what happens with large the spring EOP, but I'm just curious, I mean, your, your own expectations or, you know, the feedback you're hearing from dealers, how you expect that, um, you know, may play out. Obviously there's, there's a lot of cross currents in the market, um, but you know, coming from a low base and et cetera. So I'm just curious, like to the extent you, you, you know, you, you can kind of, uh, think about how, how you expect that or how the dealers are expecting that plays out. Obviously that will give us a lens into, uh, first lens into how CapEx is looking into 27, but maybe just any thoughts and comments that you've gathered from the dealers in North America. Thank you."
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yeah, thanks, Tim. As we've talked, our baseline is we expect to see some level of recovery in the next year. And again, it's really driven by the setup, the core age of the fleet, what we've done from an inventory standpoint, both on new and used. And I think our dealers are feeling that as well. They've seen the reductions uh, in their lots. We just maybe to give you a data point, you know, year over year on our, our, our JDF, our general financial business, our trade wholesale. So those that use the equipment that's getting financed on, on the lots of dealers is down over 15% just in terms of the portfolio size. So that's less on their balance sheets that they freed up and making more opportunity for, for new sales. Now, certainly, you know, with, with what's happened in the dynamics of fertilizer, um, you know, customers are watching that. I mean, Chris, Chris rightly said, uh, You know, the setup on old crop, you know, I think there's about a third or so of that that still needs to be sold. You know, actually, the increase you've seen in commodity prices supports that. So there's some puts and takes, maybe a little bit more caution in terms of input costs for next year. But our baseline, I think, shared with the dealers that we expect to see that recover some next year."
+    },
+    {
+      "speaker": "spk15",
+      "text": "Hey, Tim, this is Brent. I would say the feedback from dealers has varied a little bit. You know, we have some dealers who took action early on used. And not surprisingly, those are the dealers who are most optimistic about next year. I would say we even, this is a bit anecdotal, we have a couple of dealers who are actually looking to add in select cases to their used fleet. So I think for those who have worked themselves into a pretty good situation, they're the most positive. We have others who are maybe a little bit more moderate on next year. But again, it's a little bit dependent on how aggressive they've been managing their inventory. Um, and so I think that's, that'll, that'll dictate a little bit of, of how the season progresses over the next couple of months. Thanks Tim. It's probably time for one more question."
+    },
+    {
+      "speaker": "spk09",
+      "text": "Our last question comes from Avi Jaroslavsk from UBS. Your line is open."
+    },
+    {
+      "speaker": "spk12",
+      "text": "Hey, thanks. Good morning. Um, so you noted that you're continuing to see market share improvements in South America, um, but also have continued to introduce new products there. So just kind of wondering. Are you gaining share within the existing product portfolio or has it really been driven by these new products that you've been rolling out down there?"
+    },
+    {
+      "speaker": "spk02",
+      "text": "Yeah, I mean, and you've heard us talk about this before. If you look over the last really, really decade and a half, we've been on a really steady and fairly linear increase in share, both in terms of tractors and in combines in the country. And that's been supported by you know, a number of fronts. It's new products, new technologies that we've brought to the market. You know, it's an outstanding dealer channel that supports our customers in the region. It's more localization of products. And so it's a number of fronts. And I think what gets us excited is we continue to support that and amplify that with more and more product introductions. And we had what we call the record introduction, you know, last year, last spring. We topped that this year with more and more products, you know, new combines, We brought new sprayers, new planters, new technologies like see and spray, connectivity through Starlink. And all of that is driving an experience for our growers that helps them save on inputs, drive more value in their operations. I mentioned earlier, but harvest settings automation for combines is the highest utilization in the globe in Brazil, reflecting the value that our customers see in that region as well. So Brent said it earlier, but we're extremely bullish on the region as a result. see opportunity for more growth going forward. Thanks very much for the time. We appreciate everybody's time today on the call."
+    },
+    {
+      "speaker": "spk09",
+      "text": "That concludes today's conference. Thank you for participating. You may disconnect at this time."
+    }
+  ]
+}
