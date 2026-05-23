@@ -1,1 +1,0 @@
-{"ticker": "TWST", "company": "TWIST BIOSCIENCE CORP", "weight_sum": 14.159999999999998, "etfs": ["ARKG", "ARKVX", "ARKK", "ARKSX", "ARKUX"], "is_private": false, "query": "($TWST OR \"Twist Bioscience\") -is:retweet min_faves:10 since:2026-04-28 until:2026-04-29", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}

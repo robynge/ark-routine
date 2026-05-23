@@ -1,1 +1,0 @@
-{"ticker": "UMOJA_BIOPHARMA", "company": "Umoja Biopharma", "weight_sum": 1.26, "etfs": ["ARKSX", "ARKVX", "ARKUX"], "is_private": true, "query": "\"Umoja Biopharma\" -is:retweet min_faves:10 since:2026-04-29 until:2026-05-01", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}

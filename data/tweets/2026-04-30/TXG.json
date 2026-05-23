@@ -1,1 +1,0 @@
-{"ticker": "TXG", "company": "10X GENOMICS INC-CLASS A", "weight_sum": 9.17, "etfs": ["ARKK", "ARKSX", "ARKG", "ARKVX", "ARKUX"], "is_private": false, "query": "($TXG OR \"10x Genomics\") -is:retweet min_faves:10 since:2026-04-29 until:2026-05-01", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}

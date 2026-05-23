@@ -1,1 +1,0 @@
-{"ticker": "TBLA", "company": "TABOOLA.COM LTD", "weight_sum": 1.7, "etfs": ["IZRL"], "is_private": false, "query": "($TBLA OR \"Taboola.com\") -is:retweet min_faves:10 since:2026-04-28 until:2026-04-29", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}

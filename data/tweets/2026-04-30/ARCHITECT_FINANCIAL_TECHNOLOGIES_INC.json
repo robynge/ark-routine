@@ -1,1 +1,0 @@
-{"ticker": "ARCHITECT_FINANCIAL_TECHNOLOGIES_INC", "company": "Architect Financial Technologies Inc.", "weight_sum": 1.8599999999999999, "etfs": ["ARKSX", "ARKVX", "ARKUX"], "is_private": true, "query": "\"Architect Financial Technologies\" -is:retweet min_faves:10 since:2026-04-29 until:2026-05-01", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}

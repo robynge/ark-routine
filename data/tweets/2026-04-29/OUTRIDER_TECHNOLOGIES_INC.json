@@ -1,1 +1,0 @@
-{"ticker": "OUTRIDER_TECHNOLOGIES_INC", "company": "Outrider Technologies, Inc.", "weight_sum": 0.51, "etfs": ["ARKVX", "ARKSX", "ARKUX"], "is_private": true, "query": "\"Outrider Technologies\" -is:retweet min_faves:10 since:2026-04-28 until:2026-04-29", "n_fetched": 0, "n_kept": 0, "n_dropped": 0, "kept": [], "dropped": []}
