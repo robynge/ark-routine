@@ -47,6 +47,13 @@ jobs:
           (cd data/holdings && ln -s "$DATE" LATEST)
           ls -la data/holdings/
 
+      # Rebuilds data/history/ark_holdings_history.csv from every per-day CSV.
+      # Full rebuild rather than an append: it is deterministic, so a re-run on
+      # the same day is a no-op the commit step sees as an empty diff, and there
+      # is no incremental cursor that can drift out of sync with the archive.
+      - name: Rebuild consolidated history
+        run: python3 scripts/build_history.py
+
       - name: Commit if changed
         run: |
           git config user.email "ark-bot@github.com"
