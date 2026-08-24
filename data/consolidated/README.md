@@ -1,13 +1,15 @@
-# Consolidated holdings history
+# Consolidated holdings
 
-One CSV per fund (`ARKK.csv`, `ARKG.csv`, … — 14 files), each holding every row
+One CSV per fund (`ARKK.csv`, `ARKG.csv`, … — 15 files), each holding every row
 we have for that fund, one row per (trading date, position), oldest day first.
 Rebuilt from `data/holdings/<YYYY>/<YYYY-MM-DD>/` by `scripts/build_history.py`
 on every run of the daily refresh workflow.
 
-ARKY (Active Autocallable Income ETF, fetched daily since 2026-08-24) has no
-file here: its CSV carries autocallable notes with no date/fund/ticker columns,
-so nothing in it parses as a holding.
+ARKY (Active Autocallable Income ETF, inception 2026-08-19, fetched daily since
+2026-08-24) appears only for days ARK published the standard schema — its CSV
+format has flip-flopped: 2026-08-20/21 (backfilled by hand from ark-funds.com
+downloads) use the normal holdings columns, while other days carry a dateless
+autocallable-notes format that contributes no rows.
 
 ## Columns
 
@@ -40,7 +42,7 @@ cents survive on 11-digit market values.
   window: 320 files compared, byte-for-byte identical.
 
 So rows before 2026-04-29 exist only for those 8 funds; ARKB, ARKD, ARKT and the
-three venture funds start at 2026-04-29.
+three venture funds start at 2026-04-29; ARKY starts 2026-08-20.
 
 ## What the rebuild deduplicates
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""Rebuild data/history/<FUND>.csv -- one file per fund -- from every per-day
-holdings CSV under data/holdings/<YYYY>/<YYYY-MM-DD>/.
+"""Rebuild data/consolidated/<FUND>.csv -- one file per fund -- from every
+per-day holdings CSV under data/holdings/<YYYY>/<YYYY-MM-DD>/.
 
 One row per (trading date, holding), oldest day first, each new day appended
 below the last. Columns (identical in every file; `fund` is constant within a
@@ -11,9 +11,9 @@ file but kept so files concatenate cleanly):
 Values are cleaned for analysis, not for display: ISO dates that sort correctly,
 and bare numbers with no $ , or % glyphs so a spreadsheet or pandas reads them
 as numbers. The three venture funds (ARKSX/ARKUX/ARKVX) publish only a weight,
-so shares_held and market_value are empty for their rows. ARKY's CSV carries no
-date/fund/ticker columns at all (autocallable notes, not holdings), so it
-contributes no rows and gets no file.
+so shares_held and market_value are empty for their rows. ARKY's CSV format
+varies by day: standard-schema days (e.g. 2026-08-20/21, backfilled by hand)
+parse like any fund; dateless autocallable-notes days contribute no rows.
 
 Two facts about the source archive drive the dedupe:
   * The daily Action stamps folders with the calendar day it ran, so weekend and
@@ -28,7 +28,7 @@ rows with the same identity (buffer-ETF option legs) keeps both.
 Full rebuild every run: deterministic, so re-running is a no-op the committer
 sees as an empty diff, and there is no incremental-append state to drift.
 
-Usage: build_history.py [--repo .] [--outdir data/history]
+Usage: build_history.py [--repo .] [--outdir data/consolidated]
 """
 import argparse
 import csv
@@ -148,7 +148,7 @@ def selftest():
     assert rows == [["2026-01-05", "ARKK", "TESLA INC", "TSLA", "88160R101",
                      "10.00", "1000", "2000.00"]], rows     # disclaimer dropped
 
-    outdir = os.path.join("data", "history")
+    outdir = os.path.join("data", "consolidated")
     sys.argv = ["build_history.py", "--repo", d, "--outdir", outdir]
     main()
     arkk = list(csv.reader(open(os.path.join(d, outdir, "ARKK.csv"), newline="")))
@@ -164,7 +164,7 @@ def selftest():
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--repo", default=os.path.join(os.path.dirname(__file__), ".."))
-    ap.add_argument("--outdir", default=os.path.join("data", "history"))
+    ap.add_argument("--outdir", default=os.path.join("data", "consolidated"))
     ap.add_argument("--selftest", action="store_true")
     args = ap.parse_args()
     if args.selftest:
