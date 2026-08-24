@@ -25,6 +25,10 @@ one whose folder name matches its own date, which is the day it was really
 published. Dedupe is per FILE, never per row, so a fund legitimately holding two
 rows with the same identity (buffer-ETF option legs) keeps both.
 
+After scanning the archive, static seed files in data/backfill_bloomberg/
+(Bloomberg-sourced pre-archive history, see scripts/backfill_bloomberg.py) are
+unioned in; the archive always wins on any (date, fund) collision.
+
 Full rebuild every run: deterministic, so re-running is a no-op the committer
 sees as an empty diff, and there is no incremental-append state to drift.
 
@@ -142,6 +146,12 @@ def selftest():
     open(os.path.join(d, "data", "holdings", "2026", "2026-01-05", "ARKVX_Holdings_2026-01-05.csv"),
          "w").write("date,fund,company,ticker,cusip,weight (%)\n"
                     "01/05/2026,ARKVX,OpenAI,,,6.18%\n")
+    # Bloomberg seed: fills 2026-01-02; loses the 2026-01-05 collision to the archive
+    os.makedirs(os.path.join(d, "data", "backfill_bloomberg"))
+    open(os.path.join(d, "data", "backfill_bloomberg", "ARKK.csv"), "w").write(
+        "date,fund,company,ticker,cusip,weight,shares_held,market_value\n"
+        "2026-01-02,ARKK,TSLA US Equity,TSLA,88160R101,9.00,900,1800.00\n"
+        "2026-01-05,ARKK,SHOULD LOSE,TSLA,88160R101,1.00,1,1.00\n")
 
     rows = read_holdings(os.path.join(d, "data", "holdings", "2026", "2026-01-05",
                                       "ARKK_Holdings_2026-01-05.csv"), "ARKK")
@@ -154,9 +164,11 @@ def selftest():
     arkk = list(csv.reader(open(os.path.join(d, outdir, "ARKK.csv"), newline="")))
     arkvx = list(csv.reader(open(os.path.join(d, outdir, "ARKVX.csv"), newline="")))
     assert arkk[0] == HEADER and arkvx[0] == HEADER
-    assert len(arkk) == 2, arkk                             # header + one row, weekend copy gone
+    assert len(arkk) == 3, arkk        # seed 01-02 + archive 01-05; weekend copy gone
+    assert arkk[1][0] == "2026-01-02" and arkk[1][2] == "TSLA US Equity", arkk[1]
+    assert arkk[2][0] == "2026-01-05" and arkk[2][2] == "TESLA INC", arkk[2]  # archive beat seed
     assert len(arkvx) == 2, arkvx
-    assert arkk[1][1] == "ARKK" and arkvx[1][1] == "ARKVX"
+    assert arkvx[1][1] == "ARKVX"
     assert arkvx[1][6] == "" and arkvx[1][7] == "", arkvx[1]  # venture: blank shares + mv
     print("selftest OK")
 
@@ -193,6 +205,23 @@ def main():
             if prev is None or (canonical and not prev[0]):
                 chosen[key] = (canonical, rws)
 
+    # Bloomberg seed: pre-archive history and gap days the per-day archive never
+    # had (see scripts/backfill_bloomberg.py). Archive wins on any collision.
+    seed_files = sorted(glob.glob(os.path.join(args.repo, "data", "backfill_bloomberg", "*.csv")))
+    seed_groups = 0
+    for path in seed_files:
+        per_key = {}
+        with open(path, newline="", encoding="utf-8") as fh:
+            r = csv.reader(fh)
+            next(r, None)
+            for row in r:
+                if len(row) == len(HEADER):
+                    per_key.setdefault((row[0], row[1]), []).append(row)
+        for key, rws in per_key.items():
+            if key not in chosen:
+                chosen[key] = (True, rws)
+                seed_groups += 1
+
     by_fund = {}
     for _, rws in chosen.values():
         for r in rws:
@@ -212,8 +241,10 @@ def main():
         total += len(rows)
 
     dates = sorted({r[0] for rws in by_fund.values() for r in rws})
-    print(f"scanned {scanned} files -> {groups} (date,fund) groups -> kept {len(chosen)} "
-          f"({groups - len(chosen)} duplicate copies dropped)")
+    print(f"scanned {scanned} files -> {groups} (date,fund) groups -> kept {len(chosen) - seed_groups} "
+          f"({groups - (len(chosen) - seed_groups)} duplicate copies dropped)")
+    if seed_files:
+        print(f"+ {seed_groups} (date,fund) groups from {len(seed_files)} Bloomberg seed files")
     print(f"wrote {len(by_fund)} per-fund files to {out_dir}")
     print(f"  {total:,} rows | {len(dates)} dates {dates[0]}..{dates[-1]} | {len(by_fund)} funds")
     print(f"  {', '.join(sorted(by_fund))}")
