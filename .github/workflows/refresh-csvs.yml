@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download 14 ARK ETF CSVs
+      - name: Download 15 ARK ETF CSVs
         run: |
           set -e
           DATE=$(TZ=America/New_York date +%Y-%m-%d)
@@ -33,6 +33,7 @@ jobs:
             [ARKT]="ARK_DIET_Q4_BUFFER_ETF_ARKT_HOLDINGS.csv"
             [ARKUX]="ARK_VENTURE_FUND_ARKUX_HOLDINGS.csv"
             [ARKSX]="ARK_VENTURE_FUND_ARKSX_HOLDINGS.csv"
+            [ARKY]="ARK_ACTIVE_AUTOCALLABLE_INCOME_ETF_ARKY_HOLDINGS.csv"
           )
           for ETF in "${!URLS[@]}"; do
             curl -fsSL "$BASE/${URLS[$ETF]}" -o "$OUT/${ETF}_Holdings_${DATE}.csv" \
