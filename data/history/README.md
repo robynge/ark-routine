@@ -1,15 +1,23 @@
 # Consolidated holdings history
 
-`ark_holdings_history.csv` — every ARK holding we have, one row per (trading
-date, fund, position), oldest day first. Rebuilt from `data/holdings/` by
-`scripts/build_history.py` on every run of the daily refresh workflow.
+One CSV per fund (`ARKK.csv`, `ARKG.csv`, … — 14 files), each holding every row
+we have for that fund, one row per (trading date, position), oldest day first.
+Rebuilt from `data/holdings/<YYYY>/<YYYY-MM-DD>/` by `scripts/build_history.py`
+on every run of the daily refresh workflow.
+
+ARKY (Active Autocallable Income ETF, fetched daily since 2026-08-24) has no
+file here: its CSV carries autocallable notes with no date/fund/ticker columns,
+so nothing in it parses as a holding.
 
 ## Columns
+
+Identical in every file. `fund` is constant within a file but kept so files
+concatenate cleanly.
 
 | column | example | notes |
 |---|---|---|
 | `date` | `2026-08-05` | ISO, so it sorts as text. Taken from **inside** the CSV, not the folder name. |
-| `fund` | `ARKK` | one of the 14 funds |
+| `fund` | `ARKK` | matches the filename |
 | `company` | `TESLA INC` | as ARK writes it |
 | `ticker` | `TSLA` | empty for private venture holdings |
 | `cusip` | `88160R101` | empty for private venture holdings |

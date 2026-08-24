@@ -1,0 +1,46 @@
+date,fund,company,ticker,cusip,shares,market value ($),weight (%)
+07/24/2026,PRNT,SIEMENS AG-REG,SIE,5727973,"9,829","$2,999,530.98",5.19%
+07/24/2026,PRNT,DASSAULT SYSTEMES SE,DSY FP,BM8H5Y5,"142,898","$2,995,841.90",5.18%
+07/24/2026,PRNT,AUTODESK INC,ADSK,052769106,"13,658","$2,803,441.08",4.85%
+07/24/2026,PRNT,DENTSPLY SIRONA INC,XRAY UW,24906P109,"212,012","$2,696,792.64",4.66%
+07/24/2026,PRNT,SYNOPSYS INC,SNPS,871607107,"7,175","$2,680,006.00",4.64%
+07/24/2026,PRNT,PTC INC,PTC,69370C100,"23,493","$2,655,883.65",4.59%
+07/24/2026,PRNT,RENISHAW PLC,RSW,0732358,"35,149","$2,316,302.43",4.01%
+07/24/2026,PRNT,PROTO LABS INC,PRLB,743713109,"29,239","$2,298,770.18",3.98%
+07/24/2026,PRNT,HP INC,HPQ,40434L105,"92,773","$2,273,866.23",3.93%
+07/24/2026,PRNT,MATERIALISE NV-ADR,MTLS,57667T100,"349,180","$2,245,227.40",3.88%
+07/24/2026,PRNT,STRATASYS LTD,SSYS,M85548101,"280,674","$2,245,392.00",3.88%
+07/24/2026,PRNT,TITOMIC LTD,TTT,BYZ03N6,"17,295,775","$2,229,085.42",3.86%
+07/24/2026,PRNT,NIKON CORP,7731,6642321,"162,959","$2,210,389.15",3.82%
+07/24/2026,PRNT,STRAUMANN HOLDING AG-REG,STMN SE,BQ7ZV06,"18,635","$2,204,029.38",3.81%
+07/24/2026,PRNT,NANO DIMENSION LTD - ADR,NNDM,63008G203,"1,491,627","$2,192,691.69",3.79%
+07/24/2026,PRNT,3D SYSTEMS CORP,DDD,88554D205,"839,253","$2,173,665.27",3.76%
+07/24/2026,PRNT,VELO3D INC,VELO,92259N302,"214,226","$2,165,824.86",3.75%
+07/24/2026,PRNT,BICO GROUP AB,BICO,BKMFJ94,"1,559,186","$2,126,529.75",3.68%
+07/24/2026,PRNT,XOMETRY INC-A,XMTR,98423F109,"23,274","$2,013,433.74",3.48%
+07/24/2026,PRNT,KAISER ALUMINUM CORP,KALU,483007704,"7,039","$1,265,823.37",2.19%
+07/24/2026,PRNT,L3HARRIS TECHNOLOGIES INC,LHX,502431109,"3,900","$1,168,713.00",2.02%
+07/24/2026,PRNT,MOOG INC-CLASS A,MOG/A,615394202,"2,806","$1,149,477.90",1.99%
+07/24/2026,PRNT,GENERAL ELECTRIC,GE,369604301,"3,160","$1,102,840.00",1.91%
+07/24/2026,PRNT,LINCOLN ELECTRIC HOLDINGS,LECO,533900106,"4,352","$1,089,653.76",1.88%
+07/24/2026,PRNT,MICHELIN (CGDE),ML,BPBPJ01,"27,295","$1,072,109.46",1.85%
+07/24/2026,PRNT,OC OERLIKON CORP AG-REG,OERL,4612757,"185,054","$1,062,630.25",1.84%
+07/24/2026,PRNT,AMETEK INC,AME,031100100,"4,194","$1,011,341.16",1.75%
+07/24/2026,PRNT,HEXAGON AB-B SHS,HEXAB S,BNZFHC1,"119,153","$972,612.72",1.68%
+07/24/2026,PRNT,ALIGN TECHNOLOGY INC,ALGN,016255101,"5,579","$938,610.96",1.62%
+07/24/2026,PRNT,GOLDMAN FS TRSY OBLIG INST 468,,X9USDGSFT,"340,909","$340,909.31",0.59%
+07/24/2026,PRNT,ATI INC,ATI,01741R102,453,"$90,527.52",0.16%
+07/24/2026,PRNT,CARPENTER TECHNOLOGY,CRS,144285103,151,"$90,832.54",0.16%
+07/24/2026,PRNT,3M CO,MMM,88579Y101,519,"$88,017.21",0.15%
+07/24/2026,PRNT,MATERION CORP,MTRN,576690101,346,"$86,019.06",0.15%
+07/24/2026,PRNT,JABIL INC,JBL,466313103,254,"$81,798.16",0.14%
+07/24/2026,PRNT,ARKEMA,AKE,B0Z5YZ2,"1,201","$75,639.02",0.13%
+07/24/2026,PRNT,AVIENT CORP,AVNT,05368V106,"2,048","$75,038.72",0.13%
+07/24/2026,PRNT,EVONIK INDUSTRIES AG,EVK,B5ZQ9D3,"4,007","$77,600.43",0.13%
+07/24/2026,PRNT,HENKEL AG & CO KGAA VOR-PREF,HEN3,5076705,923,"$77,402.40",0.13%
+07/24/2026,PRNT,KENNAMETAL INC,KMT,489170100,"2,194","$76,482.84",0.13%
+07/24/2026,PRNT,SGL CARBON SE,SGL,4818351,"16,444","$72,597.96",0.13%
+07/24/2026,PRNT,TORAY INDUSTRIES INC,3402,6897143,"10,838","$78,035.72",0.13%
+07/24/2026,PRNT,VOESTALPINE AG,VOE,4943402,"1,481","$73,439.13",0.13%
+07/24/2026,PRNT,SANDVIK AB,SAND,B1VQ252,"2,004","$70,672.72",0.12%
+"Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ARK ETF before investing. This and other information are contained in the ARK ETFs' prospectuses, which may be obtained on ark-funds.com. The prospectus should be read carefully before investing. An investment in an ARK ETF is subject to risks and you can lose money on your investment in an ARK ETF. There can be no assurance that the ARK ETFs will achieve their investment objectives. The ARK ETFs’ portfolios are more volatile than broad market averages. The ARK ETFs also have specific risks, which are described in the ARK ETFs' prospectuses.Shares of the ARK ETFs may be bought or sold throughout the day at their market price on the exchange on which they are listed. The market price of an ARK ETF's shares may be at, above or below the ARK ETF’s net asset value (""NAV"") and will fluctuate with changes in the NAV as well as supply and demand in the market for the shares. The market price of ARK ETF shares may differ significantly from their NAV during periods of market volatility. Shares of the ARK ETFs may only be redeemed directly with the ARK ETFs at NAV by Authorized Participants, in very large creation units. There can be no guarantee that an active trading market for ARK ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ARK ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Not FDIC Insured – No Bank Guarantee – May Lose ValueAll statements made regarding companies, securities or other financial information are strictly beliefs and points of view held by ARK Investment Management LLC and/or ARK ETF Trust and are not endorsements by ARK of any company or security or recommendations by ARK to buy, sell or hold any security. Holdings are subject to change without notice.Foreside Fund Services, LLC, distributor.© 2026. ARK ETF Trust. No part of this material may be reproduced in any form, or referred to in any other publication, without written permission."

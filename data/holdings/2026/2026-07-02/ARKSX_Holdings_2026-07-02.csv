@@ -1,0 +1,82 @@
+date,fund,company,ticker,cusip,weight (%)
+06/30/2026,ARKSX,SpaceX,SPCX,84615Q103,13.77%
+06/30/2026,ARKSX,OpenAI,,,6.33%
+06/30/2026,ARKSX,"Anthropic, Inc.",,,4.58%
+06/30/2026,ARKSX,"Stripe, Inc.",,,4.36%
+06/30/2026,ARKSX,Tenstorrent Holdings Inc.,,,3.49%
+06/30/2026,ARKSX,Ayar Labs,,,3.17%
+06/30/2026,ARKSX,Kalshi Inc.,,,2.93%
+06/30/2026,ARKSX,"Replit, Inc.",,,2.61%
+06/30/2026,ARKSX,Figure AI Inc.,,,2.23%
+06/30/2026,ARKSX,Absci,ABSI,00091E109,2.18%
+06/30/2026,ARKSX,"Lila Sciences, Inc.",,,2.03%
+06/30/2026,ARKSX,Cellares inc.,,,1.92%
+06/30/2026,ARKSX,"10x Genomics, Inc.",TXG,88025U109,1.86%
+06/30/2026,ARKSX,Zipline International Inc.,,,1.86%
+06/30/2026,ARKSX,Beam Therapeutics,BEAM,07373V105,1.80%
+06/30/2026,ARKSX,Tempus AI,TEM,88023B103,1.77%
+06/30/2026,ARKSX,"Boom Technology, Inc.",,,1.74%
+06/30/2026,ARKSX,"Wonder Group, Inc.",,,1.74%
+06/30/2026,ARKSX,"Databricks, Inc.",,,1.70%
+06/30/2026,ARKSX,Neuralink Corp.,,,1.63%
+06/30/2026,ARKSX,"Alamar Biosciences, Inc.",ALMR,010911105,1.58%
+06/30/2026,ARKSX,"Hydra Host, inc.",,,1.53%
+06/30/2026,ARKSX,"Lambda, Inc.",,,1.52%
+06/30/2026,ARKSX,CRISPR Therapeutics AG,CRSP,H17182108,1.49%
+06/30/2026,ARKSX,Alphabet Inc.,GOOG,02079K206,1.36%
+06/30/2026,ARKSX,Manna Drone Delivery Inc.,,,1.35%
+06/30/2026,ARKSX,"CoreWeave, Inc.",CRWV,21873S108,1.15%
+06/30/2026,ARKSX,Crusoe Inc,,,1.15%
+06/30/2026,ARKSX,"Epic Games, Inc",,,1.11%
+06/30/2026,ARKSX,"Iambic Therapeutics, Inc.",,,1.10%
+06/30/2026,ARKSX,NVIDIA Corporation,NVDA,67066G104,1.10%
+06/30/2026,ARKSX,"X-energy Reactor Company, LLC",XE,98386P102,1.06%
+06/30/2026,ARKSX,Prime Medicine,PRME,74168J101,1.05%
+06/30/2026,ARKSX,"Securitize, Inc.",,,0.99%
+06/30/2026,ARKSX,"Apptronik, Inc.",,,0.93%
+06/30/2026,ARKSX,"Radiant Industries, Inc",,,0.92%
+06/30/2026,ARKSX,Architect Financial Technologies Inc.,,,0.91%
+06/30/2026,ARKSX,Impulse Labs Inc.,,,0.91%
+06/30/2026,ARKSX,Lucra Inc.,,,0.88%
+06/30/2026,ARKSX,Roblox Corporation,RBLX,771049103,0.88%
+06/30/2026,ARKSX,Shield AI,,,0.88%
+06/30/2026,ARKSX,Intellia Therapeutics,NTLA,45826J105,0.84%
+06/30/2026,ARKSX,Canton Strategic Holdings,CNTN,432705309,0.80%
+06/30/2026,ARKSX,Twist Biosciences,TWST,90184D100,0.80%
+06/30/2026,ARKSX,"Hammerspace, Inc.",,,0.71%
+06/30/2026,ARKSX,"Tesla, Inc.",TSLA,88160R101,0.61%
+06/30/2026,ARKSX,"Generate:Biomedicines, Inc.",GENB,370920100,0.60%
+06/30/2026,ARKSX,"Robinhood Markets, Inc.",HOOD,770700102,0.59%
+06/30/2026,ARKSX,"Recursion Pharmaceuticals, Inc.",RXRX,75629V104,0.58%
+06/30/2026,ARKSX,Gatik AI Inc.,,,0.57%
+06/30/2026,ARKSX,"Kodiak Robotics, Inc.",KDK,500081104,0.55%
+06/30/2026,ARKSX,Portal Space Systems,,,0.47%
+06/30/2026,ARKSX,GeneDx Holdings Corp,WGS,81663L200,0.46%
+06/30/2026,ARKSX,"Hark Labs, Inc.",,,0.46%
+06/30/2026,ARKSX,Discord Inc.,,,0.45%
+06/30/2026,ARKSX,"Coinbase Global, Inc.",COIN,19260Q107,0.39%
+06/30/2026,ARKSX,"Mythical, Inc.",,,0.34%
+06/30/2026,ARKSX,"Perplexity AI, Inc.",,,0.33%
+06/30/2026,ARKSX,"Blockdaemon, inc.",,,0.32%
+06/30/2026,ARKSX,Revolut Group Holdings LTD,,,0.30%
+06/30/2026,ARKSX,Relation Therapeutics Inc.,,,0.29%
+06/30/2026,ARKSX,Umoja Biopharma,,,0.26%
+06/30/2026,ARKSX,"Pacific Biosciences of California, Inc.",PACB,69404D108,0.25%
+06/30/2026,ARKSX,Shopify Inc.,SHOP,82509L107,0.24%
+06/30/2026,ARKSX,Archer Aviation Inc.,ACHR,03945R102,0.18%
+06/30/2026,ARKSX,SonaThera,,,0.17%
+06/30/2026,ARKSX,"Bitmine Immersion Technologies, Inc.",BMNR,09175A206,0.15%
+06/30/2026,ARKSX,"Freenome, Inc",,,0.11%
+06/30/2026,ARKSX,"GameFam, Inc.",,,0.10%
+06/30/2026,ARKSX,"Groq, Inc.",,,0.09%
+06/30/2026,ARKSX,Chipper Cash,,,0.07%
+06/30/2026,ARKSX,"Firmly, Inc.",,,0.07%
+06/30/2026,ARKSX,"Atomic Vaults, Inc.",,,0.05%
+06/30/2026,ARKSX,"Axiom Space, Inc.",,,0.05%
+06/30/2026,ARKSX,"KINO Tech, Inc.",,,0.05%
+06/30/2026,ARKSX,"Outrider Technologies, Inc.",,,0.05%
+06/30/2026,ARKSX,Pave Financial Inc.,,,0.05%
+06/30/2026,ARKSX,Sortium Inc.,,,0.02%
+06/30/2026,ARKSX,Tilda Technologies Inc. (DBA Humata),,,0.02%
+06/30/2026,ARKSX,"Flexport, Inc",,,0.01%
+"Holdings are subject to change. Not a recommendation to buy, sell, or hold any specific security. You should not expect to be able to sell your Shares other than through the Fund’s repurchase policy, regardless of how the Fund performs. The Fund’s Shares will not be listed on any securities exchange, and the Fund does not expect a secondary market in the Shares to develop. Shares may be transferred or sold only in accordance with the Fund’s prospectus. Although the Fund will offer to repurchase Shares on a quarterly basis, Shares are not redeemable, and there is no guarantee that shareholders will be able to sell all of their tendered Shares during a quarterly repurchase offer. An investment in the Fund’s Shares is not suitable for investors who require liquidity, other than liquidity provided through the Fund’s repurchase policy. The ARK Venture Fund is a continuously offered, nondiversified, registered closed-end fund with limited liquidity.&nbsp;Certain holdings within the ARK Venture Fund may display as 0.00% due to rounding. These positions represent actual holdings in the Fund; however, given the Fund's total net assets, the weight of these positions does not round to the nearest hundredth of a percent (0.01%).All statements made regarding investment opportunities are strictly beliefs and points of view held by ARK, and investors should determine for themselves whether a particular investment or service is suitable for their investment needs. Certain statements contained in this document may be statements of future expectations and other forward-looking statements that are based on ARK’s current views and assumptions, and involve known and unknown risks and uncertainties that could cause actual results, performance or events to differ materially from those expressed or implied in such statements. The matters discussed in this document may also involve risks and uncertainties described from time to time in ARK’s filings with the U.S. Securities and Exchange Commission. ARK assumes no obligation to update any forward-looking information contained in this presentation. Past performance is not a guarantee of future results. Investors should carefully consider the investment objectives and risks as well as charges and expenses of the ARK Venture Fund before investing. This and other information are contained in the ARK Venture Fund’s prospectus, which may be obtained by visiting ark-funds.com/funds/arkvx. The prospectus should be read carefully before investing. An investment in the ARK Venture Fund is subject to risks and you can lose money on your investment in the ARK Venture Fund. There can be no assurance that the ARK Venture Fund will achieve its investment objectives. The ARK Venture Fund’s portfolio is more volatile than broad market averages. The ARK Venture Fund also has specific risks, which are described below. More detailed information regarding these risks can be found in the ARK Venture Fund’s prospectus. ARK Investment Management LLC is the investment adviser to the ARK Venture Fund.&nbsp;Foreside Fund Services, LLC, distributor.&nbsp;© 2026. ARK Venture Fund. No part of this material may be reproduced in any form, or referred to in any other publication, without written permission."

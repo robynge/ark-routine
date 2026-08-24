@@ -1,0 +1,49 @@
+date,fund,company,ticker,cusip,shares,market value ($),weight (%)
+06/25/2026,ARKW,ADVANCED MICRO DEVICES,AMD,007903107,"271,413","$141,064,192.62",8.73%
+06/25/2026,ARKW,TESLA INC,TSLA,88160R101,"339,051","$127,323,822.03",7.88%
+06/25/2026,ARKW,ROBINHOOD MARKETS INC - A,HOOD,770700102,"965,762","$93,862,408.78",5.81%
+06/25/2026,ARKW,ARK BITCOIN ETF HOLDCO (ARKW),,MM0051EWE,"3,775,474","$74,980,536.09",4.64%
+06/25/2026,ARKW,SHOPIFY INC - CLASS A,SHOP,82509L107,"654,118","$74,680,652.06",4.62%
+06/25/2026,ARKW,ALPHABET INC-CL C,GOOG,02079K107,"181,598","$62,658,573.92",3.88%
+06/25/2026,ARKW,AMAZON.COM INC,AMZN,023135106,"260,305","$60,981,652.35",3.78%
+06/25/2026,ARKW,COREWEAVE INC-CL A,CRWV,21873S108,"587,920","$59,309,369.60",3.67%
+06/25/2026,ARKW,COINBASE GLOBAL INC -CLASS A,COIN,19260Q107,"338,040","$50,743,184.40",3.14%
+06/25/2026,ARKW,SPACE EXPLORATION TECHN-CL A,SPCX,84615Q103,"324,842","$50,201,082.68",3.11%
+06/25/2026,ARKW,CIRCLE INTERNET GROUP INC,CRCL,172573107,"699,190","$49,628,506.20",3.07%
+06/25/2026,ARKW,ROBLOX CORP -CLASS A,RBLX,771049103,"1,026,435","$49,207,293.90",3.05%
+06/25/2026,ARKW,BLOCK INC,XYZ,852234103,"642,111","$48,594,960.48",3.01%
+06/25/2026,ARKW,OPENAI GROUP PBC SERIES C,,PPOPENAIC,"62,528","$42,999,686.48",2.66%
+06/25/2026,ARKW,CROWDSTRIKE HOLDINGS INC - A,CRWD,22788C105,"61,049","$41,087,197.98",2.54%
+06/25/2026,ARKW,DATADOG INC - CLASS A,DDOG,23804L103,"177,784","$39,583,607.60",2.45%
+06/25/2026,ARKW,PALANTIR TECHNOLOGIES INC-A,PLTR,69608A108,"338,514","$38,421,339.00",2.38%
+06/25/2026,ARKW,TAIWAN SEMICONDUCTOR-SP ADR,TSM,874039100,"86,412","$38,093,001.96",2.36%
+06/25/2026,ARKW,BROADCOM INC,AVGO,11135F101,"93,044","$35,549,321.08",2.20%
+06/25/2026,ARKW,CLOUDFLARE INC - CLASS A,NET,18915M107,"143,856","$32,148,938.88",1.99%
+06/25/2026,ARKW,META PLATFORMS INC-CLASS A,META,30303M102,"56,568","$31,546,276.56",1.95%
+06/25/2026,ARKW,ROKU INC,ROKU,77543R102,"228,177","$31,016,099.61",1.92%
+06/25/2026,ARKW,NVIDIA CORP,NVDA,67066G104,"126,833","$25,239,767.00",1.56%
+06/25/2026,ARKW,RUBRIK INC-A,RBRK,781154109,"328,586","$24,486,228.72",1.52%
+06/25/2026,ARKW,EVERPURE INC-A,P,74624M102,"326,359","$23,758,935.20",1.47%
+06/25/2026,ARKW,BULLISH,BLSH,G16910120,"913,522","$21,440,361.34",1.33%
+06/25/2026,ARKW,BITMINE IMMERSION TECHNOLOGI,BMNR,09175A206,"1,500,973","$21,043,641.46",1.30%
+06/25/2026,ARKW,CEREBRAS SYSTEMS INC - A,CBRS,15675D103,"115,552","$21,060,507.52",1.30%
+06/25/2026,ARKW,FIGMA INC-CL A,FIG,316841105,"995,321","$18,552,783.44",1.15%
+06/25/2026,ARKW,TOAST INC-CLASS A,TOST,888787108,"708,588","$18,437,459.76",1.14%
+06/25/2026,ARKW,GITLAB INC-CL A,GTLB,37637K108,"623,513","$17,626,712.51",1.09%
+06/25/2026,ARKW,GENIUS SPORTS LTD,GENI,G3934V109,"3,092,312","$17,502,485.92",1.08%
+06/25/2026,ARKW,SPOTIFY TECHNOLOGY SA,SPOT,L8681T102,"37,429","$17,030,569.29",1.05%
+06/25/2026,ARKW,DOORDASH INC - A,DASH,25809K105,"93,078","$16,561,368.54",1.03%
+06/25/2026,ARKW,SNOWFLAKE INC,SNOW,833445109,"73,713","$16,655,452.35",1.03%
+06/25/2026,ARKW,NETFLIX INC,NFLX,64110L106,"226,817","$16,294,533.28",1.01%
+06/25/2026,ARKW,DRAFTKINGS INC-CL A,DKNG UW,26142V105,"652,263","$16,000,011.39",0.99%
+06/25/2026,ARKW,MERCADOLIBRE INC,MELI,58733R102,"8,616","$14,298,855.12",0.89%
+06/25/2026,ARKW,ALIBABA GROUP HOLDING-SP ADR,BABA,01609W102,"128,623","$12,836,575.40",0.79%
+06/25/2026,ARKW,AIRBNB INC-CLASS A,ABNB,009066101,"63,300","$9,140,520.00",0.57%
+06/25/2026,ARKW,3IQ ETHER STAKING ETF,ETHQ/U,BQ84B35,"791,787","$4,837,818.57",0.30%
+06/25/2026,ARKW,ALPHABET INC-CL A,GOOGL,02079K305,"12,145","$4,193,547.05",0.26%
+06/25/2026,ARKW,3IQ SOLANA STAKING ETF,SOLQ/U,BTRDQ40,"423,047","$2,242,149.10",0.14%
+06/25/2026,ARKW,GOLDMAN FS TRSY OBLIG INST 468,,X9USDGSFT,"1,123,646","$1,123,645.76",0.07%
+06/25/2026,ARKW,BRERA HOLDINGS PLC-CL B,,G13311132,"144,292","$724,345.84",0.04%
+06/25/2026,ARKW,BRERA HOLDINGS PLC WTS,,BREADUMMY,"139,569","$371,253.81",0.02%
+06/25/2026,ARKW,BAIDU INC - SPON ADR,BIDU,056752108,100,"$10,782.00",0.00%
+"Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ARK ETF before investing. This and other information are contained in the ARK ETFs' prospectuses, which may be obtained on ark-funds.com. The prospectus should be read carefully before investing. An investment in an ARK ETF is subject to risks and you can lose money on your investment in an ARK ETF. There can be no assurance that the ARK ETFs will achieve their investment objectives. The ARK ETFs’ portfolios are more volatile than broad market averages. The ARK ETFs also have specific risks, which are described in the ARK ETFs' prospectuses.Shares of the ARK ETFs may be bought or sold throughout the day at their market price on the exchange on which they are listed. The market price of an ARK ETF's shares may be at, above or below the ARK ETF’s net asset value (""NAV"") and will fluctuate with changes in the NAV as well as supply and demand in the market for the shares. The market price of ARK ETF shares may differ significantly from their NAV during periods of market volatility. Shares of the ARK ETFs may only be redeemed directly with the ARK ETFs at NAV by Authorized Participants, in very large creation units. There can be no guarantee that an active trading market for ARK ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ARK ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Not FDIC Insured – No Bank Guarantee – May Lose ValueAll statements made regarding companies, securities or other financial information are strictly beliefs and points of view held by ARK Investment Management LLC and/or ARK ETF Trust and are not endorsements by ARK of any company or security or recommendations by ARK to buy, sell or hold any security. Holdings are subject to change without notice.Foreside Fund Services, LLC, distributor.© 2026. ARK ETF Trust. No part of this material may be reproduced in any form, or referred to in any other publication, without written permission."

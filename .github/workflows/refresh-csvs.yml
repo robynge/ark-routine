@@ -15,7 +15,7 @@ jobs:
         run: |
           set -e
           DATE=$(TZ=America/New_York date +%Y-%m-%d)
-          OUT="data/holdings/$DATE"
+          OUT="data/holdings/${DATE:0:4}/$DATE"
           mkdir -p "$OUT"
           BASE="https://assets.ark-funds.com/fund-documents/funds-etf-csv"
           declare -A URLS=(
@@ -45,7 +45,7 @@ jobs:
         run: |
           DATE=$(TZ=America/New_York date +%Y-%m-%d)
           rm -f data/holdings/LATEST
-          (cd data/holdings && ln -s "$DATE" LATEST)
+          (cd data/holdings && ln -s "${DATE:0:4}/$DATE" LATEST)
           ls -la data/holdings/
 
       # Rebuilds data/history/ark_holdings_history.csv from every per-day CSV.

@@ -1,0 +1,43 @@
+date,fund,company,ticker,cusip,shares,market value ($),weight (%)
+07/10/2026,ARKQ,TESLA INC,TSLA,88160R101,"567,123","$230,563,855.65",10.85%
+07/10/2026,ARKQ,ADVANCED MICRO DEVICES,AMD,007903107,"284,843","$155,729,364.96",7.33%
+07/10/2026,ARKQ,TERADYNE INC,TER,880770102,"354,029","$128,424,019.75",6.04%
+07/10/2026,ARKQ,SPACE EXPLORATION TECHN-CL A,SPCX,84615Q103,"836,475","$127,278,036.00",5.99%
+07/10/2026,ARKQ,KRATOS DEFENSE & SECURITY,KTOS,50077B207,"2,163,157","$105,670,219.45",4.97%
+07/10/2026,ARKQ,ALPHABET INC-CL C,GOOG,02079K107,"283,137","$100,864,724.88",4.75%
+07/10/2026,ARKQ,DEERE & CO,DE,244199105,"152,769","$90,576,740.10",4.26%
+07/10/2026,ARKQ,ROCKET LAB,RKLB UQ,773121108,"968,500","$79,949,675.00",3.76%
+07/10/2026,ARKQ,PALANTIR TECHNOLOGIES INC-A,PLTR,69608A108,"601,959","$77,676,789.36",3.66%
+07/10/2026,ARKQ,TAIWAN SEMICONDUCTOR-SP ADR,TSM,874039100,"167,790","$73,317,518.40",3.45%
+07/10/2026,ARKQ,AMAZON.COM INC,AMZN,023135106,"273,865","$67,655,609.60",3.18%
+07/10/2026,ARKQ,L3HARRIS TECHNOLOGIES INC,LHX,502431109,"213,900","$62,003,193.00",2.92%
+07/10/2026,ARKQ,NVIDIA CORP,NVDA,67066G104,"303,637","$61,571,510.86",2.90%
+07/10/2026,ARKQ,CATERPILLAR INC,CAT,149123101,"57,177","$53,654,325.03",2.52%
+07/10/2026,ARKQ,AEROVIRONMENT INC,AVAV,008073108,"330,963","$49,114,909.20",2.31%
+07/10/2026,ARKQ,ARCHER AVIATION INC-A,ACHR,03945R102,"9,335,397","$45,276,675.45",2.13%
+07/10/2026,ARKQ,TRIMBLE INC,TRMB,896239100,"778,010","$41,008,907.10",1.93%
+07/10/2026,ARKQ,KOMATSU LTD -SPONS ADR,KMTUY,500458401,"947,521","$37,720,811.01",1.78%
+07/10/2026,ARKQ,BROADCOM INC,AVGO,11135F101,"86,772","$34,805,116.92",1.64%
+07/10/2026,ARKQ,AURORA INNOVATION INC,AUR,051774107,"5,527,404","$34,712,097.12",1.63%
+07/10/2026,ARKQ,BWX TECHNOLOGIES INC,BWXT,05605H100,"181,667","$33,969,912.33",1.60%
+07/10/2026,ARKQ,CAMECO CORP,CCJ,13321L108,"346,569","$33,180,516.06",1.56%
+07/10/2026,ARKQ,BAIDU INC - SPON ADR,BIDU,056752108,"279,993","$32,901,977.43",1.55%
+07/10/2026,ARKQ,ELBIT SYSTEMS LTD,ESLT,M3760D101,"41,877","$31,863,790.53",1.50%
+07/10/2026,ARKQ,INTUITIVE MACHINES INC,LUNR,46125A100,"1,820,904","$30,773,277.60",1.45%
+07/10/2026,ARKQ,SYMBOTIC INC,SYM UQ,87151X101,"700,574","$30,229,768.10",1.42%
+07/10/2026,ARKQ,DOORDASH INC - A,DASH,25809K105,"151,843","$29,207,001.05",1.37%
+07/10/2026,ARKQ,JOBY AVIATION INC,JOBY,G65163100,"3,536,986","$28,260,518.14",1.33%
+07/10/2026,ARKQ,IRIDIUM COMMUNICATIONS INC,IRDM,46269C102,"535,052","$27,078,981.72",1.27%
+07/10/2026,ARKQ,INTUITIVE SURGICAL INC,ISRG,46120E602,"63,557","$26,156,883.35",1.23%
+07/10/2026,ARKQ,TELEDYNE TECHNOLOGIES INC,TDY,879360105,"36,189","$22,854,077.28",1.08%
+07/10/2026,ARKQ,SYNOPSYS INC,SNPS,871607107,"46,653","$20,684,540.61",0.97%
+07/10/2026,ARKQ,WERIDE INC-ADR,WRD,950915108,"3,547,329","$19,687,675.95",0.93%
+07/10/2026,ARKQ,OKLO INC,OKLO,02156V109,"380,055","$18,725,309.85",0.88%
+07/10/2026,ARKQ,BYD CO LTD-UNSPONSORED ADR,BYDDY,05606L100,"1,757,407","$18,470,347.57",0.87%
+07/10/2026,ARKQ,X-ENERGY INC,XE,98386P102,"1,116,177","$18,528,538.20",0.87%
+07/10/2026,ARKQ,KODIAK AI INC,KDK,500081104,"3,517,611","$18,221,224.98",0.86%
+07/10/2026,ARKQ,PONY AI INC,PONY,732908108,"2,104,373","$14,162,430.29",0.67%
+07/10/2026,ARKQ,ALPHABET INC-CL A,GOOGL,02079K305,"16,696","$5,992,027.44",0.28%
+07/10/2026,ARKQ,STRATA CRITICAL MEDICAL INC,SRTA,092667104,"856,098","$4,391,782.74",0.21%
+07/10/2026,ARKQ,GOLDMAN FS TRSY OBLIG INST 468,,X9USDGSFT,"2,081,076","$2,081,076.01",0.10%
+"Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ARK ETF before investing. This and other information are contained in the ARK ETFs' prospectuses, which may be obtained on ark-funds.com. The prospectus should be read carefully before investing. An investment in an ARK ETF is subject to risks and you can lose money on your investment in an ARK ETF. There can be no assurance that the ARK ETFs will achieve their investment objectives. The ARK ETFs’ portfolios are more volatile than broad market averages. The ARK ETFs also have specific risks, which are described in the ARK ETFs' prospectuses.Shares of the ARK ETFs may be bought or sold throughout the day at their market price on the exchange on which they are listed. The market price of an ARK ETF's shares may be at, above or below the ARK ETF’s net asset value (""NAV"") and will fluctuate with changes in the NAV as well as supply and demand in the market for the shares. The market price of ARK ETF shares may differ significantly from their NAV during periods of market volatility. Shares of the ARK ETFs may only be redeemed directly with the ARK ETFs at NAV by Authorized Participants, in very large creation units. There can be no guarantee that an active trading market for ARK ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ARK ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Not FDIC Insured – No Bank Guarantee – May Lose ValueAll statements made regarding companies, securities or other financial information are strictly beliefs and points of view held by ARK Investment Management LLC and/or ARK ETF Trust and are not endorsements by ARK of any company or security or recommendations by ARK to buy, sell or hold any security. Holdings are subject to change without notice.Foreside Fund Services, LLC, distributor.© 2026. ARK ETF Trust. No part of this material may be reproduced in any form, or referred to in any other publication, without written permission."

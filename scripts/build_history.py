@@ -1,15 +1,19 @@
 #!/usr/bin/env python3
-"""Rebuild data/history/ark_holdings_history.csv from every per-day holdings CSV.
+"""Rebuild data/history/<FUND>.csv -- one file per fund -- from every per-day
+holdings CSV under data/holdings/<YYYY>/<YYYY-MM-DD>/.
 
-One row per (trading date, fund, holding), oldest day first, each new day
-appended below the last. Columns:
+One row per (trading date, holding), oldest day first, each new day appended
+below the last. Columns (identical in every file; `fund` is constant within a
+file but kept so files concatenate cleanly):
 
     date, fund, company, ticker, cusip, weight, shares_held, market_value
 
 Values are cleaned for analysis, not for display: ISO dates that sort correctly,
 and bare numbers with no $ , or % glyphs so a spreadsheet or pandas reads them
 as numbers. The three venture funds (ARKSX/ARKUX/ARKVX) publish only a weight,
-so shares_held and market_value are empty for their rows.
+so shares_held and market_value are empty for their rows. ARKY's CSV carries no
+date/fund/ticker columns at all (autocallable notes, not holdings), so it
+contributes no rows and gets no file.
 
 Two facts about the source archive drive the dedupe:
   * The daily Action stamps folders with the calendar day it ran, so weekend and
@@ -24,7 +28,7 @@ rows with the same identity (buffer-ETF option legs) keeps both.
 Full rebuild every run: deterministic, so re-running is a no-op the committer
 sees as an empty diff, and there is no incremental-append state to drift.
 
-Usage: build_history.py [--repo .] [--out data/history/ark_holdings_history.csv]
+Usage: build_history.py [--repo .] [--outdir data/history]
 """
 import argparse
 import csv
@@ -127,38 +131,40 @@ def selftest():
            '{d},ARKK,TESLA INC,TSLA,88160R101,"1,000","$2,000.00",10.00%\n'
            '"Holdings are subject to change."\n')
     # a real trading day
-    os.makedirs(os.path.join(d, "data", "holdings", "2026-01-05"))
-    open(os.path.join(d, "data", "holdings", "2026-01-05", "ARKK_Holdings_2026-01-05.csv"),
+    os.makedirs(os.path.join(d, "data", "holdings", "2026", "2026-01-05"))
+    open(os.path.join(d, "data", "holdings", "2026", "2026-01-05", "ARKK_Holdings_2026-01-05.csv"),
          "w").write(etf.format(d="01/05/2026"))
     # weekend folder: verbatim copy of Friday, must collapse
-    os.makedirs(os.path.join(d, "data", "holdings", "2026-01-06"))
-    open(os.path.join(d, "data", "holdings", "2026-01-06", "ARKK_Holdings_2026-01-06.csv"),
+    os.makedirs(os.path.join(d, "data", "holdings", "2026", "2026-01-06"))
+    open(os.path.join(d, "data", "holdings", "2026", "2026-01-06", "ARKK_Holdings_2026-01-06.csv"),
          "w").write(etf.format(d="01/05/2026"))
     # venture fund: weight only, no shares/market value
-    open(os.path.join(d, "data", "holdings", "2026-01-05", "ARKVX_Holdings_2026-01-05.csv"),
+    open(os.path.join(d, "data", "holdings", "2026", "2026-01-05", "ARKVX_Holdings_2026-01-05.csv"),
          "w").write("date,fund,company,ticker,cusip,weight (%)\n"
                     "01/05/2026,ARKVX,OpenAI,,,6.18%\n")
 
-    rows = read_holdings(os.path.join(d, "data", "holdings", "2026-01-05",
+    rows = read_holdings(os.path.join(d, "data", "holdings", "2026", "2026-01-05",
                                       "ARKK_Holdings_2026-01-05.csv"), "ARKK")
     assert rows == [["2026-01-05", "ARKK", "TESLA INC", "TSLA", "88160R101",
                      "10.00", "1000", "2000.00"]], rows     # disclaimer dropped
 
-    out = os.path.join("data", "history", "h.csv")
-    sys.argv = ["build_history.py", "--repo", d, "--out", out]
+    outdir = os.path.join("data", "history")
+    sys.argv = ["build_history.py", "--repo", d, "--outdir", outdir]
     main()
-    got = list(csv.reader(open(os.path.join(d, out), newline="")))
-    assert got[0] == HEADER
-    assert len(got) == 3, got                               # header + ARKK + ARKVX, weekend gone
-    assert [r[1] for r in got[1:]] == ["ARKK", "ARKVX"]
-    assert got[2][6] == "" and got[2][7] == "", got[2]      # venture: blank shares + mv
+    arkk = list(csv.reader(open(os.path.join(d, outdir, "ARKK.csv"), newline="")))
+    arkvx = list(csv.reader(open(os.path.join(d, outdir, "ARKVX.csv"), newline="")))
+    assert arkk[0] == HEADER and arkvx[0] == HEADER
+    assert len(arkk) == 2, arkk                             # header + one row, weekend copy gone
+    assert len(arkvx) == 2, arkvx
+    assert arkk[1][1] == "ARKK" and arkvx[1][1] == "ARKVX"
+    assert arkvx[1][6] == "" and arkvx[1][7] == "", arkvx[1]  # venture: blank shares + mv
     print("selftest OK")
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--repo", default=os.path.join(os.path.dirname(__file__), ".."))
-    ap.add_argument("--out", default=os.path.join("data", "history", "ark_holdings_history.csv"))
+    ap.add_argument("--outdir", default=os.path.join("data", "history"))
     ap.add_argument("--selftest", action="store_true")
     args = ap.parse_args()
     if args.selftest:
@@ -167,7 +173,7 @@ def main():
     holdings = os.path.join(args.repo, "data", "holdings")
     chosen = {}   # (date, fund) -> (folder_matches_that_date, rows)
     scanned = groups = 0
-    for path in sorted(glob.glob(os.path.join(holdings, "*", "*.csv"))):
+    for path in sorted(glob.glob(os.path.join(holdings, "*", "*", "*.csv"))):
         folder = os.path.basename(os.path.dirname(path))
         if not FOLDER_RE.fullmatch(folder):
             continue          # skips the LATEST symlink
@@ -187,26 +193,30 @@ def main():
             if prev is None or (canonical and not prev[0]):
                 chosen[key] = (canonical, rws)
 
-    all_rows = []
+    by_fund = {}
     for _, rws in chosen.values():
-        all_rows.extend(rws)
-    # oldest day first; within a day, fund then largest position first
-    all_rows.sort(key=lambda r: (r[0], r[1], -(float(r[5]) if r[5] else 0.0)))
+        for r in rws:
+            by_fund.setdefault(r[1], []).append(r)
 
-    out_path = os.path.join(args.repo, args.out)
-    os.makedirs(os.path.dirname(out_path), exist_ok=True)
-    with open(out_path, "w", newline="", encoding="utf-8") as fh:
-        w = csv.writer(fh)
-        w.writerow(HEADER)
-        w.writerows(all_rows)
+    out_dir = os.path.join(args.repo, args.outdir)
+    os.makedirs(out_dir, exist_ok=True)
+    total = 0
+    for fund in sorted(by_fund):
+        rows = by_fund[fund]
+        # oldest day first; within a day, largest position first
+        rows.sort(key=lambda r: (r[0], -(float(r[5]) if r[5] else 0.0)))
+        with open(os.path.join(out_dir, f"{fund}.csv"), "w", newline="", encoding="utf-8") as fh:
+            w = csv.writer(fh)
+            w.writerow(HEADER)
+            w.writerows(rows)
+        total += len(rows)
 
-    dates = sorted({r[0] for r in all_rows})
-    funds = sorted({r[1] for r in all_rows})
+    dates = sorted({r[0] for rws in by_fund.values() for r in rws})
     print(f"scanned {scanned} files -> {groups} (date,fund) groups -> kept {len(chosen)} "
           f"({groups - len(chosen)} duplicate copies dropped)")
-    print(f"wrote {out_path}")
-    print(f"  {len(all_rows):,} rows | {len(dates)} dates {dates[0]}..{dates[-1]} | {len(funds)} funds")
-    print(f"  {', '.join(funds)}")
+    print(f"wrote {len(by_fund)} per-fund files to {out_dir}")
+    print(f"  {total:,} rows | {len(dates)} dates {dates[0]}..{dates[-1]} | {len(by_fund)} funds")
+    print(f"  {', '.join(sorted(by_fund))}")
     return 0
 
 

@@ -107,7 +107,13 @@ def main():
     args = ap.parse_args()
 
     holdings = os.path.join(args.repo, "data", "holdings")
-    existing = {d for d in os.listdir(holdings) if re.fullmatch(r"\d{4}-\d{2}-\d{2}", d)}
+
+    def day_dir(date):
+        return os.path.join(holdings, date[:4], date)
+
+    existing = {d for y in os.listdir(holdings) if re.fullmatch(r"\d{4}", y)
+                for d in os.listdir(os.path.join(holdings, y))
+                if re.fullmatch(r"\d{4}-\d{2}-\d{2}", d)}
 
     # group blog files by date
     by_date = defaultdict(dict)
@@ -131,7 +137,7 @@ def main():
     stale = []
     for date in overlap:
         for fund, path in sorted(by_date[date].items()):
-            off_path = os.path.join(holdings, date, f"{fund}_Holdings_{date}.csv")
+            off_path = os.path.join(day_dir(date), f"{fund}_Holdings_{date}.csv")
             if not os.path.exists(off_path):
                 continue
             if internal_date(load_official(off_path)) != date and \
@@ -148,7 +154,7 @@ def main():
         diffs = []
         for date in overlap:
             for fund, path in sorted(by_date[date].items()):
-                off_path = os.path.join(holdings, date, f"{fund}_Holdings_{date}.csv")
+                off_path = os.path.join(day_dir(date), f"{fund}_Holdings_{date}.csv")
                 if not os.path.exists(off_path) or off_path in stale_paths:
                     continue  # ARK's own bug, not a converter defect
                 mine = to_official(fund, read_blog(path))
@@ -175,7 +181,7 @@ def main():
                 rows = to_official(fund, read_blog(path))
                 if not rows:
                     continue
-                write_csv(os.path.join(holdings, date, f"{fund}_Holdings_{date}.csv"), rows)
+                write_csv(os.path.join(day_dir(date), f"{fund}_Holdings_{date}.csv"), rows)
                 written += 1
         print(f"\nAPPLY: wrote {written} files across {len(missing)} dates")
 
