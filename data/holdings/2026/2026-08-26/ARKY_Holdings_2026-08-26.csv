@@ -1,0 +1,50 @@
+position,cusip,$ notional per note,market value ($),market weight (%)
+GOLDMAN FS TRSY OBLIG INST 468,X9USDGSFT,"20,291,640","$20,291,639.79",82.16%
+TREASURY BILL 0 8/5/2027,912797VR5,"3,800,000","$3,660,583.47",14.82%
+OPEN Autocall ELN LONG TRS 68.02 PA 03/04/2027,1718093,"400,000","$90,645.00",0.37%
+FIG Autocall ELN LONG TRS 34.83 PA 09/14/2027  M,1740035,"500,000","$77,762.00",0.31%
+BMNR Autocall ELN LONG TRS 31.22 PA 10/18/2027,1740056,"500,000","$66,733.00",0.27%
+TEM Autocall ELN LONG TRS 31.74 PA 07/29/2027  M,1740058,"500,000","$66,769.00",0.27%
+AMD Autocall ELN LONG TRS 26.46 PA 08/03/2027  M,1737390,"500,000","$50,655.00",0.21%
+GTLB Autocall ELN LONG TRS 27.26 PA 06/04/2027,1718152,"500,000","$52,139.00",0.21%
+GH Autocall ELN LONG TRS 23.94 PA 06/04/2027  MS,1718149,"500,000","$43,806.00",0.18%
+KTOS Autocall ELN LONG TRS 30.21 PA 07/23/2027,1740057,"500,000","$43,761.00",0.18%
+BLSH Autocall ELN LONG TRS 25.15 PA 10/25/2027,1718167,"500,000","$42,600.00",0.17%
+AVAV Autocall ELN LONG TRS 27.70 PA 12/30/2027,1740048,"500,000","$37,782.00",0.15%
+HIMS Autocall ELN LONG TRS 41.47 PA 04/21/2027,1740022,"400,000","$38,011.00",0.15%
+CAI Autocall ELN LONG TRS 29.78 PA 06/15/2027  M,1737384,"400,000","$25,606.00",0.10%
+MRNA Autocall ELN LONG TRS 22.43 PA 01/27/2027,1737385,"500,000","$25,811.00",0.10%
+TSLA Autocall ELN LONG TRS 20.47 PA 07/30/2027,1718170,"500,000","$25,548.00",0.10%
+U Autocall ELN LONG TRS 26.09 PA 02/09/2027  MS,1740010,"500,000","$23,727.00",0.10%
+BEAM Autocall ELN LONG TRS 22.93 PA 06/11/2027,1718108,"500,000","$21,850.00",0.09%
+SRPT Autocall ELN LONG TRS 36.53 PA 04/09/2027,1718102,"400,000","$22,445.00",0.09%
+TWLO Autocall ELN LONG TRS 21.99 PA 11/12/2027,1737392,"400,000","$22,435.00",0.09%
+DKNG Autocall ELN LONG TRS 23.31 PA 11/01/2027,1718141,"500,000","$20,502.00",0.08%
+PINS Autocall ELN LONG TRS 19.96 PA 05/07/2027,1737387,"500,000","$19,341.00",0.08%
+COIN Autocall ELN LONG TRS 26.92 PA 12/29/2026,1718129,"500,000","$17,805.00",0.07%
+RBRK Autocall ELN LONG TRS 17.76 PA 12/08/2026,1737382,"500,000","$15,105.00",0.06%
+RDDT Autocall ELN LONG TRS 24.16 PA 08/10/2027,1740018,"500,000","$13,668.00",0.06%
+FSLY Autocall ELN LONG TRS 40.75 PA 07/01/2027,1740021,"400,000","$11,197.00",0.05%
+XYZ Autocall ELN LONG TRS 14.65 PA 05/04/2027  M,1718107,"500,000","$12,634.00",0.05%
+CRCL Autocall ELN LONG TRS 24.82 PA 07/09/2027,1718110,"500,000","$7,453.00",0.03%
+PLTR Autocall ELN LONG TRS 20.71 PA 04/21/2027,1737383,"500,000","$7,493.00",0.03%
+TER Autocall ELN LONG TRS 34.51 PA 03/18/2027  M,1740037,"500,000","$8,027.00",0.03%
+OKLO Autocall ELN LONG TRS 38.39 PA 12/02/2026,1718116,"500,000","$3,974.00",0.02%
+AUR Autocall ELN LONG TRS 19.36 PA 04/09/2027  M,1718100,"500,000","$2,520.00",0.01%
+WGS Autocall ELN LONG TRS 26.04 PA 02/24/2027  M,1740020,"500,000","$2,088.00",0.01%
+HOOD Autocall ELN LONG TRS 27.76 PA 05/25/2027,1740012,"500,000",$795.00,0.00%
+CRWV Autocall ELN LONG TRS 35.82 PA 05/04/2027,1740017,"500,000","-$1,236.00",-0.01%
+LUNR Autocall ELN LONG TRS 43.00 PA 08/09/2027,1718113,"500,000","-$2,452.00",-0.01%
+RXRX Autocall ELN LONG TRS 25.72 PA 12/01/2026,1718092,"500,000","-$1,980.00",-0.01%
+CRSP Autocall ELN LONG TRS 20.36 PA 05/03/2027,1718105,"500,000","-$5,328.00",-0.02%
+RBLX Autocall ELN LONG TRS 27.81 PA 11/18/2027,1718144,"500,000","-$5,943.00",-0.02%
+NTLA Autocall ELN LONG TRS 23.06 PA 01/28/2027,1737386,"500,000","-$6,427.00",-0.03%
+SOFI Autocall ELN LONG TRS 19.85 PA 01/14/2027,1718103,"500,000","-$7,765.00",-0.03%
+DDOG Autocall ELN LONG TRS 22.48 PA 08/06/2027,1737391,"500,000","-$8,991.00",-0.04%
+JOBY Autocall ELN LONG TRS 30.94 PA 09/14/2027,1718155,"500,000","-$8,695.00",-0.04%
+TTD Autocall ELN LONG TRS 27.27 PA 06/28/2027  M,1740042,"400,000","-$13,217.00",-0.05%
+SNAP Autocall ELN LONG TRS 25.24 PA 05/10/2027,1740011,"400,000","-$19,894.00",-0.08%
+SYM Autocall ELN LONG TRS 26.20 PA 12/28/2026  M,1718095,"500,000","-$24,732.00",-0.10%
+KLAR Autocall ELN LONG TRS 28.38 PA 05/14/2027,1740019,"500,000","-$30,642.00",-0.12%
+RKLB Autocall ELN LONG TRS 34.72 PA 07/26/2027,1740013,"500,000","-$38,096.00",-0.15%
+"Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ARK ETF before investing. This and other information are contained in the ARK ETFs' prospectuses, which may be obtained on ark-funds.com. The prospectus should be read carefully before investing. An investment in an ARK ETF is subject to risks, and you can lose money on your investment in an ARK ETF. There can be no assurance that the ARK ETFs will achieve their investment objectives. The ARK ETFs’ portfolios are more voatile than broad market averages. The ARK ETFs also have specific risks, which are described in the ARK ETFs' prospectuses. Shares of the ARK ETFs may be bought or sold throughout the day at their market price on the exchange on which they are listed. The market price of an ARK ETF's shares may be at, above, or below the ARK ETF’s net asset value (""NAV"") and will fluctuate with changes in the NAV as well as supply and demand in the market for the shares. The market price of ARK ETF shares may differ significantly from their NAV during periods of market voatility. Shares of the ARK ETFs may only be redeemed directly with the ARK ETFs at NAV by Authorized Participants, in very arge creation units. There can be no guarantee that an active trading market for ARK ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ARK ETF shares on an exchange may require the payment of brokerage commissions, and frequent trading may incur brokerage costs that detract significantly from investment returns. Not FDIC Insured – No Bank Guarantee – May Lose Value&nbsp;All statements made regarding companies, securities, or other financial information are strictly beliefs and points of view held by ARK Investment Management LLC and/or ARK ETF Trust and are not endorsements by ARK of any company or security or recommendations by ARK to buy, sell, or hold any security. Holdings are subject to change without notice.&nbsp;Foreside Fund Services, LLC, distributor.&nbsp;©. 2026. ARK ETF Trust. No part of this material may be reproduced in any form or referred to in any other publication without written permission."
