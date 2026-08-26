@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download 15 ARK ETF CSVs
+      - name: Download 17 ARK ETF CSVs
         run: |
           set -e
           DATE=$(TZ=America/New_York date +%Y-%m-%d)
@@ -30,6 +30,8 @@ jobs:
             [IZRL]="ARK_ISRAEL_INNOVATIVE_TECHNOLOGY_ETF_IZRL_HOLDINGS.csv"
             [PRNT]="THE_3D_PRINTING_ETF_PRNT_HOLDINGS.csv"
             [ARKD]="ARK_DIET_Q1_BUFFER_ETF_ARKD_HOLDINGS.csv"
+            [ARKI]="ARK_DIET_Q2_BUFFER_ETF_ARKI_HOLDINGS.csv"
+            [ARKE]="ARK_DIET_Q3_BUFFER_ETF_ARKE_HOLDINGS.csv"
             [ARKT]="ARK_DIET_Q4_BUFFER_ETF_ARKT_HOLDINGS.csv"
             [ARKUX]="ARK_VENTURE_FUND_ARKUX_HOLDINGS.csv"
             [ARKSX]="ARK_VENTURE_FUND_ARKSX_HOLDINGS.csv"
