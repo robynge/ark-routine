@@ -1,0 +1,48 @@
+position,cusip,$ notional per note,market value ($),market weight (%)
+GOLDMAN FS TRSY OBLIG INST 468,X9USDGSFT,"22,903,981","$22,903,980.67",84.08%
+TREASURY BILL 0 8/5/2027,912797VR5,"3,800,000","$3,660,786.01",13.44%
+FIG Autocall ELN LONG TRS 34.83 PA 09/14/2027  M,1740035,"575,000","$91,454.90",0.34%
+OPEN Autocall ELN LONG TRS 68.02 PA 03/04/2027,1718093,"400,000","$84,086.00",0.31%
+BMNR Autocall ELN LONG TRS 31.22 PA 10/18/2027,1740056,"575,000","$81,524.65",0.30%
+TEM Autocall ELN LONG TRS 31.74 PA 07/29/2027  M,1740058,"575,000","$79,270.65",0.29%
+AMD Autocall ELN LONG TRS 26.46 PA 08/03/2027  M,1737390,"575,000","$58,627.00",0.22%
+GTLB Autocall ELN LONG TRS 27.26 PA 06/04/2027,1718152,"575,000","$60,020.80",0.22%
+GH Autocall ELN LONG TRS 23.94 PA 06/04/2027  MS,1718149,"575,000","$52,489.45",0.19%
+KTOS Autocall ELN LONG TRS 30.21 PA 07/23/2027,1740057,"575,000","$52,388.25",0.19%
+BLSH Autocall ELN LONG TRS 25.15 PA 10/25/2027,1718167,"575,000","$47,845.75",0.18%
+AVAV Autocall ELN LONG TRS 27.70 PA 12/30/2027,1740048,"575,000","$42,769.65",0.16%
+MRNA Autocall ELN LONG TRS 22.43 PA 01/27/2027,1737385,"575,000","$29,834.45",0.11%
+TSLA Autocall ELN LONG TRS 20.47 PA 07/30/2027,1718170,"575,000","$29,005.30",0.11%
+U Autocall ELN LONG TRS 26.09 PA 02/09/2027  MS,1740010,"575,000","$27,424.05",0.10%
+BEAM Autocall ELN LONG TRS 22.93 PA 06/11/2027,1718108,"575,000","$24,242.00",0.09%
+DKNG Autocall ELN LONG TRS 23.31 PA 11/01/2027,1718141,"575,000","$21,229.00",0.08%
+PINS Autocall ELN LONG TRS 19.96 PA 05/07/2027,1737387,"575,000","$22,196.15",0.08%
+SRPT Autocall ELN LONG TRS 36.53 PA 04/09/2027,1718102,"400,000","$22,865.00",0.08%
+COIN Autocall ELN LONG TRS 26.92 PA 12/29/2026,1718129,"575,000","$18,722.00",0.07%
+RBRK Autocall ELN LONG TRS 17.76 PA 12/08/2026,1737382,"575,000","$19,031.35",0.07%
+CAI Autocall ELN LONG TRS 29.78 PA 06/15/2027  M,1737384,"400,000","$16,876.00",0.06%
+FSLY Autocall ELN LONG TRS 40.75 PA 07/01/2027,1740021,"400,000","$13,430.00",0.05%
+XYZ Autocall ELN LONG TRS 14.65 PA 05/04/2027  M,1718107,"575,000","$14,737.25",0.05%
+PLTR Autocall ELN LONG TRS 20.71 PA 04/21/2027,1737383,"575,000","$11,117.05",0.04%
+RDDT Autocall ELN LONG TRS 24.16 PA 08/10/2027,1740018,"575,000","$12,177.35",0.04%
+TER Autocall ELN LONG TRS 34.51 PA 03/18/2027  M,1740037,"575,000","$9,716.35",0.04%
+CRCL Autocall ELN LONG TRS 24.82 PA 07/09/2027,1718110,"575,000","$7,159.90",0.03%
+WGS Autocall ELN LONG TRS 26.04 PA 02/24/2027  M,1740020,"575,000","$4,658.65",0.02%
+AUR Autocall ELN LONG TRS 19.36 PA 04/09/2027  M,1718100,"575,000","$3,811.10",0.01%
+CRWV Autocall ELN LONG TRS 35.82 PA 05/04/2027,1740017,"575,000",-$246.10,0.00%
+HOOD Autocall ELN LONG TRS 27.76 PA 05/25/2027,1740012,"575,000",$165.60,0.00%
+LUNR Autocall ELN LONG TRS 43.00 PA 08/09/2027,1718113,"575,000","-$5,509.65",-0.02%
+CRSP Autocall ELN LONG TRS 20.36 PA 05/03/2027,1718105,"575,000","-$8,132.80",-0.03%
+DDOG Autocall ELN LONG TRS 22.48 PA 08/06/2027,1737391,"575,000","-$6,985.10",-0.03%
+NTLA Autocall ELN LONG TRS 23.06 PA 01/28/2027,1737386,"575,000","-$8,759.55",-0.03%
+JOBY Autocall ELN LONG TRS 30.94 PA 09/14/2027,1718155,"575,000","-$12,167.00",-0.04%
+OKLO Autocall ELN LONG TRS 38.39 PA 12/02/2026,1718116,"575,000","-$11,189.50",-0.04%
+RBLX Autocall ELN LONG TRS 27.81 PA 11/18/2027,1718144,"575,000","-$10,013.05",-0.04%
+SOFI Autocall ELN LONG TRS 19.85 PA 01/14/2027,1718103,"575,000","-$10,421.30",-0.04%
+TTD Autocall ELN LONG TRS 27.27 PA 06/28/2027  M,1740042,"400,000","-$16,924.00",-0.06%
+SYM Autocall ELN LONG TRS 26.20 PA 12/28/2026  M,1718095,"575,000","-$26,459.20",-0.10%
+KLAR Autocall ELN LONG TRS 28.38 PA 05/14/2027,1740019,"575,000","-$33,793.90",-0.12%
+SNAP Autocall ELN LONG TRS 25.24 PA 05/10/2027,1740011,"400,000","-$38,185.00",-0.14%
+RKLB Autocall ELN LONG TRS 34.72 PA 07/26/2027,1740013,"575,000","-$42,413.15",-0.16%
+RXRX Autocall ELN LONG TRS 25.72 PA 12/01/2026,1718092,"575,000","-$52,420.45",-0.19%
+"Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ARK ETF before investing. This and other information are contained in the ARK ETFs' prospectuses, which may be obtained on ark-funds.com. The prospectus should be read carefully before investing. An investment in an ARK ETF is subject to risks, and you can lose money on your investment in an ARK ETF. There can be no assurance that the ARK ETFs will achieve their investment objectives. The ARK ETFs’ portfolios are more voatile than broad market averages. The ARK ETFs also have specific risks, which are described in the ARK ETFs' prospectuses. Shares of the ARK ETFs may be bought or sold throughout the day at their market price on the exchange on which they are listed. The market price of an ARK ETF's shares may be at, above, or below the ARK ETF’s net asset value (""NAV"") and will fluctuate with changes in the NAV as well as supply and demand in the market for the shares. The market price of ARK ETF shares may differ significantly from their NAV during periods of market voatility. Shares of the ARK ETFs may only be redeemed directly with the ARK ETFs at NAV by Authorized Participants, in very arge creation units. There can be no guarantee that an active trading market for ARK ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ARK ETF shares on an exchange may require the payment of brokerage commissions, and frequent trading may incur brokerage costs that detract significantly from investment returns. Not FDIC Insured – No Bank Guarantee – May Lose Value&nbsp;All statements made regarding companies, securities, or other financial information are strictly beliefs and points of view held by ARK Investment Management LLC and/or ARK ETF Trust and are not endorsements by ARK of any company or security or recommendations by ARK to buy, sell, or hold any security. Holdings are subject to change without notice.&nbsp;Foreside Fund Services, LLC, distributor.&nbsp;©. 2026. ARK ETF Trust. No part of this material may be reproduced in any form or referred to in any other publication without written permission."
