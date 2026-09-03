@@ -73,6 +73,14 @@ jobs:
             echo "WARN: trades CSV not refreshed (download failed, bad header, or fewer rows than before)"
           fi
 
+      # Monthly turnover series for the six active equity ETFs (names / shares / trading
+      # turnover, see data/turnover/README.md) from the consolidated history + trades CSV.
+      # Deterministic, so an unchanged month is an empty diff for the commit step.
+      - name: Compute turnover series
+        run: |
+          python3 -m pip install -q pandas numpy
+          python3 scripts/turnover.py --repo .
+
       - name: Commit if changed
         run: |
           git config user.email "ark-bot@github.com"
