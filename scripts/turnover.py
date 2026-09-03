@@ -13,6 +13,7 @@ Definitions (agreed 2026-09-03), all per fund, per calendar month, on month-end 
                      active: shares listed in ARK's trade-notification emails that month / shares at month start
                      Dollar values: |share change| x that day's price (market value / shares) for total; email shares x price for active.
   Annual figures are sums of the monthly ratios (partial years scaled to 12 months in the annualized fields).
+Days whose fund-wide market value spikes or dips more than 20% against both neighbouring days are dropped as bad files.
 Splits: a name's share count jumping by an integer ratio while market value is unchanged restates earlier
 shares to the later basis. Rows before 2021-05-06 come from Bloomberg and use today's tickers and share basis;
 per-fund alias lists join SPAC / renamed tickers. Cash, money-market and currency lines are excluded.
@@ -210,6 +211,18 @@ def tick_key(t):
     return re.sub(r"[./]", "", t.strip().upper().split()[0])
 
 
+def drop_bad_days(ds):
+    """Drop holdings-file days whose fund-wide market value is a one-day spike or dip of more than 20% against
+    BOTH neighbouring days (ARK has published files with doubled share counts, e.g. ARKK 2026-05-15). Month-end
+    snapshots and day-over-day differences then bridge over the dropped day."""
+    tot = ds.groupby("date").mv.sum().sort_index()
+    prev, nxt = tot.shift(1), tot.shift(-1)
+    spike = (tot > prev * 1.2) & (tot > nxt * 1.2)
+    dip = (tot < prev * 0.8) & (tot < nxt * 0.8)
+    bad = sorted(tot.index[(spike | dip).fillna(False)])
+    return ds[~ds.date.isin(bad)].reset_index(drop=True), bad
+
+
 def daily_trading(ds):
     """Per date: sum of |day-over-day share changes| (adjusted basis) and its dollar value, over all names."""
     sh = ds.pivot(index="date", columns="ent", values="shares_adj").sort_index().fillna(0.0)
@@ -315,12 +328,14 @@ def compute_fund(fund, repo, trades):
     df, excluded, gap_days = load(fund, repo)
     df = resolve_entities(df, fund)
     ds, events = daily_series(df)
+    ds, bad_days = drop_bad_days(ds)
     trading = daily_trading(ds)
     tf = trades[trades.ETF == fund] if trades is not None else None
     active = active_trading(tf, ds, df)
     months = monthly(ds, trading, active)
     return {"first_date": df.date.min(), "last_date": df.date.max(), "months": months, "annual": annual(months),
             "splits": [{"name": e["name"], "date": e["date"], "factor": e["k"], "source_change": e["prev_date"] < BOUNDARY <= e["date"]} for e in events.to_dict("records")],
+            "dropped_days": bad_days,
             "note": NOTES.get(fund)}
 
 

@@ -17,6 +17,11 @@ Per fund and calendar month, on month-end holdings snapshots:
 - `tt_usd` / `ta_usd` = the same in dollars at that day's holdings price; `sh0` = shares at month start
 - `partial` marks the current month to date
 
+`dropped_days` lists holdings-file days skipped as inconsistent: the fund's total market value spikes or dips more than
+20% against both neighbouring days (ARK has published files with doubled share counts, e.g. ARKK 2026-05-15); month-end
+snapshots and day-over-day differences bridge over them. Multi-day swings in the file are kept as published, so a month
+in which ARK's files show the whole fund's share count moving by 15–20% for a few days reports a high `tt`.
+
 `annual` sums the monthly ratios per calendar year (`*_a` = scaled to 12 months for partial years). `splits`
 lists share-basis changes applied (stock splits, and the 2021-05-06 change of data source — rows before it are
 Bloomberg, on today's share basis). Cash, money-market and currency lines are excluded; SPAC and renamed
