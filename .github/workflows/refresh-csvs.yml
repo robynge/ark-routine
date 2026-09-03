@@ -57,6 +57,22 @@ jobs:
       - name: Rebuild consolidated history
         run: python3 scripts/build_history.py
 
+      # ARK's daily trades (from the trade-notification emails) are ingested into the
+      # dashboard's KV by a cloud Routine every evening; the Worker republishes them as
+      # CSV. Mirror that file here so the public repo carries the trade history next to
+      # the holdings. Fail-soft: a Worker outage keeps yesterday's file.
+      - name: Mirror ARK daily trades CSV from the dashboard
+        run: |
+          mkdir -p data/trades
+          if curl -fsSL "https://ark-movers-dashboard.robynge.workers.dev/api/trades.csv" -o /tmp/ark_trades.csv \
+             && [ "$(head -1 /tmp/ark_trades.csv)" = "Date,ETF,Direction,Ticker,Company Name,Shares Traded,% of Total ETF" ] \
+             && [ "$(wc -l < /tmp/ark_trades.csv)" -ge "$(wc -l < data/trades/ark_trades.csv 2>/dev/null || echo 0)" ]; then
+            mv /tmp/ark_trades.csv data/trades/ark_trades.csv
+            echo "trades CSV: $(($(wc -l < data/trades/ark_trades.csv) - 1)) rows, last date $(tail -1 data/trades/ark_trades.csv | cut -d, -f1)"
+          else
+            echo "WARN: trades CSV not refreshed (download failed, bad header, or fewer rows than before)"
+          fi
+
       - name: Commit if changed
         run: |
           git config user.email "ark-bot@github.com"
