@@ -8,11 +8,15 @@ Definitions (agreed 2026-09-03), all per fund, per calendar month, on month-end 
   names turnover   = (names added + names removed) / names held at the start of the month
   shares turnover  = sum over names of |shares at month end - shares at month start| / total shares at month start,
                      shown including names that entered or exited (full position counts) and continuing names only
-  trading turnover = total : sum over the month's trading days of |day-over-day share changes| / shares at month start
-                             (every change in the holdings file, so creation/redemption activity is included)
-                     active: shares listed in ARK's trade-notification emails that month / shares at month start
-                     Dollar values: |share change| x that day's price (market value / shares) for total; email shares x price for active.
-  Annual figures are sums of the monthly ratios (partial years scaled to 12 months in the annualized fields).
+  trades (daily, then summed per month / year): for each name and day, a = shares actively traded per ARK's
+                     trade-notification email (buy +, sell -), d = day-over-day change in the holdings file,
+                     f = d - a = creation/redemption basket and other changes.
+                       active trades = sum |a|          total trades = sum (|a| + |f|)   (so total >= active)
+                     both divided by the shares held at the start of the day; emails not matched to a holdings
+                     name count in both. Dollar values price each share at that day's holdings price.
+  Daily series (per fund file data/turnover/daily/<FUND>.json): names, shares (incl./excl.) and trades computed
+  day over day the same way, divided by the names / shares held at the start of the day.
+  Annual figures are sums of the monthly figures (a partial year is flagged, never scaled).
 Days whose fund-wide market value spikes or dips more than 20% against both neighbouring days are dropped as bad files.
 Splits: a name's share count jumping by an integer ratio while market value is unchanged restates earlier
 shares to the later basis. Rows before 2021-05-06 come from Bloomberg and use today's tickers and share basis;
@@ -213,50 +217,80 @@ def tick_key(t):
 
 def drop_bad_days(ds):
     """Drop holdings-file days whose fund-wide market value is a one-day spike or dip of more than 20% against
-    BOTH neighbouring days (ARK has published files with doubled share counts, e.g. ARKK 2026-05-15). Month-end
-    snapshots and day-over-day differences then bridge over the dropped day."""
+    both neighbouring days (ARK has published files with doubled share counts, e.g. ARKK 2026-05-15)."""
     tot = ds.groupby("date").mv.sum().sort_index()
     prev, nxt = tot.shift(1), tot.shift(-1)
-    spike = (tot > prev * 1.2) & (tot > nxt * 1.2)
-    dip = (tot < prev * 0.8) & (tot < nxt * 0.8)
-    bad = sorted(tot.index[(spike | dip).fillna(False)])
+    bad = sorted(tot.index[(((tot > prev * 1.2) & (tot > nxt * 1.2)) | ((tot < prev * 0.8) & (tot < nxt * 0.8))).fillna(False)])
     return ds[~ds.date.isin(bad)].reset_index(drop=True), bad
 
 
-def daily_trading(ds):
-    """Per date: sum of |day-over-day share changes| (adjusted basis) and its dollar value, over all names."""
-    sh = ds.pivot(index="date", columns="ent", values="shares_adj").sort_index().fillna(0.0)
-    price = (ds.assign(p=ds.mv / ds.shares_adj).pivot(index="date", columns="ent", values="p").sort_index().ffill())
-    d = sh.diff().abs()
-    d.iloc[0] = 0.0                      # the first day has no prior day
-    usd = (d * price.reindex_like(d)).fillna(0.0)
-    return pd.DataFrame({"abs_shares": d.sum(axis=1), "abs_usd": usd.sum(axis=1)})
+def matrices(ds, df, trades):
+    """Date x name matrices on the adjusted share basis, plus the email trades placed on the same grid."""
+    S = ds.pivot(index="date", columns="ent", values="shares_adj").sort_index().fillna(0.0)
+    P = ds.assign(p=ds.mv / ds.shares_adj).pivot(index="date", columns="ent", values="p").sort_index().ffill().bfill()
+    ADJ = ds.pivot(index="date", columns="ent", values="adj").sort_index().ffill().bfill()
+    A = pd.DataFrame(0.0, index=S.index, columns=S.columns)
+    unmatched = pd.Series(0.0, index=S.index)
+    matched_shares = pd.Series(0.0, index=S.index); email_shares = pd.Series(0.0, index=S.index)
+    if trades is not None and len(trades):
+        key2ent = {}
+        for t, e in df[["ticker_n", "ent"]].dropna().drop_duplicates().itertuples(index=False):
+            key2ent.setdefault(tick_key(t), e)
+        dates = list(S.index)
+        for r in trades.itertuples(index=False):
+            d = r.Date
+            if d not in S.index:                      # holiday-dated or missing holdings day: use the next holdings day
+                later = [x for x in dates if x >= d]
+                if not later:
+                    continue
+                d = later[0]
+            sh = float(r._5) * (1 if r.Direction == "Buy" else -1)
+            e = key2ent.get(tick_key(r.Ticker))
+            email_shares[d] += abs(sh)
+            if e is None or e not in S.columns:
+                unmatched[d] += abs(sh)
+                continue
+            A.at[d, e] += sh * float(ADJ.at[d, e]) if pd.notna(ADJ.at[d, e]) else sh
+            matched_shares[d] += abs(sh)
+    return S, P, A, unmatched, matched_shares, email_shares
 
 
-def active_trading(trades, ds, df):
-    """Per date: shares traded per the emails and their dollar value at that day's holdings price."""
-    if trades is None or trades.empty:
-        return pd.DataFrame(columns=["shares", "usd", "matched"])
-    key2ent = {}
-    for t, e in df[["ticker_n", "ent"]].dropna().drop_duplicates().itertuples(index=False):
-        key2ent.setdefault(tick_key(t), e)
-    price = (ds.assign(p=ds.mv / ds.shares).pivot(index="date", columns="ent", values="p").sort_index().ffill())
-    rows = []
-    for r in trades.itertuples(index=False):
-        e = key2ent.get(tick_key(r.Ticker))
-        p = None
-        if e is not None and e in price.columns:
-            s = price[e][price.index <= r.Date]
-            if len(s) and pd.notna(s.iloc[-1]) and r.Date >= (s.index[-1] if len(s) else ""):
-                p = float(s.iloc[-1])
-        rows.append((r.Date, float(r._5), float(r._5) * p if p else np.nan, p is not None))
-    out = pd.DataFrame(rows, columns=["date", "shares", "usd", "matched"])
-    out["matched_shares"] = out.shares.where(out.matched, 0.0)
-    g = out.groupby("date")
-    return pd.DataFrame({"shares": g.shares.sum(), "usd": g.usd.sum(min_count=1), "matched": g.matched_shares.sum()})
+def daily_table(S, P, A, unmatched, matched_shares, email_shares, first_email):
+    """One row per holdings day after the first: start-of-day names and shares, and the day's turnover figures."""
+    D = S.diff()
+    held = S > 0
+    prev_held = held.shift(1).fillna(False).astype(bool)
+    n0 = prev_held.sum(axis=1)
+    adds = (held & ~prev_held).sum(axis=1); rems = (~held & prev_held).sum(axis=1)
+    sh0 = S.sum(axis=1).shift(1)
+    abs_d = D.abs()
+    cont = held & prev_held
+    si_num = abs_d.sum(axis=1)
+    se_num = abs_d.where(cont, 0.0).sum(axis=1)
+    se_den = S.shift(1).where(cont, 0.0).sum(axis=1)
+    F = D - A
+    active_sh = A.abs().sum(axis=1) + unmatched
+    total_sh = A.abs().sum(axis=1) + F.abs().sum(axis=1) + unmatched
+    active_usd = (A.abs() * P).sum(axis=1)
+    total_usd = active_usd + (F.abs() * P).sum(axis=1)
+    out = pd.DataFrame({"n0": n0, "add": adds, "rem": rems, "sh0": sh0,
+                        "nt": (adds + rems) / n0.replace(0, np.nan), "si": si_num / sh0.replace(0, np.nan),
+                        "se": se_num / se_den.replace(0, np.nan),
+                        "tt": total_sh / sh0.replace(0, np.nan), "ta": active_sh / sh0.replace(0, np.nan),
+                        "tt_usd": total_usd, "ta_usd": active_usd, "ta_cov": (matched_shares / email_shares.replace(0, np.nan)),
+                        "si_usd": (abs_d * P).sum(axis=1)}).iloc[1:]
+    if first_email is None:
+        out["ta"] = np.nan; out["ta_usd"] = np.nan
+    else:
+        out.loc[out.index < first_email, ["ta", "ta_usd", "ta_cov"]] = np.nan
+    return out
 
 
-def monthly(ds, trading, active):
+def _num(v, digits=4):
+    return None if v is None or (isinstance(v, float) and not np.isfinite(v)) else round(float(v), digits)
+
+
+def monthly(ds, daily):
     ds = ds.copy(); ds["ym"] = ds.date.str[:7]
     me = ds.groupby("ym").date.max()
     snaps = {d: ds[ds.date == d].set_index("ent") for d in me}
@@ -271,48 +305,61 @@ def monthly(ds, trading, active):
         abs_all = sum(abs(s1.get(e, 0.0) - s0.get(e, 0.0)) for e in e0 | e1)
         abs_cont = sum(abs(s1[e] - s0[e]) for e in cont)
         base = float(s0.sum()); base_cont = float(s0[list(cont)].sum()) if cont else 0.0
-        win = (trading.index > d0) & (trading.index <= d1)
-        tt_sh = float(trading.abs_shares[win].sum()); tt_usd = float(trading.abs_usd[win].sum())
-        awin = (active.index > d0) & (active.index <= d1) if len(active) else np.array([], bool)
-        ta_sh = float(active.shares[awin].sum()) if awin.any() else None
-        ta_usd = float(active.usd[awin].sum()) if awin.any() else None
-        cov = float(active.matched[awin].sum() / active.shares[awin].sum()) if awin.any() and active.shares[awin].sum() > 0 else None
+        w = daily[(daily.index > d0) & (daily.index <= d1)]
+        has_a = w.ta.notna().any()
         out.append({"m": m, "start": d0, "end": d1, "n0": len(e0), "n1": len(e1), "add": len(e1 - e0), "rem": len(e0 - e1),
-                    "nt": (len(e1 - e0) + len(e0 - e1)) / len(e0) if e0 else None,
-                    "si": abs_all / base if base else None, "se": abs_cont / base_cont if base_cont else None,
-                    "tt": tt_sh / base if base else None, "tt_usd": tt_usd,
-                    "ta": ta_sh / base if (base and ta_sh is not None) else None, "ta_usd": ta_usd, "ta_cov": cov,
-                    "sh0": base})
+                    "nt": _num((len(e1 - e0) + len(e0 - e1)) / len(e0)) if e0 else None,
+                    "si": _num(abs_all / base) if base else None, "se": _num(abs_cont / base_cont) if base_cont else None,
+                    "si_abs": _num(abs_all, 0), "se_abs": _num(abs_cont, 0), "sh0": _num(base, 0), "sh0c": _num(base_cont, 0),
+                    "ntd": _num(w.nt.sum()), "sid": _num(w.si.sum()), "sed": _num(w.se.sum()),
+                    "tt": _num(w.tt.sum()), "ta": _num(w.ta.sum()) if has_a else None,
+                    "tt_usd": _num(w.tt_usd.sum(), 0), "ta_usd": _num(w.ta_usd.sum(), 0) if has_a else None,
+                    "ta_cov": _num(w.ta_cov.mean()) if has_a else None, "days": int(len(w))})
     last_end = pd.Timestamp(out[-1]["end"])
     if (last_end + pd.offsets.BDay(1)).month == last_end.month:
         out[-1]["partial"] = True
     return out
 
 
-RATIOS = ["nt", "si", "se", "tt", "ta"]
+SUMS = ["nt", "si", "se", "ntd", "sid", "sed", "tt", "ta"]
 
 
 def annual(months):
     rows = {}
     for x in months:
         if x.get("partial"):
-            continue
-        y = int(x["m"][:4]); r = rows.setdefault(y, {"y": y, "months": 0, "add": 0, "rem": 0, "tt_usd": 0.0, "ta_usd": 0.0, "ta_months": 0, **{k: 0.0 for k in RATIOS}})
-        r["months"] += 1; r["add"] += x["add"]; r["rem"] += x["rem"]; r["tt_usd"] += x["tt_usd"] or 0.0
-        for k in ("nt", "si", "se", "tt"):
+            continue                                  # the current month to date is reported on its own, not in the year
+        y = int(x["m"][:4]); r = rows.setdefault(y, {"y": y, "months": 0, "first": x["m"], "last": x["m"], "add": 0, "rem": 0,
+                                                    "tt_usd": 0.0, "ta_usd": 0.0, "ta_months": 0, **{k: 0.0 for k in SUMS}})
+        r["months"] += 1; r["last"] = x["m"]; r["add"] += x["add"]; r["rem"] += x["rem"]; r["tt_usd"] += x["tt_usd"] or 0.0
+        if r["months"] < 12 and x["m"][:4] == months[-1]["m"][:4]:
+            r["partial"] = True
+        for k in SUMS:
+            if k == "ta":
+                continue
             r[k] += x[k] or 0.0
         if x["ta"] is not None:
             r["ta"] += x["ta"]; r["ta_usd"] += x["ta_usd"] or 0.0; r["ta_months"] += 1
     out = []
     for y, r in sorted(rows.items()):
-        for k in ("nt", "si", "se", "tt"):
-            r[k + "_a"] = r[k] * 12 / r["months"]
-        if r["ta_months"]:
-            r["ta_a"] = r["ta"] * 12 / r["ta_months"]
-        else:
-            r["ta"] = None; r["ta_a"] = None; r["ta_usd"] = None
+        if not r["ta_months"]:
+            r["ta"] = None; r["ta_usd"] = None
+        for k in SUMS:
+            if r[k] is not None:
+                r[k] = round(r[k], 4)
+        r["tt_usd"] = round(r["tt_usd"]); r["ta_usd"] = None if r["ta_usd"] is None else round(r["ta_usd"])
         out.append(r)
     return out
+
+
+def daily_export(daily):
+    cols = {"d": list(daily.index), "n0": [int(v) if np.isfinite(v) else None for v in daily.n0], "sh0": [_num(v, 0) for v in daily.sh0],
+            "add": [int(v) for v in daily["add"]], "rem": [int(v) for v in daily["rem"]]}
+    for k in ["nt", "si", "se", "tt", "ta", "ta_cov"]:
+        cols[k] = [_num(v, 5) for v in daily[k]]
+    for k in ["tt_usd", "ta_usd", "si_usd"]:
+        cols[k] = [_num(v, 0) for v in daily[k]]
+    return cols
 
 
 def load_trades(repo):
@@ -329,28 +376,30 @@ def compute_fund(fund, repo, trades):
     df = resolve_entities(df, fund)
     ds, events = daily_series(df)
     ds, bad_days = drop_bad_days(ds)
-    trading = daily_trading(ds)
     tf = trades[trades.ETF == fund] if trades is not None else None
-    active = active_trading(tf, ds, df)
-    months = monthly(ds, trading, active)
+    S, P, A, unmatched, matched, emailed = matrices(ds, df, tf)
+    first_email = tf.Date.min() if tf is not None and len(tf) else None
+    daily = daily_table(S, P, A, unmatched, matched, emailed, first_email)
+    months = monthly(ds, daily)
     return {"first_date": df.date.min(), "last_date": df.date.max(), "months": months, "annual": annual(months),
             "splits": [{"name": e["name"], "date": e["date"], "factor": e["k"], "source_change": e["prev_date"] < BOUNDARY <= e["date"]} for e in events.to_dict("records")],
-            "dropped_days": bad_days,
-            "note": NOTES.get(fund)}
+            "dropped_days": bad_days, "note": NOTES.get(fund)}, daily_export(daily)
 
 
 def main():
     ap = argparse.ArgumentParser(); ap.add_argument("--repo", default="."); ap.add_argument("--funds", default=",".join(FUNDS)); a = ap.parse_args()
-    repo = Path(a.repo); outdir = repo / "data" / "turnover"; outdir.mkdir(parents=True, exist_ok=True)
+    repo = Path(a.repo); outdir = repo / "data" / "turnover"; (outdir / "daily").mkdir(parents=True, exist_ok=True)
     trades = load_trades(repo)
     result = {"generated_at": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
               "trades_through": trades.Date.max() if trades is not None else None, "funds": {}}
     for fund in a.funds.split(","):
-        r = compute_fund(fund, repo, trades)
+        r, daily = compute_fund(fund, repo, trades)
         result["funds"][fund] = r
         pd.DataFrame(r["months"]).to_csv(outdir / f"{fund}_monthly.csv", index=False)
+        pd.DataFrame(daily).to_csv(outdir / "daily" / f"{fund}_daily.csv", index=False)
+        (outdir / "daily" / f"{fund}.json").write_text(json.dumps({"fund": fund, "generated_at": result["generated_at"], **daily}, separators=(",", ":"), allow_nan=False))
         last = [m for m in r["months"] if not m.get("partial")][-1]
-        print(f"{fund}: {len(r['months'])} months {r['months'][0]['m']}..{r['months'][-1]['m']} | {last['m']} names {last['nt']:.1%} shares {last['si']:.1%}/{last['se']:.1%} trading total {last['tt']:.1%} active {(last['ta'] or 0):.1%} (cov {last['ta_cov'] and round(last['ta_cov'], 2)})")
+        print(f"{fund}: {len(r['months'])} months | {last['m']}: names {last['nt']:.1%} shares {last['si']:.1%}/{last['se']:.1%} | trades total {last['tt']:.1%} active {(last['ta'] or 0):.1%} (cov {last['ta_cov']}) | daily-sum names {last['ntd']:.1%} shares {last['sid']:.1%} | dropped {r['dropped_days']}")
     (outdir / "turnover.json").write_text(json.dumps(result, separators=(",", ":"), allow_nan=False))
     print("wrote", outdir / "turnover.json", (outdir / "turnover.json").stat().st_size, "bytes")
 

@@ -1,30 +1,36 @@
 # ARK turnover series
 
-`turnover.json` — monthly turnover of the six active ARK equity ETFs (ARKK, ARKQ, ARKW, ARKG, ARKF, ARKX),
-computed by `scripts/turnover.py` from `data/consolidated/` (holdings) and `data/trades/ark_trades.csv`
-(ARK's emailed trades). `<FUND>_monthly.csv` holds the same monthly rows per fund.
+Computed by `scripts/turnover.py` in the daily workflow from `data/consolidated/` (holdings) and
+`data/trades/ark_trades.csv` (ARK's emailed trades), for the six active equity ETFs (ARKK, ARKQ,
+ARKW, ARKG, ARKF, ARKX). Files: `turnover.json` (monthly + annual, all funds), `<FUND>_monthly.csv`,
+`daily/<FUND>.json` and `daily/<FUND>_daily.csv` (one row per holdings day).
 
-Per fund and calendar month, on month-end holdings snapshots:
+## Monthly (month-end holdings snapshots)
 
-- `nt` names turnover = (names added + names removed) / names at the start of the month
+- `nt` names turnover = (names added + names removed) / names held at the start of the month
 - `si` shares turnover including names that entered or exited = sum |shares end − start| / shares at start
-- `se` shares turnover, continuing names only (both numerator and denominator on the names held at both ends)
-- `tt` trading turnover, total = sum over the month's trading days of |day-over-day share changes| / shares at start
-  (every change in the holdings file, so creation/redemption activity is included; a redemption that offsets a
-  purchase in the same name on the same day nets out, which is why `ta` can exceed `tt`)
-- `ta` trading turnover, active = shares in ARK's trade-notification emails that month / shares at start
-  (`ta_cov` = share of those email shares matched to a holdings price; `null` before the emails start, 2025-05)
-- `tt_usd` / `ta_usd` = the same in dollars at that day's holdings price; `sh0` = shares at month start
+  (`si_abs` = that numerator in shares, `sh0` = shares at start)
+- `se` shares turnover, continuing names only (`se_abs` / `sh0c`)
+- `ntd`, `sid`, `sed` = the same three measured day by day (see Daily) and summed over the month
+- `tt` total trades and `ta` active trades = sums of the daily percentages (see Daily); `tt_usd` / `ta_usd`
+  their dollar values; `ta_cov` = share of emailed shares matched to a holdings name; `days` = trading days
 - `partial` marks the current month to date
 
-`dropped_days` lists holdings-file days skipped as inconsistent: the fund's total market value spikes or dips more than
-20% against both neighbouring days (ARK has published files with doubled share counts, e.g. ARKK 2026-05-15); month-end
-snapshots and day-over-day differences bridge over them. Multi-day swings in the file are kept as published, so a month
-in which ARK's files show the whole fund's share count moving by 15–20% for a few days reports a high `tt`.
+## Daily (`daily/<FUND>.json`, parallel arrays)
 
-`annual` sums the monthly ratios per calendar year (`*_a` = scaled to 12 months for partial years). `splits`
-lists share-basis changes applied (stock splits, and the 2021-05-06 change of data source — rows before it are
-Bloomberg, on today's share basis). Cash, money-market and currency lines are excluded; SPAC and renamed
+Per holdings day, everything divided by what was held at the start of the day (the previous holdings day):
+`n0` names, `sh0` shares, `add` / `rem` names in and out, `nt`, `si`, `se` as above but day over day,
+and the trades split per name: `a` = shares actively traded per ARK's email (buy +, sell −), `d` = change
+in the holdings file, `f` = `d − a` = creation/redemption basket and other changes.
+`ta` active trades = Σ |a| / `sh0`; `tt` total trades = Σ (|a| + |f|) / `sh0`, so total always contains
+active. Emails not matched to a holdings name count in both. `ta` is null before the emails start
+(2025-05). `tt_usd`, `ta_usd`, `si_usd` price each share at that day's holdings price.
+
+## Annual
+
+Sums of the monthly figures per calendar year; the current year is the sum through the latest complete
+month and is flagged `partial` (never scaled). `splits` lists share-basis changes applied (stock splits and
+the 2021-05-06 change of data source — rows before it are Bloomberg, on today's share basis);
+`dropped_days` are holdings files skipped because the fund's total market value spiked or dipped more than
+20% against both neighbouring days. Cash, money-market and currency lines are excluded; SPAC and renamed
 tickers are joined per the alias lists in the script.
-
-Consumed by the ARK Movers dashboard (`/turnover`), which mirrors this file into KV once a day.
