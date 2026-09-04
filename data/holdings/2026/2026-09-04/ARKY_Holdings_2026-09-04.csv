@@ -1,0 +1,47 @@
+position,cusip,$ notional per note,market value ($),market weight (%)
+GOLDMAN FS TRSY OBLIG INST 468,X9USDGSFT,"25,045,702","$25,045,701.97",83.52%
+TREASURY BILL 0 8/5/2027,912797VR5,"4,350,000","$4,191,564.56",13.98%
+BMNR Autocall ELN LONG TRS 31.22 PA 10/18/2027,1740056,"675,000","$104,258.74",0.35%
+FIG Autocall ELN LONG TRS 34.83 PA 09/14/2027  M,1740035,"675,000","$102,588.26",0.34%
+TEM Autocall ELN LONG TRS 31.74 PA 07/29/2027  M,1740058,"675,000","$93,592.56",0.31%
+AMD Autocall ELN LONG TRS 26.46 PA 08/03/2027  M,1737390,"675,000","$77,286.91",0.26%
+BLSH Autocall ELN LONG TRS 25.15 PA 10/25/2027,1718167,"675,000","$65,236.70",0.22%
+AVAV Autocall ELN LONG TRS 27.70 PA 12/30/2027,1740048,"675,000","$56,067.26",0.19%
+KTOS Autocall ELN LONG TRS 30.21 PA 07/23/2027,1740057,"675,000","$55,441.56",0.18%
+TSLA Autocall ELN LONG TRS 20.47 PA 07/30/2027,1718170,"675,000","$44,810.61",0.15%
+GTLB Autocall ELN LONG TRS 27.26 PA 06/04/2027,1718152,"675,000","$39,910.70",0.13%
+BEAM Autocall ELN LONG TRS 22.93 PA 06/11/2027,1718108,"675,000","$34,768.96",0.12%
+MRNA Autocall ELN LONG TRS 22.43 PA 01/27/2027,1737385,"675,000","$35,074.17",0.12%
+COIN Autocall ELN LONG TRS 26.92 PA 12/29/2026,1718129,"675,000","$34,359.26",0.11%
+CRCL Autocall ELN LONG TRS 24.82 PA 07/09/2027,1718110,"675,000","$31,041.79",0.10%
+U Autocall ELN LONG TRS 26.09 PA 02/09/2027  MS,1740010,"675,000","$29,326.70",0.10%
+DKNG Autocall ELN LONG TRS 23.31 PA 11/01/2027,1718141,"675,000","$20,107.96",0.07%
+HOOD Autocall ELN LONG TRS 27.76 PA 05/25/2027,1740012,"675,000","$20,010.52",0.07%
+PINS Autocall ELN LONG TRS 19.96 PA 05/07/2027,1737387,"675,000","$22,236.26",0.07%
+WGS Autocall ELN LONG TRS 26.04 PA 02/24/2027  M,1740020,"675,000","$19,688.87",0.07%
+AUR Autocall ELN LONG TRS 19.36 PA 04/09/2027  M,1718100,"675,000","$17,757.79",0.06%
+GH Autocall ELN LONG TRS 23.94 PA 06/04/2027  MS,1718149,"675,000","$18,435.13",0.06%
+PLTR Autocall ELN LONG TRS 20.71 PA 04/21/2027,1737383,"675,000","$18,932.87",0.06%
+RDDT Autocall ELN LONG TRS 24.16 PA 08/10/2027,1740018,"675,000","$19,180.56",0.06%
+XYZ Autocall ELN LONG TRS 14.65 PA 05/04/2027  M,1718107,"675,000","$17,324.61",0.06%
+CAI Autocall ELN LONG TRS 29.78 PA 06/15/2027  M,1737384,"400,000","$14,335.00",0.05%
+TER Autocall ELN LONG TRS 34.51 PA 03/18/2027  M,1740037,"675,000","$13,833.39",0.05%
+CRWV Autocall ELN LONG TRS 35.82 PA 05/04/2027,1740017,"675,000","$10,978.44",0.04%
+TTD Autocall ELN LONG TRS 27.27 PA 06/28/2027  M,1740042,"400,000","$7,607.00",0.03%
+RBLX Autocall ELN LONG TRS 27.81 PA 11/18/2027,1718144,"675,000","$7,441.44",0.02%
+FSLY Autocall ELN LONG TRS 40.75 PA 07/01/2027,1740021,"400,000","$2,513.00",0.01%
+LUNR Autocall ELN LONG TRS 43.00 PA 08/09/2027,1718113,"675,000","-$1,075.30",0.00%
+JOBY Autocall ELN LONG TRS 30.94 PA 09/14/2027,1718155,"675,000","-$3,963.13",-0.01%
+NET Autocall ELN LONG TRS 21.12% PA 02/29/2028,1756187,"675,000","-$3,648.52",-0.01%
+CRSP Autocall ELN LONG TRS 20.36 PA 05/03/2027,1718105,"675,000","-$4,618.17",-0.02%
+NTLA Autocall ELN LONG TRS 23.06 PA 01/28/2027,1737386,"675,000","-$5,253.26",-0.02%
+ACHR Autocall ELN LONG TRS 30.80% PA 11/29/2027,1756217,"675,000","-$10,109.74",-0.03%
+SOFI Autocall ELN LONG TRS 19.85 PA 01/14/2027,1718103,"675,000","-$9,255.13",-0.03%
+SYM Autocall ELN LONG TRS 26.20 PA 12/28/2026  M,1718095,"675,000","-$9,157.70",-0.03%
+DDOG Autocall ELN LONG TRS 22.48 PA 08/06/2027,1737391,"675,000","-$13,516.44",-0.05%
+SNAP Autocall ELN LONG TRS 25.24 PA 05/10/2027,1740011,"400,000","-$26,051.00",-0.09%
+KLAR Autocall ELN LONG TRS 28.38 PA 05/14/2027,1740019,"675,000","-$31,079.35",-0.10%
+RXRX Autocall ELN LONG TRS 25.72 PA 12/01/2026,1718092,"675,000","-$37,949.09",-0.13%
+RKLB Autocall ELN LONG TRS 34.72 PA 07/26/2027,1740013,"675,000","-$47,898.00",-0.16%
+OKLO Autocall ELN LONG TRS 38.39 PA 12/02/2026,1718116,"675,000","-$78,571.17",-0.26%
+"Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ARK ETF before investing. This and other information are contained in the ARK ETFs' prospectuses, which may be obtained on ark-funds.com. The prospectus should be read carefully before investing. An investment in an ARK ETF is subject to risks, and you can lose money on your investment in an ARK ETF. There can be no assurance that the ARK ETFs will achieve their investment objectives. The ARK ETFs’ portfolios are more voatile than broad market averages. The ARK ETFs also have specific risks, which are described in the ARK ETFs' prospectuses. Shares of the ARK ETFs may be bought or sold throughout the day at their market price on the exchange on which they are listed. The market price of an ARK ETF's shares may be at, above, or below the ARK ETF’s net asset value (""NAV"") and will fluctuate with changes in the NAV as well as supply and demand in the market for the shares. The market price of ARK ETF shares may differ significantly from their NAV during periods of market voatility. Shares of the ARK ETFs may only be redeemed directly with the ARK ETFs at NAV by Authorized Participants, in very arge creation units. There can be no guarantee that an active trading market for ARK ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ARK ETF shares on an exchange may require the payment of brokerage commissions, and frequent trading may incur brokerage costs that detract significantly from investment returns. Not FDIC Insured – No Bank Guarantee – May Lose Value&nbsp;All statements made regarding companies, securities, or other financial information are strictly beliefs and points of view held by ARK Investment Management LLC and/or ARK ETF Trust and are not endorsements by ARK of any company or security or recommendations by ARK to buy, sell, or hold any security. Holdings are subject to change without notice.&nbsp;Foreside Fund Services, LLC, distributor.&nbsp;©. 2026. ARK ETF Trust. No part of this material may be reproduced in any form or referred to in any other publication without written permission."
