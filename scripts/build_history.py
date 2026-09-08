@@ -11,9 +11,8 @@ file but kept so files concatenate cleanly):
 Values are cleaned for analysis, not for display: ISO dates that sort correctly,
 and bare numbers with no $ , or % glyphs so a spreadsheet or pandas reads them
 as numbers. The three venture funds (ARKSX/ARKUX/ARKVX) publish only a weight,
-so shares_held and market_value are empty for their rows. ARKY's CSV format
-varies by day: standard-schema days (e.g. 2026-08-20/21, backfilled by hand)
-parse like any fund; dateless autocallable-notes days contribute no rows.
+so shares_held and market_value are empty for their rows. ARKY publishes its own
+dateless autocallable-notes schema, parsed separately by _read_notes.
 
 Two facts about the source archive drive the dedupe:
   * The daily Action stamps folders with the calendar day it ran, so weekend and
@@ -23,7 +22,9 @@ Both mean the same (date, fund) shows up under many folders. We therefore key on
 the date INSIDE each file and keep one file per (date, fund) -- preferring the
 one whose folder name matches its own date, which is the day it was really
 published. Dedupe is per FILE, never per row, so a fund legitimately holding two
-rows with the same identity (buffer-ETF option legs) keeps both.
+rows with the same identity (buffer-ETF option legs) keeps both. ARKY's notes
+files carry no date to key on, so those dedupe on content and are filed under the
+earliest folder each distinct file appears under.
 
 After scanning the archive, static seed files in data/backfill_bloomberg/
 (Bloomberg-sourced pre-archive history, see scripts/backfill_bloomberg.py) are
@@ -45,6 +46,9 @@ HEADER = ["date", "fund", "company", "ticker", "cusip",
           "weight", "shares_held", "market_value"]
 
 FOLDER_RE = re.compile(r"\d{4}-\d{2}-\d{2}$")
+
+# "OKLO Autocall ELN LONG TRS 38.39 PA 12/02/2026" -> OKLO
+NOTES_TICKER_RE = re.compile(r"^([A-Z]{1,5}) Autocall\b")
 
 
 def iso(mdy):
@@ -79,19 +83,65 @@ def num(s):
     return f"-{s}" if neg else s
 
 
-def read_holdings(path, fund_hint=""):
-    """-> [row] for one per-fund CSV. Rows carry their own date; a handful of
-    blog-sourced files cover two trading days at once, so callers must group by
-    each row's date rather than assume one date per file."""
+def _read_notes(rows, header, fund, date):
+    """-> [row] for ARKY's autocallable-notes schema:
+
+        position, cusip, $ notional per note, market value ($), market weight (%)
+
+    None of date/fund/company/ticker exist here, so the date comes from the
+    archive folder and the fund from the filename. Cash and treasury rows have no
+    ticker; an equity-linked note names its underlying as the leading symbol of
+    the position string. `$ notional per note` is a face amount, not a share
+    count, so shares_held stays empty rather than carrying a number that would
+    not sum like shares -- the per-day archive keeps it if it is ever wanted.
+    """
+    if not date:
+        return []
+    i_pos = header.index("position")
+    i_cusip = header.index("cusip") if "cusip" in header else None
+    i_mv = next((i for i, h in enumerate(header) if h.startswith("market value")), None)
+    i_wt = next((i for i, h in enumerate(header) if "weight" in h), None)
+
+    out = []
+    for r in rows[1:]:
+        if len([c for c in r if c.strip()]) < 3 or len(r) <= i_pos:
+            continue
+        position = r[i_pos].strip()
+        underlying = NOTES_TICKER_RE.match(position)
+        out.append([
+            date,
+            fund,
+            position,
+            underlying.group(1) if underlying else "",
+            r[i_cusip].strip() if i_cusip is not None and i_cusip < len(r) else "",
+            num(r[i_wt]) if i_wt is not None and i_wt < len(r) else "",
+            "",
+            num(r[i_mv]) if i_mv is not None and i_mv < len(r) else "",
+        ])
+    return out
+
+
+def read_holdings(path, fund_hint="", date_hint=""):
+    """-> ([row], dateless) for one per-fund CSV.
+
+    Standard-schema rows carry their own date, and a handful of blog-sourced
+    files cover two trading days at once, so callers must group by each row's
+    date rather than assume one date per file. ARKY's notes schema has no date
+    column at all: those rows are dated from `date_hint` (the archive folder) and
+    come back with `dateless` True, which tells the caller to dedupe them on
+    content instead of on the date they were filed under.
+    """
     with open(path, newline="", encoding="utf-8-sig") as fh:
         rows = list(csv.reader(fh))
     if len(rows) < 2:
-        return []
+        return [], False
     header = [h.strip().lower() for h in rows[0]]
+    if "date" not in header and "position" in header:
+        return _read_notes(rows, header, fund_hint, date_hint), True
     try:
         ix = {name: header.index(name) for name in ("date", "fund", "company", "ticker", "cusip")}
     except ValueError:
-        return []
+        return [], False
     # 11 ETFs carry shares + market value; the 3 venture funds carry neither
     i_shares = header.index("shares") if "shares" in header else None
     i_mv = next((i for i, h in enumerate(header) if h.startswith("market value")), None)
@@ -115,7 +165,7 @@ def read_holdings(path, fund_hint=""):
             num(r[i_shares]) if i_shares is not None and i_shares < len(r) else "",
             num(r[i_mv]) if i_mv is not None and i_mv < len(r) else "",
         ])
-    return out
+    return out, False
 
 
 def selftest():
@@ -146,6 +196,16 @@ def selftest():
     open(os.path.join(d, "data", "holdings", "2026", "2026-01-05", "ARKVX_Holdings_2026-01-05.csv"),
          "w").write("date,fund,company,ticker,cusip,weight (%)\n"
                     "01/05/2026,ARKVX,OpenAI,,,6.18%\n")
+    # ARKY: dateless notes schema, re-copied verbatim into the weekend folder
+    notes = ("position,cusip,$ notional per note,market value ($),market weight (%)\n"
+             'GOLDMAN FS TRSY OBLIG INST 468,X9USDGSFT,"20,291,640","$20,291,639.79",82.16%\n'
+             'TSLA Autocall ELN LONG TRS 20.47 PA 07/30/2027,1718170,"675,000","$41,372.00",0.13%\n'
+             'OKLO Autocall ELN LONG TRS 38.39 PA 12/02/2026,1718116,"675,000","-$59,304.00",-0.19%\n'
+             '"Holdings are subject to change."\n')
+    for day in ("2026-01-05", "2026-01-06"):
+        open(os.path.join(d, "data", "holdings", "2026", day, f"ARKY_Holdings_{day}.csv"),
+             "w").write(notes)
+
     # Bloomberg seed: fills 2026-01-02; loses the 2026-01-05 collision to the archive
     os.makedirs(os.path.join(d, "data", "backfill_bloomberg"))
     open(os.path.join(d, "data", "backfill_bloomberg", "ARKK.csv"), "w").write(
@@ -153,8 +213,9 @@ def selftest():
         "2026-01-02,ARKK,TSLA US Equity,TSLA,88160R101,9.00,900,1800.00\n"
         "2026-01-05,ARKK,SHOULD LOSE,TSLA,88160R101,1.00,1,1.00\n")
 
-    rows = read_holdings(os.path.join(d, "data", "holdings", "2026", "2026-01-05",
-                                      "ARKK_Holdings_2026-01-05.csv"), "ARKK")
+    rows, dateless = read_holdings(os.path.join(d, "data", "holdings", "2026", "2026-01-05",
+                                                "ARKK_Holdings_2026-01-05.csv"), "ARKK")
+    assert not dateless
     assert rows == [["2026-01-05", "ARKK", "TESLA INC", "TSLA", "88160R101",
                      "10.00", "1000", "2000.00"]], rows     # disclaimer dropped
 
@@ -170,6 +231,16 @@ def selftest():
     assert len(arkvx) == 2, arkvx
     assert arkvx[1][1] == "ARKVX"
     assert arkvx[1][6] == "" and arkvx[1][7] == "", arkvx[1]  # venture: blank shares + mv
+
+    arky = list(csv.reader(open(os.path.join(d, outdir, "ARKY.csv"), newline="")))
+    assert arky[0] == HEADER
+    assert len(arky) == 4, arky                          # weekend copy collapsed
+    assert {r[0] for r in arky[1:]} == {"2026-01-05"}    # dated from the folder
+    assert arky[1][2].startswith("GOLDMAN") and arky[1][3] == "", arky[1]   # cash: no ticker
+    assert arky[2][3] == "TSLA" and arky[3][3] == "OKLO", arky   # ELN underlyings
+    assert arky[2][6] == "", arky[2]                     # notional is not a share count
+    assert arky[2][7] == "41372.00" and arky[3][7] == "-59304.00", arky
+    assert arky[3][5] == "-0.19", arky[3]                # negative weight survives
     print("selftest OK")
 
 
@@ -184,15 +255,27 @@ def main():
 
     holdings = os.path.join(args.repo, "data", "holdings")
     chosen = {}   # (date, fund) -> (folder_matches_that_date, rows)
+    seen_notes = set()   # content of every dateless file kept so far
     scanned = groups = 0
     for path in sorted(glob.glob(os.path.join(holdings, "*", "*", "*.csv"))):
         folder = os.path.basename(os.path.dirname(path))
         if not FOLDER_RE.fullmatch(folder):
             continue          # skips the LATEST symlink
         scanned += 1
-        rows = read_holdings(path, fund_hint=os.path.basename(path).split("_")[0])
+        rows, dateless = read_holdings(path, date_hint=folder,
+                                       fund_hint=os.path.basename(path).split("_")[0])
         if not rows:
             continue
+        if dateless:
+            # The folder is the only date these have, so a weekend or holiday
+            # copy of the last published file would otherwise land as a trading
+            # day of its own. Paths are walked oldest first, so the folder a
+            # given file first appears under is the day it was really published.
+            sig = (rows[0][1], tuple(tuple(r[2:]) for r in rows))
+            if sig in seen_notes:
+                groups += 1        # counted so the dropped-copies tally stays honest
+                continue
+            seen_notes.add(sig)
         # a file may cover more than one trading day, so split before choosing
         per_key = {}
         for r in rows:

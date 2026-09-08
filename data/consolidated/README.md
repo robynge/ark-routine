@@ -1,15 +1,23 @@
 # Consolidated holdings
 
-One CSV per fund (`ARKK.csv`, `ARKG.csv`, … — 15 files), each holding every row
+One CSV per fund (`ARKK.csv`, `ARKG.csv`, … — 17 files), each holding every row
 we have for that fund, one row per (trading date, position), oldest day first.
 Rebuilt from `data/holdings/<YYYY>/<YYYY-MM-DD>/` by `scripts/build_history.py`
 on every run of the daily refresh workflow.
 
 ARKY (Active Autocallable Income ETF, inception 2026-08-19, fetched daily since
-2026-08-24) appears only for days ARK published the standard schema — its CSV
-format has flip-flopped: 2026-08-20/21 (backfilled by hand from ark-funds.com
-downloads) use the normal holdings columns, while other days carry a dateless
-autocallable-notes format that contributes no rows.
+2026-08-24) is the one fund ARK publishes in a second schema. Its daily file is
+an autocallable-notes format carrying no date, fund, company or ticker column —
+`position, cusip, $ notional per note, market value ($), market weight (%)` — so
+`build_history.py` reads it through a separate path (`_read_notes`): the date
+comes from the archive folder, the fund from the filename, and the ticker from
+the underlying named at the head of an ELN's position string
+(`OKLO Autocall ELN LONG TRS 38.39 PA 12/02/2026` → `OKLO`). Cash and treasury
+rows keep an empty ticker. `$ notional per note` is a face amount, not a share
+count, so `shares_held` is empty on every ARKY row; the per-day archive still
+holds the notional if it is ever wanted. Only 2026-08-20/21, backfilled by hand
+from ark-funds.com downloads, use the standard holdings columns — every day ARK
+has published since is the notes format.
 
 ## Columns
 
@@ -20,11 +28,11 @@ concatenate cleanly.
 |---|---|---|
 | `date` | `2026-08-05` | ISO, so it sorts as text. Taken from **inside** the CSV, not the folder name. |
 | `fund` | `ARKK` | matches the filename |
-| `company` | `TESLA INC` | as ARK writes it |
-| `ticker` | `TSLA` | empty for private venture holdings |
+| `company` | `TESLA INC` | as ARK writes it; for ARKY, the note's full position string |
+| `ticker` | `TSLA` | empty for private venture holdings and for ARKY's cash / treasury rows |
 | `cusip` | `88160R101` | empty for private venture holdings |
 | `weight` | `9.51` | percent, no `%` |
-| `shares_held` | `1763749` | empty for the 3 venture funds |
+| `shares_held` | `1763749` | empty for the 3 venture funds and for all of ARKY |
 | `market_value` | `577363235.15` | USD, no `$` or thousands separators |
 
 Numeric columns keep the source's exact digits — they are never re-formatted, so
@@ -45,7 +53,7 @@ cents survive on 11-digit market values.
 
 Per-fund first dates: ARKW 2014-10-23; ARKK / ARKG / ARKQ 2014-10-30;
 ARKF 2019-02-07; ARKX 2021-03-30; PRNT / IZRL 2021-05-06; ARKB / ARKD / ARKT
-and the three venture funds 2026-04-29; ARKY 2026-08-20.
+and the three venture funds 2026-04-29; ARKY 2026-08-20; ARKI / ARKE 2026-08-26.
 
 ## Bloomberg backfill (2026-08-24)
 
@@ -99,6 +107,10 @@ The rebuild therefore keys on the date inside each file and keeps one file per
 deduplicates per FILE, never per row, so a fund that legitimately lists the same
 company twice (ARKSX holds two Sortium and two Flexport positions) keeps both.
 
+ARKY's notes files have no date inside them to key on, so they dedupe on content
+instead: an identical file collapses onto the earliest folder it appears under,
+which drops the weekend and holiday copies the same way.
+
 ## Known source-side quirks, carried through as-is
 
 These come from upstream and are deliberately not "corrected":
@@ -110,6 +122,9 @@ These come from upstream and are deliberately not "corrected":
   PRNT and IZRL, which Bloomberg does not cover, keep the original gaps in full
   (2021-10-28 → 2021-11-03 and 2022-06-23 → 2022-06-28).
 - ARK left the SpaceX ticker blank in the official files for 2026-06-17 only.
+- ARKY's 2026-08-28 and 2026-08-31 files each carry two rows with an empty
+  position name (cusips 1756187 and 1756217 — the NET and ACHR notes, named
+  normally on later days), so those four rows have no company and no ticker.
 - 2026-05-31 is a Sunday but carries venture-fund rows, because those funds
   report at month end regardless of weekday.
 
