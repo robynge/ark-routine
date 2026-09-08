@@ -256,6 +256,7 @@ def main():
     holdings = os.path.join(args.repo, "data", "holdings")
     chosen = {}   # (date, fund) -> (folder_matches_that_date, rows)
     seen_notes = set()   # content of every dateless file kept so far
+    silent = []   # files that parsed to nothing -- what a schema change looks like
     scanned = groups = 0
     for path in sorted(glob.glob(os.path.join(holdings, "*", "*", "*.csv"))):
         folder = os.path.basename(os.path.dirname(path))
@@ -265,6 +266,7 @@ def main():
         rows, dateless = read_holdings(path, date_hint=folder,
                                        fund_hint=os.path.basename(path).split("_")[0])
         if not rows:
+            silent.append(os.path.basename(path))
             continue
         if dateless:
             # The folder is the only date these have, so a weekend or holiday
@@ -331,6 +333,12 @@ def main():
     print(f"wrote {len(by_fund)} per-fund files to {out_dir}")
     print(f"  {total:,} rows | {len(dates)} dates {dates[0]}..{dates[-1]} | {len(by_fund)} funds")
     print(f"  {', '.join(sorted(by_fund))}")
+    # ARK changed ARKY's schema on 2026-08-24 and every file was dropped in
+    # silence for three weeks, because a file this parser cannot read looks
+    # exactly like a file that is not there. Name them instead.
+    if silent:
+        print(f"  WARNING: {len(silent)} archived file(s) parsed to zero rows -- "
+              f"unrecognised schema? {', '.join(sorted(silent)[:5])}")
     return 0
 
 
