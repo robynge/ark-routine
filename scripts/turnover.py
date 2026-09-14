@@ -91,8 +91,10 @@ def norm_ticker(t):
 
 def load(fund, repo):
     df = pd.read_csv(Path(repo) / "data" / "consolidated" / f"{fund}.csv", dtype={"ticker": str, "cusip": str, "company": str})
-    df["cusip_n"] = df.cusip.map(norm_cusip)
-    df["ticker_n"] = df.ticker.map(norm_ticker)
+    # object dtype so a missing ticker/CUSIP stays None (falsy); pandas 3's default str dtype would make it nan (truthy)
+    # and resolve_entities would then merge every blank-ticker or blank-CUSIP name into one entity
+    df["cusip_n"] = pd.Series([norm_cusip(c) for c in df.cusip], index=df.index, dtype=object)
+    df["ticker_n"] = pd.Series([norm_ticker(t) for t in df.ticker], index=df.index, dtype=object)
     df["company_u"] = df.company.fillna("").str.upper().str.strip()
     df["bbg"] = df.company_u.str.contains(r"\s[A-Z]{2} EQUITY$|CURNCY$", regex=True)
     cash = ((df.ticker_n == "USD") | df.cusip_n.fillna("").str.startswith("X9") | df.cusip_n.fillna("").str.fullmatch(r"[A-Z]{3}")
