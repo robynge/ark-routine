@@ -13,16 +13,19 @@ an autocallable-notes format carrying no date, fund, company or ticker column �
 comes from the archive folder, the fund from the filename, and the ticker from
 the underlying named at the head of an ELN's position string
 (`OKLO Autocall ELN LONG TRS 38.39 PA 12/02/2026` → `OKLO`). Cash and treasury
-rows keep an empty ticker. `$ notional per note` is a face amount, not a share
-count, so `shares_held` is empty on every ARKY row; the per-day archive still
-holds the notional if it is ever wanted. Only 2026-08-20/21, backfilled by hand
-from ark-funds.com downloads, use the standard holdings columns — every day ARK
-has published since is the notes format.
+rows keep an empty ticker. `$ notional per note` is a face amount (a note's
+principal, a bill's par), not a share count, so ARKY's seventh column is named
+`notional_per_note` instead of `shares_held` and carries that amount. Only
+2026-08-20/21, backfilled by hand from ark-funds.com downloads, use the standard
+holdings columns — every day ARK has published since is the notes format. The
+2026-08-20 file's treasury row was renamed from `TREASURY BILL 0.0 08/05/2027`
+to `TREASURY BILL 0 8/5/2027`, the name every later day uses.
 
 ## Columns
 
-Identical in every file. `fund` is constant within a file but kept so files
-concatenate cleanly.
+Identical in every file except `ARKY.csv`, whose seventh column is
+`notional_per_note` (see above). `fund` is constant within a file but kept so
+files concatenate cleanly.
 
 | column | example | notes |
 |---|---|---|
@@ -32,7 +35,7 @@ concatenate cleanly.
 | `ticker` | `TSLA` | empty for private venture holdings and for ARKY's cash / treasury rows |
 | `cusip` | `88160R101` | empty for private venture holdings |
 | `weight` | `9.51` | percent, no `%` |
-| `shares_held` | `1763749` | empty for the 3 venture funds and for all of ARKY |
+| `shares_held` | `1763749` | empty for the 3 venture funds; in `ARKY.csv` the column is `notional_per_note`: a note's principal or a bill's par amount |
 | `market_value` | `577363235.15` | USD, no `$` or thousands separators |
 
 Numeric columns keep the source's exact digits — they are never re-formatted, so

@@ -12,7 +12,9 @@ Values are cleaned for analysis, not for display: ISO dates that sort correctly,
 and bare numbers with no $ , or % glyphs so a spreadsheet or pandas reads them
 as numbers. The three venture funds (ARKSX/ARKUX/ARKVX) publish only a weight,
 so shares_held and market_value are empty for their rows. ARKY publishes its own
-dateless autocallable-notes schema, parsed separately by _read_notes.
+dateless autocallable-notes schema, parsed separately by _read_notes; a fund
+read through that schema holds face amounts, not share counts, so its file names
+the seventh column notional_per_note instead of shares_held.
 
 Two facts about the source archive drive the dedupe:
   * The daily Action stamps folders with the calendar day it ran, so weekend and
@@ -44,6 +46,9 @@ import sys
 
 HEADER = ["date", "fund", "company", "ticker", "cusip",
           "weight", "shares_held", "market_value"]
+# Funds read through the autocallable-notes schema carry face amounts in the
+# seventh column, so their file says so.
+NOTES_HEADER = HEADER[:6] + ["notional_per_note"] + HEADER[7:]
 
 FOLDER_RE = re.compile(r"\d{4}-\d{2}-\d{2}$")
 
@@ -91,14 +96,15 @@ def _read_notes(rows, header, fund, date):
     None of date/fund/company/ticker exist here, so the date comes from the
     archive folder and the fund from the filename. Cash and treasury rows have no
     ticker; an equity-linked note names its underlying as the leading symbol of
-    the position string. `$ notional per note` is a face amount, not a share
-    count, so shares_held stays empty rather than carrying a number that would
-    not sum like shares -- the per-day archive keeps it if it is ever wanted.
+    the position string. `$ notional per note` is a face amount (a note's
+    principal, a bill's par), not a share count: it goes in the seventh column,
+    which the writer labels notional_per_note for funds read this way.
     """
     if not date:
         return []
     i_pos = header.index("position")
     i_cusip = header.index("cusip") if "cusip" in header else None
+    i_notional = next((i for i, h in enumerate(header) if "notional" in h), None)
     i_mv = next((i for i, h in enumerate(header) if h.startswith("market value")), None)
     i_wt = next((i for i, h in enumerate(header) if "weight" in h), None)
 
@@ -115,7 +121,7 @@ def _read_notes(rows, header, fund, date):
             underlying.group(1) if underlying else "",
             r[i_cusip].strip() if i_cusip is not None and i_cusip < len(r) else "",
             num(r[i_wt]) if i_wt is not None and i_wt < len(r) else "",
-            "",
+            num(r[i_notional]) if i_notional is not None and i_notional < len(r) else "",
             num(r[i_mv]) if i_mv is not None and i_mv < len(r) else "",
         ])
     return out
@@ -233,12 +239,12 @@ def selftest():
     assert arkvx[1][6] == "" and arkvx[1][7] == "", arkvx[1]  # venture: blank shares + mv
 
     arky = list(csv.reader(open(os.path.join(d, outdir, "ARKY.csv"), newline="")))
-    assert arky[0] == HEADER
+    assert arky[0] == NOTES_HEADER, arky[0]              # notes fund: seventh column renamed
     assert len(arky) == 4, arky                          # weekend copy collapsed
     assert {r[0] for r in arky[1:]} == {"2026-01-05"}    # dated from the folder
     assert arky[1][2].startswith("GOLDMAN") and arky[1][3] == "", arky[1]   # cash: no ticker
     assert arky[2][3] == "TSLA" and arky[3][3] == "OKLO", arky   # ELN underlyings
-    assert arky[2][6] == "", arky[2]                     # notional is not a share count
+    assert arky[1][6] == "20291640" and arky[2][6] == "675000", arky[1:3]   # face amounts kept
     assert arky[2][7] == "41372.00" and arky[3][7] == "-59304.00", arky
     assert arky[3][5] == "-0.19", arky[3]                # negative weight survives
     print("selftest OK")
@@ -256,6 +262,7 @@ def main():
     holdings = os.path.join(args.repo, "data", "holdings")
     chosen = {}   # (date, fund) -> (folder_matches_that_date, rows)
     seen_notes = set()   # content of every dateless file kept so far
+    notes_funds = set()  # funds read through the notes schema: written with NOTES_HEADER
     silent = []   # files that parsed to nothing -- what a schema change looks like
     scanned = groups = 0
     for path in sorted(glob.glob(os.path.join(holdings, "*", "*", "*.csv"))):
@@ -273,6 +280,7 @@ def main():
             # copy of the last published file would otherwise land as a trading
             # day of its own. Paths are walked oldest first, so the folder a
             # given file first appears under is the day it was really published.
+            notes_funds.add(rows[0][1])
             sig = (rows[0][1], tuple(tuple(r[2:]) for r in rows))
             if sig in seen_notes:
                 groups += 1        # counted so the dropped-copies tally stays honest
@@ -321,7 +329,7 @@ def main():
         rows.sort(key=lambda r: (r[0], -(float(r[5]) if r[5] else 0.0)))
         with open(os.path.join(out_dir, f"{fund}.csv"), "w", newline="", encoding="utf-8") as fh:
             w = csv.writer(fh)
-            w.writerow(HEADER)
+            w.writerow(NOTES_HEADER if fund in notes_funds else HEADER)
             w.writerows(rows)
         total += len(rows)
 
