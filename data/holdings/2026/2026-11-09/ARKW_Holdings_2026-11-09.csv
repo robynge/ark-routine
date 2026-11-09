@@ -1,0 +1,43 @@
+date,fund,company,ticker,cusip,shares,market value ($),weight (%)
+11/09/2026,ARKW,TESLA INC,TSLA,88160R101,"362,995","$130,032,068.90",8.44%
+11/09/2026,ARKW,META PLATFORMS INC-CLASS A,META,30303M102,"144,550","$88,197,182.50",5.72%
+11/09/2026,ARKW,AMAZON.COM INC,AMZN,023135106,"300,140","$77,826,302.00",5.05%
+11/09/2026,ARKW,SPACE EXPLORATION TECHN-CL A,SPCX,84615Q103,"545,985","$73,309,405.95",4.76%
+11/09/2026,ARKW,SHOPIFY INC - CLASS A,SHOP,82509L107,"467,001","$69,541,118.91",4.51%
+11/09/2026,ARKW,CIRCLE INTERNET GROUP INC,CRCL,172573107,"983,661","$66,770,908.68",4.33%
+11/09/2026,ARKW,NVIDIA CORP,NVDA,67066G104,"348,886","$65,116,083.04",4.23%
+11/09/2026,ARKW,BLOCK INC,XYZ,852234103,"756,351","$64,652,883.48",4.20%
+11/09/2026,ARKW,OPENAI GROUP PBC SERIES C,,PPOPENAIC,"62,528","$62,031,671.49",4.03%
+11/09/2026,ARKW,ROBINHOOD MARKETS INC - A,HOOD,770700102,"704,760","$57,022,131.60",3.70%
+11/09/2026,ARKW,ARK BITCOIN ETF HOLDCO (ARKW),,MM0051EWE,"2,197,592","$55,159,339.44",3.58%
+11/09/2026,ARKW,COINBASE GLOBAL INC -CLASS A,COIN,19260Q107,"376,249","$50,703,315.24",3.29%
+11/09/2026,ARKW,ALPHABET INC-CL C,GOOG,02079K107,"170,640","$48,449,815.20",3.14%
+11/09/2026,ARKW,ADVANCED MICRO DEVICES,AMD,007903107,"95,493","$42,880,176.72",2.78%
+11/09/2026,ARKW,COREWEAVE INC-CL A,CRWV,21873S108,"906,684","$42,070,137.60",2.73%
+11/09/2026,ARKW,PALANTIR TECHNOLOGIES INC-A,PLTR,69608A108,"239,406","$38,395,934.28",2.49%
+11/09/2026,ARKW,CEREBRAS SYSTEMS INC - A,CBRS,15675D103,"423,465","$37,976,341.20",2.46%
+11/09/2026,ARKW,ROBLOX CORP -CLASS A,RBLX,771049103,"710,417","$35,023,558.10",2.27%
+11/09/2026,ARKW,BROADCOM INC,AVGO,11135F101,"110,689","$32,508,252.41",2.11%
+11/09/2026,ARKW,RUBRIK INC-A,RBRK,781154109,"300,112","$31,736,844.00",2.06%
+11/09/2026,ARKW,TAIWAN SEMICONDUCTOR-SP ADR,TSM,874039100,"83,595","$31,384,906.80",2.04%
+11/09/2026,ARKW,CROWDSTRIKE HOLDINGS INC - A,CRWD,22788C105,"136,497","$29,606,199.30",1.92%
+11/09/2026,ARKW,DATADOG INC - CLASS A,DDOG,23804L103,"161,404","$28,897,772.16",1.88%
+11/09/2026,ARKW,CLOUDFLARE INC - CLASS A,NET,18915M107,"106,538","$28,632,087.50",1.86%
+11/09/2026,ARKW,GITLAB INC-CL A,GTLB,37637K108,"591,401","$28,440,474.09",1.85%
+11/09/2026,ARKW,KALSHI INC.,,PPKALSHIC,"25,318","$26,998,612.38",1.75%
+11/09/2026,ARKW,BITMINE IMMERSION TECHNOLOGI,BMNR,09175A206,"1,304,930","$24,480,486.80",1.59%
+11/09/2026,ARKW,MERCADOLIBRE INC,MELI,58733R102,"13,066","$19,729,660.00",1.28%
+11/09/2026,ARKW,SPOTIFY TECHNOLOGY SA,SPOT,L8681T102,"31,627","$19,071,397.27",1.24%
+11/09/2026,ARKW,NETFLIX INC,NFLX,64110L106,"268,300","$17,012,903.00",1.10%
+11/09/2026,ARKW,AIRBNB INC-CLASS A,ABNB,009066101,"87,403","$16,605,695.97",1.08%
+11/09/2026,ARKW,DOORDASH INC - A,DASH,25809K105,"88,290","$15,863,064.30",1.03%
+11/09/2026,ARKW,EVERPURE INC-A,P,74624M102,"161,502","$15,625,318.50",1.01%
+11/09/2026,ARKW,FIGMA INC-CL A,FIG,316841105,"750,397","$14,114,967.57",0.92%
+11/09/2026,ARKW,SNOWFLAKE INC,SNOW,833445109,"51,525","$14,214,717.00",0.92%
+11/09/2026,ARKW,GENIUS SPORTS LTD,GENI,G3934V109,"2,274,668","$13,579,767.96",0.88%
+11/09/2026,ARKW,BULLISH,BLSH,G16910120,"564,334","$12,025,957.54",0.78%
+11/09/2026,ARKW,3IQ ETHER STAKING ETF,ETHQ/U,BQ84B35,"733,343","$6,248,082.36",0.41%
+11/09/2026,ARKW,GOLDMAN FS TRSY OBLIG INST 468,,X9USDGSFT,"5,483,614","$5,483,614.39",0.36%
+11/09/2026,ARKW,3IQ SOLANA STAKING ETF,SOLQ/U,BTRDQ40,"466,390","$3,418,638.70",0.22%
+11/09/2026,ARKW,BRERA HOLDINGS PLC WTS,,BREADUMMY,"139,569","$133,986.34",0.01%
+"Investors should carefully consider the investment objectives and risks as well as charges and expenses of an ARK ETF before investing. This and other information are contained in the ARK ETFs' prospectuses, which may be obtained on ark-funds.com. The prospectus should be read carefully before investing. An investment in an ARK ETF is subject to risks and you can lose money on your investment in an ARK ETF. There can be no assurance that the ARK ETFs will achieve their investment objectives. The ARK ETFs’ portfolios are more volatile than broad market averages. The ARK ETFs also have specific risks, which are described in the ARK ETFs' prospectuses.Shares of the ARK ETFs may be bought or sold throughout the day at their market price on the exchange on which they are listed. The market price of an ARK ETF's shares may be at, above or below the ARK ETF’s net asset value (""NAV"") and will fluctuate with changes in the NAV as well as supply and demand in the market for the shares. The market price of ARK ETF shares may differ significantly from their NAV during periods of market volatility. Shares of the ARK ETFs may only be redeemed directly with the ARK ETFs at NAV by Authorized Participants, in very large creation units. There can be no guarantee that an active trading market for ARK ETF shares will develop or be maintained, or that their listing will continue or remain unchanged. Buying or selling ARK ETF shares on an exchange may require the payment of brokerage commissions and frequent trading may incur brokerage costs that detract significantly from investment returns. Not FDIC Insured – No Bank Guarantee – May Lose ValueAll statements made regarding companies, securities or other financial information are strictly beliefs and points of view held by ARK Investment Management LLC and/or ARK ETF Trust and are not endorsements by ARK of any company or security or recommendations by ARK to buy, sell or hold any security. Holdings are subject to change without notice.Foreside Fund Services, LLC, distributor.© 2026. ARK ETF Trust. No part of this material may be reproduced in any form, or referred to in any other publication, without written permission."
